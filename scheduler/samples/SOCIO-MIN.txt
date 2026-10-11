@@ -1,0 +1,154 @@
+SOCIO-MIN - Sociology (Minor)
+Download as PDF
+Sociology
+Undergraduate Matriculated
+General
+Program Policies
+Learning Outcomes
+Program Overview
+There is one Sociology minor, which offers two pathways for students to choose from:
+The traditional minor pathway, which follows the requirements listed in "Program Requirements".
+The subplan in Poverty, Inequality, and Policy: This minor subplan provides students with the interdisciplinary tools needed to understand and contribute to the science of poverty and inequality. The coursework, which is drawn from sociology, economics, public policy, education, history, psychology, and political science, provides state-of-the-art training in the types and forms of poverty and inequality, the causes and consequences of poverty and inequality, and the many programs and interventions to reduce poverty and inequality. It provides opportunities to train in big data analysis, algorithms and predictive models, and qualitative and ethnographic methods. It also offers opportunities to participate in individual and group research projects and join teams building poverty-reducing products, apps, and interventions. It is an excellent foundation for students considering careers in business, public policy, medicine, public health, government service, the law, nongovernmental organizations, foundations, or academia.
+Students who wish to
+declare a minor
+in Sociology must do so no later than the deadline for their application to graduate.
+Minimum Units in the Program
+24
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Core Course Requirements:
+Fulfill ALL of the following requirements:
+Core Courses
+Complete ALL of the following Courses:
+SOC1 - Introduction to Sociology
+OR
+SOC170 - Classics of Modern Social Theory
+SOC2 - Self and Society: Introduction to Social Psychology
+OR
+SOC180A - Foundations of Social Research
+OR
+SOC180B - Introduction to Data Analysis
+AND
+Foundation Courses
+Complete at least 2 of the following Courses:
+SOC2 - Self and Society: Introduction to Social Psychology
+SOC8 - Sport, Competition, and Society
+SOC114 - Economic Sociology
+SOC118 - Social Movements and Collective Action
+SOC130 - Education and Society
+SOC142 - Sociology of Gender
+SOC145 - Race and Ethnic Relations in the USA
+SOC149 - The Urban Underclass
+SOC155 - The Changing American Family
+SOC156A - The Changing American City
+SOC160 - Formal Organizations
+SOC179A - Crime and Punishment in America
+SOC189 - Race and Immigration
+AND
+Sociology Electives
+Two additional sociology courses
+Poverty, Inequality, and Policy Subplan
+Completion requirement
+Subplan Requirements
+Fulfill ALL of the following requirements:
+Core Courses
+Complete at least 2 of the following Courses:
+SOC3 - America: Unequal
+SOC180A - Foundations of Social Research
+OR
+SOC180B - Introduction to Data Analysis
+OR
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+OR
+CS109 - Introduction to Probability for Computer Scientists
+Students must complete SOC 3 and any of the courses listed as their second core course. Additionally, choose at least two courses from at least two of the following  breadth areas.
+AND
+Breadth
+Students required to complete 2 courses from 2 different categories.
+Fulfill ANY of the following requirements:
+Education
+Complete ANY of the following Courses:
+EDUC107 - Education and Inequality: Big Data for Large-Scale Problems
+EDUC201 - History of Education in the United States
+EDUC347 - The Economics of Higher Education
+SOC129X - Urban Education
+SOC130 - Education and Society
+OR
+Gender
+Complete ANY of the following Courses:
+CSRE162 - The Politics of Sex: Gender, Race, and Sexuality in Modern America
+SOC142 - Sociology of Gender
+SOC155 - The Changing American Family
+OR
+Health and Well-Being
+Complete ANY of the following Courses:
+PEDS229 - Reducing Health Disparities and Closing the Achievement Gap through Health Integration in Schools
+SOC152 - The Social Determinants of Health
+OR
+Inequality and Mobility
+Complete ALL of the following Courses:
+CLASSICS12N - Income and wealth inequality from the Stone Age to the present
+ECON22N - Causes and Consequences of the Rise in Inequality
+ECON113 - Historical perspectives on inequality and opportunity in America
+SOC14N - Inequality in American Society
+SOC156A - The Changing American City
+OR
+Labor Markets
+Complete ANY of the following Courses:
+SOC114 - Economic Sociology
+OR
+Poverty and the Safety Net
+Complete ANY of the following Courses:
+ECON11N - Understanding the Welfare System
+ECON19Q - Government by the Numbers
+SOC149 - The Urban Underclass
+OR
+Race, Ethnicity, and Immigration
+Complete ANY of the following Courses:
+ANTHRO31Q - The Big Shift
+CSRE121L - Racial-Ethnic Politics in US
+SOC145 - Race and Ethnic Relations in the USA
+SOC146 - Introduction to Comparative Studies in Race and Ethnicity
+Electives
+Choose two electives. Although all pre-approved courses are listed here, students may petition for approval of other courses related to inequality, poverty, and mobility. Students may also elect to take additional elective courses from any of the breadth areas above.
+Complete at least 2 of the following Courses:
+AMSTUD73 - Mexican Migration to the United States
+AMSTUD107 - Introduction to Feminist, Gender, and Sexuality Studies
+AMSTUD264 - History of Prisons and Immigration Detention
+ANTHRO153 - Asylum: Knowledge, Politics, and Population
+CEE33C - Housing Visions
+CHILATST180E - Introduction to Chicanx/Latinx Studies
+CS51 - CS + Social Good Studio: Designing Social Impact Projects
+CS106S - Coding for Social Good
+CSRE141 - Gentrification
+CSRE144 - Transforming Self and Systems: Crossing Borders of Race, Nation, Gender, Sexuality, and Class
+CSRE156 - The Changing American City
+CS181 - Computers, Ethics, and Public Policy
+ECON19Q - Government by the Numbers
+ECON46 - Networks and Human Behavior
+ECON241 - Public Economics I
+EDUC173 - Gender and Higher Education: National and Global Perspectives
+EDUC197 - Gender and Education in Global and Comparative Perspectives
+FEMGEN183 - Re-Imagining American Borders
+FEMGEN297 - Gender and Education in Global and Comparative Perspectives
+LAW2515 - Environmental Justice
+PSYCH138 - Wise Interventions
+PUBLPOL101 - American Politics and Policy: In Defense of Democracy
+PUBLPOL154 - Politics and Policy in California
+SOC134 - Gender and Education in Global and Comparative Perspectives
+SOC156A - The Changing American City
+SOC173 - Gender and Higher Education: National and Global Perspectives
+SOC179A - Crime and Punishment in America
+SOC298 - The Social Psychology of Contemporary American Politics
+STS177 - The Cultural Politics of Food and Eating: Technology, History, and Justice
+URBANST141 - Gentrification
+URBANST156A - The Changing American City
+URBANST169B - Race and Ethnicity in Urban California: Research Seminar
+Research Apprenticeship
+Optional Research Apprenticeship (up to five units)
+Students may replace one elective with a research apprenticeship with faculty in an ongoing research project. The Center on Poverty and Inequality also offers opportunities for students interested in participating in larger team projects. Prior arrangement required.
+Complete ALL of the following Courses:
+SOC192 - Undergraduate Research Apprenticeship

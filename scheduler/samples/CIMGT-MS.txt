@@ -1,0 +1,41 @@
+CIMGT-MS - Clinical Informatics Management (MS)
+Download as PDF
+Department of Medicine
+Clinical Informatics Mgmt
+MS - Master of Science
+General
+Program Policies
+Learning Outcomes
+Program Overview
+The Master of Science in Clinical Informatics Management program (MCiM) is an intensive, one-year professional master’s degree combining business and technology constructs directed toward our migration to value in health care. MCiM is housed within the Clinical Excellence Research Center in the School of Medicine. The program offers students a unique experience of both remote and weekend onsite sessions to fit the needs of working professionals. Master of Science in Clinical Informatics Management courses provide rich learning experiences for students through a collaborative environment and dynamic course content. Through the coursework, students gain a deep understanding of health informatics and the business insights to accurately leverage technology to succeed in the real world.
+COVID-19 has reinforced the longstanding need for leaders who can expertly navigate business, technology, and medicine to manage and drive the digital transformation of a $4.0 trillion health care system. Diverse applications such as telemedicine for routine clinical care and digital radiology for the rapid diagnosis of COVID pneumonia are among some of the opportunities the crisis has highlighted. Others include greater capabilities for remote health monitoring, wearable sensors for monitoring patients, the health of populations on college campuses and in the workforce, and interactive voice-response tools such as Alexa, Siri, or Hey Google to provide new patient care services.
+Behind the scenes, machine learning has been rapidly adopted in applications as diverse as screening potential therapies for application to COVID and profiling symptoms that might indicate infection. Failures of the existing health care infrastructure have also been glaringly illustrated by the lack of interoperable data between hospitals and between the public and private sectors, as well as the lack of access to real-time data and reports as the COVID situation rapidly unfolded. Together, these scenarios call for leadership that brings together technology and clinical business units in entirely new ways.
+MCiM develops managers and senior leaders who have a keen understanding of the strategic business concepts and data science principles fundamental to raising the quality and efficiency of care delivery, in the COVID era and beyond. The founder of MCiM, Kevin Schulman, Professor of Medicine (Hospital Medicine) and, by courtesy, of Operations, Information and Technology at the Graduate School of Business, built the country’s first clinical informatics management program at Duke University in 2011. Graduates from that program have moved into management and senior leadership roles such as CEO, CIO, CMIO, CHIO, and Health Care IT Director.
+Minimum Units in the Program
+48
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Course Requirements
+Students take a set of required courses during each of the four academic quarters. These courses reflect the overall set curriculum of the program and cannot be taken at alternative quarters. The required curriculum consists of six business courses, six information technology courses, an ethics course, and a practicum course. Currently, there are no elective courses offered through the program. The complete schedule of courses is listed. All courses are required. No substitutions are permitted.
+To complete the Master's in Clinical Informatics Management, students must complete a minimum of 48 units. During quarters two, three, and four, students complete a practicum course, with the bulk of the effort for this course occurring in quarter four. MCiM courses must be taken for a letter grade.
+Complete ALL of the following Courses:
+CIM200 - MCiM Practicum
+CIM202 - Bioethical Challenges of New Technology
+CIM203 - Beyond the Dashboard: Foundations in Healthcare Statistics
+CIM205 - Principles of Business Strategy
+CIM206 - Biodesign for Health Technology Innovation
+CIM208 - Digitally-Enabled Healthcare
+CIM209 - Marketing Science and Patient Engagement
+CIM210 - Healthcare Operations Management
+CIM211 - Leadership in Healthcare Organizations
+CIM212 - Modeling Biomedical Systems
+CIM213 - Data Driven Medicine
+CIM214 - Entrepreneurial Financial Management
+CIM215 - Applied Financial Analysis of Strategic Initiatives
+CIM216 - Accounting for Informed Decision-Making
+CIM 202 will be taken over the course of four consecutive quarters, for a total of four units. CIM 200 will be taken over the course of three consecutive quarters, for a total of six units. CIM 215 must be taken over the course of two consecutive quarters, for a total of two units.
+MCiM Program Proposal
+MCiM students are required to submit a program proposal at least two weeks before the final study list due date of their first quarter of enrollment. Due to MCiM’s set curriculum, a pre-filled proposal is available for MCiM students on the MCiM Resource Hub. Students must sign and submit the proposal to the MCiM administration; failure to do so is grounds for dismissal from the program. As there are no shifts in curriculum or electives allowed, there should be no need to revise the program proposal after submission.

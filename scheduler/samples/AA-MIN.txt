@@ -1,0 +1,56 @@
+AA-MIN - Aeronautics and Astronautics (Minor)
+Download as PDF
+Aeronautics and AstronauticsUndergraduate Matriculated
+General
+Program Policies
+Program Overview
+
+The Aero/Astro minor introduces undergraduates to the critical elements of modern aerospace systems.
+
+Minimum Units in the Program
+24
+Minimum University Units
+18
+Collapse All
+Core
+Completion requirement
+AA Core (12 Units)
+Complete ALL of the following Courses:
+AA100 - Introduction to Aeronautics and Astronautics
+
+ENGR21 - Engineering of Systems
+
+AA103 - Air and Space Propulsion
+
+AA102 - Introduction to Applied Aerodynamics
+OR AA179 - Orbital and Attitude Mechanics
+
+Electives
+Completion requirement
+Technical Electives (12 Units minimum) Choose 4 courses
+Complete ANY of the following Courses:
+AA101 - High Speed Gasdynamics
+
+AA102 - Introduction to Applied Aerodynamics
+
+AA113 - Aerospace Computational Science
+
+AA116 - Embedded Systems for Aerospace
+
+AA124 - Introduction to Planetary Science
+
+AA151 - Lightweight Structures
+
+AA174A - Principles of Robot Autonomy I
+
+AA179 - Orbital and Attitude Mechanics
+
+AA190 - Directed Research and Writing in Aero/Astro
+
+AA199 - Independent Study in Aero/Astro
+
+ENGR105 - Feedback Control Design
+
+ME70 - Introductory Fluids Engineering
+
+ME161 - Dynamic Systems, Vibrations and Control

@@ -1,0 +1,94 @@
+PHYS-MIN - Physics (Minor)
+Download as PDF
+PhysicsUndergraduate Matriculated
+General
+Program Policies
+Learning Outcomes
+Program Overview
+
+Students may choose to complete a minor in Physics.
+
+How to Declare the Minor in Physics
+
+Students interested in the Physics minor should fill out the Physics minor course plan sheet and send it to physicsstudentservices@stanford.edu.
+
+Minimum Units in the Program
+36
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Introductory Physics Requirements
+Complete ALL of the following Courses:
+PHYSICS41 - Mechanics
+
+PHYSICS43 - Electricity and Magnetism
+
+PHYSICS61 - Mechanics and Special Relativity
+
+PHYSICS61L - Mechanics Laboratory
+
+PHYSICS71 - Quantum and Thermal Physics
+
+PHYSICS79L - Introduction to Data Analysis, with Python and Jupyter
+
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+
+PHYSICS81L - Introduction to Experimental Practice
+
+Note that some students may be able to place out of Physics 41 and/or 43 based on advice from the Physics Placement Diagnostic, as described in the "Program Policies" section.
+
+Complete Either MATH 50 or 60CM Series
+Fulfill ANY of the following requirements:
+50 Series
+Complete ALL of the following Courses:
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+
+MATH52 - Integral Calculus of Several Variables
+
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+
+OR
+60CM Series
+Complete ALL of the following Courses:
+MATH61CM - Modern Mathematics: Continuous Methods
+
+MATH62CM - Modern Mathematics: Continuous Methods
+
+MATH63CM - Modern Mathematics: Continuous Methods
+
+At Least 2 More Advanced Courses From the Following:
+Complete at least 2 of the following Courses:
+PHYSICS100 - Introduction to Observational Astrophysics
+
+PHYSICS104 - Introduction to Electronic Techniques for Physics Research Instrumentation
+
+PHYSICS106 - Experimental Methods in Quantum Physics
+
+PHYSICS108 - Advanced Physics Laboratory: Project
+
+PHYSICS110 - Advanced Mechanics
+
+PHYSICS111 - Partial Differential Equations of Mathematical Physics
+OR MATH131P - Partial Differential Equations
+
+PHYSICS113 - Computational Physics
+
+PHYSICS120 - Electromagnetism
+
+PHYSICS121 - Electrodynamics
+
+PHYSICS130 - Quantum Mechanics I
+
+PHYSICS131 - Quantum Mechanics II
+
+PHYSICS160 - Introduction to Stellar and Galactic Astrophysics
+
+PHYSICS161 - Introduction to Cosmology and Extragalactic Astrophysics
+
+PHYSICS170 - Thermodynamics, Kinetic Theory, and Statistical Mechanics I
+
+PHYSICS171 - Thermodynamics, Kinetic Theory, and Statistical Mechanics II
+
+PHYSICS 111 or MATH 131P is required for many PHYSICS courses numbered 110 and above.

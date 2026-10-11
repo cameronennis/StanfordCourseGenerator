@@ -1,0 +1,833 @@
+MATSC-BS - Materials Science and Engineering (BS)
+Download as PDF
+Materials Science and EngineeringUndergraduate MatriculatedBS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+
+The mission of the undergraduate program in Materials Science and Engineering is to provide students with a strong foundation in materials science and engineering with emphasis on the fundamental scientific and engineering principles which underlie the knowledge and implementation of material structure, processing, properties, and performance of all classes of materials used in engineering systems. Courses in the program develop students' knowledge of modern materials science and engineering, teach them to apply this knowledge analytically to create effective and novel solutions to practical problems and develop their communication skills and ability to work collaboratively. The program prepares students for industry careers and graduate school studies.
+
+The BS in Materials Science and Engineering provides training for the materials engineer and preparatory training for graduate work in materials science. Capable undergraduates are encouraged to take at least one year of graduate study to extend their coursework through the coterminal degree program, leading to an MS in Materials Science and Engineering. Coterminal degree programs are encouraged for undergraduate majors in Materials Science and Engineering and undergraduate majors in related disciplines.
+
+Minimum Units in the Program
+98
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+Mathematics
+
+39 units minimum combined (Math & Science)
+
+Fulfill ALL of the following requirements:
+Mathematics Requirements
+Fulfill ALL of the following requirements:
+Calculus Fundamentals
+Complete ALL of the following Courses:
+MATH19 - Calculus
+
+MATH20 - Calculus
+
+MATH21 - Calculus
+
+All exceptions including AP/IB credit are approved by the School of Engineering.
+
+AND
+Advanced Calculus
+Complete at least 1 of the following Courses:
+CME100 - Vector Calculus for Engineers
+OR ENGR154 - Vector Calculus for Engineers
+
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+
+AND
+Differential Equations
+Complete at least 1 of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+OR ENGR155A - Ordinary Differential Equations for Engineers
+
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+
+AND
+Math/Statistics
+Complete at least 1 of the following Courses:
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+
+CME106 - Introduction to Probability and Statistics for Engineers
+
+CS109 - Introduction to Probability for Computer Scientists
+
+EE178 - Probabilistic Systems Analysis
+
+MATH151 - Introduction to Probability Theory
+
+MS&E120 - Introduction to Probability
+
+MS&E125 - Introduction to Applied Statistics
+
+STATS60 - Introduction to Statistical Methods: Precalculus
+
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+
+Or more advanced Statistics courses numbered over 100 via approval of a petition to deviate.
+
+CME 106 or STATS 110 are recommended.
+
+AP credit is also acceptable and must be approved by the Dean's office.
+
+Science
+
+16 units minimum
+
+Fulfill ALL of the following requirements:
+Chemistry and Physics Fundamentals
+Complete at least 3 of the following Courses:
+CHEM31A - Chemical Principles I
+OR CHEM31E - Chemical Foundations and 21st Century Problems
+
+PHYSICS41 - Mechanics
+OR PHYSICS61 - Mechanics and Special Relativity
+
+PHYSICS43 - Electricity and Magnetism
+OR PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+
+AND
+Additional Science Course
+Complete at least 1 of the following Courses:
+BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
+
+BIO47 - Introduction to Research in Ecology and Evolutionary Biology
+
+BIO81 - Introduction to Ecology
+
+BIO82 - Genetics
+
+BIO83 - Biochemistry & Molecular Biology
+
+BIO84 - Physiology
+
+BIO85 - Evolution
+
+BIO86 - Cell Biology
+
+BIO150 - Human Behavioral Biology
+
+CEE63 - Weather and Storms
+
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+
+CEE70 - Environmental Science and Technology
+OR ENGR90 - Environmental Science and Technology
+
+CHEM31A - Chemical Principles I
+
+CHEM31B - Chemical Principles II
+
+CHEM31E - Chemical Foundations and 21st Century Problems
+
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+
+CHEM123 - Organic Polyfunctional Compounds
+
+EARTHSYS10 - Introduction to Earth Systems
+
+EPS1 - Introduction to Geology
+
+PHYSICS41 - Mechanics
+OR PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+
+PHYSICS43 - Electricity and Magnetism
+
+PHYSICS45 - Light and Heat
+
+PHYSICS61 - Mechanics and Special Relativity
+
+PHYSICS71 - Quantum and Thermal Physics
+
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+
+AP credit is also acceptable and must be approved by the Dean's office.
+
+In some cases, AP/IB credit may also be used to meet the 16 units minimum; see the AP/IB credit chart in the Bulletin or check with the School of Engineering at the Huang Engineering Center, Room 135.
+
+Physics laboratory courses are not required and do not count toward this one additional course requirement (i.e., PHYSICS 42, PHYSICS 44, PHYSICS 46, PHYSICS 61L, PHYSICS 71L, PHYSICS 89L), but these courses can be taken to help you meet the 39 unit minimum Math/Science requirement of the Major.
+
+AP credit is also acceptable and must be approved by the Dean's office.
+
+Technology in Society
+Complete exactly 1 course(s) and earn 3 or more credit(s) from the following:
+AA252 - Techniques of Failure Analysis
+
+ARCHLGY151 - Ten Things: An Archaeology of Design
+
+BIOE131 - Ethics in Bioengineering
+
+BIOE177 - Inventing the Future
+
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+
+CEE145E - Equitable Infrastructure Solutions
+
+CLASSICS168 - Engineering the Roman Empire
+
+COMM154 - The Politics of Algorithms
+
+COMM166 - Virtual People
+
+CS120 - Introduction to AI Safety
+
+CS121 - Equity and Governance for Artificial Intelligence
+
+CS139 - Human-Centered AI
+
+CS152 - Trust and Safety
+
+CS182 - Ethics, Public Policy, and Technological Change
+OR CS182W - Ethics, Public Policy, and Technological Change (WIM)
+
+CS222 - AI Agents and Simulations
+
+CS256 - Algorithmic Fairness
+
+CS278 - Social Computing
+
+CS329X - Human Centered NLP
+
+DATASCI154 - Data Science for Social Impact
+
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+
+ENGR145 - Technology Entrepreneurship
+
+ENGR148 - Principled Entrepreneurial Decisions
+
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+AND ENERGY177B - Engineering and Sustainable Development: Implementation
+
+EPS194 - Technology, International Security, and Sustainability
+
+FEMGEN144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+
+FEMGEN147 - Feminism and Technology
+
+HUMBIO174 - Foundations of Bioethics
+
+MS&E179 - Entrepreneurship for Everyone
+
+NBIO101 - Social and Ethical Issues in the Neurosciences
+
+POLISCI114S - International Security in a Changing World
+
+PUBLPOL114 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+
+STS1 - Introduction to Science, Technology & Society
+
+STS115 - The Ethics of Developing Life-Saving Technologies for Children
+
+STS200J - Technometabolism: Technology, Society, and the Anthropocene
+
+Engineering Fundamentals
+
+Seven (7) units minimum.
+
+Fulfill ALL of the following requirements:
+Introduction to Materials Science
+Complete at least 1 of the following Courses:
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+
+AND
+Additional Engineering Fundamentals
+Complete at least 1 of the following Courses:
+CS106A - Programming Methodology
+OR CS106B - Programming Abstractions
+
+CS106M - Enrichment Adventures in Programming Abstractions
+OR CS106B - Programming Abstractions
+
+ENGR10 - Introduction to Engineering Analysis
+
+ENGR14 - Intro to Solid Mechanics
+
+ENGR15 - Dynamics
+
+ENGR20 - Introduction to Chemical Engineering
+OR CHEMENG20 - Introduction to Chemical Engineering
+
+ENGR21 - Engineering of Systems
+
+ENGR40A - Introductory Electronics
+
+ENGR40M - An Intro to Making: What is EE
+
+ENGR42 - Introduction to Electromagnetics and Its Applications
+
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+
+ENGR55 - Foundational Biology for Engineers
+
+ENGR60 - Engineering Economics and Sustainability
+OR CEE146S - Engineering Economics and Sustainability
+
+ENGR62 - Introduction to Optimization
+OR MS&E111 - Introduction to Optimization
+
+ENGR62X - Introduction to Optimization (Accelerated)
+OR MS&E111X - Introduction to Optimization (Accelerated)
+
+ENGR65 - Modern Physics for Engineers
+OR EE65 - Modern Physics for Engineers
+
+ENGR76 - Information Science and Engineering
+
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+OR BIOE80 - Introduction to Bioengineering (Engineering Living Matter)
+
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+OR CEE70 - Environmental Science and Technology
+
+Students may choose to count a second ENGR 50/50E/50M course (different fromthan the one taken for the SoE fundamental requirement) as part of the MATSCI fundamental requirements. Students who took ENGR 50 must select a different second fundamentals course from the SoE-approved list.
+
+Only one of CS 106A and B is allowed to count toward the Fundamentals requirement.
+
+Core Program Requirements
+Completion requirement
+Materials Science Fundamentals
+
+25 units minimum.
+
+Fulfill ALL of the following requirements:
+MatSci Fundamentals
+Complete ALL of the following Courses:
+MATSCI142 - Quantum Mechanics of Nanoscale Materials
+
+MATSCI143 - Materials Structure and Characterization
+
+MATSCI144 - Thermodynamic Evaluation of Green Energy Technologies
+
+MATSCI145 - Kinetics of Materials Synthesis
+
+AND
+MatSci Electives
+Complete at least 2 of the following Courses:
+MATSCI151 - Microstructure and Mechanical Properties
+
+MATSCI152 - Electronic Materials Engineering
+
+MATSCI156 - Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution
+
+Students preparing for advanced graduate study or seeking additional depth are encouraged to take more than two MATSCI Fundamental electives or advanced MATSCI electives (MATSCI 180-series, MATSCI 190-series).
+
+AND
+Materials Scientists in Training
+Complete ALL of the following Courses:
+MATSCI131 - Materials Scientists in Training
+
+Substitutions/petitions for MATSCI Fundamentals required courses (140 series) and elective courses (150 series) will not be permitted.
+
+Depth in Discipline
+Completion requirement
+Materials Science & Engineering Depth
+
+Department requirement. Four laboratory courses for 15 units. One course must be a WIM Course. Can petition one non-MatSci lab course to satisfy the MatSci Depth Requirement.
+
+Complete at least 4 of the following Courses:
+MATSCI160 - Nanomaterials Design
+
+MATSCI161 - Energy Materials Laboratory
+
+MATSCI162 - X-Ray Diffraction Laboratory
+
+MATSCI163 - Mechanical Behavior Laboratory
+
+MATSCI164 - Electronic and Photonic Materials and Devices Laboratory
+
+MATSCI165 - Nanoscale Materials Physics Computation Laboratory
+
+MATSCI166 - Data Science and Machine Learning Approaches in Chemical and Materials Engineering
+
+Focus Area Requirement
+
+As part of the MATSCI bachelor's degree, students complete a Focus Area of study based on their interests within Materials Science and Engineering and its intersection with other fields. Typically, students take courses that bridge their academic, technical, and research interests to build on knowledge gained through the Fundamentals and Depth requirements. Students can select three courses from one of the Focus Area Tracks below or define their own Focus Area based on their interdisciplinary interests. Recommendations for Science courses are at the bottom of each Focus Area Track to help prepare students for further coursework.
+
+Choose one of the nine focus area tracks listed below or the self-defined focus area option.
+
+Select three (3) courses within one of the focus areas for a minimum of 9 units.
+
+At least one course for the focus area must be a MATSCI course.
+
+Each focus area course must be at least three units and may not include seminars.
+
+The self-defined focus area option requires additional approval; program deviation forms for this option can be found on the MATSCI website.
+
+*For additional information and sample, programs see the Handbook for Undergraduate Engineering Programs.
+
+Complete at least 1 of the following:
+Biological Properties of Materials
+Complete at least 3 of the following Courses:
+APPPHYS205 - Introduction to Biophysics
+
+BIOE80 - Introduction to Bioengineering (Engineering Living Matter)
+
+BIOE220 - Introduction to Imaging and Image-based Human Anatomy
+
+BIOE231 - Protein Engineering
+
+BIOE260 - Tissue Engineering
+
+BIOE279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+
+BIOE281 - Biomechanics of Movement
+
+BIOE282 - Introduction to Biomechanics and Mechanobiology
+
+ENGR55 - Foundational Biology for Engineers
+
+MATSCI190 - Organic and Biological Materials
+
+MATSCI225 - Biochips and Medical Imaging
+
+MATSCI333 - Soft Composites and Soft Robotics
+
+MATSCI381 - Biomaterials in Regenerative Medicine
+
+MATSCI384 - Materials Advances in Neurotechnology
+
+MATSCI385 - Biomaterials for Drug Delivery
+
+CHEM 31A and B or CHEM 31M recommended
+
+Students pursuing this focus area will learn more about biocompatible, biomimetic, or even naturally occurring biological materials, along with how they can be engineered.
+
+OR
+Chemical Properties of Materials
+Complete at least 3 of the following Courses:
+CHEM126 - Synthesis Laboratory
+
+CHEM171 - Linking the Molecular to the Macroscopic: Foundations of Physical Chemistry
+
+CHEM175 - Physical Chemistry III
+
+CHEMENG110B - Statistical and Multi-Component Thermodynamics
+
+CHEMENG120B - Energy and Mass Transport
+
+CHEMENG130A - Microkinetics - Molecular Principles of Chemical Kinetics
+
+CHEMENG150 - Biochemical Engineering
+
+CHEMENG174 - Environmental Microbiology I
+
+CHEMENG175X - Electrochemical Water Treatment: Materials and Processes
+
+MATSCI181 - Thermodynamics and Phase Equilibria
+
+MATSCI182 - Rate Processes in Materials
+
+CHEM 31A and B or CHEM 31M recommended
+
+Students pursuing this focus area will learn about the thermodynamic principles governing materials, the chemistry involved in synthesizing materials, and the design of the systems and processes necessary to create them.
+
+OR
+Computational Materials Science
+Complete at least 3 of the following Courses:
+CHEM161 - Computational Chemistry
+
+CHEM263 - Machine Learning for Chemical and Dynamical Data
+
+CME107 - Introduction to Machine Learning
+
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+
+CME216 - Machine Learning for Computational Engineering.
+
+CME322 - Spectral Methods in Computational Physics
+
+CS129 - Applied Machine Learning
+
+MATSCI165 - Nanoscale Materials Physics Computation Laboratory
+
+MATSCI166 - Data Science and Machine Learning Approaches in Chemical and Materials Engineering
+
+MATSCI331 - Computational Materials Science at the Atomic Scale
+
+ME123 - Computational Engineering
+
+ME335A - Finite Element Analysis
+
+PHYSICS113 - Computational Physics
+
+PHYSICS 41, 43, and 45 recommended
+
+Students pursuing this focus area will learn more about computational methods used to study materials structure-property relationships and how to make materials predictions.
+
+OR
+Electronics & Photonics Properties of Materials
+Complete at least 3 of the following Courses:
+APPPHYS201 - Electrons and Photons
+
+APPPHYS204 - Quantum Materials
+
+EE101A - Circuits I
+
+EE102A - Signals and Systems I
+
+EE116 - Semiconductor Devices for Energy and Electronics
+
+EE117 - Understanding the Sensors in your Smartphone
+
+EE134 - Introduction to Photonics
+
+EE153 - Power Electronics
+
+EE157 - Electric Motors for Renewable Energy, Robotics, and Electric Vehicles
+
+EE212 - Integrated Circuit Fabrication Processes
+
+EE216 - Principles and Models of Semiconductor Devices
+
+EE218 - Power Semiconductor Devices and Technology
+
+EE222 - Applied Quantum Mechanics I
+
+EE223 - Applied Quantum Mechanics II
+
+ENGR240 - Introduction to Micro and Nano Electromechanical Systems
+
+ENGR241 - Advanced Micro and Nano Fabrication Laboratory
+
+MATSCI152 - Electronic Materials Engineering
+
+MATSCI199 - Electronic and Optical Properties of Solids
+
+MATSCI317 - Defects in semiconductors
+
+MATSCI341 - Quantum Theory of Electronic and Optical Excitations in Materials
+
+MATSCI346 - Nanophotonics
+
+ME210 - Introduction to Mechatronics
+
+ME220 - Introduction to Sensors
+
+PHYSICS 41, 43, and 45 recommended
+
+Students pursuing this focus area will learn more about the design and function of electronic and/or photonic devices, as well as the underlying principles of physics relevant to their operation.
+
+OR
+Materials for Energy Technology
+Complete at least 3 of the following Courses:
+BIOS255 - Solar energy conversion and storage
+
+CEE107A - Understand Energy
+
+CHEM174 - Electrochem Lab: Measuring the Invisible
+
+EE116 - Semiconductor Devices for Energy and Electronics
+
+EE153 - Power Electronics
+
+EE237 - Solar Energy Conversion
+
+EE293B - Fundamentals of Energy Processes
+
+ENERGY132 - Fundamentals of Renewable Energy Processes
+
+ENERGY153 - Carbon Capture and Sequestration
+
+ENERGY201C - Energy storage and conversion systems: Solar Cells, Fuel Cells, Batteries
+
+ENERGY295 - Electrochemical Energy Storage Systems: Modeling and Estimation
+
+MATSCI156 - Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution
+
+MATSCI303 - Principles, Materials and Devices of Batteries
+
+PHYSICS240 - Introduction to the Physics of Energy
+
+Either Physics or Chemistry
+
+Students pursuing this focus area will learn more about materials used in modern energy technologies, potentially including solar cells, wind turbines, batteries, and fuel cells, as well as other emerging energy production or storage devices.
+
+OR
+Materials Characterization
+Complete at least 3 of the following Courses:
+AA252 - Techniques of Failure Analysis
+
+APPPHYS201 - Electrons and Photons
+
+APPPHYS222 - Principles of X-ray Scattering
+
+BIOE220 - Introduction to Imaging and Image-based Human Anatomy
+
+BIO232 - Advanced Imaging Lab in Biophysics
+
+CEE192 - Laboratory Characterization of Properties of Rocks and Geomaterials
+
+CHEM131 - Instrumental Analysis Principles and Practice
+
+CHEM174 - Electrochem Lab: Measuring the Invisible
+
+CHEM176 - Spectroscopy Laboratory
+
+CHEMENG345 - Fundamentals and Applications of Spectroscopy
+
+MATSCI236 - An Introduction to Quantitative X-ray Microanalysis
+
+MATSCI320 - Nanocharacterization of Materials
+
+MATSCI321 - Transmission Electron Microscopy
+
+MATSCI322 - Transmission Electron Microscopy Laboratory
+
+MATSCI323 - Thin Film and Interface Microanalysis
+
+MATSCI324 - Optics of Microscope Design for Materials
+
+MATSCI326 - X-Ray Science and Techniques
+
+MATSCI327 - Transmission Electron Microscopy Analysis and Simulation
+
+ME149 - Mechanical Measurements
+
+Either Physics or Chemistry
+
+Students pursuing this focus area will learn more about the tools and techniques used in advanced materials characterization, particularly at the micro- and nanoscale.
+
+OR
+Mechanical Behavior & Materials Processing
+Complete at least 3 of the following Courses:
+AA240 - Analysis of Structures
+
+AA256 - Mechanics of Composites
+
+AA280 - Smart Structures
+
+CEE305 - Damage and Failure Mechanics of Structural Systems
+
+CHEMENG170X - Mechanics of Soft Matter: Rheology
+
+ENGR240 - Introduction to Micro and Nano Electromechanical Systems
+
+ENGR241 - Advanced Micro and Nano Fabrication Laboratory
+
+MATSCI151 - Microstructure and Mechanical Properties
+
+MATSCI163 - Mechanical Behavior Laboratory
+
+MATSCI183 - Defects and Disorder in Materials
+
+MATSCI198 - Mechanical Properties of Materials
+
+MATSCI312 - New Methods in Thin Film Synthesis
+
+MATSCI358 - Fracture and Fatigue of Materials and Thin Film Structures
+
+ME127 - Design for Additive Manufacturing
+
+ME129 - Manufacturing Processes and Design
+
+ME152 - Material Behaviors and Failure Prediction
+
+ME303 - Soft Composites and Soft Robotics
+
+ME335A - Finite Element Analysis
+
+ME340 - Mechanics - Elasticity and Inelasticity
+
+ME345 - Fatigue Design and Analysis
+
+PHYSICS 41, 43, and 45 recommended
+
+Students pursuing this focus area will learn more about the mechanical behavior of materials, including how to characterize them, and how these mechanical properties influence the design of technologies.
+
+OR
+Materials Physics
+Complete at least 3 of the following Courses:
+APPPHYS201 - Electrons and Photons
+
+APPPHYS203 - Atoms, Fields and Photons
+
+APPPHYS204 - Quantum Materials
+
+EE222 - Applied Quantum Mechanics I
+
+EE223 - Applied Quantum Mechanics II
+
+MATSCI184 - Structure and Symmetry
+
+MATSCI185 - Quantum Mechanics for Materials Science
+
+MATSCI195 - Waves and Diffraction in Solids
+
+PHYSICS110 - Advanced Mechanics
+
+PHYSICS120 - Electromagnetism
+
+PHYSICS121 - Electrodynamics
+
+PHYSICS130 - Quantum Mechanics I
+
+PHYSICS131 - Quantum Mechanics II
+
+PHYSICS134 - Advanced Topics in Quantum Mechanics
+
+PHYSICS170 - Thermodynamics, Kinetic Theory, and Statistical Mechanics I
+
+PHYSICS171 - Thermodynamics, Kinetic Theory, and Statistical Mechanics II
+
+PHYSICS172 - Solid State Physics
+
+PHYSICS 61 and Physics 81 recommended, with Physics 45 or Physics 71 as the science elective.
+
+Students pursuing this focus area will gain a deep foundational knowledge of materials physics, with topics focusing on quantum mechanics, statistical mechanics, and waves and diffraction, and other advanced topics.
+
+OR
+Nanomaterials & Nanotechnology
+Complete at least 3 of the following Courses:
+APPPHYS189 - Physical Analysis of Artworks
+
+CHEMENG140X - Micro and Nanoscale Fabrication Engineering
+
+EE212 - Integrated Circuit Fabrication Processes
+
+ENGR240 - Introduction to Micro and Nano Electromechanical Systems
+
+ENGR241 - Advanced Micro and Nano Fabrication Laboratory
+
+MATSCI160 - Nanomaterials Design
+
+MATSCI320 - Nanocharacterization of Materials
+
+MATSCI327 - Transmission Electron Microscopy Analysis and Simulation
+
+MATSCI346 - Nanophotonics
+
+MATSCI380 - Nano-Biotechnology
+
+Either Physics or Chemistry
+
+Students pursuing this focus area will learn more about how materials properties change at the nanoscale, including the new and interesting ways in which these changes can be exploited for novel technologies.
+
+OR
+Self-Defined Focus
+
+Either Physics or Chemistry
+
+Students may also define their own focus area containing a minimum of 9 units (3 courses) that comprise a cohesive program of study. Many students use this option to create an interdisciplinary focus area that combines parts of the listed focus area options above. Students should also choose this option if including courses not listed in one of the focus area tracks and should include a petition form along with their final program sheet when conferring their degree.
+
+Honors Program: For students pursuing the Honor's Program, you may count up to six units of MATSCI 150 toward the focus area but cannot use these units to replace the MATSCI course minimum.
+
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+Complete ANY of the following Courses:
+MATSCI160 - Nanomaterials Design
+
+MATSCI161 - Energy Materials Laboratory
+
+MATSCI162 - X-Ray Diffraction Laboratory
+
+MATSCI164 - Electronic and Photonic Materials and Devices Laboratory
+
+Capstone
+Completion requirement
+Capstone Overview
+Fulfill ANY of the following requirements:
+Course-Based Track
+Complete at least 2 of the following Courses:
+MATSCI161 - Energy Materials Laboratory
+
+MATSCI163 - Mechanical Behavior Laboratory
+
+MATSCI165 - Nanoscale Materials Physics Computation Laboratory
+
+OR
+Research-Based Track
+
+Complete at least two consecutive quarters of independent research within the same research group.
+
+Students are expected to participate in either the annual Materials Science and Engineering Research Symposium or an alternative approved public oral/poster presentation.
+
+Students who choose this option are strongly encouraged to pursue the honors in the major. More information can be found below.
+
+Earn at least 6 credits from the following:
+MATSCI150 - Undergraduate Research
+
+OR
+Internship-Based Track
+
+Complete at least 4 quarters of MATSCI 169 (1 unit per quarter for a total of 4 units). Students are expected to enroll in both Spring and Autumn quarter offerings, bridging their summer internship twice. Following the internship, students complete a research report outlining their work activity, problems investigated, key results, and any follow-on projects they expect to perform.
+
+Earn at least 4 credits from the following:
+MATSCI169 - Undergraduate Internship Experience
+
+Honors
+Completion requirement
+Honors Program Overview
+
+The Materials Science and Engineering Honors Program offers an opportunity for undergraduate Materials Science and Engineering majors with a GPA of 3.7 or higher to pursue independent research at an advanced level, supported by a faculty advisor and graduate student mentors. The main requirements are as follows:
+
+Application to the Honors Program (must be pre-approved by the faculty advisor)
+
+Enrollment in MATSCI150 Undergraduate Research and participation in an independent research project over three full quarters
+
+Completion of a faculty-approved thesis
+
+Participation in the MSE Research Symposium in Spring quarter, or a poster or oral presentation of thesis work at a Stanford Symposium/event or, at your faculty advisor's discretion, in a comparable public event.
+
+Since this requires three full quarters of research and a final written thesis and presentation following completion of the work, students must apply to the program no less than four quarters before their planned graduation date. Materials Science and Engineering majors pursuing a typical four-year graduation timeline should meet with an MSE Advisor no later than winter quarter of their junior year to receive information on the application process.
+
+All requirements for the Honors Program are in addition to the standard undergraduate program requirements.
+
+To apply to the MATSCI Honors program
+
+Application deadlines and additional information can be found here.
+
+Have an overall GPA of 3.700 or higher (as listed at the end of the unofficial transcript) at the time of application.
+
+Have taken ENGR 50 and at least six MATSCI courses.
+
+Seek out a Faculty Research Advisor and agree on a proposed research topic.
+
+Complete and submit an Honors Program application package, which includes the following three documents:
+
+MSE Honors Application form
+
+Summary of the proposed research (300-500 words)
+
+Unofficial transcript
+
+Complete ALL of the following Courses:
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+
+To complete the MATSCI Honors program
+
+Overall GPA of 3.7 or higher at the end of the quarter prior to degree conferral (calculated on the unofficial transcript).
+
+Complete at least three-quarters of research with a minimum of 9 units of MATSCI 150 (students may petition out-of-unit requirement with Faculty Advisor approval). All quarters must focus on the same topic. Maintain the same faculty advisor throughout, if possible.
+
+For detailed requirements see the MatSci Honors Program Guidelines.
+
+Present a poster presentation of thesis work at the MSE Research Symposium, or at a comparable public event. The Faculty Advisor needs to sign off on this requirement.
+
+Submit final drafts of an Honors thesis to two faculty readers (one must be your research advisor, and one must be an MSE faculty member/SoE Academic Council member) at least one month before graduation. Both must approve the thesis by completing the signature page.
+
+Submit to the MATSCI Student Services Office (Durand 104) and MSE UG Advising one copy of the Honors thesis and the signed signature page in electronic form at least one month before graduation.
+
+Complete ALL of the following Courses:
+MATSCI150 - Undergraduate Research

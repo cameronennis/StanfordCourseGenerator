@@ -1,0 +1,314 @@
+BIOE-MS - Bioengineering (MS)
+Download as PDF
+Bioengineering
+Bioengineering
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Master of Science in Bioengineering is designed for students who want to advance their expertise and pursue exciting careers in the biotechnology, engineering, medicine, and healthcare sectors.
+The MS in Bioengineering requires 45 units of coursework and can be completed within approximately one or two years. The curriculum comprises core bioengineering courses, technical electives, core seminars, and unrestricted electives. Core courses focus on quantitative biology and biological systems analysis. There is no thesis requirement for the MS degree.
+Coterminal Master’s Program in Bioengineering
+This option is available to Stanford undergraduates who wish to work simultaneously toward a BS one major and an MS in Bioengineering. The degrees may be granted simultaneously or after different quarters, though the bachelor’s degree cannot be awarded after the master’s degree has been granted.
+The university minimum requirements for the coterminal program are 180 units for the bachelor’s degree plus 45 unduplicated units for the master’s degree. Due to the interdisciplinary nature of Bioengineering, several courses are offered directly through the Bioengineering Department, but many are available through other departments.
+Coterminal master’s degree candidates are expected to complete all master’s degree requirements as described in this Bulletin.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Lab Courses (minimum 4 units)
+Complete at least 2 of the following Courses:
+BIOE301A - Molecular and Cellular Engineering Lab
+BIOE301B - Clinical Needs and Technology
+BIOE301C - Diagnostic Devices Lab
+BIOE301D - Microfluidic Device Laboratory
+BIOE301E - Computational Protein Modeling Laboratory
+BIOE301P - Research Data, Computation, & Visualization
+BIOE232 - Advanced Imaging Lab in Biophysics
+BIOE261 - 3D Bioprinting Laboratory
+Quantitative Courses (minimum 6 units)
+Complete at least 2 of the following Courses:
+BIOE209 - Mathematical Modeling of Biological Systems
+BIOE210 - Systems Biology
+BIOE230 - Measurements, Statistics, and Probability
+BIOE300B - Quantitative Physiology
+CME200 - Linear Algebra with Application to Engineering Computations
+CME204 - Partial Differential Equations in Engineering
+CME206 - Introduction to Numerical Methods for Engineering
+CME263 - Matrix Methods: Singular Value Decomposition
+CME302 - Numerical Linear Algebra
+CME306 - Computational Methods of Applied Mathematics
+CME322 - Spectral Methods in Computational Physics
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+EE261 - The Fourier Transform and Its Applications
+EE278 - Probability and Statistical Inference
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+ME470 - Uncertainty Quantification
+Biology or Technical Elective Courses (minimum 18 units)
+Select three or more Biology & Technical electives from the pre-approved list of Technical Elective courses (available to BioE students on the BioE Intranet), which can include more of the Lab or Quantitative courses.
+Due to the interdisciplinary nature of Bioengineering, several courses are offered directly through the Bioengineering Department, but many are available through other departments. See respective ExploreCourses for course descriptions.
+All lecture and lab-based BioE courses at the 200+ level and above are considered Technical Electives.
+One of these courses may be an ethics course from the following: BioE 131, BioE 177, CS152, CS182, CS184, CS256, CS278, or CS281.
+Six of these units may be directed research units or teaching practicum units (e.g., BIOE 391, BIOE 392).
+BIOE 296 (Promoting Effective and Equitable Teaching in BioE) may also fulfill this requirement.
+Complete at least 3 of the following Courses:
+AA203 - Optimal and Learning-based Control
+AA212 - Advanced Feedback Control Design
+AA216 - Projection-Based Model Order Reduction
+AA222 - Engineering Design Optimization
+AA273 - State Estimation and Filtering for Robotic Perception
+APPPHYS229 - Statistical Mechanics of Learning and Computation
+APPPHYS237 - Quantitative Evolutionary Dynamics and Genomics
+APPPHYS294 - Cellular Biophysics
+BIO204 - Neuroplasticity: From Synapses to Behavior
+BIO214 - Advanced Cell Biology
+BIO220 - Integrative and Experimental Microbiology
+BIO230 - Cellular and Molecular Immunology: An Introductory Course
+BIO239 - The Hidden Kingdom - Evolution, Ecology and Diversity of Fungi
+BIO255 - Cell and Developmental Biology of Plants
+BIO265 - Quantitative Approaches in Modern Biology
+BIO273A - Environmental Microbiology I
+BIO273B - Microbial Bioenergy Systems
+BMDS205 - Bioinformatics for Stem Cell and Cancer Biology
+BMDS274 - Machine Learning for Neuroimaging
+BIOE131 - Ethics in Bioengineering
+OR
+CS152 - Trust and Safety
+OR
+CS182 - Ethics, Public Policy, and Technological Change
+OR
+CS184 - Bridging Policy and Tech Through Design
+OR
+CS278 - Social Computing
+OR
+CS281 - Ethics of Artificial Intelligence
+BIOE206 - Mixed-Reality in Medicine
+BIOE209 - Mathematical Modeling of Biological Systems
+BIOE210 - Systems Biology
+BIOE212 - Introduction to Biomedical Informatics Research Methodology
+BIOE213 - Stochastic and Nonlinear Dynamics
+BIOE214 - Representations and Algorithms for Computational Molecular Biology
+BIOE217 - Translational Bioinformatics
+BIOE219 - Fundamentals of Regeneration Biology
+BIOE220 - Introduction to Imaging and Image-based Human Anatomy
+BIOE221 - Physics and Engineering of Radionuclide-based Medical Imaging
+BIOE221G - Gut Microbiota in Health and Disease
+BIOE222 - Physics and Engineering Principles of Multi-modality Molecular Imaging of Living Subjects
+BIOE224 - Probes and Applications for Multi-modality Molecular Imaging of Living Subjects
+BIOE225 - Transcranial Ultrasound Neuromodulation: Physics, Neurophysiology, and Applications
+BIOE226 - MRI Spin Physics, Relaxation Theory, and Contrast Mechanisms
+BIOE227 - Functional MRI Methods
+BIOE230 - Measurements, Statistics, and Probability
+BIOE232 - Advanced Imaging Lab in Biophysics
+BIOE235 - Biotransport Phenomena
+BIOE236 - Bioengineering Innate Immunity
+BIOE240 - Principles of Synthetic Biology
+BIOE241 - Biological Macromolecules
+BIOE250 - Biochemical Engineering
+BIOE256 - Technology Assessment and Regulation of Medical Devices
+BIOE260 - Tissue Engineering
+BIOE261 - 3D Bioprinting Laboratory
+BIOE266 - Synthetic proteins and genetic circuits
+BIOE271 - Frugal Science
+BIOE279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+BIOE281 - Biomechanics of Movement
+BIOE282 - Introduction to Biomechanics and Mechanobiology
+BIOE283 - Mechanotransduction in Cells and Tissues
+BIOE285 - Computational Modeling in the Cardiovascular System
+BIOE291 - Principles and Practice of Optogenetics for Optical Control of Biological Tissues
+BIOE300A - Molecular and Cellular Bioengineering
+BIOE300B - Quantitative Physiology
+BIOE301A - Molecular and Cellular Engineering Lab
+BIOE301B - Clinical Needs and Technology
+BIOE301C - Diagnostic Devices Lab
+BIOE301D - Microfluidic Device Laboratory
+BIOE301E - Computational Protein Modeling Laboratory
+BIOE301P - Research Data, Computation, & Visualization
+BIOE305 - Dynamics and Feedback Control of Living Systems
+BIOE313 - Neuromorphics: Brains in Silicon
+BIOE320 - Cryogenic electron microscopy and tomography
+BIOE331 - Protein Engineering
+BIOE335 - Molecular Motors I
+BIOE337 - The Art of Observation: Table Top Explorations In Natural Philosophy
+BIOE355 - Advanced Biochemical Engineering
+BIOE361 - Biomaterials in Regenerative Medicine
+BIOE374A - Biodesign Innovation: Needs Finding and Concept Creation
+BIOE374B - Biodesign Innovation: Concept Development and Implementation
+BIOE375 - Prevention Medicine and Entrepreneurship for Societal Health
+BIOE376 - Startup Garage: Design
+BIOE377 - Startup Garage: Testing and Launch
+BIOE381 - Orthopaedic Bioengineering
+BIOE385 - Biomaterials for Drug Delivery
+BIOE391 - Directed Study
+BIOE450 - Advances in Biotechnology
+BIOE485 - Modeling and Simulation of Human Movement
+BIOMEDIN202 - An overview of Biomedical Data Science
+BMDS210 - Modeling Biomedical Systems
+BIOMEDIN221 - Machine Learning Approaches for Data Fusion in Biomedicine
+BMDS222 - Cloud Computing for Biology and Healthcare
+BMDS224 - Principles of Pharmacogenomics
+BIOS202 - Understanding Kinetics for Biologists and Biology
+BIOS249 - Single-cell Spatial-omics: with Applications to Stem Cell Engineering and Cancer Immunotherapy
+BIOS253 - Primary concepts in Bioinformatics- To Make Sense Of large scale  Biological and Biomedical Data
+BIOS270 - Bioinformatics Engineering
+CBIO243 - Principles of Cancer Systems Biology
+CBIO275 - Tumor Immunology
+CEE177E - Water & the Environment: Current Challenges and Solutions
+CEE271B - Environmental Biotechnology
+CHEM225 - Advanced Organic Chemistry III
+CHEM261 - Computational Chemistry
+CHEM263 - Machine Learning for Chemical and Dynamical Data
+CHEM271 - Advanced Physical Chemistry
+CHEM277 - Manipulating Spins: NMR Theory and Applications
+CHEM281 - Synthesis and Analysis at the Chemistry-Biology Interface
+CHEM283 - Therapeutic Science at the Chemistry -  Biology Interface
+CHEMENG281 - Biochemistry I
+CHEMENG340 - Molecular Thermodynamics
+CHEMENG420 - Growth and Form
+CHEMENG466 - Polymer Physics
+CHEMENG470 - Mechanics of Soft Matter: Rheology
+CME200 - Linear Algebra with Application to Engineering Computations
+CME204 - Partial Differential Equations in Engineering
+CME206 - Introduction to Numerical Methods for Engineering
+CME298 - Probability and Stochastic Differential Equations for Applications
+CME302 - Numerical Linear Algebra
+CME303 - Partial Differential Equations of Applied Mathematics
+CME306 - Computational Methods of Applied Mathematics
+CS106A - Programming Methodology
+CS106AX - Programming Methodologies in JavaScript and Python (Accelerated)
+CS106B - Programming Abstractions
+CS109 - Introduction to Probability for Computer Scientists
+CS161 - Design and Analysis of Algorithms
+CS173A - Foundations of Computational Human Genomics
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS221 - Artificial Intelligence: Principles and Techniques
+CS223A - Introduction to Robotics
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS224W - Machine Learning with Graphs
+CS227A - Robot Perception
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+CS235 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS237A - Principles of Robot Autonomy I
+CS238 - Decision Making under Uncertainty
+CS246 - Mining Massive Data Sets
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS265 - Randomized Algorithms and Probabilistic Analysis
+CS271 - Algorithmic Foundations for Artificial Intelligence in Healthcare
+CS273B - Deep Learning in Genomics and Biomedicine
+CS324 - Advances in Foundation Models
+CS336 - Language Modeling from Scratch
+CS348C - Computer Graphics: Animation and Simulation
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+CS375 - Large-Scale Neural Network Modeling for Neuroscience
+CS468 - Topics in Geometric Computing - 3D and 4D Foundation Models
+CSB240A - A Practical Approach to Drug Discovery and Development
+CSB240B - A Practical Approach to Drug Discover and Development
+DATASCI294B - Data Science for Computational Molecular Biology
+DBIO210 - Developmental Biology
+EARTHSYS213 - Innovation for Climate and Sustainability
+EARTHSYS217 - Biology and Global Change
+EARTHSYS223 - Biosphere-Atmosphere Interactions
+EARTHSYS233 - Mitigating Climate Change through Soil Management
+EARTHSYS256 - Soil and Water Chemistry
+EARTHSYS258 - Geomicrobiology
+EBS332 - Climate Tech for Rapid Decarbonization
+EE217 - Understanding the Sensors in your Smartphone
+EE220 - Bioelectronics
+EE225 - Biochips and Medical Imaging
+EE236A - Modern Optics
+EE261 - The Fourier Transform and Its Applications
+EE261 - The Fourier Transform and Its Applications
+EE268 - The Engineering Economics of Electricity Markets
+EE269 - Signal Processing and Quantization for Machine Learning
+EE276 - Information Theory
+EE355 - Imaging Radar and Applications
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+EE367 - Computational Imaging
+EE368 - Digital Image Processing
+EE369A - Medical Imaging Systems I
+EE369B - Medical Imaging Systems II
+EE369C - Medical Image Reconstruction
+EE469B - RF Pulse Design for Magnetic Resonance Imaging
+ENERGY263 - Sustainable Energy Decisions
+EPI231 - Epidemiology of Infectious Diseases
+GENE211 - Genomics
+GENE231 - AI and Vibecoding for healthcare
+GENE242 - Genetics of Viral Emergence and Emerging Viruses
+IMMUNOL201 - Advanced Immunology I
+IMMUNOL205 - Immunology in Health and Disease
+IMMUNOL206 - Introduction to Applied Computational Tools in Immunology
+IMMUNOL207 - Essential Methods in Computational and Systems Immunology
+MATSCI210 - Organic and Biological Materials
+MATSCI303 - Principles, Materials and Devices of Batteries
+MATSCI380 - Nano-Biotechnology
+MATSCI384 - Materials Advances in Neurotechnology
+MCP222 - Imaging: Biological Light Microscopy
+MCP256 - How Cells Work: Energetics, Compartments, and Coupling in Cell Biology
+ME203 - Design and Manufacturing
+ME206A - Design for Extreme Affordability
+ME218A - Smart Product Design Fundamentals
+ME218B - Smart Product Design Applications
+ME218C - Smart Product Design Practice
+ME220 - Introduction to Sensors
+ME223 - Applied Robot Design for Non-Robot-Designers: How to Fix, Modify, Design, and Build Robots
+ME234 - Introduction to Neuromechanics
+ME287 - Mechanics of Biological Tissues
+ME303 - Soft Composites and Soft Robotics
+ME310A - Global Engineering Design Thinking, Innovation, and Entrepreneurship
+ME280 - Deliverables: A Mechanical Engineering Design Practicum
+ME318 - Computer-Aided Product Creation
+ME331A - Advanced Dynamics & Computation
+ME331B - Advanced Dynamics, Simulation & Control
+ME335A - Finite Element Analysis
+ME351A - Fluid Mechanics
+ME354 - Experimental Methods in Fluid Mechanics
+ME451D - Microhydrodynamics
+ME470 - Uncertainty Quantification
+MS&E328 - Foundations of Causal Machine Learning
+NBIO206 - The Nervous System
+NBIO227 - Understanding Techniques in Neuroscience
+OPHT207 - Introduction to Electro-neural Interfaces
+PHYSICS212 - Statistical Mechanics
+PHYSICS230 - Graduate Quantum Mechanics I
+PHYSICS231 - Graduate Quantum Mechanics II
+PSYCH204A - Human Neuroimaging Methods
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH254A - Advanced Statistical Modeling for Behavioral and Neural Sciences
+RAD229 - MRI Sequences and Signals
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+STATS203 - Regression Models and Analysis of Variance
+STATS207 - Time Series Analysis
+STATS215 - Statistical Models in Biology
+STATS217 - Introduction to Stochastic Processes I
+STATS220 - Machine Learning Methods for Neural Data Analysis
+STATS262 - Intermediate Biostatistics: Regression, Prediction, Survival Analysis
+STATS305A - Applied Statistics I
+STATS305B - Applied Statistics II
+STATS326 - Topics in Generative Modeling Methods in Protein Modeling and Design
+STEMREM201A - Stem Cell Biology & Regenerative Medicine
+Core Seminar Courses (2 units)
+Complete ALL of the following Courses:
+BIOE393 - Bioengineering Departmental Research Colloquium
+MED255 - The Responsible Conduct of Research
+Additional BioE Courses 200+ (minimum 9 units)
+Select an additional three (3) Bioengineering 200+ graduate-level lecture courses. These courses cannot be seminars or research units.
+Unrestricted Electives (6 units)
+Six units of unrestricted electives at the 100 level or above. A maximum of 6 units can be Directed Study & Research or Teaching Practicum units
+M.S. Program Proposal
+To ensure that an appropriate program is pursued by all MS candidates, students who first enroll at Stanford at the graduate level must:
+Submit an advisor-approved Program Proposal for a Master’s Degree form to the student services office during the first month of the first quarter of enrollment
+Obtain approval from the MS advisor and the Chair of Graduate Studies for any subsequent program changes

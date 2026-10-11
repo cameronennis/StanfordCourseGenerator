@@ -1,0 +1,978 @@
+CS-MS - Computer Science (MS)
+Download as PDF
+Computer Science
+Computer Science
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The MS in Computer Science is intended as a terminal professional degree and does not lead to the PhD. Most students planning to obtain a PhD degree should apply directly for admission to the PhD program. Some students, however, may wish to complete the master’s program before deciding whether to pursue a PhD. To give such students a more significant opportunity to become familiar with research, the department has a program leading to a master’s degree with distinction in research. This program is described in more detail below.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+A candidate is required to complete a program of 45 units. At least 36 of these must be graded units, passed with a grade point average (GPA) of 3.0 (B) or better. (Courses taken for a CR or S grade from Spring 2019-20 through Summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.) The 45 units may include no more than ten units of courses from those listed below in the Foundations Requirement. Thus, students needing to take more than two of the courses listed in Foundations complete more than 45 units of coursework in the program. Only well-prepared students may expect to finish the program in one year; most students complete the program in six quarters. Students hoping to complete the program with 45 units should already have a substantial background in computer science, including coursework or experience equivalent to all of Foundations and some prior coursework related to their specialization area.
+Foundations
+You must satisfy the requirements listed in each of the following areas; all courses taken elsewhere must be approved by the program administrator via the foundation course waiver form on GIN. Do not enter anything in the “Units” column for courses taken elsewhere or for Stanford courses counted towards your undergraduate degree (total units used to satisfy foundations requirement may not exceed 10):
+Fulfill ALL of the following requirements:
+Logic, Automata, and Computability
+Complete ALL of the following Courses:
+CS103 - Mathematical Foundations of Computing
+AND
+Probability
+Complete ANY of the following Courses:
+CS109 - Introduction to Probability for Computer Scientists
+CS221 - Artificial Intelligence: Principles and Techniques
+OR
+CS229 - Machine Learning
+CME106 - Introduction to Probability and Statistics for Engineers
+EE178 - Probabilistic Systems Analysis
+MS&E220 - Probabilistic Analysis
+STATS117 - Introduction to Probability Theory
+Students who do not take CS109 can satisfy the Probability Foundation requirement with a two-course combination of (1) CS221 or CS229 and (2) STATS117, CME106, MS&E220, EE178.
+AND
+Algorithmic Analysis
+Complete ALL of the following Courses:
+CS161 - Design and Analysis of Algorithms
+AND
+Computer Organization and Systems
+Complete at least 1 of the following Courses:
+CS107 - Computer Organization and Systems
+CS107E - Computer Systems from the Ground Up
+AND
+Principles of Computer Systems
+Complete ALL of the following Courses:
+CS111 - Operating Systems Principles
+Significant Software Implementation
+Complete at least 1 of the following Courses:
+CS140E - Operating systems design and implementation
+CS143 - Compilers
+CS144 - Introduction to Computer Networking
+CS145 - Introduction to Big Data Systems
+CS149 - Parallel Computing
+CS151 - Logic Programming
+CS190 - Software Design Studio
+CS210B - Industry Innovation Lab
+CS212 - Operating Systems and Systems Programming
+OR
+CS112 - Operating systems kernel implementation project
+OR
+CS140 - Operating Systems and Systems Programming
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS227B - General Game Playing
+CS231N - Deep Learning for Computer Vision
+CS239 - Advanced Topics in Sequential Decision Making
+CS243 - Program Analysis and Optimizations
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+CS251 - Cryptocurrencies and blockchain technologies
+CS330 - Deep Multi-task and Meta Learning
+CS336 - Language Modeling from Scratch
+Students must complete at least one course designated as having a significant software implementation component.
+Electives
+This requirement is relevant to the following subplans:
+Artificial Intelligence
+Computational Biology
+Computer and Network Security
+Human-Computer Interaction
+Information Management and Analytics
+Software Theory
+Systems
+Theoretical Computer Science
+Visual Computing
+Additional elective units must be technical courses, numbered above 101, related to the degree program and approved by the advisor and MS program administrator. All CS courses numbered above 111, except
+CS161A
+,
+CS196
+,
+CS198
+,
+CS390A
+,
+CS390B
+, and
+CS390C
+, taken for three or more units, are pre-approved as elective courses. Additionally, up to a maximum of three units of one to two-unit seminars offered in the School of Engineering may be counted as electives. Units of elective credit are capped at 5 units per quarter per course (does not apply to CS399). Elective courses that satisfy a Breadth requirement must be taken for a letter grade. Otherwise, elective courses may be taken on a satisfactory/no credit basis provided that a minimum of 36 graded units is presented within the 45-unit program. (Courses taken for a CR or S grade from Spring 2019-20 through Summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+*CS 129 may not be counted toward the MS if CS 229 is being counted toward any BS or MS requirements.
+Breadth in Discipline
+Completion requirement
+Breadth Requirement Overview
+Students must complete at least three courses, each chosen from a different Breadth area A, B, C, or D. Breadth courses may not be waived, must be taken for at least three units each, and must be completed for a letter grade. (Courses taken for a CR or S grade from spring 2019-20 through summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.) Each of the three Breadth courses must be from different Areas:
+Breadth Areas
+All Breadth courses must be taken for a minimum of 3 units and a letter grade.
+Cross-listed versions of these courses are also acceptable.
+Complete at least 3 of the following:
+Breadth Area A: Formal Foundations
+Complete at least 1 of the following Courses:
+APPPHYS229 - Statistical Mechanics of Learning and Computation
+CS154 - Introduction to the Theory of Computation
+CS157 - Computational Logic
+CS166 - Advanced Data Structures
+CS168 - The Modern Algorithmic Toolbox
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS225 - Machine Learning for Discrete Optimization
+CS229M - Machine Learning Theory
+CS250 - Algebraic Error Correcting Codes
+CS254 - Computational Complexity
+CS254B - Computational Complexity II
+CS255 - Introduction to Cryptography
+CS256 - Algorithmic Fairness
+CS257 - Introduction to Automated Reasoning
+CS258 - Quantum Cryptography
+CS259Q - Quantum Computing
+CS261 - Combinatorial Optimization
+CS263 - Counting and Sampling
+CS264 - Beyond Worst-Case Analysis
+CS265 - Randomized Algorithms and Probabilistic Analysis
+CS269I - Incentives in Computer Science
+CS328 - Foundations of Causal Machine Learning
+CS354 - Topics in Intractability: Unfulfilled Algorithmic Fantasies
+CS355 - Advanced Topics in Cryptography
+CS357S - Formal Methods for Computer Systems
+CS359D - Quantum Complexity Theory
+CS369O - Optimization Algorithms
+EE276 - Information Theory
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+EE377 - Information Theory and Statistics
+PHIL251 - Metalogic
+STATS311 - Information Theory and Statistics
+OR
+Breadth Area B: Learning and Modeling
+Complete at least 1 of the following Courses:
+CS173A - Foundations of Computational Human Genomics
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS221 - Artificial Intelligence: Principles and Techniques
+CS223A - Introduction to Robotics
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS224S - Spoken Language Processing
+CS224U - Natural Language Understanding
+CS224V - Agentic AI
+CS224W - Machine Learning with Graphs
+CS227A - Robot Perception
+CS227B - General Game Playing
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS229B - Machine Learning for Sequence Modeling
+CS229M - Machine Learning Theory
+CS230 - Deep Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+CS233 - Geometric and Topological Data Analysis
+CS234 - Reinforcement Learning
+CS236 - Deep Generative Models
+CS237A - Principles of Robot Autonomy I
+CS237B - Principles of Robot Autonomy II
+CS238 - Decision Making under Uncertainty
+CS239 - Advanced Topics in Sequential Decision Making
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+CS271 - Algorithmic Foundations for Artificial Intelligence in Healthcare
+CS272 - Introduction to Biomedical Informatics Research Methodology
+CS273B - Deep Learning in Genomics and Biomedicine
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS277 - Foundation Models for Healthcare
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CS281 - Ethics of Artificial Intelligence
+CS321M - AI Measurement Science
+CS326 - Topics in Advanced Robotic Manipulation
+CS329A - Self Improving AI Agents
+CS329D - Machine Learning Under Distributional Shifts
+CS329H - Machine Learning from Human Preferences
+CS329T - Trustworthy Machine Learning: Building and evaluating agentic systems
+CS329X - Human Centered NLP
+CS330 - Deep Multi-task and Meta Learning
+CS332 - Advanced Survey of Reinforcement Learning
+CS333 - Algorithms for Interactive Robotics
+CS336 - Language Modeling from Scratch
+CS348B - Computer Graphics: Image Synthesis Techniques
+CS348C - Computer Graphics: Animation and Simulation
+CS348E - Character Animation: Modeling, Simulation, and Control of Human Motion
+CS348I - Computer Graphics in the Era of AI
+CS348N - Neural Models for 3D Geometry
+CS375 - Large-Scale Neural Network Modeling for Neuroscience
+OR
+Breadth Area C: Systems
+Complete at least 1 of the following Courses:
+CS112 - Operating systems kernel implementation project
+CS140E - Operating systems design and implementation
+CS143 - Compilers
+CS144 - Introduction to Computer Networking
+CS145 - Introduction to Big Data Systems
+CS149 - Parallel Computing
+CS155 - Computer and Network Security
+CS212 - Operating Systems and Systems Programming
+CS217 - Hardware Accelerators for Machine Learning
+CS229S - Systems for Machine Learning
+CS240 - Advanced Topics in Operating Systems
+CS240LX - Advanced Systems Laboratory, Accelerated
+CS242 - Programming Languages
+CS243 - Program Analysis and Optimizations
+CS244 - Advanced Topics in Networking
+CS244B - Distributed Systems
+CS244C - Advanced Networking and Distributed Systems
+CS245 - Principles of Data-Intensive Systems
+CS246 - Mining Massive Data Sets
+CS249I - The Modern Internet
+CS251 - Cryptocurrencies and blockchain technologies
+CS257 - Introduction to Automated Reasoning
+CS295 - Software Engineering
+CS348K - Visual Computing Systems
+CS349D - AI Inference Infrastructure
+CS349F - Fabric Architectures For AI Systems
+CS349H - Software Techniques for Emerging Hardware Platforms
+CS350S - Privacy-Preserving Systems
+CS356 - Topics in Computer and Network Security
+CS357S - Formal Methods for Computer Systems
+EE180 - Digital Systems Architecture
+EE282 - Computer Systems Architecture
+EE382C - Interconnection Networks
+CS111 should be taken prior to taking CS112.
+OR
+Breadth Area D: People and Society
+Complete at least 1 of the following Courses:
+AMSTUD145 - Silicon Valley
+BMDS215 - Data Science for Medicine
+BMDS223 - Deploying and Evaluating Fair AI in Healthcare
+BIOS244 - Applied Artificial Intelligence in Health Care
+COMM254 - The Politics of Algorithms
+COMM266 - Virtual People
+COMM286 - Media, Technology, and the Body
+COMM324 - Language and Technology
+CS121 - Equity and Governance for Artificial Intelligence
+CS125 - Data: Algorithms, Tools, Policy, and Society
+CS147 - Introduction to Human-Computer Interaction Design
+CS148 - Introduction to Computer Graphics and Imaging
+CS152 - Trust and Safety
+CS181 - Computers, Ethics, and Public Policy
+CS181W - Computers, Ethics, and Public Policy (WIM)
+CS182 - Ethics, Public Policy, and Technological Change
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+CS194H - User Interface Design Project
+CS206 - Exploring Computational Journalism
+CS207 - Antidiscrimination Law and Algorithmic Bias
+CS222 - AI Agents and Simulations
+CS224C - NLP for Computational Social Science
+CS247A - Design for Artificial Intelligence
+CS247B - Design for Behavior Change
+CS247E - Design for Earth
+CS247G - Design for Play
+CS247I - Design for Understanding
+CS247S - Service Design with AI
+CS256 - Algorithmic Fairness
+CS269I - Incentives in Computer Science
+CS278 - Social Computing
+CS281 - Ethics of Artificial Intelligence
+CS293 - Empowering Educators via Language Technology
+CS323 - The AI Awakening: Implications for the Economy and Society
+CS324H - History of Natural Language Processing
+CS329R - Race and Natural Language Processing
+CS329T - Trustworthy Machine Learning: Building and evaluating agentic systems
+CS329X - Human Centered NLP
+CS337 - AI-Assisted Care
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CS377E - Designing Solutions to Global Grand Challenges
+CS377G - Designing Serious Games
+CS377J - Designing Systems for Collaboration, Cooperation, and Collective Action
+CS377Q - Designing for Accessibility
+CS377U - Understanding Users
+CS384 - Seminar on Ethical and Social Issues in Natural Language Processing
+CS448B - Data Visualization
+CS470 - Music and AI
+DESIGN255 - The Design of Data
+EARTHSYS213 - Innovation for Climate and Sustainability
+EDUC315A - Introduction to CSCL: Computer-Supported Collaborative Learning
+EDUC484 - Knowledge in the Age of AI: New Epistemic Issues in Education
+EPI220 - Deploying and Evaluating Fair AI in Healthcare
+HISTORY244F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
+INTLPOL245B - Governing Artificial Intelligence: Law, Policy, and Institutions
+LAW4046 - Data: Privacy, Property and Security
+LAW7073 - Antidiscrimination Law and Algorithmic Bias
+LAW7102 - Regulation, Evaluation, and Governance Lab: Practicum
+LAW7117 - Platform Regulation and the First Amendment
+LAW7521 - Data: Algorithms, Tools, Policy, and Society
+MS&E254 - The Ethical Analyst
+POLISCI150A - Data Science for Politics
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+PUBLPOL353A - Science and Technology Policy
+PUBLPOL353B - Regulating Emerging Technology: Risks, Opportunities, and Reality
+STATS354 - Generalization and Causality in Biohealth
+Joint MS and MBA Degree
+The joint MS in Computer Science/MBA degree links two of Stanford University’s world-class programs. This combined degree allows students to develop advanced technical and managerial skills for a broader perspective on existing technologies and new technology ventures.
+Admission to the joint MSCS/MBA program requires that students apply and be accepted independently to the Computer Science Department in the School of Engineering and the Graduate School of Business. Students may apply concurrently or elect to begin their course of study in CS and apply to the GSB during their first year.
+Additional information on the MS in Computer Science/MBA Joint Degree Program is available on the
+department’s website
+.
+Joint MS and Law Degree
+Law students interested in pursuing an MS in Computer Science must apply for admission to the Computer Science Department either (i) concurrently with applying to the Law School; or (ii) after being admitted to the Law School, but no later than the earlier of (a) the end of the second year of Law School or (b) the Computer Science Department’s admission deadline for the year following that second year of Law School.
+In addition to being admitted separately to the Law School and the Computer Science Department, students must secure permission from both academic units to pursue degrees in those units as part of a joint degree program.
+JD/MS students may elect to begin their course of study in either the Law School or the Computer Science Department. Faculty advisors from each academic unit participate in the planning and supervising of the student’s joint program. Students must be enrolled full-time in the Law School for the first year of law studies. Otherwise, enrollment may be in the graduate school or the Law School, and students may choose courses from either program regardless of where enrolled. Students must satisfy the requirements for the J.D. degree specified by the Law School and the MS degree specified in this Bulletin.
+The Law School approves courses from the Department of Computer Science that may count toward the JD degree, and the Computer Science Department approves courses from the Law School that may count toward the MS degree in Computer Science. In either case, approval may consist of a list applicable to all joint-degree students or may be tailored to each individual student program. No more than 45 units of approved courses may be counted toward both degrees. No more than 36 units of courses that originate outside the Law School may count toward the Law degree. To the extent that courses under this joint degree program originate outside the Law School but count toward the Law degree, the Law School credits permitted under Section 17(1) of the Law School Regulations shall be reduced on a unit-per-unit basis but not below zero. The maximum number of Law School credits that may be counted toward the MS in Computer Science is the greater of (i) 12 units; or (ii) the maximum number of units from courses outside of the department that MS candidates in Computer Science are permitted to count toward the MS in the case of a particular student’s individual program. Tuition and financial aid arrangements are usually through the school where the student is enrolled.
+Teaching Requirement
+Completion requirement
+Teaching Requirement
+Graduate student assistantships are available. Half-time assistants receive a tuition scholarship for 8, 9, or 10 units per quarter during the academic year and a salary.
+Duties for half-time assistants during the academic year involve approximately 20 hours of work per week. Course assistants (CAs) help an instructor teach a course by conducting discussion sections, consulting with students, and grading examinations. Research Assistants (RAs) help faculty and senior staff members with research in computer science. Many MS students are hired to staff teaching and research assistantships. However, MS students should not plan on being appointed to an assistantship.
+Students with fellowships may have the opportunity to supplement their stipends by serving as graduate student assistants.
+Research Requirement
+Completion requirement
+Master of Science with Distinction in Research
+A student who wishes to pursue an MS in CS with distinction in research must first identify a faculty advisor who agrees to supervise and support the research work. The research advisor must be a member of the Academic Council and must hold an appointment in Computer Science. The student and principal advisor must also identify another faculty member who need not be in the Department of Computer Science to serve as a secondary advisor and reader for the research report. In addition, the student must complete the following requirements beyond those for the regular MS in CS degree:
+Research Experience—
+The program must include significant research experience at the level of a half-time commitment over three academic quarters. In any given quarter, the half-time research commitment may be satisfied by a 50 percent appointment to a departmentally supported research assistantship, six units of independent study (
+course
+), or a prorated combination of the two (such as a 25 percent research assistantship supplemented by three units of independent study). This research must be carried out under the direction of the primary or secondary advisor.
+Supervised Writing and Research
+—In addition to the research experience outlined in the previous requirement, students must enroll in at least three units of independent research (
+course
+) under the direction of their primary or secondary advisor. These units should be closely related to the research described in the first requirement but focused more on preparing the research report described in the next section. The writing and research units described in parts (1) and (2) may be counted toward the 45 units required for the degree.
+All independent study units (
+course
+) must be taken for letter grades, and a GPA of 3.0 (B) or better must be maintained.
+Research Report—
+Students must complete a significant report describing their research and its conclusions. The research report represents work publishable in a journal or at a high-quality conference, although it is presumably longer and more expansive in scope than a typical conference paper. A copy of the research report must be submitted to the student services office in the department three weeks before the beginning of the examination period in the student’s final quarter. The primary and secondary advisors must approve the research report before the distinction-in-research designation can be conferred.
+Complete ALL of the following Courses:
+CS399 - Independent Project
+Teaching and Research Assistantships in Computer Science
+Graduate student assistantships are available. Half-time assistants receive a tuition scholarship for 8, 9, or 10 units per quarter during the academic year and, in addition, receive a salary.
+Duties for half-time assistants during the academic year involve approximately 20 hours of work per week. Course assistants (CAs) help an instructor teach a course by conducting discussion sections, consulting with students, and grading examinations. Research assistants (RAs) help faculty and senior staff members with research in computer science. Many MS students are hired to staff teaching and research assistantships. However, MS students should not plan on being appointed to an assistantship.
+Students with fellowships may have the opportunity to supplement their stipends by serving as graduate student assistants.
+Artificial Intelligence Subplan
+Completion requirement
+Subplan Overview
+All courses for this requirement must be taken on a letter-grade basis and for three or more units.  (Courses taken for a CR or S grade from Spring 2019-20 through Summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+A program of 21 units must be completed. When a subplan allows for independent study, a maximum of six units of independent study (
+course
+) may be counted toward the subplan.
+Sections A + B are required. Section C is not required if sections A + B equal 21 units or more.
+Depth deviations are no longer advisor approved. You must fill out a petition form to the MSCS director. Petitions will only be approved in exceptional circumstances such as unforeseeable change in course availability.
+A.
+Complete at least 1 of the following Courses:
+CS221 - Artificial Intelligence: Principles and Techniques
+CS229 - Machine Learning
+CS229 may be substituted for CS221, in which case it can no longer be used towards depth area B requirements (no double-counting).
+May only be waived if an equivalent course has previously been completed at another institution and approved via the waiver form on GIN by an advisor and a MS administrator.
+B.
+Complete at least 4 of the following Courses:
+CS223A - Introduction to Robotics
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS224S - Spoken Language Processing
+CS224V - Agentic AI
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+CS234 - Reinforcement Learning
+CS237A - Principles of Robot Autonomy I
+CS237B - Principles of Robot Autonomy II
+CS238 - Decision Making under Uncertainty
+CS321M - AI Measurement Science
+CS336 - Language Modeling from Scratch
+CS229 cannot be used towards depth area B if it is being used towards depth area A.
+C.
+A total of at least 21 units from categories A, B, and the following:
+Complete ANY of the following Courses:
+CS173A - Foundations of Computational Human Genomics
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS221M - Mechanistic Interpretability
+CS224C - NLP for Computational Social Science
+CS224R - Deep Reinforcement Learning
+CS225A - Experimental Robotics
+CS227A - Robot Perception
+CS227B - General Game Playing
+CS229B - Machine Learning for Sequence Modeling
+CS229M - Machine Learning Theory
+CS229S - Systems for Machine Learning
+CS230 - Deep Learning
+CS233 - Geometric and Topological Data Analysis
+CS235 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS236 - Deep Generative Models
+CS238V - Validation of Safety Critical Systems
+CS239 - Advanced Topics in Sequential Decision Making
+CS246 - Mining Massive Data Sets
+CS257 - Introduction to Automated Reasoning
+CS270 - Modeling Biomedical Systems
+CS271 - Algorithmic Foundations for Artificial Intelligence in Healthcare
+CS273B - Deep Learning in Genomics and Biomedicine
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275 - Translational Bioinformatics
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CS281 - Ethics of Artificial Intelligence
+CS293 - Empowering Educators via Language Technology
+CS324H - History of Natural Language Processing
+CS325B - Data for Sustainable Development
+CS326 - Topics in Advanced Robotic Manipulation
+CS328 - Foundations of Causal Machine Learning
+CS329A - Self Improving AI Agents
+CS329D - Machine Learning Under Distributional Shifts
+CS329E - Machine Learning on Embedded Systems
+CS329H - Machine Learning from Human Preferences
+CS329M - Machine Programming
+CS329P - Practical Machine Learning
+CS329R - Race and Natural Language Processing
+CS329S - Machine Learning Systems Design
+CS329T - Trustworthy Machine Learning: Building and evaluating agentic systems
+CS329X - Human Centered NLP
+CS330 - Deep Multi-task and Meta Learning
+CS336 - Language Modeling from Scratch
+CS348I - Computer Graphics in the Era of AI
+CS353 - Seminar on Logic & Formal Philosophy
+CS361 - Engineering Design Optimization
+CS375 - Large-Scale Neural Network Modeling for Neuroscience
+CS377E - Designing Solutions to Global Grand Challenges
+CS377G - Designing Serious Games
+CS377J - Designing Systems for Collaboration, Cooperation, and Collective Action
+CS377Q - Designing for Accessibility
+CS377U - Understanding Users
+CS399 - Independent Project
+CS432 - Computer Vision for Education and Social Science Research
+EE263 - Matrix Methods: Singular Value Decomposition
+EE276 - Information Theory
+EE278 - Probability and Statistical Inference
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+EE377 - Information Theory and Statistics
+ENGR205 - Introduction to Control Design Techniques
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E252 - Foundations of Decision Analysis
+PSYCH209 - Neural Network Models of Cognition
+STATS202 - Statistical Learning and Data Science
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+CS377 (including CS377 with any suffix) and CS399 require the consent of MS advisor and MS administrator to verify relevance to the specialization
+CS173A was previously offered as CS273A. Either CS173A or CS273A can be used to complete this requirement.
+Computational Biology Subplan
+Completion requirement
+Subplan Overview
+All courses for this requirement must be taken on a letter-grade basis and for three or more units.   (Courses taken for a CR or S grade from spring 2019-20 through summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+A program of 21 units must be completed. When a subplan allows for independent study, a maximum of six units of independent study (
+course
+) may be counted toward the subplan.
+Sections A + B + C + D are required. Section E is not required if sections A-D equal 21 units or more.
+Depth deviations are no longer advisor approved. You must fill out a petition form to the MSCS director. Petitions will only be approved in exceptional circumstances such as unforeseeable change in course availability.
+A.
+Complete ALL of the following Courses:
+CS173A - Foundations of Computational Human Genomics
+CS173A was previously offered as CS273A. Either CS173A or CS273A can be used to complete this requirement.
+Students with equivalent coursework from external institutions may waive with the approval of their MS advisor and MS administrator.
+B.
+Complete ALL of the following Courses:
+CS221 - Artificial Intelligence: Principles and Techniques
+C.
+Complete at least 2 of the following Courses:
+CS142 - Web Applications
+OR
+CS147L - Cross-platform Mobile App Development
+OR
+CS193X - Web Programming Fundamentals
+CS145 - Introduction to Big Data Systems
+CS246 - Mining Massive Data Sets
+CS448B - Data Visualization
+D.
+Complete at least 3 of the following Courses:
+BMDS210 - Modeling Biomedical Systems
+BMDS214 - Representations and Algorithms for Computational Molecular Biology
+BMDS215 - Data Science for Medicine
+BMDS217 - Translational Bioinformatics
+BMDS219 - Mathematical Models and Medical Decisions
+BIOMEDIN220 - Artificial Intelligence in Healthcare
+BMDS222 - Cloud Computing for Biology and Healthcare
+BMDS260 - Computational Methods for Biomedical Image Analysis and Interpretation
+BIOMEDIN273B - Deep Learning in Genomics and Biomedicine
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+IMMUNOL207 - Essential Methods in Computational and Systems Immunology
+E.
+A total of at least 21 units from categories (A, B, C, D) and the following:
+Complete ANY of the following Courses:
+BIO187 - Mathematical Population Biology
+CS124 - From Languages to Information
+CS131 - Computer Vision: Foundations and Applications
+CS147 - Introduction to Human-Computer Interaction Design
+CS148 - Introduction to Computer Graphics and Imaging
+CS154 - Introduction to the Theory of Computation
+CS166 - Advanced Data Structures
+CS168 - The Modern Algorithmic Toolbox
+CS185 - Coding with LLM Assistants
+CS224N - Natural Language Processing with Deep Learning
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS229B - Machine Learning for Sequence Modeling
+CS229M - Machine Learning Theory
+CS229S - Systems for Machine Learning
+CS230 - Deep Learning
+CS231N - Deep Learning for Computer Vision
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS353 - Seminar on Logic & Formal Philosophy
+CS399 - Independent Project
+STATS215 - Statistical Models in Biology
+CS248A - Previously offered as CS248
+CS399 requires approval of MS advisor and MS administrator to verify relevance to the specialization
+Computer and Network Security Subplan
+Completion requirement
+Subplan Overivew
+All courses for this requirement must be taken on a letter-grade basis and for three or more units.   (Courses taken for a CR or S grade from spring 2019-20 through summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+A program of 21 units must be completed. When a subplan allows for independent study, a maximum of six units of independent study (
+course
+) may be counted toward the subplan.
+Sections A + B are required. Section C is not required if sections A + B equal 21 units or more.
+Depth deviations are no longer advisor approved. You must fill out a petition form to the MSCS director. Petitions will only be approved in exceptional circumstances such as unforeseeable change in course availability.
+A.
+Complete ALL of the following Courses:
+CS144 - Introduction to Computer Networking
+CS155 - Computer and Network Security
+CS255 - Introduction to Cryptography
+CS356 - Topics in Computer and Network Security
+CS112 - Operating systems kernel implementation project
+CS140E - Operating systems design and implementation
+CS212 - Operating Systems and Systems Programming
+Students with equivalent course work may waive with approval of their advisor and MS administrator for the following courses:
+CS 112
+CS 140E
+CS144
+B.
+Complete at least 3 of the following Courses:
+CS143 - Compilers
+CS149 - Parallel Computing
+CS152 - Trust and Safety
+CS166 - Advanced Data Structures
+CS190 - Software Design Studio
+CS238V - Validation of Safety Critical Systems
+CS240 - Advanced Topics in Operating Systems
+CS240LX - Advanced Systems Laboratory, Accelerated
+CS241 - Embedded Systems Workshop
+CS244 - Advanced Topics in Networking
+CS244B - Distributed Systems
+CS244C - Advanced Networking and Distributed Systems
+CS249I - The Modern Internet
+CS251 - Cryptocurrencies and blockchain technologies
+CS257 - Introduction to Automated Reasoning
+CS258 - Quantum Cryptography
+CS259Q - Quantum Computing
+CS329T - Trustworthy Machine Learning: Building and evaluating agentic systems
+CS340LX - Advanced Operating System Lab: Accelerated (II)
+CS340R - Rusty Systems
+CS350S - Privacy-Preserving Systems
+CS355 - Advanced Topics in Cryptography
+CS357S - Formal Methods for Computer Systems
+C.
+A total of at least 21 units from categories A, B, and the following:
+Complete ANY of the following Courses:
+CS149 - Parallel Computing
+CS221 - Artificial Intelligence: Principles and Techniques
+OR
+CS229 - Machine Learning
+CS234 - Reinforcement Learning
+CS242 - Programming Languages
+CS243 - Program Analysis and Optimizations
+CS250 - Algebraic Error Correcting Codes
+CS399 - Independent Project
+EE282 - Computer Systems Architecture
+EE374 - Fundamentals of Blockchain Infrastructure
+EE384S - Performance Engineering of Computer Systems & Networks
+CS399 requires approval of MS advisor and MS administrator to very relevance to the specialization.
+Human-Computer Interaction Subplan
+Completion requirement
+Subplan Overview
+All courses for this requirement must be taken on a letter-grade basis and for three or more units.   (Courses taken for a CR or S grade from spring 2019-20 through summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+A program of 21 units must be completed. When a subplan allows for independent study, a maximum of six units of independent study (
+course
+) may be counted toward the subplan.
+Sections A + B + C are required. Section D is not required if sections A-C equal 21 units or more.
+Depth deviations are no longer advisor approved. You must fill out a petition form to the MSCS director. Petitions will only be approved in exceptional circumstances such as unforeseeable change in course availability.
+A.
+Complete ALL of the following Courses:
+CS147 - Introduction to Human-Computer Interaction Design
+Students who completed any of these courses for a previous degree at Stanford have satisfied this requirement: select the course and change the units in the Course List to 0. Students who took an equivalent course at another institution can submit a waiver request on GIN. CS147 may only be waived if an equivalent course has previously been completed at another institution and approved via the waiver form on GIN by an advisor and a MS administrator.
+B.
+Complete at least 1 of the following Courses:
+CS142 - Web Applications
+CS146J - Full-Stack Web Programming
+CS147L - Cross-platform Mobile App Development
+Students who completed any of these courses for a previous degree at Stanford have satisfied this requirement: select the course and change the units in the Course List to 0. May only be waived if an equivalent course has previously been completed at another institution and approved via the waiver form on GIN by an advisor and a MS administrator.
+C.
+Complete ANY of the following Course Sets:
+Untitled Course Set
+CS247 any suffix besides the course used for requirement (C)
+D.
+Students who do not take CS347 can satisfy area D with a two-course combination of (1) COMM254 or COM224 and (2) an additional HCI elective from category (F) below.
+Complete ANY of the following Courses:
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+COMM254 - The Politics of Algorithms
+OR
+COMM224 - Truth, Trust, and Tech
+E.
+Complete at least 1 of the following Courses:
+CS278 - Social Computing
+CS448B - Data Visualization
+May only be waived if an equivalent course has previously been completed at another institution and approved via the waiver form on GIN by an MS advisor and a MS administrator.
+F.
+Complete at least 2 of the following Courses:
+CS177 - Introduction to Product Management with AI
+CS194H - User Interface Design Project
+CS206 - Exploring Computational Journalism
+CS210A - Industry Innovation Lab
+CS222 - AI Agents and Simulations
+CS224C - NLP for Computational Social Science
+CS278 - Social Computing
+CS329X - Human Centered NLP
+CS377E - Designing Solutions to Global Grand Challenges
+CS377G - Designing Serious Games
+CS377J - Designing Systems for Collaboration, Cooperation, and Collective Action
+CS377P - Read, Write, Play
+CS377Q - Designing for Accessibility
+CS377U - Understanding Users
+CS448B - Data Visualization
+CS 247 here must have different suffix from course used in part (c). Students who completed two of these courses for a previous degree at Stanford have satisfied this requirement: select the course and change the units in the Course List to 0.
+G.
+A total of at least 21 units from Category A, B, C, D, E, F and the following:
+Complete ANY of the following Courses:
+ARTSTUDI130 - Interactive Art: Making it with Arduino
+ARTSTUDI163 - Drawing with Code
+ARTSTUDI165A - Intro to Art & Technology
+ARTSTUDI169 - Virtual Reality: the possibility and peril of immersive artwork
+ARTSTUDI231A - Interactive Art: Making it with Arduino
+COMM224 - Truth, Trust, and Tech
+COMM254 - The Politics of Algorithms
+COMM272 - Media Psychology
+COMM314 - Ethnographic Methods
+COMM324 - Language and Technology
+CS498C - Introduction to CSCL: Computer-Supported Collaborative Learning
+DESIGN101 - History and Ethics of Design
+DESIGN121 - Introduction to Human Values in Design
+DESIGN131 - Advanced Design: Needfinding
+DESIGN151 - Business Design: Impact and Implications
+DESIGN170 - Visual Frontiers
+DESIGN242 - Wild Ways of Making
+DESIGN245 - Redesigning Finance
+DESIGN265 - Psychedelic Medicine by Design
+DESIGN273 - Negotiation by Design: Crafting Environmental Agreement
+DESIGN284 - Designing for Physical AI
+DESIGN294 - Design to Equip Learners in Under-Resourced Communities
+DESIGN368 - Leadership Lab
+DESIGN399 - LaunchPad: Design and Launch your Product or Service
+EDUC200B - Introduction to Qualitative Research Methods
+EDUC281 - Technology for Learners
+EDUC342 - Child Development and New Technologies
+EDUC432 - Designing Explorable Explanations for Learning
+ENGR231 - Transformative Design
+ME203 - Design and Manufacturing
+ME210 - Introduction to Mechatronics
+MS&E125 - Introduction to Applied Statistics
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+MS&E334 - Topics in Social Data
+MUSIC220A - Fundamentals of Computer-Generated Sound
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+MUSIC220C - Research Seminar in Computer-Generated Music
+MUSIC250A - Physical Interaction Design for Music
+MUSIC256A - Music, Computing, Design: The Art of Design
+PSYCH209 - Neural Network Models of Cognition
+PSYCH251 - Experimental Methods
+PSYCH252 - Statistical Methods for Behavioral and Social Sciences
+PSYCH253 - Multivariate Analysis, Measurement, and Study of Change in Social Science Research
+STATS203 - Regression Models and Analysis of Variance
+SYMSYS245 - Cognition in Interaction Design
+Courses listed at
+http://dschool.stanford.edu
+under 'elective classes' for 3 units or more and numbered 101 and above are also acceptable. List as electives in the course table below and mentioned in Student Notes.
+Information Management and Analytics Subplan
+Completion requirement
+Subplan Overview
+All courses for this requirement must be taken on a letter-grade basis and for three or more units. (Courses taken for a CR or S grade from spring 2019-20 through summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+A program of 21 units must be completed. When a subplan allows for independent study, a maximum of six units of independent study (
+course
+) may be counted toward the subplan.
+Sections A + B are required. Section C is not required if sections A + B equal 21 units or more.
+Depth deviations are no longer advisor approved. You must fill out a petition form to the MSCS director. Petitions will only be approved in exceptional circumstances such as unforeseeable change in course availability.
+A.
+Complete ALL of the following Courses:
+CS145 - Introduction to Big Data Systems
+Students with equivalent coursework from external institutions may waive CS145 with MS advisor and MS administrator approval.
+B.
+Complete at least 4 of the following Courses:
+CS224N - Natural Language Processing with Deep Learning
+CS224W - Machine Learning with Graphs
+CS229 - Machine Learning
+CS246 - Mining Massive Data Sets
+CS281 - Ethics of Artificial Intelligence
+C.
+A total of at least 21 units from categories A, B, and the following:
+Complete ANY of the following Courses:
+CS125 - Data: Algorithms, Tools, Policy, and Society
+CS144 - Introduction to Computer Networking
+CS151 - Logic Programming
+CS173A - Foundations of Computational Human Genomics
+CS190 - Software Design Studio
+CS221 - Artificial Intelligence: Principles and Techniques
+CS222 - AI Agents and Simulations
+CS224R - Deep Reinforcement Learning
+CS224S - Spoken Language Processing
+CS224U - Natural Language Understanding
+CS224V - Agentic AI
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229B - Machine Learning for Sequence Modeling
+CS229M - Machine Learning Theory
+CS229S - Systems for Machine Learning
+CS230 - Deep Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+CS233 - Geometric and Topological Data Analysis
+CS234 - Reinforcement Learning
+CS236 - Deep Generative Models
+CS238 - Decision Making under Uncertainty
+CS240 - Advanced Topics in Operating Systems
+CS242 - Programming Languages
+CS243 - Program Analysis and Optimizations
+CS244 - Advanced Topics in Networking
+CS244B - Distributed Systems
+CS251 - Cryptocurrencies and blockchain technologies
+CS255 - Introduction to Cryptography
+CS261 - Combinatorial Optimization
+CS265 - Randomized Algorithms and Probabilistic Analysis
+CS270 - Modeling Biomedical Systems
+CS271 - Algorithmic Foundations for Artificial Intelligence in Healthcare
+CS272 - Introduction to Biomedical Informatics Research Methodology
+CS273B - Deep Learning in Genomics and Biomedicine
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275 - Translational Bioinformatics
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CS288 - Applied Causal Inference with Machine Learning and AI
+CS325B - Data for Sustainable Development
+CS329A - Self Improving AI Agents
+CS329H - Machine Learning from Human Preferences
+CS329T - Trustworthy Machine Learning: Building and evaluating agentic systems
+CS329X - Human Centered NLP
+CS331X - AI for Algorithmic Reasoning and Optimization
+CS336 - Language Modeling from Scratch
+CS349D - AI Inference Infrastructure
+CS349H - Software Techniques for Emerging Hardware Platforms
+CS399 - Independent Project
+CS448B - Data Visualization
+CS525 - Data for AI
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+STATS315A - Modern Applied Statistics: Learning
+CS399 requires approval of MS advisor and MS administrator to verify relevance to the specialization.
+CS173A was previously offered as CS273A. Either CS173A or CS273A can be used to complete this requirement.
+Note that if CS145 was waived in area (A), students should take an additional course from either area (B) or (C) in its place.
+Software Theory Subplan
+Completion requirement
+Subplan Overivew
+All courses for this requirement must be taken on a letter-grade basis and for three or more units. (Courses taken for a CR or S grade from spring 2019-20 through summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+A program of 21 units must be completed. When a subplan allows for independent study, a maximum of six units of independent study (
+course
+) may be counted toward the subplan.
+Sections A + B + C are required. Section D is not required if sections A-C equal 21 units or more.
+Depth deviations are no longer advisor approved. You must fill out a petition form to the MSCS director. Petitions will only be approved in exceptional circumstances such as unforeseeable change in course availability.
+A.
+Complete ALL of the following Courses:
+CS242 - Programming Languages
+CS243 - Program Analysis and Optimizations
+B.
+Complete at least 1 of the following Courses:
+CS212 - Operating Systems and Systems Programming
+CS221 - Artificial Intelligence: Principles and Techniques
+CS229S - Systems for Machine Learning
+CS240 - Advanced Topics in Operating Systems
+CS244 - Advanced Topics in Networking
+CS245 - Principles of Data-Intensive Systems
+CS246 - Mining Massive Data Sets
+CS295 - Software Engineering
+CS315B - Parallel Computing Research Project
+C.
+Complete at least 1 of the following Courses:
+CS255 - Introduction to Cryptography
+CS355 - Advanced Topics in Cryptography
+CS356 - Topics in Computer and Network Security
+D.
+A total of at least 21 units from categories A, B, C, and the following:
+Complete ANY of the following Courses:
+CS151 - Logic Programming
+CS250 - Algebraic Error Correcting Codes
+CS257 - Introduction to Automated Reasoning
+CS261 - Combinatorial Optimization
+CS265 - Randomized Algorithms and Probabilistic Analysis
+CS315B - Parallel Computing Research Project
+CS349H - Software Techniques for Emerging Hardware Platforms
+CS357S - Formal Methods for Computer Systems
+CS399 - Independent Project
+CS399 can be used with consent of MS advisor and administrator to verify relevance to the specialization.
+Systems Subplan
+Completion requirement
+Subplan Overview
+All courses for this requirement must be taken on a letter-grade basis and for three or more units. (Courses taken for a CR or S grade from spring 2019-20 through summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+A program of 21 units must be completed. When a subplan allows for independent study, a maximum of six units of independent study (
+course
+) may be counted toward the subplan.
+Sections A + B are required. Section C is not required if sections A + B equal 21 units or more.
+Depth deviations are no longer advisor approved. You must fill out a petition form to the MSCS director. Petitions will only be approved in exceptional circumstances such as unforeseeable change in course availability.
+A.
+Complete ALL of the following Courses:
+CS112 - Operating systems kernel implementation project
+OR
+CS140E - Operating systems design and implementation
+OR
+CS212 - Operating Systems and Systems Programming
+CS144 - Introduction to Computer Networking
+CS240 - Advanced Topics in Operating Systems
+OR
+CS240LX - Advanced Systems Laboratory, Accelerated
+Student may waive CS112, CS140E, CS212, and CS144  with the approval of their MS advisor and MS administrator.
+B.
+Complete at least 4 of the following Courses:
+CS229S - Systems for Machine Learning
+CS242 - Programming Languages
+CS243 - Program Analysis and Optimizations
+CS244 - Advanced Topics in Networking
+CS244B - Distributed Systems
+CS244C - Advanced Networking and Distributed Systems
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS249I - The Modern Internet
+CS257 - Introduction to Automated Reasoning
+CS295 - Software Engineering
+EE271 - Introduction to VLSI Systems
+EE282 - Computer Systems Architecture
+CS248A was previously offered as CS248.
+C.
+A total of at least 21 units from categories A, B, and the following:
+Complete ANY of the following Courses:
+CS149 - Parallel Computing
+CS217 - Hardware Accelerators for Machine Learning
+CS241 - Embedded Systems Workshop
+CS246 - Mining Massive Data Sets
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+CS251 - Cryptocurrencies and blockchain technologies
+CS255 - Introduction to Cryptography
+CS270 - Modeling Biomedical Systems
+CS272 - Introduction to Biomedical Informatics Research Methodology
+CS340LX - Advanced Operating System Lab: Accelerated (II)
+CS340R - Rusty Systems
+CS343D - Domain-Specific Programming Models and Compilers
+CS349D - AI Inference Infrastructure
+CS349F - Fabric Architectures For AI Systems
+CS349H - Software Techniques for Emerging Hardware Platforms
+CS349M - Machine Learning for Software Engineering
+CS350S - Privacy-Preserving Systems
+CS356 - Topics in Computer and Network Security
+CS357S - Formal Methods for Computer Systems
+CS399 - Independent Project
+EE267 - Virtual Reality
+EE273 - Digital Systems Engineering
+EE382C - Interconnection Networks
+EE384S - Performance Engineering of Computer Systems & Networks
+CS399 requires approval of MS advisor and MS administrator to verify relevance to the specialization.
+Theoretical Computer Science Subplan
+Completion requirement
+Subplan Overview
+All courses for this requirement must be taken on a letter-grade basis and for three or more units. (Courses taken for a CR or S grade from spring 2019-20 through summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+A program of 21 units must be completed. When a subplan allows for independent study, a maximum of six units of independent study (
+course
+) may be counted toward the subplan.
+Section A is required. Complete the remaining 21 units by choosing courses from Section B.
+Depth deviations are no longer advisor approved. You must fill out a petition form to the MSCS director. Petitions will only be approved in exceptional circumstances such as unforeseeable change in course availability.
+A.
+Complete ALL of the following Courses:
+CS154 - Introduction to the Theory of Computation
+CS261 - Combinatorial Optimization
+CS154 may be waived by students with equivalent course work with the approval of their MS advisor and MS administrator.
+B.
+A total of at least 21 units from category A, and the following:
+Complete ANY of the following Courses:
+CS151 - Logic Programming
+CS163 - The Practice of Theory Research
+CS166 - Advanced Data Structures
+CS168 - The Modern Algorithmic Toolbox
+CS225 - Machine Learning for Discrete Optimization
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229M - Machine Learning Theory
+CS233 - Geometric and Topological Data Analysis
+CS236 - Deep Generative Models
+CS246 - Mining Massive Data Sets
+CS250 - Algebraic Error Correcting Codes
+CS251 - Cryptocurrencies and blockchain technologies
+CS254 - Computational Complexity
+CS254B - Computational Complexity II
+CS255 - Introduction to Cryptography
+CS256 - Algorithmic Fairness
+CS257 - Introduction to Automated Reasoning
+CS258 - Quantum Cryptography
+CS259Q - Quantum Computing
+CS263 - Counting and Sampling
+CS264 - Beyond Worst-Case Analysis
+CS265 - Randomized Algorithms and Probabilistic Analysis
+CS266Z - Robust Algorithms in the Face of Uncertainty
+CS269I - Incentives in Computer Science
+CS328 - Foundations of Causal Machine Learning
+CS331X - AI for Algorithmic Reasoning and Optimization
+CS354 - Topics in Intractability: Unfulfilled Algorithmic Fantasies
+CS355 - Advanced Topics in Cryptography
+CS359D - Quantum Complexity Theory
+CS359E - Quantum Complexity Theory
+CS368 - Algorithmic Techniques for Big Data
+CS369O - Optimization Algorithms
+CS369Z - Dynamic Data Structures for Graphs
+CS399 - Independent Project
+CS468 - Topics in Geometric Computing - 3D and 4D Foundation Models
+EE364A - Convex Optimization I
+MS&E310 - Linear Programming
+MS&E319 - Efficient Generative Models
+CS359, CS369, CS399, and CS468 requires the consent of MS advisor and MS administrator to verify relevance to the specialization.
+Multiple CS359, CS369, and/or CS468 courses may be taken as long as they are each on different topics, denoted by different letter suffixes for the courses.
+CS331X was previously offered as CS331.
+Visual Computing Subplan
+Completion requirement
+Subplan Overview
+All courses for this requirement must be taken on a letter-grade basis and for three or more units. (Courses taken for a CR or S grade from spring 2019-20 through summer 2020-21 satisfy MS-CS requirements as if taken for a letter grade.)
+A program of 21 units must be completed. When a subplan allows for independent study, a maximum of six units of independent study (
+course
+) may be counted toward the subplan.
+Sections A + B are required. Section C is not required if sections A + B equal 21 units or more.
+Depth deviations are no longer advisor approved. You must fill out a petition form to the MSCS director. Petitions will only be approved in exceptional circumstances such as unforeseeable change in course availability.
+A.
+Complete at least 2 of the following Courses:
+CS231N - Deep Learning for Computer Vision
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+B.
+Complete at least 3 additional courses from either categories A or the following:
+Complete ANY of the following Courses:
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS223A - Introduction to Robotics
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS233 - Geometric and Topological Data Analysis
+CS348B - Computer Graphics: Image Synthesis Techniques
+CS348C - Computer Graphics: Animation and Simulation
+CS348E - Character Animation: Modeling, Simulation, and Control of Human Motion
+CS348I - Computer Graphics in the Era of AI
+CS348K - Visual Computing Systems
+CS348N - Neural Models for 3D Geometry
+CS448I - Computational Imaging
+C.
+A total of at least 21 units from categories A, B, and the following:
+Complete ANY of the following Courses:
+CS123 - A Hands-On Introduction to Building AI-Enabled Robots
+CS131 - Computer Vision: Foundations and Applications
+CS148 - Introduction to Computer Graphics and Imaging
+CS149 - Parallel Computing
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS234 - Reinforcement Learning
+CS236 - Deep Generative Models
+CS448B - Data Visualization
+CS448Z - Physically Based Animation and Sound
+EE261 - The Fourier Transform and Its Applications
+EE267 - Virtual Reality

@@ -1,0 +1,186 @@
+APLPH-MS - Applied Physics (MS)
+Download as PDF
+Applied Physics
+Applied Physics
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Department of Applied Physics offers qualified students with backgrounds in physics or engineering the opportunity to do graduate coursework and research in the physics relevant to technical applications and natural phenomena. These areas include accelerator physics, biophysics, condensed matter physics, quantum electronics and photonics, quantum optics and quantum information, ultrafast and non-equilibrium properties of materials, and synchrotron radiation and its applications.
+Faculty members and various members of other departments such as Biology, Chemistry, Electrical Engineering, Materials Science and Engineering, Physics, the SLAC National Accelerator Laboratory, and faculty of the Medical School engaged in related research fields supervise student research.
+Research activities are carried out in laboratories including the Geballe Laboratory for Advanced Materials (GLAM), the Edward L. Ginzton Laboratory (GINZTON),  the Hansen Experimental Physics Laboratory (HEPL), the SLAC National Accelerator Laboratory, the Center for Probing the Nanoscale, and the Stanford Institute for Materials and Energy Science (SIMES).
+This program is full time, master students in the Applied Physics MS program are expected to maintain a significant physical presence on campus throughout their graduate studies. This ensures that students have access to advisors and mentors, libraries, and other resources that support timely progress towards completion of degree requirements. Additionally, being on campus ensures that students are part of the academic and campus community which supports continued professional development.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+See
+Graduate Degrees
+for the university’s basic requirements for the master’s degree.
+There are no department or university examinations. There is no thesis component. If a student is admitted to the MS program but later wishes to change to the PhD program, the student must re-apply through the admissions portal.
+Only six units below the 200-level are permitted without approval by the Applied Physics Graduate Study Committee.
+Core Course Requirements
+All Master students must complete at least one approved graduate course (for a letter grade)
+in each of any four
+of the following five areas:
+Quantum Mechanics
+Statistical and Condensed Matter Physics
+Classical Physics
+Methods
+Biophysics
+A course that appears in multiple categories may be used to satisfy only one core requirement. The flagship course, offered every year by the Applied Physics department in each area is listed first (in bold). Students unfamiliar with a topic area are strongly encouraged to begin with the flagship course, or another more introductory course as needed. Discussions with the academic advisor will help students determine their appropriate curriculum. Students with prior background may choose any approved course in that category.
+Complete at least 1 course in each of any 4 of the following 5 areas.
+Fulfill ANY of the following requirements:
+Quantum Mechanics
+Complete at least 1 of the following Courses:
+APPPHYS203 - Atoms, Fields and Photons
+APPPHYS228 - Quantum Hardware
+APPPHYS282 - ULTRACOLD QUANTUM PHYSICS
+APPPHYS283 - Ultrafast Quantum Physics
+EE224 - Quantum Control and Engineering
+PHYSICS230 - Graduate Quantum Mechanics I
+PHYSICS231 - Graduate Quantum Mechanics II
+PHYSICS234 - Advanced Topics in Quantum Mechanics
+PHYSICS330 - Quantum Field Theory I
+PHYSICS331 - Quantum Field Theory II
+PHYSICS332 - Quantum Field Theory III
+PHYSICS430 - Quantum Error Correction
+OR
+Statistical and Condensed Matter Physics
+Complete at least 1 of the following Courses:
+APPPHYS204 - Quantum Materials
+APPPHYS229 - Statistical Mechanics of Learning and Computation
+APPPHYS230 - Renormalization Group and Randomness
+APPPHYS270 - Magnetism and Long Range Order in Solids
+APPPHYS272 - Solid State Physics
+APPPHYS273 - Solid State Physics II
+APPPHYS280 - Phenomenology of Superconductors
+APPPHYS285 - Physics of Disordered Systems
+CHEMENG466 - Polymer Physics
+PHYSICS212 - Statistical Mechanics
+PHYSICS372 - Condensed Matter Theory I
+PHYSICS373 - Condensed Matter Theory II
+OR
+Classical Physics
+Fulfill ANY of the following requirements:
+Electrodynamics and Optics
+Complete at least 1 of the following Courses:
+APPPHYS201 - Electrons and Photons
+APPPHYS220 - Advanced Topics in Accelerator Physics
+APPPHYS325 - Synchrotron Radiation and Free Electron Lasers: Principles and Applications.
+EE236A - Modern Optics
+EE236B - Guided Waves
+EE236C - Lasers
+EE242 - Electromagnetic Waves
+EE336 - Nanophotonics
+EE346 - Introduction to Nonlinear Optics
+MATSCI341 - Quantum Theory of Electronic and Optical Excitations in Materials
+PHOTON366 - Light and Plasma
+PHYSICS220 - Classical Electrodynamics
+OR
+Continuum Mechanics
+Note: There is no flagship course for Continuum Mechanics.
+Complete at least 1 of the following Courses:
+AA201A - Fundamentals of Acoustics
+AA201B - Topics in Aeroacoustics
+AA210A - Fundamentals of Compressible Flow
+CEE262A - Hydrodynamics
+GEOPHYS238 - Waves in Solids and Fluids
+ME351A - Fluid Mechanics
+ME351B - Fluid Mechanics
+ME360 - Physics of  Microfluidics
+OR
+Methods
+Fulfill ANY of the following requirements:
+Laboratory Courses
+Note: There are two flagship courses for Laboratory; APPPHYS 232 and APPPHYS 214.
+Complete at least 1 of the following Courses:
+APPPHYS232 - Advanced Imaging Lab in Biophysics
+APPPHYS214 - Experimental Methods for Quantum Materials
+APPPHYS222 - Principles of X-ray Scattering
+EE234 - Photonics Laboratory
+EE235 - Molecular and Cellular Engineering Lab
+EE235A - Analytical Methods in Biotechnology I
+EE251 - High-Frequency Circuit Design Laboratory
+EE312 - Integrated Circuit Fabrication Laboratory
+ENGR241 - Advanced Micro and Nano Fabrication Laboratory
+MATSCI171 - Energy Materials Laboratory
+MATSCI172 - X-Ray Diffraction Laboratory
+MATSCI173 - Mechanical Behavior Laboratory
+MATSCI322 - Transmission Electron Microscopy Laboratory
+MATSCI326 - X-Ray Science and Techniques
+MATSCI327 - Transmission Electron Microscopy Analysis and Simulation
+PHYSICS301 - Graduate Observational Astrophysics
+OR
+Computational Courses
+Note: There is no flagship course for Computational Courses.
+Complete at least 1 of the following Courses:
+CME206 - Introduction to Numerical Methods for Engineering
+CME213 - Introduction to parallel computing using MPI, openMP, and CUDA
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS236 - Deep Generative Models
+EE292L - Computational Electromagnetics
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+ME469 - Computational Methods in Fluid Mechanics
+OR
+Mathematical Methods Courses
+Note: There is no flagship course for Mathematical Methods Courses.
+Complete at least 1 of the following Courses:
+APPPHYS223 - Stochastic and Nonlinear Dynamics
+CME308 - Stochastic Methods in Engineering
+EE276 - Information Theory
+EE278 - Probability and Statistical Inference
+MATH220A - Partial Differential Equations of Applied Mathematics
+STATS200 - Introduction to Theoretical Statistics
+OR
+Biophysics
+The department offers a growing number of courses at the intersection of physics and biology. Students interested in this area are encouraged to consider the following courses.
+Complete at least 1 of the following Courses:
+APPPHYS205 - Introduction to Biophysics
+APPPHYS235 - Biotransport Phenomena
+APPPHYS237 - Quantitative Evolutionary Dynamics and Genomics
+APPPHYS294 - Cellular Biophysics
+CHEMENG320 - Chemical Kinetics and Reaction Engineering
+Letter grade:
+All courses used to satisfy core requirements must be taken for a letter grade.
+Double-counting:
+A course that appears in multiple categories may be used to satisfy only one core requirement.
+33 units of Additional Advanced Courses in Science and/or Engineering
+Fulfill ANY of the following requirements:
+Additional Advanced Courses Overview
+Complete 33 additional units in advanced science and/or engineering courses. These may be a combination of APPPHYS290 Directed Studies in Applied Physics, one-unit courses (listed below), and other courses (listed below).
+OR
+Directed Studies
+Complete ALL of the following Courses:
+APPPHYS290 - Directed Studies in Applied Physics
+OR
+1-Unit Seminar Courses
+Complete ANY of the following Courses:
+APPPHYS470 - Condensed Matter Seminar
+APPPHYS483 - Optics and Electronics Seminar
+BIOPHYS250 - SEMINAR IN BIOPHYSICS
+EE380 - Colloquium on Computer Systems
+MATSCI230 - Materials Science Colloquium
+The courses listed above are just some of the one-unit seminar options students can choose from. Your academic advisor may approve other one-unit seminar courses.
+OR
+Other Suitable Advanced Courses
+Complete ANY of the following Courses:
+EE222 - Applied Quantum Mechanics I
+EE223 - Applied Quantum Mechanics II
+EE236A - Modern Optics
+EE236C - Lasers
+EE332 - Laser Dynamics
+EE346 - Introduction to Nonlinear Optics
+PHYSICS372 - Condensed Matter Theory I
+PHYSICS373 - Condensed Matter Theory II

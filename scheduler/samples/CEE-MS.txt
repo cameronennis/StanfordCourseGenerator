@@ -1,0 +1,782 @@
+CEE-MS - Civil and Environmental Engineering (MS)
+Download as PDF
+Civil and Environmental Engineering
+Civil and Environmental Engr
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Our Master of Science (MS) programs are terminal degree programs for those seeking advanced knowledge in a focused civil and environmental engineering discipline to pursue a career in industry or another professional degree. The MS degree is coursework-based. Our Master’s degrees are offered under the general regulations of the university as outlined in the Stanford Bulletin.
+The Department of Civil & Environmental Engineering offers Master’s degrees in five areas of specialization, described below.
+The Master’s program consists of core courses, technical electives, seminars, and unrestricted electives to deepen knowledge and learning. Many fundamental skills and bodies of knowledge are the foundation of all areas of specialization in a modern CEE graduate education. These
+cross-cutting courses
+are accessible to students in any program.
+Civil & Environmental Engineering Master's subplans:
+Atmosphere/Energy (A/E)
+Stanford University’s Atmosphere/Energy MS degree program bridges the gap between the two key Civil and Environmental Engineering disciplines. This program aims to mitigate atmospheric problems by optimizing the use of natural energy resources (wind, solar, hydro, geothermal, and marine resources); learning about the electrification of transportation, buildings, and industry; increasing the efficiency with which energy is used; and understanding the effects of energy technologies on the atmosphere.
+Environmental Engineering (EnvEng)
+The Environmental Engineering MS degree program emphasizes applying fundamental principles to analyze complex environmental problems and devise effective solutions. With this education, graduates of our program can deal effectively with new environmental issues as they emerge and meet the challenges created globally by increasing urbanization, population growth, and ecological degradation.
+Structural Engineering & Mechanics (SEM)
+Previously called Structural Engineering & Geomechanics, there are no changes to academic requirements for current students already admitted to Structural Engineering & Geomechanics.
+The Structural Engineering and Mechanics MS degree program offers courses in various areas related to structural analysis and design, geomechanics, engineering informatics, hazard risk and reliability, structural mechanics and materials, and structural sensing, monitoring, and data analytics for the built environment.
+Sustainable Design & Construction (SDC)
+The Sustainable Design and Construction MS degree program prepares students for careers in the built environment: designing, building, and managing sustainable buildings and infrastructure to maximize their lifecycle economic value and net contribution to environmental and social functions and services.
+Sustainable Engineered Systems (SES)
+The Sustainable Engineered Systems MS degree program, available exclusively in a hybrid online/on-campus format, is designed for students who want to gain advanced knowledge of the sustainability of civil and environmental engineering systems and data science along with a specialization in structural and material systems, sustainable construction systems, environmental engineering systems, or atmospheric and energy systems.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Atmosphere/Energy (Subplan)
+Completion requirement
+Requirements Overview
+The Department of Civil and Environmental Engineering offers an MS in Civil and Environmental Engineering with a special field designation of Atmosphere/Energy on the transcript.
+Students admitted to graduate study in the department can satisfy the requirements for the Master of Science in Civil and Environmental Engineering by completing a minimum of three quarters of full tuition registration (more than 8 units) and a minimum of 45 units of study beyond the BS degree. All 45 units must be taken at Stanford.
+Our course requirements allow students the flexibility to select courses closest to their interest while maintaining the goal of giving students a background in both energy and atmosphere. The A/E MS degree requires at least 30 units of study at the graduate level (courses numbered 200 or above) and at least 24 units of study from the School of Engineering. Courses numbered below 100 may not be used to fulfill the 45-unit degree requirement.
+Additional requirements for the MS in Civil and Environmental Engineering with an emphasis on Atmosphere/Energy include the completion of:
+A minimum of 30 units in combined atmosphere- and energy-related courses
+Of these 30 units, a minimum of 8 core courses of at least 3 units taken for letter grades.
+Of those 8 core courses, you may take either 3 energy + 5 atmosphere; 4 energy + 4 atmosphere; or 5 energy + 3 atmosphere core courses.
+The remainder of the 30 units may be from either atmosphere- or energy-related courses
+15 additional units to fulfill the 45-unit MS requirement
+These units must be in engineering, science, mathematics or related fields or pertinent to the student's degree objective and must be approved by the advisor. Physical education and language courses or remedial English-language instruction (EFSLANG) courses, for example, cannot count toward the MS degree. Students may take up to 6 out of the 45 units required for the MS degree on S/NC or CR/NC basis (instead of receiving a letter grade), but these pass/no credit courses cannot count toward the minimum requirement of 8 core courses. The only exception to the 6-unit rule is when a student takes a normal (non-seminar, non-research) course of 2 units that was not offered for a letter grade, so must have been offered S/NC (or the equivalent in the business school).
+Energy Core and Atmosphere Core
+Students must complete a minimum of 30 units of Atmosphere & Energy Core coursework and Atmosphere/Energy Electives.
+You must take a total of eight core courses (all 3 units or more for a letter grade if offered), but you can take either:
+3 energy cores + 5 atmospheric cores;
+4 energy cores + 4 atmosphere cores;
+5 energy cores + 3 atmosphere cores.
+If you started the program prior to the 2024-25 academic year, you may opt for the new requirement or stick with the previous one (4 energy cores + 4 atmosphere cores).
+Fulfill ALL of the following requirements:
+Energy Core Courses
+Complete at least 3 of the following Courses:
+CEE176A - Energy Efficient Buildings
+CEE207A - Understand Energy
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE207R - E^3: Extreme Energy Efficiency
+CEE263H - Sustainable Energy Decisions
+CEE273S - Electricity Economics
+CEE330B - Quest for an Inclusive Clean Energy Economy
+CEE207A - Understand Energy
+CEE207R - E^3: Extreme Energy Efficiency
+CEE272R - Engineering Future Electricity Systems
+CEE276B - 100% Clean, Renewable Energy and Storage for Everything
+CEE276M - Spatial Planning for Gigascale Renewables & Transmission
+CEE176C - Energy Storage Integration - Vehicles, Renewables, and the Grid
+ENERGY276 - Electric System Planning with Emerging Generation Technologies and Large Load
+CEE207S - Understand Energy - Essentials
+EE253 - Power Electronics
+ENERGY201C - Energy storage and conversion systems: Solar Cells, Fuel Cells, Batteries
+ENERGY203 - Stanford Climate Ventures
+ENERGY269 - Geothermal Reservoir Engineering
+ENERGY295 - Electrochemical Energy Storage Systems: Modeling and Estimation
+GEP230 - Environmental Economics: Models, Data, and Policy Design
+MS&E243 - Energy and Environmental Policy Analysis
+EPS271 - Mining and the Green Transition
+ENERGY291 - Optimization of Energy Systems
+PHYSICS240 - Introduction to the Physics of Energy
+AND
+Atmosphere Core Courses
+Complete at least 3 of the following Courses:
+AA210A - Fundamentals of Compressible Flow
+CEE172 - Air Quality Management
+CEE261C - WindWise: CFD for civil engineers and architects
+CEE261I - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+CEE262A - Hydrodynamics
+OR
+CEE262D - Introduction to Physical Oceanography
+OR
+CEE262I - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+CEE263C - Weather and Storms
+CEE263D - Air Pollution and Global Warming: History, Science, and Solutions
+CEE278A - Air Pollution Fundamentals
+CEE362A - Uncertainty Quantification
+CEE263E - Cloud and Aerosol: From Microphysics to Climate Change
+CEE363F - Geophysical Fluid Dynamics
+EARTHSYS223 - Biosphere-Atmosphere Interactions
+EARTHSYS241 - Remote Sensing of the Oceans
+EARTHSYS242 - Remote Sensing of Land
+ESS202 - Scientific Basis of Climate Change
+ESS267 - Climate Change & Extreme Weather
+ESS271 - Climate Models and Data
+LAW2520 - Climate Law and Policy
+Energy and Atmosphere Electives
+Select additional courses from the following to meet the 30 unit minimum of Atmosphere & Energy Core coursework and Atmosphere/Energy Electives.
+Complete ANY of the following Courses:
+AA214 - Numerical Methods for Compressible Flows
+CEE208A - Explore Energy Seminar: Navigate
+CEE208B - Explore Energy Seminar:  Launch
+CEE208X - Explore Energy Seminar: Propel
+CEE226E - Techniques and Methods for Decarbonized and Energy Efficient Building Design
+CEE241A - Infrastructure Project Development
+CEE255 - Introduction to Sensing Networks for CEE
+CEE256 - Building Systems Design & Analysis
+CEE263G - Energy Policy in California and the West
+CEE263S - Atmosphere/Energy Seminar
+CEE272T - SmartGrids and Advanced Power Systems Seminar
+CEE299 - Independent Study in Civil Engineering for CEE-MS Students
+CEE301 - The Stanford Energy Seminar
+CEE330 - Racial Equity in Energy
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS213 - Innovation for Climate and Sustainability
+ECON250 - Environmental Economics
+ECON253 - Energy Markets: Theory and Evidence
+EE216 - Principles and Models of Semiconductor Devices
+ENERGY204 - Sustainable Energy for 9 Billion
+ENERGY205 - Hydrogen Economy
+ENERGY253 - Carbon Capture and Sequestration
+ENVRES260 - Implementing & Financing a Decarbonized Economy
+ESS233 - Mitigating Climate Change through Soil Management
+ESS305 - Earth System Perspectives I
+GSBGEN332 - Climate Tech for Rapid Decarbonization
+LAW2503 - Energy Law
+LAW2504 - Environmental Law and Policy
+ME351A - Fluid Mechanics
+MATSCI144 - Thermodynamic Evaluation of Green Energy Technologies
+MATSCI303 - Principles, Materials and Devices of Batteries
+ME361 - Turbulence
+ME362A - Physical Gas Dynamics
+OIT678 - Energy Operations
+SUSTAIN370B - Scaling Sustainability Solutions: Financing Sustainability Solutions
+Sustainable Design and Construction (Subplan)
+Completion requirement
+Requirements Overview
+The Sustainable Design and Construction program prepares students for careers in the built environment: researching, designing, building, and managing sustainable facilities and infrastructure to maximize their lifecycle economic value and net contribution to environmental and social functions and services.
+Core and elective classes cover topics covering cutting-edge information technology such as sensor networks embedded in “intelligent” buildings and infrastructure, micro and macro strategy on infrastructure development across the globe, as well as entrepreneurship and organization design for new businesses, and corporate or governmental initiatives aimed at enhancing the sustainability of the built environment.
+Employers of past SDC graduates include architectural and engineering design firms, general contractors across a range of sizes and geographies, design-build firms and developers focused on delivering green buildings and infrastructure; energy and sustainability consultants; facility management and sustainability departments within large companies; clean-tech startups and venture funds. Several students have also targeted opportunities in the AEC industry by launching their own businesses directly out of the SDC program.
+Master of Science Degree
+Graduating from Stanford’s Sustainable Design & Construction program means you have the expertise to pursue various career paths in the built environment. Alumni have gone on to join top-tier companies in the AEC industry or start their own.
+Many apply with existing civil and environmental engineering degrees, but our highly interdisciplinary MS past graduates include students who majored in physics, economics, business management, public policy, industrial relations, philosophy, and music. Each incoming class also varies widely in that they include students coming directly from a bachelor’s degree and some who have worked for several years or more in industry. To support the diverse interests of our students, we offer five distinct tracks that focus on various aspects of the built environment, all of which can be completed in 1 year (3 academic quarters). The five tracks share a curriculum guide that trains students in critical fundamental skills like modern project management techniques and life cycle assessment strategies but offers unique electives within the program to allow students the flexibility to pursue the topics that most interest them. Click on the title of each track below for more information:
+Management (SDC-M)
+Emphasizes management techniques that are useful in organizing, planning, and controlling the activities of diverse specialists working within the unique project environment of the construction industry throughout all phases of development, and it covers construction engineering aspects of heavy, industrial, and building construction
+Structures (SDC-S)
+Includes courses from construction engineering and management and the Structural Engineering and Mechanics (SEM) program to prepare students for careers in design and construction firms that provide integrated design-build project delivery, construction management, and pre-construction services
+Energy (SDC-E)
+Includes courses on the energy-efficient design and construction of buildings and infrastructure systems to produce, distribute, and consume energy sustainably from the building scale to grid-level utility management
+Sustainable Urban Systems (SDC-SUS)
+Applies multiple knowledge fields in an integrated approach to the many complex issues -- old and new -- faced by modern cities and their built environment
+Sustainable Real Estate Development (SDC-SRED)
+Emphasizes multi-scale systems thinking and includes courses on real estate development, energy efficient design, infrastructure systems and construction technologies to prepare students for careers in sustainable real estate development.
+Track Specific Requirements
+Students complete the requirements of their chosen track.
+Complete at least 1 of the following:
+Management Track Required Courses
+Fulfill ALL of the following requirements:
+Waivable Requirements
+You must satisfy the foundational requirements listed below. Your advisor or the designated waiver faculty member must approve all courses taken elsewhere. Ask your advisor who the designated waiver faculty member is for each course. All courses taken elsewhere must have a minimum Grade Point Indicator of 2.67 (B-) or above.
+Complete ALL of the following Courses:
+CEE101C - Geotechnical Engineering
+CEE146S - Engineering Economics and Sustainability
+CEE182 - Structural Design
+CEE244 - Accounting, Finance & Valuation for Engineers & Constructors
+CS106A - Programming Methodology
+AND
+Stanford Course Requirements
+You must satisfy the foundational requirements listed below. All courses must be completed at Stanford.
+Complete ALL of the following Courses:
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE241 - Managing Fabrication and Construction
+CEE241C - Global Infrastructure Projects Seminar
+CEE258 - Donald R. Watson Seminar in Construction Engineering and Management
+ENGR202C - Technical Communication for CEE SDC Students
+OR
+ENGR202W - Technical  Communication
+OR
+ENGR203 - Public Speaking
+OR
+Structures Track Required Courses
+Fulfill ALL of the following requirements:
+Waivable Requirements
+You must satisfy the foundational requirements listed below. Your advisor or the designated waiver faculty member must approve all courses taken elsewhere. Ask your advisor who the designated waiver faculty member is for each course. All courses taken elsewhere must have a minimum Grade Point Indicator of 2.67 (B-) or above.
+Complete ALL of the following Courses:
+CEE101C - Geotechnical Engineering
+CEE146S - Engineering Economics and Sustainability
+CEE180 - Structural Analysis
+CEE182 - Structural Design
+CS106A - Programming Methodology
+AND
+Stanford Required Courses
+You must satisfy the foundational requirements listed below. All courses must be completed at Stanford.
+Complete ALL of the following Courses:
+CEE241 - Managing Fabrication and Construction
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE285A - Advanced Structural Concrete Behavior and Design
+CEE285B - Advanced Structural Steel Behavior and Design
+CEE258 - Donald R. Watson Seminar in Construction Engineering and Management
+CEE298 - Structural Engineering and Mechanics Seminar
+ENGR202C - Technical Communication for CEE SDC Students
+OR
+ENGR202W - Technical  Communication
+OR
+ENGR203 - Public Speaking
+OR
+Energy Track
+Fulfill ALL of the following requirements:
+Waivable Requirements
+You must satisfy the foundational requirements listed below. Your advisor or the designated waiver faculty member must approve all courses taken elsewhere. Ask your advisor who the designated waiver faculty member is for each course. All courses taken elsewhere must have a minimum Grade Point Indicator of 2.67 (B-) or above.
+Complete ALL of the following Courses:
+CEE146S - Engineering Economics and Sustainability
+CS106A - Programming Methodology
+AND
+Stanford Required Courses
+You must satisfy the foundational requirements listed below. All courses must be completed at Stanford.
+Complete ALL of the following Courses:
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE241 - Managing Fabrication and Construction
+CEE258 - Donald R. Watson Seminar in Construction Engineering and Management
+ENGR202C - Technical Communication for CEE SDC Students
+OR
+ENGR202W - Technical  Communication
+OR
+ENGR203 - Public Speaking
+AND
+Unnamed Rule
+Complete at least 2 of the following Courses:
+CEE226E - Techniques and Methods for Decarbonized and Energy Efficient Building Design
+CEE256 - Building Systems Design & Analysis
+CEE272R - Engineering Future Electricity Systems
+OR
+Sustainable Urban Systems Track
+Fulfill ALL of the following requirements:
+Waivable Requirements
+You must satisfy the foundational requirements listed below. Your advisor or the designated waiver faculty member must approve all courses taken elsewhere. Ask your advisor who the designated waiver faculty member is for each course. All courses taken elsewhere must have a minimum Grade Point Indicator of 2.67 (B-) or above.
+Complete ALL of the following Courses:
+CEE146S - Engineering Economics and Sustainability
+CS106A - Programming Methodology
+AND
+Stanford Required Courses
+You must satisfy the foundational requirements listed below. All courses must be completed at Stanford.
+Complete ALL of the following Courses:
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE241 - Managing Fabrication and Construction
+CEE243 - Intro to Urban Sys Engrg
+CEE258 - Donald R. Watson Seminar in Construction Engineering and Management
+ENGR202C - Technical Communication for CEE SDC Students
+OR
+ENGR202W - Technical  Communication
+OR
+ENGR203 - Public Speaking
+OR
+Sustainable Real Estate Development Track
+Fulfill ALL of the following requirements:
+Waivable Requirements
+You must satisfy the foundational requirements listed below. Your advisor or the designated waiver faculty member must approve all courses taken elsewhere. Ask your advisor who the designated waiver faculty member is for each course. All courses taken elsewhere must have a minimum Grade Point Indicator of 2.67 (B-) or above.
+Complete ALL of the following Courses:
+CEE146S - Engineering Economics and Sustainability
+CS106A - Programming Methodology
+AND
+Stanford Required Courses
+You must satisfy the foundational requirements listed below. All courses must be completed at Stanford.
+Complete ALL of the following Courses:
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE241 - Managing Fabrication and Construction
+CEE243 - Intro to Urban Sys Engrg
+CEE246B - Real Estate Development and Finance
+CEE248 - Introduction to Real Estate Development
+CEE258 - Donald R. Watson Seminar in Construction Engineering and Management
+ENGR202C - Technical Communication for CEE SDC Students
+OR
+ENGR202W - Technical  Communication
+OR
+ENGR203 - Public Speaking
+GSBGEN306 - Real Estate Investment
+Area Requirements
+The chosen track/concentration determines the number of units required from each area. Review each area for unit requirements. Units earned from track specific requirements (see above Track section) count toward area requirements. Units for courses listed in multiple areas may be split between those areas (no double counting). All courses must be at or above 100 level, with at least 30 units at or above 200 level. CEE courses must be taken for a letter grade when available (otherwise, a max of 6 CR/NC units are allowed). Also, a max of 5 units of seminars are allowed in total.
+Fulfill ALL of the following requirements:
+Design and Development Area
+Management : 4 units
+Structures : 3 units
+Energy : 5 units
+SUS: 12 units
+SRED: 12 units
+Complete ANY of the following Courses:
+CEE222A - Computer Integrated Architecture/Engineering/Construction (AEC) Global Teamwork
+CEE222B - Computer Integrated Architecture/Engineering/Construction (AEC) Global Teamwork
+CEE241A - Infrastructure Project Development
+CEE241B - Infrastructure Project Delivery
+CEE241C - Global Infrastructure Projects Seminar
+CEE243 - Intro to Urban Sys Engrg
+CEE245E - Equitable Infrastructure Solutions
+CEE246B - Real Estate Development and Finance
+CEE248 - Introduction to Real Estate Development
+CEE321 - Design and Operation of Integrated Infrastructure Systems
+CEE342 - Designing for Gradient Spaces
+GSBGEN306 - Real Estate Investment
+AND
+Structures Area
+Management : 0 units
+Structures : 12  units
+Energy : 0  units
+SUS: 0  units
+SRED: 0 units
+Complete ANY of the following Courses:
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+CEE223 - Materials for Sustainable Built Environments
+CEE280 - Advanced Structural Analysis
+CEE282 - Nonlinear Structural Analysis
+CEE283 - Structural Dynamics
+CEE285A - Advanced Structural Concrete Behavior and Design
+CEE285B - Advanced Structural Steel Behavior and Design
+CEE287 - Earthquake Resistant Design and Construction
+CEE290 - Structural Performance and Failures
+CEE293 - Foundations and Earth Structures
+CEE297M - Managing Critical Infrastructure
+AND
+Energy Area
+Management : 4 units
+Structures : 3 units
+Energy : 12  units
+SUS: 6  units
+SRED: 6 units
+Complete ANY of the following Courses:
+CEE176A - Energy Efficient Buildings
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE226E - Techniques and Methods for Decarbonized and Energy Efficient Building Design
+CEE256 - Building Systems Design & Analysis
+CEE272R - Engineering Future Electricity Systems
+AND
+Construction Area
+Management : 12 units
+Structures : 5 units
+Energy : 5  units
+SUS: 5  units
+SRED: 5 units
+Complete ALL of the following Courses:
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+CEE240 - Construction Project Assessment and Budgeting: The First 100 Days as a Project Manager
+CEE241 - Managing Fabrication and Construction
+CEE241B - Infrastructure Project Delivery
+CEE242 - Organization Design for Projects and Companies
+CEE324 - Industrialized Construction
+CEE327 - Construction Robotics
+CEE341 - Virtual Design and Construction
+AND
+Industry Area
+Management : 6 units
+Structures : 3 units
+Energy : 4  units
+SUS: 3  units
+SRED: 3 units
+Complete ALL of the following Courses:
+CEE240C - Strategic Management of Construction Businesses
+CEE241C - Global Infrastructure Projects Seminar
+CEE244 - Accounting, Finance & Valuation for Engineers & Constructors
+CEE246 - Venture Creation for the Real Economy
+CEE258 - Donald R. Watson Seminar in Construction Engineering and Management
+CEE298 - Structural Engineering and Mechanics Seminar
+CEE327S - Construction Robotics Seminar
+AND
+Skills Area
+Management : 4 units
+Structures : 4 units
+Energy : 4  units
+SUS: 4  units
+SRED: 4 units
+Complete ALL of the following Courses:
+CEE220B - Advanced Building Modeling Workshop
+CEE220C - Parametric Design and Optimization
+CEE329 - Artificial Intelligence Applications in the AEC Industry
+CEE247C - Computer Vision for the Built Environment
+CEE251 - Negotiation
+Environmental Engineering (Subplan)
+Completion requirement
+Engineering Core
+Requirements Overview
+The M.S. degree in Environmental Engineering is designed to be flexible to meet the career goals of the student. In order to ensure proficiency in a core related to Environmental Engineering, every student must complete 45 units of coursework, comprised of the following:
+·       Environmental Engineering Core (10 units)
+·       Seminar (1 unit)
+·       Environmental Management, Policy, and Law (3 units)
+·       Focused Electives (18 units)
+·       Breadth Electives (13 units)
+Courses related to these areas are listed below.
+Students obtaining the M.S. degree over quarters spanning more than one academic year must adhere to the degree requirements published during the academic year of their first quarter at Stanford. Any deviations must be approved by the academic advisor.
+·       The coursework, including the Breadth Electives, must form a coherent program of study in Environmental Engineering, approved by the student’s M.S. faculty advisor.
+·       At least 27 of the 45 units must comprise courses within the Department of Civil & Environmental Engineering.
+·       At least 30 units must be taken at the graduate level (courses numbered 200 or higher). All 100-level courses must be approved by your advisor.
+·       No courses numbered less than 100 can count towards the MS degree.
+·       A minimum GPA of 3.0 for MS degree students must be maintained in the quarter being evaluated.
+·       No more than 6 units of coursework that is offered with a letter grade option can be taken for credit/no credit (CR/NC); however, there is no limit on units taken for satisfactory/no credit (S/NC) where a letter grade option is not offered.
+·       No more than 9 units of research coursework may count toward the 45-unit requirement, including CEE 398 “Report on Civil Engineering Training.”
+·       No more than 2 units of Curricular Practical Training (i.e., CEE 398 “Report on Civil Engineering Training”). These units count toward the 9 units of research coursework, and enrollment in CEE 398 is subject to advisor approval.
+·       No more than 9 of the 13 units of Breadth Electives may be taken in Computer Science and/or Statistics without advisor approval.
+·       Maximum 3 units of seminars, including CEE 269.
+·       Non-technical courses, such as remedial English-language instruction (EFSLANG courses checked as required on the Report on English Screening), music courses and physical education, may not be included in the 45 units of required coursework. Students with “required” or “strongly recommended” remedial English courses (such as Linguistics 693A, etc.) must complete these courses or have them waived before applying for graduation.
+Fulfill ALL of the following requirements:
+Environmental and Process Engineering
+Complete ALL of the following Courses:
+CEE270 - Movement and Fate of Organic Contaminants in  Waters
+AND
+Hydrology and Water Resources
+Complete at least 1 of the following Courses:
+CEE260A - Physical Hydrogeology
+CEE260C - Contaminant Hydrogeology and Reactive Transport
+CEE260D - Remote Sensing of Hydrology
+CEE260G - Imaging with Incomplete Information
+CEE266A - Introduction to Hydrology
+CEE266G - Water Resources Systems Analysis
+CEE270F - Fundamentals of Applied Research Design
+CEE279X - Water Supply and Management in California and the West
+AND
+Fluid Mechanics
+Complete at least 1 of the following Courses:
+CEE262A - Hydrodynamics
+CEE262E - Rivers, Streams, and Canals
+Seminars
+Fulfill ALL of the following requirements:
+Seminars
+Complete ALL of the following Courses:
+CEE269 - Environmental Engineering Seminar
+Environmental Management, Policy, and Law
+Fulfill ALL of the following requirements:
+Environmental Management, Policy, and Law
+Earn at least 3 credits from the following:
+CEE245E - Equitable Infrastructure Solutions
+CEE265D - Water and Sanitation in Developing Countries
+CEE265F - Environmental Governance and Climate Resilience
+CEE266G - Water Resources Systems Analysis
+CEE273B - The Business of Water
+CEE275A - California Coast: Science, Policy, and Law
+CEE279X - Water Supply and Management in California and the West
+Focused Electives (At least 18 units total)
+Depth requirement: At least three courses from one focus area
+Breadth requirement: At least one course each from an additional two focus areas
+Any course listed in multiple focus areas can only be counted toward one focus area in the program of study. An Environmental Engineering core course can be counted as a core or elective, but not both. Students may enroll in core electives not listed below but relevant to the focus areas, subject to approval by the MS program advisor.
+Fulfill ANY of the following requirements:
+Aquatic Chemistry & Biology and Process Engineering
+Depth requirement: At least three courses from 1 focus area
+Breadth requirement: At least one course each from an additional two focus areas
+Complete ANY of the following Courses:
+CEE270F - Fundamentals of Applied Research Design
+CEE270M - Aquatic and Organic Chemistry for Environmental Engineering
+CEE271A - Physical and Chemical Treatment Processes
+CEE274P - Environmental Health Microbiology Lab
+CEE279D - Providing Safe Water for the Developing and Developed World
+OR
+Environmental and Geophysical Fluid Mechanics
+Depth requirement: At least three courses from one focus area
+Breadth requirement: At least one course each from an additional two focus areas
+Complete ANY of the following Courses:
+CEE261C - WindWise: CFD for civil engineers and architects
+CEE262A - Hydrodynamics
+CEE262B - Transport and Mixing in Surface Water Flows
+CEE262E - Rivers, Streams, and Canals
+CEE262F - Ocean Waves
+CEE363B - Chaos and Turbulence
+CEE263C - Weather and Storms
+CEE363C - Ocean Modeling
+OR
+Environmental Data, Statistics and Modeling
+Depth requirement: At least three courses from one focus area
+Breadth requirement: At least one course each from an additional two focus areas
+Complete ANY of the following Courses:
+CEE201D - Computations in Civil and Environmental Engineering
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+CEE254 - Data Analytics for Physical Systems
+CEE260G - Imaging with Incomplete Information
+CEE261C - WindWise: CFD for civil engineers and architects
+CEE261D - Data Assimilation
+CEE362A - Uncertainty Quantification
+CEE270F - Fundamentals of Applied Research Design
+OR
+Human Health and the Environment
+Depth requirement: At least three courses from one focus area
+Breadth requirement: At least one course each from an additional two focus areas
+Complete ANY of the following Courses:
+CEE172 - Air Quality Management
+CEE265D - Water and Sanitation in Developing Countries
+CEE270F - Fundamentals of Applied Research Design
+CEE274P - Environmental Health Microbiology Lab
+CEE278A - Air Pollution Fundamentals
+CEE279E - Wastewater Treatment: From Disposal to Resource Recovery
+OR
+Hydrology and Water Resources
+Depth requirement: At least three courses from one focus area
+Breadth requirement: At least one course each from an additional two focus areas
+Complete ANY of the following Courses:
+CEE260A - Physical Hydrogeology
+CEE260C - Contaminant Hydrogeology and Reactive Transport
+CEE260D - Remote Sensing of Hydrology
+CEE260G - Imaging with Incomplete Information
+CEE266A - Introduction to Hydrology
+CEE266G - Water Resources Systems Analysis
+CEE270F - Fundamentals of Applied Research Design
+CEE279X - Water Supply and Management in California and the West
+Structural Engineering (Subplan)
+Completion requirement
+This is a complete list of requirements for completing the MS degree in Structural Engineering.
+Forty-five total units of coursework relevant to the structural engineering profession must be completed.
+Five Structural Engineering Core Courses must be completed.
+Thirty units of coursework must be taken within the graduate-level Structural Engineering and Mechanics Program. Acceptable courses for these 30 units consist of any of the Structural Engineering Core Courses, as well as courses from the Breadth Electives Courses (courses offered for 3-4 units may count as four units toward this requirement, regardless of enrollment units, but please note that if enrolled for three units, only three units will count toward the minimum 45 unit requirement for degree conferral).
+At least 36 units must be completed within the School of Engineering.
+All courses taken to fulfill the thirty units within the graduate-level Structural Engineering and Mechanics program (item 3), and at least 36 units of courses, must be taken for a letter grade. In addition, no more than six units may be taken CR/NC, subject to approval by your advisor.
+The following exception to item 5 applies: There is no restriction on the number of units taken for CR/NC in Summer 2020, Autumn 2020, Winter 2021, Spring 2021, and Summer 2021 that may be counted to satisfy the degree requirements.
+No more than ten units of undergraduate coursework may be counted toward the degree. As per university policy, all units for a graduate degree must be in courses at or above the 100 level.
+No more than six units of the undergraduate prerequisites listed above may be counted toward the degree.
+No more than six combined Independent Study and CPT units may be counted toward the degree.
+CEE 298, the Structural Engineering and Mechanics Seminar, must be completed
+No more than three units of seminar courses may be counted toward the degree.
+Your study list must be coordinated with and approved by your academic advisor.
+Core Courses: Analysis
+CEE280 and CEE283 are required courses that must be taken unless a waiver is obtained from the professor.
+Complete at least 2 of the following Courses:
+CEE280 - Advanced Structural Analysis
+CEE281 - Mechanics and Finite Elements
+CEE282 - Nonlinear Structural Analysis
+CEE283 - Structural Dynamics
+Core Courses: Design
+CEE285A and CEE285B are suggested courses.
+Complete at least 1 of the following Courses:
+CEE223 - Materials for Sustainable Built Environments
+CEE285A - Advanced Structural Concrete Behavior and Design
+CEE285B - Advanced Structural Steel Behavior and Design
+CEE287 - Earthquake Resistant Design and Construction
+Core Courses: Mechanics
+CEE281 and CEE291  are suggested courses.
+CEE291 is offered during alternating academic years, and will not be offered during AY 26-27. Please check Navigator for more information.
+Complete at least 1 of the following Courses:
+CEE281 - Mechanics and Finite Elements
+CEE291 - Solid Mechanics
+CEE305 - Damage and Failure Mechanics of Structural Systems
+Core Courses: Risk and statistical modeling
+CEE203 is a suggested course.
+Complete at least 1 of the following Courses:
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+CEE206 - Decision Analysis for  Civil and Environmental Engineers
+CEE204 - Structural Reliability
+CEE254 - Data Analytics for Physical Systems
+CEE288 - Seismic Hazard and Risk Analysis
+Breadth Electives
+Complete ANY of the following Courses:
+CEE222A - Computer Integrated Architecture/Engineering/Construction (AEC) Global Teamwork
+CEE222B - Computer Integrated Architecture/Engineering/Construction (AEC) Global Teamwork
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE261A - Physics of Wind
+CEE284W - The Dynamics of Wind Turbines
+CEE286 - Structural Monitoring
+CEE290 - Structural Performance and Failures
+CEE293 - Foundations and Earth Structures
+CEE310 - Computational Solid Mechanics
+CEE314 - Computational Poromechanics
+CEE315 - Plasticity Modeling and Computation
+CEE380 - Optimization in Structural Engineering
+CEE385 - Performance-Based Earthquake Engineering
+CEE297M - Managing Critical Infrastructure
+CEE284W is offered during alternating academic years, and will not be offered during AY 26-27. Please check Navigator for more information.
+Free Electives
+Select additional courses from the list of breadth electives and course offerings from the engineering and engineering-related disciplines that contribute to a coherent program of study. See the
+Suggested Courses by Areas of Interest
+for more courses.
+Mechanics & Computation (Subplan)
+Completion requirement
+Unnamed Rule
+This is a complete list of requirements for completing the MS degree in
+Mechanics & Computation
+.
+Forty-five total units of coursework relevant to the field of
+Mechanics & Computation
+must be completed.
+CEE 281 and CEE 291 are required courses. CEE291 is offered during alternating academic years, and will not be offered during AY 26-27. Please check Navigator for more information.   Students must take CEE 306, and depending on which spring course is offered, either CEE 314 or CEE 315. If one of these courses is not offered, please consult the instructor of that particular course to find an alternative.
+One of the two seminars, CEE 298 (Structural Engineering and Geomechanics Seminar) or ME 395 (Mechanics and Computation Seminar), must be completed.
+Thirty units of coursework must be taken within the graduate-level
+Mechanics & Computation
+Program. Acceptable courses for these 30 units consist of any of the Mechanics and Computation Core Courses and courses from the Breadth Electives Courses. Courses offered for 3-4 units may count as four units toward this requirement, regardless of enrollment units, but note that if enrolled for three units, only three units will count toward the minimum 45-unit requirement for degree conferral.
+At least thirty-six units must be completed within the School of Engineering.
+All courses taken to fulfill the thirty units within the graduate-level Mechanics & Computation program (item 4), and at least 36 units of courses, must be taken for a letter grade. In addition, no more than 6 units may be taken CR/NC, subject to approval by your advisor.
+No more than ten units of undergraduate coursework may be counted toward the degree. As per university policy, all units for a graduate degree must be in courses at or above the 100 level.
+No more than six units of the undergraduate prerequisites listed above may be counted toward the degree.
+No more than six combined Independent Study and CPT units may be counted toward the degree.
+No more than three units of seminar courses may be counted toward the degree.
+Your study list must be coordinated with and approved by your academic advisor.
+Required Core Courses
+Students starting in even years are required to take CEE 306 and CEE 314. Students beginning in odd years are required to take CEE 310 and CEE 315 instead.
+One of the two seminars, CEE 298  or ME 395, must be completed.
+CEE 291 is offered during alternating academic years, and will not be offered during AY 26-27. Please check Navigator for more information.
+Complete ALL of the following Courses:
+CEE281 - Mechanics and Finite Elements
+CEE291 - Solid Mechanics
+CEE298 - Structural Engineering and Mechanics Seminar
+OR
+ME395 - Seminar in Solid Mechanics
+CEE306 - Computational Fracture Mechanics
+OR
+CEE310 - Computational Solid Mechanics
+CEE314 - Computational Poromechanics
+OR
+CEE315 - Plasticity Modeling and Computation
+Core Courses: Mechanics
+Complete ANY of the following Courses:
+CEE280 - Advanced Structural Analysis
+CEE283 - Structural Dynamics
+ME340 - Mechanics - Elasticity and Inelasticity
+Core Courses: Numerical Analysis & Scientific Computing
+Complete ANY of the following Courses:
+CME200 - Linear Algebra with Application to Engineering Computations
+CME204 - Partial Differential Equations in Engineering
+CME206 - Introduction to Numerical Methods for Engineering
+CME213 - Introduction to parallel computing using MPI, openMP, and CUDA
+Core Courses: Statistics and Machine Learning
+Complete ANY of the following Courses:
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+CS229 - Machine Learning
+CS230 - Deep Learning
+CEE254 - Data Analytics for Physical Systems
+ENERGY260 - Uncertainty Quantification in Data-Centric Simulations
+Core Courses:  Mechanics of Materials
+Complete ANY of the following Courses:
+CEE223 - Materials for Sustainable Built Environments
+CEE305 - Damage and Failure Mechanics of Structural Systems
+MATSCI208 - Mechanical Properties of Materials
+Core Courses: Geomechanics
+Complete ANY of the following Courses:
+CEE260A - Physical Hydrogeology
+CEE293 - Foundations and Earth Structures
+GEOPHYS203 - Fluids and Flow in the Earth: Computational Methods
+GEOPHYS262 - Rock Physics
+Breadth Electives
+Complete ANY of the following Courses:
+CEE201E - Nonlinear Dynamics
+CEE261A - Physics of Wind
+CEE262A - Hydrodynamics
+CEE282 - Nonlinear Structural Analysis
+CEE284W - The Dynamics of Wind Turbines
+CEE286 - Structural Monitoring
+CME302 - Numerical Linear Algebra
+CME345 - Projection-Based Model Order Reduction
+CS221 - Artificial Intelligence: Principles and Techniques
+GEOPHYS229 - Earthquake Rupture Dynamics
+GEOPHYS238 - Waves in Solids and Fluids
+GEOPHYS259 - Laboratory Characterization of Properties of Rocks and Geomaterials
+MATSCI251 - Microstructure and Mechanical Properties
+MATSCI358 - Fracture and Fatigue of Materials and Thin Film Structures
+ME233 - Automated Model Discovery
+ME303 - Soft Composites and Soft Robotics
+ME345 - Fatigue Design and Analysis
+ME346A - Introduction to Statistical Mechanics
+STATS200 - Introduction to Theoretical Statistics
+CEE284W is offered during alternating academic years, and will not be offered during AY 26-27. Please check Navigator for more information.
+Sustainable Engineered Systems (Subplan)
+Completion requirement
+Unnamed Rule
+The Hybrid SES MS program was designed with four goals in mind:
+To provide a graduate degree that focuses on the application of systems-thinking concepts and data science tools to the disciplines of civil and environmental engineering
+To provide increased access to Stanford Civil and Environmental MS degrees for working professionals who are not able to leave the workforce for an entirely full-time MS degree program (typically 1.5 years in CEE)
+To allow Civil and Environmental Engineering master’s students to apply lessons from their graduate studies in their daily professional career by taking 1/3 of their required units as a part-time student with the opportunity and flexibility to take courses online
+To increase the affordability of earning an MS in Civil and Environmental Engineering by enabling students to continue working full-time while completing 1/3 of the required units part-time with the opportunity and flexibility to take courses online
+With these four goals in mind, to earn the hybrid SES MS degree, students complete 45 graduate academic units. These units are distributed across four components of the degree.
+Students complete their hybrid SES MS courses as part-time
+Honors Cooperative Students (HCP)
+. They can take between three units and seven units of graduate courses per hybrid quarter. Hybrid SES MS students can complete the hybrid component of their degree in as little as three quarters or as many as 5 or 6 quarters. Most importantly, students in the hybrid SES MS program should plan to complete their hybrid courses in the spring or summer quarter before joining us as full-time residential graduate students on campus in the autumn quarter.
+Hybrid (online) Degree Component
+Students take a
+minimum of five
+of the following available systems-focused and data science-focused courses, depending on student interest.
+(Not all courses are offered every quarter and every year. Some courses are offered every other year. The quarter offered is subject to change.)
+Fulfill ALL of the following requirements:
+Systems-focused Courses
+If you complete three of these courses, you only need to complete two of the Data Science-focused Courses.
+If you only complete two of these courses, you must complete three of the Data Science-focused Courses.
+Complete at least 2 of the following Courses:
+CEE206 - Decision Analysis for  Civil and Environmental Engineers
+CEE242R - Project Risk Analysis
+CS246 - Mining Massive Data Sets
+EE263 - Matrix Methods: Singular Value Decomposition
+AND
+Data Science-focused Courses
+If you complete three of these courses, you only need to complete 2 from the Systems-focused Courses.
+If you only complete two of these courses, you must complete three of the Systems-focused Courses.
+Complete at least 2 of the following Courses:
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224R - Deep Reinforcement Learning
+CS224W - Machine Learning with Graphs
+CS229 - Machine Learning
+CS230 - Deep Learning
+STATS202 - Statistical Learning and Data Science
+Residential (on-campus) Degree Depth Component
+Take five to six courses in person as a full-time graduate student focused on a depth area in civil and environmental engineered systems.
+Fulfill ANY of the following requirements:
+Structure and Material Systems Depth Area
+Complete ALL of the following Courses:
+CEE280 - Advanced Structural Analysis
+CEE283 - Structural Dynamics
+CEE285A - Advanced Structural Concrete Behavior and Design
+OR
+CEE285B - Advanced Structural Steel Behavior and Design
+CEE288 - Seismic Hazard and Risk Analysis
+CEE291 - Solid Mechanics
+CEE298 - Structural Engineering and Mechanics Seminar
+OR
+Sustainable Construction Systems Depth Area
+Complete ALL of the following Courses:
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE241 - Managing Fabrication and Construction
+CEE241B - Infrastructure Project Delivery
+CEE241C - Global Infrastructure Projects Seminar
+CEE256 - Building Systems Design & Analysis
+CEE258 - Donald R. Watson Seminar in Construction Engineering and Management
+OR
+Environmental Engineering Systems Depth Area
+Fulfill ALL of the following requirements:
+Unnamed Rule
+In addition to these required courses, two courses are required from one of the two groups below (Aquatic Chemistry & Biology and Process Engineering Group or Environmental Fluid Mechanics and Hydrology Group), and one course is required from the other group below.
+Complete ALL of the following Courses:
+CEE266A - Introduction to Hydrology
+CEE269 - Environmental Engineering Seminar
+CEE270 - Movement and Fate of Organic Contaminants in  Waters
+AND
+Aquatic Chemistry & Biology and Process Engineering Group
+If you complete two of these courses, you only need to complete one from the Environmental Fluid Mechanics and Hydrology Group.
+If you only complete one of these courses, you must complete two from the Environmental Fluid Mechanics and Hydrology Group.
+Complete at least 1 of the following Courses:
+CEE270B - Environmental Organic Reaction Chemistry
+CEE270M - Aquatic and Organic Chemistry for Environmental Engineering
+CEE271A - Physical and Chemical Treatment Processes
+CEE271B - Environmental Biotechnology
+CEE274P - Environmental Health Microbiology Lab
+AND
+Environmental Fluid Mechanics and Hydrology Group
+If you complete two of these courses, you only need to complete one from the Aquatic Chemistry & Biology and Process Engineering Group.
+If you only complete one of these courses, you must complete two from the Aquatic Chemistry & Biology and Process Engineering Group.
+Complete at least 1 of the following Courses:
+CEE261A - Physics of Wind
+CEE262A - Hydrodynamics
+CEE262B - Transport and Mixing in Surface Water Flows
+CEE262C - Computational Fluid Dynamics for Geophysical Flows
+CEE266F - Stochastic Hydrology
+CEE266G - Water Resources Systems Analysis
+OR
+Atmospheric and Energy Systems Depth Area
+Fulfill ALL of the following requirements:
+Unnamed Rule
+Complete ALL of the following Courses:
+CEE263S - Atmosphere/Energy Seminar
+CEE276B - 100% Clean, Renewable Energy and Storage for Everything
+AND
+Unnamed Rule
+Complete at least 4 of the following Courses:
+CEE176A - Energy Efficient Buildings
+CEE207A - Understand Energy
+CEE207R - E^3: Extreme Energy Efficiency
+CEE261A - Physics of Wind
+CEE261C - WindWise: CFD for civil engineers and architects
+CEE263C - Weather and Storms
+CEE263D - Air Pollution and Global Warming: History, Science, and Solutions
+CEE272R - Engineering Future Electricity Systems
+CEE278A - Air Pollution Fundamentals
+Sustainable Engineered Systems Elective Component
+Students are encouraged to pursue additional depth by taking graduate courses in one of the engineered system depth areas in CEE or broaden their systems understanding by taking relevant graduate courses in another department across the Stanford School of Engineering, the Stanford Doerr School of Sustainability, or any school at Stanford.
+Take five or six graduate-level elective courses either as a part-time online graduate student or an in-person full-time graduate student
+Sustainable Engineered Systems Breadth Component
+Students must complete a “breadth experience” either during their on-campus residency or the summer following their third residential quarter (summer quarter) on campus.
+This breadth experience can take the form of a second seminar course in another CEE depth area to broaden your engineering systems skillset and connect with even more students in other CEE MS programs. Options are listed below.
+Rather than a second seminar course, international students can alternatively enroll in Curricular Practical Training (CPT), CEE398*, during the summer quarter following their third residential quarter on campus to broaden their practical knowledge in industry.
+* Advisor consent required
+Complete ANY of the following Courses:
+CEE258 - Donald R. Watson Seminar in Construction Engineering and Management
+CEE263S - Atmosphere/Energy Seminar
+CEE269 - Environmental Engineering Seminar
+CEE298 - Structural Engineering and Mechanics Seminar
+CEE398 - Report on Civil Engineering Practical Training

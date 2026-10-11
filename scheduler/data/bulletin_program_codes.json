@@ -1,0 +1,1129 @@
+{
+  "all_355": [
+    "AA-BS",
+    "AA-ENG",
+    "AA-MS",
+    "AA-MIN",
+    "AA-PMN",
+    "AA-PHD",
+    "AFRAM-BA",
+    "AFRAM-MIN",
+    "AMSTU-BA",
+    "AMSTU-MIN",
+    "ANTHR-BA",
+    "ANTHR-MA",
+    "ANTHR-MIN",
+    "ANTHR-PMN",
+    "ANTHR-PHD",
+    "APLPH-MS",
+    "APLPH-PHD",
+    "AEPHY-MS",
+    "ARCHA-BA",
+    "ARCHA-MIN",
+    "ARTHS-BA",
+    "ARTHS-MA",
+    "ART-MIN",
+    "ARTHS-PMN",
+    "ARTHS-PHD",
+    "ARTP-BA",
+    "ARTP-MFA",
+    "ARTP-MIN",
+    "ASAM-BA",
+    "ASAM-MIN",
+    "BIOC-MS",
+    "BIOC-PHD",
+    "BIOE-BS",
+    "BIOE-MS",
+    "BIOE-PMN",
+    "BIOE-PHD",
+    "BIO-BS",
+    "BIO-MS",
+    "BIO-MIN",
+    "BIO-PHD",
+    "BMDS-PMN",
+    "BMDS-MS",
+    "BMDS-PHD",
+    "BMP-PHD",
+    "BIOPH-MS",
+    "BIOPH-PHD",
+    "GSB-MBA",
+    "GSB-PHD",
+    "CANBI-MS",
+    "CANBI-PHD",
+    "CSB-MS",
+    "CSB-PHD",
+    "CHEME-BS",
+    "CHEME-ENG",
+    "CHEME-MS",
+    "CHEME-MIN",
+    "CHEME-PMN",
+    "CHEME-PHD",
+    "CHEM-BS",
+    "CHEM-MS",
+    "CHEM-MIN",
+    "CHEM-PMN",
+    "CHEM-PHD",
+    "CHILT-BA",
+    "CHILT-MIN",
+    "CIVC-MIN",
+    "CEE-ENG",
+    "CEE-MS",
+    "CEE-PMN",
+    "CEE-PHD",
+    "CE-BS",
+    "CE-MIN",
+    "CLASS-BA",
+    "CLASS-MA",
+    "CLASS-MIN",
+    "CLASS-PMN",
+    "CLASS-PHD",
+    "CIMGT-MS",
+    "COMMU-BA",
+    "COMMU-MA",
+    "COMMU-MIN",
+    "COMMU-PMN",
+    "COMMU-PHD",
+    "CHPR-MS",
+    "CSRE-BA",
+    "CSRE-MIN",
+    "CSRE-PMN",
+    "CSRE-IHN",
+    "CPLIT-BA",
+    "CPLIT-PMN",
+    "CPLIT-PHD",
+    "CPLIT-MIN",
+    "CME-MS",
+    "CME-PHD",
+    "CME-PMN",
+    "CS-BS",
+    "CS-MS",
+    "CS-MIN",
+    "CS-PMN",
+    "CS-PHD",
+    "CRWRIT-MIN",
+    "DATSC-BA",
+    "DATSC-BS",
+    "DATSCI-MIN",
+    "DDRL-IHN",
+    "DESIGN-BS",
+    "DESIGN-MS",
+    "DBIO-MS",
+    "DBIO-PHD",
+    "DIGHUM-MIN",
+    "FILM-MFA",
+    "EPS-BS",
+    "EPS-MS",
+    "EPS-MIN",
+    "EPS-PMN",
+    "EPS-PHD",
+    "ESS-MS",
+    "ESS-PHD",
+    "EASYS-BS",
+    "EASYS-MA",
+    "EASYS-MS",
+    "EASYS-MIN",
+    "EALC-MA",
+    "EALC-PHD",
+    "EASST-BA",
+    "EASST-MA",
+    "EASST-MIN",
+    "ECON-BA",
+    "ECON-BS",
+    "ECON-MA",
+    "ECON-MIN",
+    "ECON-PMN",
+    "ECON-PHD",
+    "ED-IHN",
+    "ED-MA",
+    "ED-MS",
+    "EDUC-MIN",
+    "ED-PMN",
+    "ED-PHD",
+    "EE-BS",
+    "EE-MS",
+    "EE-MIN",
+    "EE-PMN",
+    "EE-PHD",
+    "ENERGY-BS",
+    "ENERGY-MS",
+    "ENERGY-MIN",
+    "ENERGY-PMN",
+    "ENERGY-PHD",
+    "ENGR-BS",
+    "66QEfbYoXsDQomIHquBE",
+    "BhS0crb5iSOey59K4pEu",
+    "amgyvgz1HuZ5s5gEbkq0",
+    "16kZ1nSLynUYAQA95BOf",
+    "jaikpuy4s2o1AEGK4tcF",
+    "JzNNOUhLu7KQWAKTAHcK",
+    "ENGR-MS",
+    "ENGL-BA",
+    "ENGL-MA",
+    "ENGL-MIN",
+    "ENGL-PHD",
+    "ENVSE-BS",
+    "ENVSE-MIN",
+    "ENVRES-PHD",
+    "ENVRES-MS",
+    "ENVSS-MA",
+    "ENVSS-PHD",
+    "EPIDCR-PHD",
+    "EPIDM-MS",
+    "ETHSO-IHN",
+    "ETHSO-MIN",
+    "FGSS-BA",
+    "FGSS-IHN",
+    "FGSS-MIN",
+    "FGSS-PMN",
+    "FILM-BA",
+    "FILM-MIN",
+    "FRENC-BA",
+    "FRENC-MA",
+    "FRENC-MIN",
+    "FRENC-PMN",
+    "FRENC-PHD",
+    "FRNIT-PHD",
+    "GENE-MS",
+    "GENE-PHD",
+    "GEOPH-BS",
+    "GEOPH-MS",
+    "GEOPH-MIN",
+    "GEOPH-PMN",
+    "GEOPH-PHD",
+    "GERST-BA",
+    "GERST-MA",
+    "GERST-MIN",
+    "GERST-PMN",
+    "GERST-PHD",
+    "GLBLST-MIN",
+    "HRP-MS",
+    "HRP-PHD",
+    "HSTRY-BA",
+    "HSTRY-MA",
+    "HSTRY-MIN",
+    "HSTRY-PMN",
+    "HSTRY-PHD",
+    "ARTS-IHN",
+    "HUMBI-BA",
+    "HUMBI-BS",
+    "HUMBI-MIN",
+    "HMN GEN-MS",
+    "HUMRTS-MIN",
+    "ILAC-BA",
+    "ILAC-MA",
+    "ILAC-PMN",
+    "ILAC-PHD",
+    "IMMUN-MS",
+    "IMMUN-PHD",
+    "IDMEN-BS",
+    "ARTS-MIN",
+    "INPOL-MA",
+    "INTLR-BA",
+    "INTLR-MIN",
+    "INSST-IHN",
+    "ITAL-BA",
+    "ITAL-MA",
+    "ITAL-MIN",
+    "ITAL-PMN",
+    "ITAL-PHD",
+    "JEWSH-BA",
+    "JEWSH-MIN",
+    "MLASC-MS",
+    "LAMER-MA",
+    "LAW-JD",
+    "LAW-JSD",
+    "LAW-JSM",
+    "LAW-LLM",
+    "LAW-MLS",
+    "LING-BA",
+    "LING-MA",
+    "LING-MIN",
+    "LING-PMN",
+    "LING-PHD",
+    "MLA-MLA",
+    "MATSC-BS",
+    "MATSC-ENG",
+    "MATSC-MS",
+    "MATSC-MIN",
+    "MATSC-PMN",
+    "MATSC-PHD",
+    "MATH-BS",
+    "MATH-MS",
+    "MATH-MIN",
+    "MATH-PMN",
+    "MATH-PHD",
+    "ME-BS",
+    "ME-ENG",
+    "ME-MS",
+    "ME-MIN",
+    "ME-PMN",
+    "ME-PHD",
+    "MEDHUM-MIN",
+    "MED-MD",
+    "MED-MS",
+    "MEDST-MIN",
+    "MGTSC-BS",
+    "MGTSC-MS",
+    "MGTSC-MIN",
+    "MGTSC-PHD",
+    "MGTSC-PMN",
+    "MI-MS",
+    "MI-PHD",
+    "MELLC-MIN",
+    "MTLIT-MA",
+    "MTLIT-PHD",
+    "MODLAN-MIN",
+    "MCP-MS",
+    "MCP-PHD",
+    "MUSIC-BA",
+    "MUSIC-DMA",
+    "MUSIC-MA",
+    "MUSIC-MIN",
+    "MUSIC-PHD",
+    "NATAM-BA",
+    "NATAM-MIN",
+    "NEURS-MS",
+    "NEURS-PHD",
+    "OCEANS-MS",
+    "OCEANS-PHD",
+    "PHREL-BA",
+    "PHILO-BA",
+    "PHILO-MA",
+    "PHILO-MIN",
+    "PHILO-PMN",
+    "PHILO-PHD",
+    "PLA-PMN",
+    "PAS-MS",
+    "PHYS-BS",
+    "PHYS-MS",
+    "PHYS-MIN",
+    "PHYS-PMN",
+    "PHYS-PHD",
+    "POLSC-BA",
+    "POLSC-MA",
+    "POLSC-MIN",
+    "POLSC-PMN",
+    "POLSC-PHD",
+    "PORT-MIN",
+    "PSYCH-BA",
+    "PSYCH-MA",
+    "PSYCH-MIN",
+    "PSYCH-PMN",
+    "PSYCH-PHD",
+    "PUBPO-BA",
+    "PUBPO-MA",
+    "PUBPO-MPP",
+    "PUBPO-MIN",
+    "RELST-BA",
+    "RELST-MA",
+    "RELST-MIN",
+    "RELST-PMN",
+    "RELST-PHD",
+    "REES-MA",
+    "STS-BA",
+    "STS-BS",
+    "STS-IHN",
+    "SLAV-BA",
+    "SLAV-MA",
+    "SLAV-MIN",
+    "SLAV-PMN",
+    "SLAV-PHD",
+    "SOCIO-BA",
+    "SOCIO-MA",
+    "SOCIO-MIN",
+    "SOCIO-PMN",
+    "SOCIO-PHD",
+    "SPAN-BA",
+    "SPAN-MIN",
+    "STATS-MS",
+    "STATS-MIN",
+    "STATS-PMN",
+    "STATS-PHD",
+    "STMRM-MS",
+    "STMRM-PHD",
+    "SBIO-PHD",
+    "SUSTSCI-MA",
+    "SUSTSCI-MS",
+    "SYMBO-BS",
+    "SYMBO-MS",
+    "SYMBO-MIN",
+    "THPST-BA",
+    "THPST-MIN",
+    "THPST-PMN",
+    "THPST-PHD",
+    "TRANS-MIN",
+    "TRAM-MS",
+    "URBST-BA",
+    "URBST-MIN"
+  ],
+  "in_scope_218": [
+    "AA-BS",
+    "AA-MIN",
+    "AA-MS",
+    "AEPHY-MS",
+    "AFRAM-BA",
+    "AFRAM-MIN",
+    "AMSTU-BA",
+    "AMSTU-MIN",
+    "ANTHR-BA",
+    "ANTHR-MA",
+    "ANTHR-MIN",
+    "APLPH-MS",
+    "ARCHA-BA",
+    "ARCHA-MIN",
+    "ART-MIN",
+    "ARTHS-BA",
+    "ARTHS-MA",
+    "ARTP-BA",
+    "ARTP-MIN",
+    "ARTS-MIN",
+    "ASAM-BA",
+    "ASAM-MIN",
+    "BIO-BS",
+    "BIO-MIN",
+    "BIO-MS",
+    "BIOC-MS",
+    "BIOE-BS",
+    "BIOE-MS",
+    "BIOPH-MS",
+    "BMDS-MS",
+    "CANBI-MS",
+    "CE-BS",
+    "CE-MIN",
+    "CEE-MS",
+    "CHEM-BS",
+    "CHEM-MIN",
+    "CHEM-MS",
+    "CHEME-BS",
+    "CHEME-MIN",
+    "CHEME-MS",
+    "CHILT-BA",
+    "CHILT-MIN",
+    "CHPR-MS",
+    "CIMGT-MS",
+    "CIVC-MIN",
+    "CLASS-BA",
+    "CLASS-MA",
+    "CLASS-MIN",
+    "CME-MS",
+    "COMMU-BA",
+    "COMMU-MA",
+    "COMMU-MIN",
+    "CPLIT-BA",
+    "CPLIT-MIN",
+    "CRWRIT-MIN",
+    "CS-BS",
+    "CS-MIN",
+    "CS-MS",
+    "CSB-MS",
+    "CSRE-BA",
+    "CSRE-MIN",
+    "DATSC-BA",
+    "DATSC-BS",
+    "DATSCI-MIN",
+    "DBIO-MS",
+    "DESIGN-BS",
+    "DESIGN-MS",
+    "DIGHUM-MIN",
+    "EALC-MA",
+    "EASST-BA",
+    "EASST-MA",
+    "EASST-MIN",
+    "EASYS-BS",
+    "EASYS-MA",
+    "EASYS-MIN",
+    "EASYS-MS",
+    "ECON-BA",
+    "ECON-BS",
+    "ECON-MA",
+    "ECON-MIN",
+    "ED-MA",
+    "ED-MS",
+    "EDUC-MIN",
+    "EE-BS",
+    "EE-MIN",
+    "EE-MS",
+    "ENERGY-BS",
+    "ENERGY-MIN",
+    "ENERGY-MS",
+    "ENGL-BA",
+    "ENGL-MA",
+    "ENGL-MIN",
+    "ENGR-BS",
+    "ENGR-MS",
+    "ENVRES-MS",
+    "ENVSE-BS",
+    "ENVSE-MIN",
+    "ENVSS-MA",
+    "EPIDM-MS",
+    "EPS-BS",
+    "EPS-MIN",
+    "EPS-MS",
+    "ESS-MS",
+    "ETHSO-MIN",
+    "FGSS-BA",
+    "FGSS-MIN",
+    "FILM-BA",
+    "FILM-MIN",
+    "FRENC-BA",
+    "FRENC-MA",
+    "FRENC-MIN",
+    "GENE-MS",
+    "GEOPH-BS",
+    "GEOPH-MIN",
+    "GEOPH-MS",
+    "GERST-BA",
+    "GERST-MA",
+    "GERST-MIN",
+    "GLBLST-MIN",
+    "HMN GEN-MS",
+    "HRP-MS",
+    "HSTRY-BA",
+    "HSTRY-MA",
+    "HSTRY-MIN",
+    "HUMBI-BA",
+    "HUMBI-BS",
+    "HUMBI-MIN",
+    "HUMRTS-MIN",
+    "IDMEN-BS",
+    "ILAC-BA",
+    "ILAC-MA",
+    "IMMUN-MS",
+    "INPOL-MA",
+    "INTLR-BA",
+    "INTLR-MIN",
+    "ITAL-BA",
+    "ITAL-MA",
+    "ITAL-MIN",
+    "JEWSH-BA",
+    "JEWSH-MIN",
+    "LAMER-MA",
+    "LING-BA",
+    "LING-MA",
+    "LING-MIN",
+    "MATH-BS",
+    "MATH-MIN",
+    "MATH-MS",
+    "MATSC-BS",
+    "MATSC-MIN",
+    "MATSC-MS",
+    "MCP-MS",
+    "ME-BS",
+    "ME-MIN",
+    "ME-MS",
+    "MED-MS",
+    "MEDHUM-MIN",
+    "MEDST-MIN",
+    "MELLC-MIN",
+    "MGTSC-BS",
+    "MGTSC-MIN",
+    "MGTSC-MS",
+    "MI-MS",
+    "MLASC-MS",
+    "MODLAN-MIN",
+    "MTLIT-MA",
+    "MUSIC-BA",
+    "MUSIC-MA",
+    "MUSIC-MIN",
+    "NATAM-BA",
+    "NATAM-MIN",
+    "NEURS-MS",
+    "OCEANS-MS",
+    "PAS-MS",
+    "PHILO-BA",
+    "PHILO-MA",
+    "PHILO-MIN",
+    "PHREL-BA",
+    "PHYS-BS",
+    "PHYS-MIN",
+    "PHYS-MS",
+    "POLSC-BA",
+    "POLSC-MA",
+    "POLSC-MIN",
+    "PORT-MIN",
+    "PSYCH-BA",
+    "PSYCH-MA",
+    "PSYCH-MIN",
+    "PUBPO-BA",
+    "PUBPO-MA",
+    "PUBPO-MIN",
+    "REES-MA",
+    "RELST-BA",
+    "RELST-MA",
+    "RELST-MIN",
+    "SLAV-BA",
+    "SLAV-MA",
+    "SLAV-MIN",
+    "SOCIO-BA",
+    "SOCIO-MA",
+    "SOCIO-MIN",
+    "SPAN-BA",
+    "SPAN-MIN",
+    "STATS-MIN",
+    "STATS-MS",
+    "STMRM-MS",
+    "STS-BA",
+    "STS-BS",
+    "SUSTSCI-MA",
+    "SUSTSCI-MS",
+    "SYMBO-BS",
+    "SYMBO-MIN",
+    "SYMBO-MS",
+    "THPST-BA",
+    "THPST-MIN",
+    "TRAM-MS",
+    "TRANS-MIN",
+    "URBST-BA",
+    "URBST-MIN"
+  ],
+  "excluded": [
+    [
+      "AA-ENG",
+      "degree type out of scope"
+    ],
+    [
+      "AA-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "AA-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ANTHR-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "ANTHR-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "APLPH-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ARTHS-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "ARTHS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ARTP-MFA",
+      "degree type out of scope"
+    ],
+    [
+      "BIOC-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "BIOE-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "BIOE-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "BIO-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "BMDS-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "BMDS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "BMP-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "BIOPH-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "GSB-MBA",
+      "degree type out of scope"
+    ],
+    [
+      "GSB-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "CANBI-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "CSB-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "CHEME-ENG",
+      "degree type out of scope"
+    ],
+    [
+      "CHEME-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "CHEME-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "CHEM-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "CHEM-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "CEE-ENG",
+      "degree type out of scope"
+    ],
+    [
+      "CEE-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "CEE-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "CLASS-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "CLASS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "COMMU-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "COMMU-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "CSRE-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "CSRE-IHN",
+      "degree type out of scope"
+    ],
+    [
+      "CPLIT-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "CPLIT-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "CME-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "CME-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "CS-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "CS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "DDRL-IHN",
+      "degree type out of scope"
+    ],
+    [
+      "DBIO-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "FILM-MFA",
+      "degree type out of scope"
+    ],
+    [
+      "EPS-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "EPS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ESS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "EALC-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ECON-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "ECON-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ED-IHN",
+      "degree type out of scope"
+    ],
+    [
+      "ED-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "ED-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "EE-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "EE-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ENERGY-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "ENERGY-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "66QEfbYoXsDQomIHquBE",
+      "opaque ENGR-BS subplan stub"
+    ],
+    [
+      "BhS0crb5iSOey59K4pEu",
+      "opaque ENGR-BS subplan stub"
+    ],
+    [
+      "amgyvgz1HuZ5s5gEbkq0",
+      "opaque ENGR-BS subplan stub"
+    ],
+    [
+      "16kZ1nSLynUYAQA95BOf",
+      "opaque ENGR-BS subplan stub"
+    ],
+    [
+      "jaikpuy4s2o1AEGK4tcF",
+      "opaque ENGR-BS subplan stub"
+    ],
+    [
+      "JzNNOUhLu7KQWAKTAHcK",
+      "opaque ENGR-BS subplan stub"
+    ],
+    [
+      "ENGL-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ENVRES-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ENVSS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "EPIDCR-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ETHSO-IHN",
+      "degree type out of scope"
+    ],
+    [
+      "FGSS-IHN",
+      "degree type out of scope"
+    ],
+    [
+      "FGSS-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "FRENC-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "FRENC-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "FRNIT-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "GENE-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "GEOPH-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "GEOPH-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "GERST-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "GERST-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "HRP-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "HSTRY-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "HSTRY-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ARTS-IHN",
+      "degree type out of scope"
+    ],
+    [
+      "ILAC-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "ILAC-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "IMMUN-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "INSST-IHN",
+      "degree type out of scope"
+    ],
+    [
+      "ITAL-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "ITAL-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "LAW-JD",
+      "degree type out of scope"
+    ],
+    [
+      "LAW-JSD",
+      "degree type out of scope"
+    ],
+    [
+      "LAW-JSM",
+      "degree type out of scope"
+    ],
+    [
+      "LAW-LLM",
+      "degree type out of scope"
+    ],
+    [
+      "LAW-MLS",
+      "degree type out of scope"
+    ],
+    [
+      "LING-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "LING-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "MLA-MLA",
+      "degree type out of scope"
+    ],
+    [
+      "MATSC-ENG",
+      "degree type out of scope"
+    ],
+    [
+      "MATSC-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "MATSC-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "MATH-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "MATH-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "ME-ENG",
+      "degree type out of scope"
+    ],
+    [
+      "ME-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "ME-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "MED-MD",
+      "degree type out of scope"
+    ],
+    [
+      "MGTSC-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "MGTSC-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "MI-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "MTLIT-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "MCP-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "MUSIC-DMA",
+      "degree type out of scope"
+    ],
+    [
+      "MUSIC-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "NEURS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "OCEANS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "PHILO-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "PHILO-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "PLA-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "PHYS-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "PHYS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "POLSC-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "POLSC-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "PSYCH-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "PSYCH-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "PUBPO-MPP",
+      "degree type out of scope"
+    ],
+    [
+      "RELST-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "RELST-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "STS-IHN",
+      "degree type out of scope"
+    ],
+    [
+      "SLAV-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "SLAV-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "SOCIO-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "SOCIO-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "STATS-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "STATS-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "STMRM-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "SBIO-PHD",
+      "degree type out of scope"
+    ],
+    [
+      "THPST-PMN",
+      "degree type out of scope"
+    ],
+    [
+      "THPST-PHD",
+      "degree type out of scope"
+    ]
+  ]
+}

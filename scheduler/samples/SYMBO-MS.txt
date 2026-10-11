@@ -1,0 +1,157 @@
+SYMBO-MS - Symbolic Systems (MS)
+Download as PDF
+Symbolic Systems
+Symbolic Systems
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The observation that both human beings and computers can manipulate symbols lies at the heart of Symbolic Systems, an interdisciplinary program focusing on the relationship between natural and artificial systems that represent, process, and act on information. Computer programs, natural languages, the human mind, and the Internet embody concepts whose study forms the core of the Symbolic Systems curriculum, such as computation, representation, communication, and intelligence. A body of knowledge and theory has developed around these notions, from disciplines such as philosophy, computer science, linguistics, psychology, statistics, neurobiology, and communication. Since the invention of computers, researchers have been working across these disciplines to study questions such as: in what ways are computers and computer languages like human beings and their languages; how can the interaction between people and computers be made more accessible and more beneficial?
+The core requirements of the Symbolic Systems Program (SSP) include courses in symbolic logic, the philosophy of mind, formal linguistics, cognitive psychology, programming, the mathematics of computation, statistical theory, artificial intelligence, and interdisciplinary approaches to cognitive science. These courses prepare students with the vocabulary, theoretical background, and technical skills needed for study and research at the advanced undergraduate and graduate levels. Most of the courses in SSP are drawn from affiliated departments. Courses designed specifically for the program aim to integrate and supplement topics covered by the department-based offerings. The curriculum includes humanistic approaches to questions about language and intelligence and training in science and engineering.
+SSP offers BS and MS degree programs. Both programs require students to master a common core of required courses and to choose an area of specialization.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Master of Science in Symbolic Systems
+Fulfill ALL of the following requirements:
+Requirements Overview
+A candidate for the MS degree in Symbolic Systems must complete a program of 45 units. All courses must be 100-level and above. None of the 45 units to be counted toward the MS degree may include units counted toward an undergraduate degree at Stanford or elsewhere. Course requirements for the MS degree in Symbolic Systems may be waived after a review by the program office. Waivers are granted at the discretion of the program and only if evidence is provided that similar or more advanced courses have been taken and passed with a letter grade of B or its equivalent, either at Stanford or another institution and as part of another degree program which the student has either completed or is pursuing in parallel with the Symbolic Systems MS degree. Waivers of Core skill area requirements for the MS degree must be approved by the end of the student’s first quarter of enrollment in the program. Course requirements that are waived rather than fulfilled by courses taken at Stanford may not be counted toward the 45 units required for the Symbolic Systems MS degree. For additional information, see the
+Symbolic Systems website
+.
+AND
+Each candidate for the M.S. degree must fulfill the following requirements:
+Fulfill ALL of the following requirements:
+1. Submission to the Symbolic Systems Program office and approval of the following pre-project research documents:
+Project Area Statement, endorsed with a commitment from a student’s prospective project advisor no later than May 1 of the academic year before the expected graduation year; and
+Qualifying Research Paper due no later than the end of summer quarter before the expected graduation year.
+AND
+2. Completion of A Coherent Plan of Study
+The plan of study should be approved by the Program Director, Director of Graduate Studies, or Associate Director in consultation with the student’s primary advisor (for students with an approved Project Area Statement) and designed to support a student’s project as well as the core course requirements for the MS degree (requirements 3 and 4 below). An initial study plan should be delineated on the Master’s Program Proposal Form before the end of the student’s first quarter of study, as the university requires. The Program Proposal must meet university minimum requirements for the master’s degree, including at least 45 units taken at Stanford, all courses at 100-level or above, and 50% of units designated primarily for graduate students (typically 200-level or above). All courses must be in the graduate career. The final version of the Program Proposal, which should specify all the courses which the student has taken and proposes in fulfillment of both the program’s and the university’s course and unit requirements for the degree, is due by the end of Finals Week in the quarter before the student’s expected graduation quarter (i.e., end of winter quarter for a student graduating in the spring).
+AND
+3. Completion of the Master's Breadth Requirements
+The Program Proposal must include courses taken for three units or more each that are more advanced than the Symbolic Systems undergraduate core in four main skill areas:
+Formal
+Empirical
+Computational
+Philosophical
+And in at least three of the following departments (based on the listing as any cross-listing departments):
+Computer Science
+Linguistics
+Philosophy
+Psychology
+Courses to fulfill the Breadth Requirements must be taken for a letter grade if available,  and note that any one single course may be applied to at most one M.S. Core skill area.
+For a complete listing of courses, please view the Breadth in Discipline section.
+AND
+4. Completion of Three Quarters of SYMSYS 291 - Master’s Program Seminar
+Complete ALL of the following Courses:
+SYMSYS291 - Master's Program Seminar
+AND
+5. Completion of a substantial project appropriate to the Program Proposal, represented by the MS Thesis
+For a full description of this requirement, view the Research of Project Requirement section.
+AND
+6. Individual Development Plan
+Submission of an Individual Development Plan, approved by the student’s primary thesis advisor, by June 1 of the year before the student’s first full academic year working with their primary advisor.
+Breadth in Discipline
+Completion requirement
+Breadth in Discipline Overivew
+The Program Proposal must include courses taken for three units or more each that are more advanced than the Symbolic Systems undergraduate core in four main skill areas:
+Formal
+Empirical
+Computational
+Philosophical
+Courses across the four main skill areas should be taken in at least three of the following departments (based on the listing as any cross-listing departments):
+Computer Science
+Linguistics
+Philosophy
+Psychology
+Courses to fulfill the Breadth Requirements must be taken for a letter grade if available, and note that any one single course may be applied to at most one M.S. Core skill area
+Formal
+A course in logic and computational theory beyond the level of PHIL151 Metalogic. The courses below have been approved. Other courses may be approved if appropriate.
+Complete at least 1 of the following Courses:
+CS154 - Introduction to the Theory of Computation
+CS157 - Computational Logic
+CS161 - Design and Analysis of Algorithms
+CS254 - Computational Complexity
+CS257 - Introduction to Automated Reasoning
+CS261 - Combinatorial Optimization
+PHIL252 - Computability and Logic
+PHIL254 - Modal Logic
+PHIL257 - Decision Theory
+PHIL352 - Advanced Set Theory
+Empirical
+A course drawing on experimental or observational data or methods, beyond the level of PSYCH 55, LINGUIST 120 or 130A. The courses below are examples of those that have been approved. Other courses may be approved if appropriate.
+Complete at least 1 of the following Courses:
+CS222 - AI Agents and Simulations
+CS224N - Natural Language Processing with Deep Learning
+CS224U - Natural Language Understanding
+CS229 - Machine Learning
+CS377U - Understanding Users
+LINGUIST230B - Advanced Semantics
+LINGUIST245B - Methods in Psycholinguistics
+NBIO206 - The Nervous System
+PSYCH204A - Human Neuroimaging Methods
+PSYCH209 - Neural Network Models of Cognition
+PSYCH251 - Experimental Methods
+PSYCH252 - Statistical Methods for Behavioral and Social Sciences
+STATS200 - Introduction to Theoretical Statistics
+SYMSYS245 - Cognition in Interaction Design
+Computational
+A Computer Science Department-listed course that either (a) includes CS 107 as a prerequisite, or (b) lists CS 106B or 106X, together with one or more courses from the mathematical or Formal Methods Core of the SymSys undergraduate major, as prerequisites.
+Complete at least 1 of the following Courses:
+CS108 - Object-Oriented Systems Design
+CS110 - Principles of Computer Systems
+CS111 - Operating Systems Principles
+CS124 - From Languages to Information
+CS142 - Web Applications
+CS143 - Compilers
+CS145 - Introduction to Big Data Systems
+CS148 - Introduction to Computer Graphics and Imaging
+CS168 - The Modern Algorithmic Toolbox
+CS210A - Industry Innovation Lab
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224N - Natural Language Processing with Deep Learning
+CS224U - Natural Language Understanding
+CS224W - Machine Learning with Graphs
+CS229 - Machine Learning
+CS229S - Systems for Machine Learning
+CS234 - Reinforcement Learning
+CS246 - Mining Massive Data Sets
+CS329X - Human Centered NLP
+Philosophical
+A course in the area of Philosophy of Mind/Language/Science/Epistemology or Metaphysics at the 200 level or above, certified by the instructor as worthy of graduate credit. The courses below are examples of those that have been approved. Other courses may be approved if appropriate.
+Complete at least 1 of the following Courses:
+PHIL207B - Plato's Later Metaphysics and Epistemology
+PHIL213 - Hellenistic Philosophy
+PHIL231 - Introduction to Phenomenology
+PHIL234A - Phenomenology: Animals
+PHIL237 - Wittgenstein
+PHIL251D - Measurement Theory
+PHIL257 - Decision Theory
+PHIL264 - Scientific Realism, Perspectivism, and Antirealism
+PHIL267D - Philosophy of Neuroscience
+PHIL267E - Philosophy of Evolutionary Biology
+PHIL281 - Philosophy of Language
+PHIL281A - Philosophy of Language
+PHIL281C - Linguistic Justice
+PHIL282H - Truth
+PHIL284 - Epistemology
+PHIL286 - Philosophy of Mind
+PHIL287 - Philosophy of Action
+PHIL288A - Explanation
+PHIL327 - Scientific Philosophy: From Kant to Kuhn and Beyond
+PHIL359 - Logic Spring Seminar
+PHIL361 - Philosophy of Social Science: Social Scientific Methodology
+PHIL387 - Phil of Action Seminar: Human Agency in a Social World: Shared Agency, Social Rules and Institutions
+Research or Project Requirement
+Completion requirement
+Project/Thesis Requirement
+Completion of a substantial project appropriate to the Program Proposal, represented by the MS Thesis. The project and thesis usually take three quarters or more to complete and work on the project may account for up to 15 units of a student’s 45-unit program. The thesis must be read and approved for the master’s degree in Symbolic Systems by two qualified readers approved by the program, at least one of whom must be an Academic Council member. The final thesis is subject to the approval of the Symbolic Systems Program Office. The thesis must be written in English to ensure that the faculty and staff of the Program’s Directorate can read and understand it. A hard copy of the thesis must be submitted to the Associate Director of Symbolic Systems, including the signatures of each reader indicating approval of the thesis for the degree of Master of Science, no later than noon on the day of the
+University Dissertation/Thesis Submission Deadline for the quarter of a student’s graduation. A digital copy must be uploaded to the Stanford Digital Repository by the same deadline. For more details, see the
+Master’s Thesis information
+on the Symbolic Systems Program website.

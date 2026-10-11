@@ -1,0 +1,518 @@
+BMDS-MS - Biomedical Data Science (MS)
+Download as PDF
+Biomedical Data Science
+Biomedical Data Sciences
+MS - Master of Science
+General
+Program Policies
+Learning Outcomes
+Program Overview
+The Biomedical Data Science Program is interdepartmental and offers instruction and research opportunities leading to MS and PhD degrees in Biomedical Data Science. All students must complete the core curriculum requirements and additional coursework that fulfills degree requirements and pursues their technical interests and goals as specified for each degree program.
+The program can provide flexibility and complement Stanford’s other applied medical research opportunities. Special arrangements may be made for those with unique needs or those simultaneously enrolled in other degree programs within the university. Similarly, students with prior relevant training may have the curriculum adjusted to eliminate requirements met as part of prior training.
+The GRE is not required for admission.
+See
+Graduate Degrees
+for university requirements for the MS degree.
+Advising
+Upon entering the program, each student is assigned an academic advisor to help with course selection and monitor progress toward program milestones and degree requirements. Each research-track (academic) MS and PhD student conducts research under the primary mentorship of a faculty supervisor, who guides their scholarly and professional development. Further details about the advisor roles and responsibilities are found in
+DBDS Student Handbook
+.
+Master of Science in Biomedical Data Science (Academic)
+This degree is designed for individuals who wish to undertake an in-depth study of biomedical data science with research on a full-time basis. Typically, a student spends two years in the program and implements and documents a substantial project by the end of the second year. The first year involves acquiring the fundamental concepts and tools through coursework and research project involvement. Academic MS students are expected to devote 50 percent or more of their time to participating in research projects. Research rotations are not required but can be done with the approval of the academic advisor or training program director. Graduates of this program are prepared to contribute creatively to basic or applied projects in biomedical data science. This degree requires a written research paper to be approved by two faculty members.
+Master of Science in Biomedical Data Science (Professional/Honors Cooperative Program)
+This degree is designed primarily for the working professional with advanced training in one discipline who wishes to acquire interdisciplinary skills. Although many classes necessary for the degree are available online, some requirements may be fulfilled by implementing an alternative plan to be approved by the program. The professional MS is offered with the Stanford Engineering Center for Global & Online Education (CGOE), which establishes tuition and fee rates. The program uses the honors cooperative program (HCP) model, which assumes that the student works full time and is enrolled in the MS part-time. Students who live locally may attend their courses on campus. Students have up to five years to complete the program. Research projects are optional; the student must make arrangements with program faculty if interested. Graduates of this program are prepared to contribute creatively to basic or applied projects in biomedical data science.
+Master of Science in Biomedical Data Science (Coterminal)
+The coterminal degree program allows Stanford University undergraduates to study for a master’s degree while completing their bachelor’s degree(s) in the same or a different department. See
+Coterminal Master's Degrees
+for additional information.
+The coterminal Master of Science program follows the same program requirements as the Master of Science (Professional), except for the requirement to be employed full-time. The coterminal degree is available only to current Stanford undergraduates. Coterminal students are enrolled full time, and courses are taken on campus. Research projects are optional; the student must make arrangements with program faculty if interested. Graduates of this program are prepared to contribute creatively to basic or applied projects in biomedical data science.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Master's Requirements (45 units of coursework required to graduate; scroll down for HCP and Coterminal info)
+Fulfill ALL of the following requirements:
+Core Courses (12 units for Academic + Co-term MS; 9 units for Honors Coop)
+Core courses must all be taken for a letter grade.
+All core courses are required for HCP except BMDS 212, which is highly recommended if possible. BMDS 212 requires special arrangements with the instructor, so we can include you in the class remotely if possible.
+Students are expected to participate regularly in the Biomedical Data Science Student Seminar and a research colloquium which is listed as BMDS 201A, B and C in fall/winter/spring quarters. Regardless of their enrollment, they should attend all meetings throughout their graduate training and a research colloquium appropriate to their interests. This course can be taken up to three times for one unit credit each time.
+Complete ALL of the following Courses:
+BMDS202 - An overview of Biomedical Data Science
+BMDS212 - Introduction to Biomedical Informatics Research Methodology
+BMDS214 - Representations and Algorithms for Computational Molecular Biology
+OR
+BMDS205 - Bioinformatics for Stem Cell and Cancer Biology
+BMDS215 - Data Science for Medicine
+AND
+Computer Science, Statistics, Mathematics & Engineering (18 Units)
+Students are expected to create a program of study with graduate-level courses in computer science, statistics, and other technical informatics-related disciplines to achieve in-depth mastery. The program of study may focus on aspects of these disciplines, including machine learning, statistical modeling, artificial intelligence, data mining, image analysis, human-computer interaction, and data visualization.
+Please note:
+Up to eight CS/Stats/Math/Eng units can be taken pass/fail.
+No more than nine units can be courses below the 200-level.
+course
+Programming Methodology and
+course
+Programming Abstractions cannot be counted for this requirement.
+Fulfill ALL of the following requirements:
+Specific Required Courses
+Complete ALL of the following Courses:
+CS161 - Design and Analysis of Algorithms
+STATS200 - Introduction to Theoretical Statistics
+STATS315A - Modern Applied Statistics: Learning
+OR
+CS229 - Machine Learning
+AND
+CS/Stats/Math/Eng Electives
+Complete ANY of the following Courses:
+APPPHYS223 - Stochastic and Nonlinear Dynamics
+APPPHYS293 - A modern explainable AI approach to Theoretical Neuroscience
+BIO223 - Stochastic and Nonlinear Dynamics
+BIOE210 - Systems Biology
+BIOE279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+BIOE285 - Computational Modeling in the Cardiovascular System
+BIOE291 - Principles and Practice of Optogenetics for Optical Control of Biological Tissues
+BIOE300B - Quantitative Physiology
+BIOE301E - Computational Protein Modeling Laboratory
+BIOE331 - Protein Engineering
+BIOS237 - Engineering Wellness: Wearable Devices for Precision Medicine Applications
+BMDS205 - Bioinformatics for Stem Cell and Cancer Biology
+BMDS210 - Modeling Biomedical Systems
+BMDS217 - Translational Bioinformatics
+BMDS218 - Data Centric AI for Healthcare
+BMDS219 - Mathematical Models and Medical Decisions
+BMDS221 - Machine Learning Approaches for Data Fusion in Biomedicine
+BMDS222 - Cloud Computing for Biology and Healthcare
+BMDS224 - Principles of Pharmacogenomics
+BMDS237 - Outcomes Analysis
+BMDS241 - Intermediate Biostatistics: Analysis of Discrete Data
+BMDS270 - Algorithmic Foundations for Artificial Intelligence in Healthcare
+BMDS271 - Foundation Models for Healthcare
+BMDS273 - Deep Learning in Genomics and Biomedicine
+BMDS280A - Workshop in Biomedical Data Science
+BMDS280B - Workshop in Biomedical Data Science
+BMDS280C - Workshop in Biomedical Data Science
+BMDS292 - Software Engineering For Scientists
+CBIO243 - Principles of Cancer Systems Biology
+CHEM263 - Machine Learning for Chemical and Dynamical Data
+CME100 - Vector Calculus for Engineers
+CME102 - Ordinary Differential Equations for Engineers
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+CME106 - Introduction to Probability and Statistics for Engineers
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+CME200 - Linear Algebra with Application to Engineering Computations
+CME204 - Partial Differential Equations in Engineering
+CME213 - Introduction to parallel computing using MPI, openMP, and CUDA
+CME250 - Introduction to Machine Learning
+CME251 - Geometric and Topological Data Analysis
+CME263 - Matrix Methods: Singular Value Decomposition
+CME292 - Advanced MATLAB for Scientific Computing
+CME302 - Numerical Linear Algebra
+CME303 - Partial Differential Equations of Applied Mathematics
+CME309 - Randomized Algorithms and Probabilistic Analysis
+CME330 - Applied Mathematics in the Chemical and Biological Sciences
+CME334 - Optimization Algorithms
+CME500 - Departmental Seminar
+CME510 - Linear Algebra and Optimization Seminar
+CS103 - Mathematical Foundations of Computing
+CS107 - Computer Organization and Systems
+CS108 - Object-Oriented Systems Design
+CS109 - Introduction to Probability for Computer Scientists
+CS110 - Principles of Computer Systems
+CS111 - Operating Systems Principles
+CS124 - From Languages to Information
+CS129 - Applied Machine Learning
+CS131 - Computer Vision: Foundations and Applications
+CS140 - Operating Systems and Systems Programming
+CS142 - Web Applications
+CS143 - Compilers
+CS144 - Introduction to Computer Networking
+CS145 - Introduction to Big Data Systems
+CS147 - Introduction to Human-Computer Interaction Design
+CS148 - Introduction to Computer Graphics and Imaging
+CS149 - Parallel Computing
+CS154 - Introduction to the Theory of Computation
+CS155 - Computer and Network Security
+CS157 - Computational Logic
+CS161 - Design and Analysis of Algorithms
+CS166 - Advanced Data Structures
+CS193C - Client-Side Internet Technologies
+CS193P - iOS Application Development
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS221 - Artificial Intelligence: Principles and Techniques
+CS223A - Introduction to Robotics
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS224S - Spoken Language Processing
+CS224U - Natural Language Understanding
+CS224W - Machine Learning with Graphs
+CS225A - Experimental Robotics
+CS226 - The Future of Mechanical Engineering
+CS227B - General Game Playing
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+CS232 - Digital Image Processing
+CS236 - Deep Generative Models
+CS236G - Generative Adversarial Networks
+CS238 - Decision Making under Uncertainty
+CS240 - Advanced Topics in Operating Systems
+CS242 - Programming Languages
+CS243 - Program Analysis and Optimizations
+CS244 - Advanced Topics in Networking
+CS244B - Distributed Systems
+CS245 - Principles of Data-Intensive Systems
+CS246 - Mining Massive Data Sets
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS249I - The Modern Internet
+CS254 - Computational Complexity
+CS255 - Introduction to Cryptography
+CS261 - Combinatorial Optimization
+CS263 - Counting and Sampling
+CS270 - Modeling Biomedical Systems
+CS272 - Introduction to Biomedical Informatics Research Methodology
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275 - Translational Bioinformatics
+CS295 - Software Engineering
+CS309A - Cloud Computing Seminar
+CS315B - Parallel Computing Research Project
+CS328 - Foundations of Causal Machine Learning
+CS329A - Self Improving AI Agents
+CS330 - Deep Multi-task and Meta Learning
+CS348B - Computer Graphics: Image Synthesis Techniques
+CS348I - Computer Graphics in the Era of AI
+CS355 - Advanced Topics in Cryptography
+CS356 - Topics in Computer and Network Security
+CS362 - Research in AI Alignment
+CS375 - Large-Scale Neural Network Modeling for Neuroscience
+CS431 - High-level Vision: From Neurons to Deep Neural Networks
+CS448B - Data Visualization
+CS468 - Topics in Geometric Computing - 3D and 4D Foundation Models
+CS520 - Knowledge Graphs
+CS524 - AI for Science
+CS522 - Seminar in Artificial Intelligence in Healthcare
+CS528 - Machine Learning Systems Seminar
+CS547 - Human-Computer Interaction Seminar
+DATASCI211 - Accelerating Research with Marlowe: Practical GPU Computing for Scientists
+DATASCI294B - Data Science for Computational Molecular Biology
+EE101A - Circuits I
+EE101B - Circuits II
+EE102A - Signals and Systems I
+EE102B - Signals and Systems II
+EE168 - Introduction to Digital Image Processing
+EE169 - Introduction to Bioimaging
+EE178 - Probabilistic Systems Analysis
+EE179 - Analog and Digital Communication Systems
+EE256 - Board Level Design
+EE261 - The Fourier Transform and Its Applications
+EE264 - Digital Signal Processing
+EE276 - Information Theory
+EE279 - Introduction to Digital Communication
+EE282 - Computer Systems Architecture
+EE284 - Introduction to Computer Networks
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+EE369A - Medical Imaging Systems I
+EE369B - Medical Imaging Systems II
+EE369C - Medical Image Reconstruction
+EE376C - Universal Information Processing
+EE378A - Statistical Signal Processing
+EE379 - Digital Communication
+EE382C - Interconnection Networks
+EE384A - Internet Switching and Routing Protocols
+EE384S - Performance Engineering of Computer Systems & Networks
+EE387 - Algebraic Error Correcting Codes
+ENGR154 - Vector Calculus for Engineers
+ENGR155A - Ordinary Differential Equations for Engineers
+ENGR155B - Linear Algebra and Partial Differential Equations for Engineers
+ENGR155C - Introduction to Probability and Statistics for Engineers
+ENGR205 - Introduction to Control Design Techniques
+ENGR209A - Analysis and Control of Nonlinear Systems
+EPI206 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+EPI224 - Genetic Epidemiology
+EPI225 - Introduction to Epidemiologic and Clinical Research Methods
+EPI226 - Intermediate Epidemiologic and Clinical Research Methods
+EPI251 - Design and Conduct of Clinical Trials
+EPI258 - Introduction to Probability and Statistics for Clinical Research
+EPI259 - Introduction to Probability and Statistics for Epidemiology
+EPI262 - Intermediate Biostatistics: Regression, Prediction, Survival Analysis
+EPI263 - Social Epidemiology
+HRP255 - Decoding Academia: Power, Hierarchies, and Transforming Institutions
+HRP263 - Advanced Decision Science Methods and Modeling in Health
+IMMUNOL207 - Essential Methods in Computational and Systems Immunology
+MATH104 - Applied Matrix Theory
+MATH106 - Functions of a Complex Variable
+MATH107 - Graph Theory
+MATH108 - Introduction to Combinatorics and Its Applications
+MATH109 - Groups and Symmetry
+MATH110 - Number Theory for Cryptography
+MATH113 - Linear Algebra and Matrix Theory
+MATH114 - Introduction to Scientific Computing
+MATH115 - Functions of a Real Variable
+MATH116 - Complex Analysis
+MATH118 - Mathematics of Computation
+MATH120 - Groups and Rings
+MATH121 - Galois Theory
+MATH122 - Modules and Group Representations
+MATH131P - Partial Differential Equations
+MATH136 - Stochastic Processes
+MATH143 - Differential Geometry
+MATH144 - Introduction to Topology and Geometry
+MATH145 - Algebraic Geometry
+MATH147 - Differential Topology
+MATH148 - Algebraic Topology
+MATH151 - Introduction to Probability Theory
+MATH152 - Elementary Theory of Numbers
+MATH154 - Algebraic Number Theory
+MATH155 - Analytic Number Theory
+MATH159 - Discrete Probabilistic Methods
+MATH161 - Set Theory
+MATH171 - Fundamental Concepts of Analysis
+MATH172 - Fourier Analysis
+MATH173 - Theory of Partial Differential Equations
+MATH175 - Elementary Functional Analysis
+MATH193 - Polya Problem Solving Seminar
+MATH205A - Real Analysis
+MATH205B - Real Analysis
+MATH210A - Modern Algebra I
+MATH210B - Modern Algebra II
+MATH210C - Lie Theory
+MATH215A - Algebraic Topology
+MATH215B - Differential Topology
+MATH215C - Differential Geometry
+MATH216A - Introduction to Algebraic Geometry
+MATH216B - Introduction to Algebraic Geometry
+MATH216C - Introduction to Algebraic Geometry
+MATH228 - Stochastic Methods in Engineering
+MATH230A - Theory of Probability I
+MATH230B - Theory of Probability II
+MATH230C - Theory of Probability III
+MATH232 - Topics in Probability
+MATH236 - Introduction to Stochastic Differential Equations
+MATH244 - Riemann Surfaces
+MATH245A - Topics in Algebraic Geometry
+MATH245B - Topics in Algebraic Geometry
+MATH245C - Topics in Algebraic Geometry
+MATH249A - Topics in number theory
+MATH249B - Topics in Number Theory
+MATH249C - Topics in Number Theory
+MATH256A - Partial Differential Equations
+MATH256B - Partial Differential Equations
+MATH257A - Symplectic Geometry and Topology
+MATH257B - Symplectic Geometry and Topology
+MATH258 - Topics in Geometric Analysis
+MATH263A - Topics in Representation Theory
+MATH269 - Topics in symplectic geometry
+MATH270 - Geometry and Topology of Complex Manifolds
+MATH271 - The H-Principle
+MATH272 - Topics in Analysis and Partial Differential Equations
+MATH282A - Low Dimensional Topology
+MATH282B - Homotopy Theory
+MATH283A - Topics in Topology
+MATH286 - Topics in Differential Geometry
+ME161 - Dynamic Systems, Vibrations and Control
+ME300B - Partial Differential Equations in Engineering
+MED206 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+MED263 - Advanced Decision Science Methods and Modeling in Health
+MGTECON634 - Machine Learning and Causal Inference
+MS&E120 - Introduction to Probability
+MS&E211 - Introduction to Optimization
+MS&E220 - Probabilistic Analysis
+MS&E223 - Stochastic Simulation and Monte Carlo Methods
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E228 - Applied Causal Inference with Machine Learning and AI
+MS&E229 - Bayesian Linear Regression
+MS&E252 - Foundations of Decision Analysis
+MS&E263 - Healthcare Operations Management
+MS&E310 - Linear Programming
+MS&E328 - Foundations of Causal Machine Learning
+MS&E334 - Topics in Social Data
+MS&E335 - Queueing and Scheduling in Processing Networks
+MS&E355 - Influence Diagrams and Probabilistics Networks
+MS&E454 - Decision Analysis Seminar
+MS&E463 - Healthcare Systems Design
+NBIO228 - Mathematical Tools for Neuroscience
+NENS230 - Analysis Techniques for the Biosciences Using MATLAB
+PSYCH253 - Multivariate Analysis, Measurement, and Study of Change in Social Science Research
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+STATS203 - Regression Models and Analysis of Variance
+STATS205 - Introduction to Nonparametric Statistics
+STATS206 - Applied Multivariate Analysis
+STATS207 - Time Series Analysis
+STATS208 - Resampling Methods: Bootstrap, Cross Validation and Beyond
+STATS209 - Introduction to Causal Inference
+STATS214 - Machine Learning Theory
+STATS215 - Statistical Models in Biology
+STATS217 - Introduction to Stochastic Processes I
+STATS218 - Introduction to Stochastic Processes II
+STATS219 - Stochastic Processes
+STATS270 - Bayesian Statistics
+STATS285 - Massive Computational Experiments, Painlessly
+STATS290 - Computing for Data Science
+STATS300A - Theory of Statistics I
+STATS300B - Theory of Statistics II
+STATS300C - Theory of Statistics III
+STATS305A - Applied Statistics I
+STATS305B - Applied Statistics II
+STATS305C - Applied Statistics III
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+STATS317 - Stochastic Processes
+STATS318 - Modern Markov Chains
+STATS319 - Literature of Statistics
+STATS320 - Machine Learning Methods for Neural Data Analysis
+STATS322 - Function Estimation in White Noise
+STATS324 - Stein's Method
+STATS325 - Multivariate Analysis and Random Matrices in Statistics
+STATS352 - Topics in Computing for Data Science
+STATS362 - Topic: Monte Carlo
+STATS375 - Mathematical Problems in Machine Learning
+CS 106A and 106B do not count toward this Electives category.
+Crosslisted offerings for any of the courses listed above are accepted in place of the offering listed.
+AND
+Social and Ethical Issues (4 units)
+Fulfill ALL of the following requirements:
+Specific Required Courses
+Complete ALL of the following Courses:
+MED255 - The Responsible Conduct of Research
+AND
+Elective Courses
+Complete at least 1 of the following Courses:
+BIOE122 - BioSecurity and Pandemic Resilience
+BIOE131 - Ethics in Bioengineering
+BIOE450 - Advances in Biotechnology
+BMDS223 - Deploying and Evaluating Fair AI in Healthcare
+BMDS235 - Economics of Health and Medical Care
+BMDS236 - Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions
+BMDS244 - Methods for Reproducible Population Health and Clinical Research
+CEE252 - Silicon Valley and the U.S. Government
+CS182 - Ethics, Public Policy, and Technological Change
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+CS256 - Algorithmic Fairness
+CS281 - Ethics of Artificial Intelligence
+CS283 - Governing Artificial Intelligence: Law, Policy, and Institutions
+CS521 - Seminar on AI Safety
+EMED122 - BioSecurity and Pandemic Resilience
+OR
+EMED222 - BioSecurity and Pandemic Resilience
+ENGR208 - Patent Law and Strategy for Innovators and Entrepreneurs
+EPI203 - Methods for Reproducible Population Health and Clinical Research
+EPI237 - Practical Approaches to Global Health Research
+EPI238 - Genes and Environment in Disease Causation: Implications for Medicine and Public Health
+GENE104Q - Law and the Biosciences
+GENE220 - Introduction to Genetics, Ethics, and Society
+HRP203 - Methods for Reproducible Population Health and Clinical Research
+HRP211 - Law and Biosciences: Neuroscience
+HRP221 - Law and the Biosciences: Genetics
+HRP256 - Economics of Health and Medical Care
+HRP263 - Advanced Decision Science Methods and Modeling in Health
+HRP285 - Global Leaders and Innovators in Human and Planetary Health: Sustainable Societies Lab
+HRP392 - Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions
+HUMBIO174 - Foundations of Bioethics
+INDE212 - Medical Humanities and the Arts
+MED228 - Physicians and Social Responsibility
+MED242 - Human Rights and Health
+MED285 - Global Leaders and Innovators in Human and Planetary Health: Sustainable Societies Lab
+MS&E256 - Technology Assessment and Regulation of Medical Devices
+MS&E278 - Patent Law and Strategy for Innovators and Entrepreneurs
+NBIO101 - Social and Ethical Issues in the Neurosciences
+PEDS251A - Medical Ethics I
+PUBLPOL122 - BioSecurity and Pandemic Resilience
+OR
+PUBLPOL222 - BioSecurity and Pandemic Resilience
+SOMGEN207 - Theories of Change in Global Health
+TRAM283 - Biotechnology Law
+Students are expected to be familiar with issues regarding responsible conduct of research, reproducibility of research, and ethical, legal, social, organizational, and behavioral aspects of the impact of biomedical data science technologies on society.
+Note: MED 255 is required only for Academic MS and PhD students.
+These courses may be taken on a Satisfactory/No credit basis.
+AND
+Unrestricted Electives
+Unrestricted Units: 11 units for Academic + Coterm MS students; 14 units for Honors Coop.
+These can be any graduate-level courses at Stanford at or above the 100 level (subject to degree-specific limits).
+AND
+Academic MS Research Requirement
+All students in the Academic MS program must engage in biomedical data-science-related research under the supervision of a Faculty member. Labs are arranged by mutual agreement between the student and the research supervisor. Before graduating from the Academic MS program, students must write a research paper reviewed and approved by two faculty members, including the Research Advisor.
+Additional Requirements and Information:
+Completing the Department of Biomedical Data Science (DBDS) MS program with an overall GPA of 3.0 or higher is required for graduation.
+No one is required to take courses in an area in which they have already been adequately trained; under such circumstances, students are permitted to skip those courses and substitute more advanced work using a formal annual waiver process administered by the DBDS executive committee.
+At least 24 units of formal letter-graded coursework are expected for all MS and PhD candidates.
+Unrestricted Electives needed to complete 45 units. Students may fulfill this requirement with any Stanford graduate courses, including courses taken to satisfy program prerequisites.
+At least 23 units of courses must be at level 200 or above.
+Students are expected to participate regularly in BMDS 201 Biomedical Data Science Student Seminar and a research colloquium.
+An Academic MS student funded by the program must be a teaching assistant for one course; those students may register for 1-3 BMDS 295 Biomedical Informatics Teaching Methods units.
+HCP professional master’s students who are local are encouraged to participate in on-campus coursework and seminars.
+Masters students should sign up for BMDS 801 TGR Master’s Project for their project units after completing their 45-unit residency requirement.
+Students design appropriate programs for their interests with the assistance and approval of their Biomedical Data Science academic advisor.
+Honors Cooperative Program
+Fulfill ALL of the following requirements:
+Core Courses
+Nine units for HCP students. (See Core Courses above for a list of required classes) Although many classes necessary for the degree are available online, some requirements may be fulfilled by implementing an alternative plan to be approved by the program. BIOMEDIN 212 requires special arrangements with the instructor, so we can include you in the class remotely if possible. Note that core courses should be taken for a grade, not pass/no credit
+AND
+Computer Science, Statistics, Mathematics &  Engineering (HCP Specific)
+Complete at least 18 units of Computer science, statistics, mathematics, and engineering electives.
+Courses that can count for CS/Stats/Math/Eng are listed above.
+Up to eight CS/Stats/Math/Eng units can be taken pass/fail.
+CS 161 and STATS 200 are required, along with either STATS 315A or CS 229.
+These three courses, or some of their prerequisites, may not be available through SCPD.
+You should submit a course plan with the next best alternatives: these may include similar courses at Stanford or other institutions (note that outside courses would not count towards the required 45 units).
+HCP Variation
+If Stats 200 is not offered remotely, then you can consider taking: MS&E 226 or EPI 259 and EPI 261 (both).
+AND
+Social & Ethical Issues (HCP Specific)
+See the complete list of courses above in Social & Ethical Issues.
+Note that although MED 255 is listed as required, it is required only for MS and PhD students engaged in NIH-funded research at Stanford. This typically does not apply to HCP students.
+Additional Requirements and Information
+How to put the courses in order. Use one of the
+course flowsheets
+. First, check ExploreCourses and the SCPD website for which quarter the courses are offered. Also, check the listed prerequisites for each class and also the course websites for additional information about what’s expected so you can estimate how difficult each class will be for you. Typically, SCPD students take one course per quarter. Note that SCPD imposes an upper limit of three courses per quarter. Also, use the
+DBDS Student Wiki
+for advice on courses.
+45 units are required for the MS.
+All courses counted towards the MS must be at or above the 100 level.
+You can include up to 18 units that you took Non-Degree Option before entering the MS program.
+At least 23 units must be courses at or above the 200 level.
+At least 24 units must be taken for a grade.
+Coterminal Master's Additional Information
+The coterminal degree program allows Stanford university undergraduates to study for a master’s degree while completing their bachelor’s degree(s) in the same or a different department. See
+Coterminal Master's Degree
+section for additional information.
+The coterminal Master of Science program follows the same program requirements as the Honors Cooperative, except for the requirement to be employed full-time. The coterminal degree is available only to current Stanford undergraduates. Coterminal students are enrolled full time and courses are taken on campus. Research projects are optional; the student must make arrangements with program faculty if interested. Graduates of this program are prepared to contribute creatively to basic or applied projects in biomedical data science.
+Application to the Coterminal Program
+For complete information, see the program’s
+Coterminal Master's Degree
+page.
+Submit the university
+Coterminal Online Application
+.
+Submit your academic resume or curriculum vitae.
+Submit a one-page Statement of Purpose describing how and why the DBDS program is well matched to your interests.
+University Coterminal Requirements
+Coterminal master’s degree candidates are expected to complete all master’s degree requirements as described in the Degrees section.
+Graduate Degrees
+lists university requirements for the master’s degree.
+After accepting admission to this coterminal master’s degree program, students may request a transfer of courses from the undergraduate to the graduate career to satisfy the requirements for the master’s degree. Transferring courses to the graduate career requires review and approval of both the undergraduate and graduate programs on a case-by-case basis.
+In this master’s program, courses taken three quarters before the first graduate quarter or later are eligible for consideration for transfer to the graduate career. No courses taken before the first quarter of the sophomore year may be used to meet master’s degree requirements.
+Course transfers are not possible after the bachelor’s degree has been conferred.
+The university requires that the graduate advisor be assigned in the student’s first graduate quarter even though the undergraduate career may still be open. The university also requires that the Master’s Degree Program Proposal be completed by the student and approved by the department by the end of the student’s first graduate quarter.
+DBDS Coterminal Requirements
+You are required to have at least 180 units (undergraduate) and 45 units (graduate).
+No units may be counted toward both undergraduate and DBDS MS degrees.
+45 units are required for the MS.
+All courses counted towards the MS must be DBDS -related courses at or above the 100 level (as approved by the advisor and DBDS program).
+At least 23 units must be courses at or above the 200 level.
+At least 24 units must be taken for a grade.
+DBDS core courses may not be taken pass/fail. Exceptions:  BMDS 201, BMDS 205, BMDS 295,  BMDS 801, and MED 255, or BMDS courses that are offered only on an S/NC basis .
+A complete list of elective courses that can count for CS/Stats/Math/Eng is listed above. Up to eight CS/Stats/Math/Eng units can be taken pass/fail.
+You can apply to DBDS upon completion of 120 units but no later than the quarter before the expected completion of the undergraduate degree.
+Coterminal students are permitted to count coursework taken in the three quarters immediately before their first graduate quarter toward their graduate degree (summer quarter is not included in the count).
+The
+Coterminal Course Transfer eForm
+is used to transfer courses from the undergraduate to the graduate career and vice versa. This must be done before the undergraduate degree is conferred.
+You may take any course you want at Stanford while in the program, including electives not at all related to DBDS , as long as you also have an approved DBDS -related 45-unit program of study that satisfies the requirements for the DBDS degree.

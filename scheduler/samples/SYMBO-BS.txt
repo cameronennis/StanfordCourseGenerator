@@ -1,0 +1,2763 @@
+SYMBO-BS - Symbolic Systems (BS)
+Download as PDF
+Symbolic Systems
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The observation that both human beings and computers can manipulate symbols lies at the heart of Symbolic Systems, an interdisciplinary program focusing on the relationship between natural and artificial systems that represent, process, and act on information. Computer programs, natural languages, the human mind, and the internet embody concepts whose study forms the core of the Symbolic Systems curriculum, such as computation, representation, communication, and intelligence.
+The undergraduate program in Symbolic Systems is an interdisciplinary program focusing on the relationships between natural and artificial systems that use symbols to communicate and represent information. The program’s mission is to prepare majors with the vocabulary, theoretical background, and technical skills necessary to research questions about language, information, and intelligence, both human and machine. The curriculum offers a combination of traditional humanistic approaches to these questions and a training and familiarity with contemporary developments in the science and technology of computation. Students in the major take courses in cognitive science, computer programming, logic and computational theory, probability, cognitive psychology, philosophy of mind, linguistics, and artificial intelligence. The program prepares students for careers in the private and public sectors, especially those involving the human-facing sides of information systems/technology, and for further study and research in the cognitive and/or information sciences. A major in Symbolic Systems qualifies as a Science, Technology, Engineering, and Mathematics (STEM) major under the
+U.S. Department of Homeland Security’s Designated Degree Programs
+list of STEM programs. Depending on the study plan, Sym Sys students can be classified as studying Cognitive Science and/or Informatics.
+Advising
+Upon declaration approval, students are assigned to the Program Director and Associate Director as major advisors. The student must also select and confirm a concentration advisor.
+Declared majors must select a concentration advisor by autumn quarter of their junior year. A hold is placed on winter quarter registration for juniors who do not have a concentration advisor by autumn quarter of their junior year. Juniors declaring the major must have a concentration advisor confirmed at the time of declaration.
+Any individual with an ongoing instructional appointment at Stanford may serve as the concentration advisor. To confirm a concentration advisor after an eligible faculty member has agreed to fill this role, the student must send an email message to
+symsys-sso@stanford.edu
+and the concentration advisor,  including a statement of how the student plans to fulfill the capstone requirement of the major. Changes to capstone plans require the approval of the concentration advisor.
+Minimum Units in the Program
+70
+Minimum University Units
+180
+Collapse All
+Core Program Requirements
+Completion requirement
+Unnamed Rule
+The Symbolic Systems major requires the completion of:
+Core curriculum — a standard set of foundations, breadth requirements, and experiential requirements that all students in the program must complete
+Subplan — an approved concentration and depth in a particular specialization (subplan) chosen by the student; courses of at least three units each that fulfill the requirements for one of the subplan areas below.
+Students must submit a course plan to the student services officer for Symbolic Systems at least two quarters before the planned graduation date, listing courses taken or that will be completed to fulfill the course requirements for the major.
+Students must obtain approval for courses not listed as approved for a major requirement.
+Unnamed Rule
+Core requirements are typically completed earlier than a student’s concentration, but the only requirements that impose explicit restrictions on when a course can be completed during a student’s undergraduate career are the gateway and capstone requirements.
+Preparations:
+These courses should be completed early in the major.
+Fulfill ALL of the following requirements:
+Gateway Course
+Complete ALL of the following Courses:
+SYMSYS1 - Minds and Machines
+AND
+Calculus and Linear Algebra
+Fulfill ALL of the following requirements:
+Introduction to Multivariate Calculus and Linear Algebra
+Complete ANY of the following Courses:
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+MATH61CM - Modern Mathematics: Continuous Methods
+MATH61DM - Modern Mathematics: Discrete Methods
+CME100 - Vector Calculus for Engineers
+AND
+Single Variable Calculus or other courses in multivariate calculus, linear algebra, and discrete methods.
+Earn at least 8 credits from the following:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+MATH52 - Integral Calculus of Several Variables
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+MATH62CM - Modern Mathematics: Continuous Methods
+MATH62DM - Modern Mathematics: Discrete Methods
+MATH63CM - Modern Mathematics: Continuous Methods
+MATH104 - Applied Matrix Theory
+MATH113 - Linear Algebra and Matrix Theory
+CME102 - Ordinary Differential Equations for Engineers
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+In most cases, a student's first 4 to 10 units toward the Calculus and Linear Algebra requirement will consist of units in the Single Variable Calculus Math 19, 20 and 21 series. A student for whom the Mathematics Placement Diagnostic recommends placement beyond the level for which they have unit credit may take courses contained in this list beyond MATH 51 or CME 100 in Multivariate and Linear Algebra.
+The Symbolic Systems Program recommends MATH rather than CME or ENGR courses as preferred ways for most students to learn multivariate calculus and linear algebra, because of their more extensive coverage of linear algebra methods used in many higher level courses which are options for the major.
+6 units replacing MATH 19 and 20, or 10 units replacing MATH 19, 20, and 21, earned through
+Advanced Placement
+or
+other international exams
+can be applied towards the total required 8 units of Single Variable Calculus ( Units cannot be counted for both AP/exam credit and the courses that the credit replaces.)
+Advanced Small Seminar Requirement
+One approved course from one of the lists below that (a) builds on the Core Preparations and Breadth Requirements, (b) is small – 20 students or fewer, and (c) is an interactive, discussion-based seminar. May be double-counted for an applicable Concentration (Subplan) requirement, but not for a Core requirement.
+Students are encouraged to take an ASSR course within their Concentration, but any approved ASSR course may be taken to fulfill the Core Advanced Small Seminar Requirement.
+Fulfill ANY of the following requirements:
+Applied Logic
+Complete at least 1 of the following Courses:
+PHIL359 - Logic Spring Seminar
+OR
+Artificial Intelligence
+Complete at least 1 of the following Courses:
+COMM324 - Language and Technology
+COMM326 - Advanced Topics in Human Virtual Representation
+CS325B - Data for Sustainable Development
+EDUC234 - Curiosity in Artificial Intelligence
+MUSIC220C - Research Seminar in Computer-Generated Music
+PHIL359 - Logic Spring Seminar
+PSYCH247 - Topics in Natural and Artificial Intelligence
+SYMSYS202 - Theories of Consciousness
+SYMSYS206 - Topics in Natural and Artificial Intelligence
+OR
+Biomedical Applications
+Complete at least 1 of the following Courses:
+BIO151 - Mechanisms of Neuron Death
+COMM372G - Seminar in Psychological Processing
+CS352B - Blockchain Governance
+PHIL368A - Explanation in Neuroscience
+PSYCH168 - Emotion Regulation
+PSYCH169 - Advanced Seminar on Memory
+PSYCH209 - Neural Network Models of Cognition
+PSYCH232 - Brain and Decision Making
+PSYCH240 - Big Questions About Small Brains
+PSYCH257 - Affective Neuroscience
+SYMSYS202 - Theories of Consciousness
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS245 - Cognition in Interaction Design
+OR
+Cognitive Science
+Complete at least 1 of the following Courses:
+COMM322 - Advanced Studies in Behavior and Social Media
+COMM326 - Advanced Topics in Human Virtual Representation
+COMM372G - Seminar in Psychological Processing
+EDUC218 - Topics in Cognition and Learning: Enhancing Human Cognition with AI
+MUSIC220C - Research Seminar in Computer-Generated Music
+PHIL194D - Capstone Seminar: How Virtual is Reality, and Vice Versa
+PHIL194K - Capstone Seminar:  The Metaphysics of Consciousness
+PHIL359 - Logic Spring Seminar
+PHIL368A - Explanation in Neuroscience
+PHIL386 - Qualitativism: Objects, Structure, and Ontology
+PSYCH168 - Emotion Regulation
+PSYCH169 - Advanced Seminar on Memory
+PSYCH226 - Models and Mechanisms of Memory
+PSYCH232 - Brain and Decision Making
+PSYCH240 - Big Questions About Small Brains
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH266 - Current Debates in Learning and Memory
+PSYCH278 - Psychology of the Climate Crisis
+PSYCH285 - The Anti-Racist Psychologist
+SYMSYS202 - Theories of Consciousness
+SYMSYS203 - Cognitive Science Perspectives on Humanity and Well-Being
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS207 - Conceptual Issues in Cognitive Science
+OR
+Computational Foundations
+Complete at least 1 of the following Courses:
+PHIL359 - Logic Spring Seminar
+OR
+Computational Social Science
+Complete at least 1 of the following Courses:
+COMM322 - Advanced Studies in Behavior and Social Media
+COMM326 - Advanced Topics in Human Virtual Representation
+CS206 - Exploring Computational Journalism
+CS325B - Data for Sustainable Development
+PHIL359 - Logic Spring Seminar
+OR
+Computer Music
+Complete at least 1 of the following Courses:
+MUSIC220C - Research Seminar in Computer-Generated Music
+MUSIC351A - Seminar in Music Perception and Cognition I
+OR
+Decision Making and Rationality
+Complete at least 1 of the following Courses:
+CS325B - Data for Sustainable Development
+ECON290 - Multiperson Decision Theory
+PHIL359 - Logic Spring Seminar
+PHIL388 - Topics in Normativity: Foundations of Epistemic Normativity
+PSYCH168 - Emotion Regulation
+PSYCH232 - Brain and Decision Making
+PSYCH257 - Affective Neuroscience
+PSYCH265 - Social Psychology and Social Change
+PSYCH278 - Psychology of the Climate Crisis
+SYMSYS195D - Research in Digital Democracy
+SYMSYS201 - Digital Technology, Society, and Democracy
+SYMSYS203 - Cognitive Science Perspectives on Humanity and Well-Being
+OR
+Human-Centered Artificial Intelligence
+Complete at least 1 of the following Courses:
+COMM322 - Advanced Studies in Behavior and Social Media
+COMM326 - Advanced Topics in Human Virtual Representation
+CS206 - Exploring Computational Journalism
+CS325B - Data for Sustainable Development
+EDUC234 - Curiosity in Artificial Intelligence
+EDUC342 - Child Development and New Technologies
+MUSIC220C - Research Seminar in Computer-Generated Music
+PHIL359 - Logic Spring Seminar
+PHIL368A - Explanation in Neuroscience
+PHIL386 - Qualitativism: Objects, Structure, and Ontology
+PSYCH169 - Advanced Seminar on Memory
+PSYCH232 - Brain and Decision Making
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH257 - Affective Neuroscience
+SYMSYS201 - Digital Technology, Society, and Democracy
+SYMSYS202 - Theories of Consciousness
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS245 - Cognition in Interaction Design
+OR
+Human-Computer Interaction
+Complete at least 1 of the following Courses:
+COMM322 - Advanced Studies in Behavior and Social Media
+COMM324 - Language and Technology
+COMM326 - Advanced Topics in Human Virtual Representation
+COMM372G - Seminar in Psychological Processing
+CS206 - Exploring Computational Journalism
+SYMSYS201 - Digital Technology, Society, and Democracy
+SYMSYS245 - Cognition in Interaction Design
+OR
+Learning
+Complete at least 1 of the following Courses:
+COMM326 - Advanced Topics in Human Virtual Representation
+EDUC218 - Topics in Cognition and Learning: Enhancing Human Cognition with AI
+EDUC234 - Curiosity in Artificial Intelligence
+EDUC261E - Curriculum and Instruction Elective in Data Science
+EDUC342 - Child Development and New Technologies
+PSYCH169 - Advanced Seminar on Memory
+PSYCH226 - Models and Mechanisms of Memory
+PSYCH240 - Big Questions About Small Brains
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH266 - Current Debates in Learning and Memory
+SYMSYS245 - Cognition in Interaction Design
+OR
+Mathematical Foundations
+Complete at least 1 of the following Courses:
+CS325B - Data for Sustainable Development
+PHIL359 - Logic Spring Seminar
+PSYCH232 - Brain and Decision Making
+OR
+Media and Communication
+Complete at least 1 of the following Courses:
+COMM322 - Advanced Studies in Behavior and Social Media
+COMM324 - Language and Technology
+COMM326 - Advanced Topics in Human Virtual Representation
+COMM372G - Seminar in Psychological Processing
+CS206 - Exploring Computational Journalism
+PSYCH278 - Psychology of the Climate Crisis
+SYMSYS201 - Digital Technology, Society, and Democracy
+OR
+Natural Language
+Complete at least 1 of the following Courses:
+COMM324 - Language and Technology
+LINGUIST217 - Morphosyntax
+LINGUIST230C - Advanced Topics in Semantics & Pragmatics
+LINGUIST255C - Seminar in Sociolinguistics: Sociolinguistics in the Chinese Diaspora
+LINGUIST255K - Constructed Dialogue
+MUSIC451A - Basics in Auditory and Music Neuroscience
+PHIL194D - Capstone Seminar: How Virtual is Reality, and Vice Versa
+PHIL194K - Capstone Seminar:  The Metaphysics of Consciousness
+PHIL359 - Logic Spring Seminar
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH278 - Psychology of the Climate Crisis
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS207 - Conceptual Issues in Cognitive Science
+OR
+Neurosciences
+Complete at least 1 of the following Courses:
+BIO151 - Mechanisms of Neuron Death
+MUSIC451A - Basics in Auditory and Music Neuroscience
+PHIL368A - Explanation in Neuroscience
+PSYCH169 - Advanced Seminar on Memory
+PSYCH226 - Models and Mechanisms of Memory
+PSYCH232 - Brain and Decision Making
+PSYCH240 - Big Questions About Small Brains
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH250 - High-level Vision: From Neurons to Deep Neural Networks
+PSYCH257 - Affective Neuroscience
+PSYCH266 - Current Debates in Learning and Memory
+SYMSYS202 - Theories of Consciousness
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS207 - Conceptual Issues in Cognitive Science
+SYMSYS245 - Cognition in Interaction Design
+OR
+Philosophical Foundations
+Complete at least 1 of the following Courses:
+PHIL184D - Collective Epistemology and Shared Inquiry
+PHIL194D - Capstone Seminar: How Virtual is Reality, and Vice Versa
+PHIL194K - Capstone Seminar:  The Metaphysics of Consciousness
+PHIL194P - Capstone Seminar: The Meaning of Life
+PHIL194Y - Capstone seminar: Metaphilosophy
+PHIL359 - Logic Spring Seminar
+PHIL368A - Explanation in Neuroscience
+SYMSYS202 - Theories of Consciousness
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS207 - Conceptual Issues in Cognitive Science
+Breadth in Discipline
+Completion requirement
+Breadth Requirements Overview
+One three-quarters training sequence in each of the four methodological areas below, plus a Cross-Area Requirement.
+Four Methodological Areas:
+Philosophical Analysis
+Formal Methods
+Computational Methods
+Empirical Cognitive Science
+1. Philosophical Analysis
+Courses that focus on critical, deep questioning, careful reasoning, introspection, and argumentation, and the meaning of intuitions, scenarios, and evidence.
+Fulfill ALL of the following requirements:
+Introductory Philosophy
+An introductory course in the Philosophy Department taught by a Philosophy Department faculty member. One of the following:
+Any course of three units or more listed with a PHIL course number (except PHIL 99/SYMSYS 1)
+AND
+Writing in the Major (WIM) course
+Complete ALL of the following Courses:
+PHIL80 - Mind, Matter, and Meaning
+AND
+Advanced Philosophy
+An advanced undergraduate Philosophy course that lists PHIL 80 as a prerequisite.  Note that the Writing in the Major requirement (Phil 80) must be completed prior to completing this Advanced Philosophy requirement.
+Complete at least 1 of the following Courses:
+PHIL86 - How to Make a Moral Agent
+PHIL107B - Plato's Later Metaphysics and Epistemology
+PHIL132 - Phenomenology: Merleau-Ponty
+PHIL164 - Scientific Realism, Perspectivism, and Antirealism
+PHIL167D - Philosophy of Neuroscience
+PHIL172 - History of Modern Moral Philosophy
+PHIL173B - Undergraduate Introduction to Metaethics
+PHIL175 - Philosophy of Law
+PHIL180 - Metaphysics
+PHIL181 - Philosophy of Language
+PHIL181A - Philosophy of Language
+PHIL182H - Truth
+PHIL184 - Epistemology
+PHIL184D - Collective Epistemology and Shared Inquiry
+PHIL185J - The Philosophy and Science of Perception
+PHIL186 - Philosophy of Mind
+PHIL187 - Philosophy of Action
+PHIL187B - Responsibility and the Criminal Law
+PHIL188A - Explanation
+PHIL188B - Undergrad Seminar: Striving and the Nature of Belief
+PHIL189 - Reduction and Grounding
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS207 - Conceptual Issues in Cognitive Science
+2. Formal Methods
+Courses that focus on rigorous definitions, axioms, theorems, and proofs and their use in developing mathematical theories and meta-theories.
+Choose one course from each of the following categories:
+Formal Logic
+Theory of Computation
+Probability Theory & Statistics
+Fulfill ALL of the following requirements:
+Formal Logic
+Complete at least 1 of the following Courses:
+CS157 - Computational Logic
+PHIL150 - Mathematical Logic
+PHIL151 - Metalogic
+PHIL 151 carries a prerequisite of PHIL 150.
+AND
+Theory of Computation
+Complete at least 1 of the following Courses:
+CS103 - Mathematical Foundations of Computing
+CS154 - Introduction to the Theory of Computation
+PHIL152 - Computability and Logic
+AND
+Probability Theory & Statistics
+A course that covers the theory of probability and is grounded in multivariable calculus.
+Complete at least 1 of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+CS109 - Introduction to Probability for Computer Scientists
+EE178 - Probabilistic Systems Analysis
+MATH63DM - Modern Mathematics: Discrete Methods
+MATH151 - Introduction to Probability Theory
+MS&E120 - Introduction to Probability
+MS&E220 - Probabilistic Analysis
+STATS117 - Introduction to Probability Theory
+3. Computational Methods
+Courses focusing on software design, data structures, algorithms, development, applications, evaluation, and simulation.
+Choose one course from each of the following categories:
+Programming I
+Programming II
+A post-CS 106B Course - covering one or more broad computational methods with a programming component
+Fulfill ALL of the following requirements:
+Programming I
+Complete ALL of the following Courses:
+CS106A - Programming Methodology
+CS106AX - Programming Methodologies in JavaScript and Python (Accelerated)
+Or equivalent preparation, as evidenced by successful completion of
+course
+.
+AND
+Programming II
+Complete at least 1 of the following Courses:
+CS106B - Programming Abstractions
+AND
+Post-CS 106B Course
+A course covering one or more broad computational methods with a programming component.
+Complete at least 1 of the following Courses:
+CS107 - Computer Organization and Systems
+CS107E - Computer Systems from the Ground Up
+CS129 - Applied Machine Learning
+CS146J - Full-Stack Web Programming
+CS147 - Introduction to Human-Computer Interaction Design
+CS147L - Cross-platform Mobile App Development
+CS193C - Client-Side Internet Technologies
+CS193P - iOS Application Development
+CS193X - Web Programming Fundamentals
+CS194H - User Interface Design Project
+CS221 - Artificial Intelligence: Principles and Techniques
+CS229 - Machine Learning
+CS230 - Deep Learning
+4. Empirical Cognitive Science
+Courses that focus on questions, hypotheses, models, predictions, and explanations derived from or testable in neural and behavioral data.
+Complete one course from each of the following categories:
+Overview of Psychology
+An Introductory Course in Cognition, Language, & Neuroscience
+Linguistic Theory
+Fulfill ALL of the following requirements:
+Overview of Psychology
+Complete ALL of the following Courses:
+PSYCH1 - Introduction to Psychology
+AND
+Introductory Course in Cognition, Language, & Neuroscience
+Complete at least 1 of the following Courses:
+BIO150 - Human Behavioral Biology
+LINGUIST105 - Phonetics
+LINGUIST120A - Syntax I
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST130B - Introduction to Lexical Semantics
+LINGUIST145 - Introduction to Psycholinguistics
+LINGUIST150 - Language and Society
+PSYCH30 - Introduction to Perception
+PSYCH45 - Introduction to Learning and Memory
+PSYCH50 - Introduction to Cognitive Neuroscience
+PSYCH60 - Introduction to Developmental Psychology
+PSYCH70 - Self and Society: Introduction to Social Psychology
+PSYCH154 - Judgment and Decision-Making
+AND
+Linguistic Theory
+Complete at least 1 of the following Courses:
+LINGUIST110 - Introduction to Phonology
+LINGUIST116A - Introduction to Word Formation
+LINGUIST120A - Syntax I
+LINGUIST120B - Syntax II
+LINGUIST121A - The Syntax of English
+LINGUIST121B - Crosslinguistic Syntax
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST130B - Introduction to Lexical Semantics
+LINGUIST134A - The Structure of Discourse: Theory and Applications
+LINGUIST145 - Introduction to Psycholinguistics
+LINGUIST160 - Historical Linguistics
+Cross-Area Requirement
+A non-introductory course, which has as a prerequisite of at least one Core course (or equivalent), which combines methods and subject matter from at least two Breadth areas.
+Only one course must be chosen to fulfill the requirement. The following categories are for guidance only:
+Suggested Courses for Most Students
+Philosophical Analysis & Formal Methods
+Philosophical Analysis & Computational Methods
+Philosophical Analysis & Empirical Cognitive Science
+Formal Methods & Computational Methods
+Formal Methods & Empirical Cognitive Science
+Computational Methods & Empirical Cognitive Science
+Fulfill ANY of the following requirements:
+Suggested Courses for Most Students
+Complete at least 1 of the following Courses:
+CS147 - Introduction to Human-Computer Interaction Design
+CS229 - Machine Learning
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST180 - From Languages to Information
+PHIL152 - Computability and Logic
+PHIL154 - Modal Logic
+PHIL167D - Philosophy of Neuroscience
+PHIL181 - Philosophy of Language
+PSYCH209 - Neural Network Models of Cognition
+OR
+Philosophical Analysis & Formal Methods
+Complete at least 1 of the following Courses:
+PHIL152 - Computability and Logic
+PHIL154 - Modal Logic
+PHIL157 - Decision Theory
+PHIL162 - Philosophy of Mathematics
+PHIL181 - Philosophy of Language
+PHIL181A - Philosophy of Language
+OR
+Philosophical Analysis & Computational Methods
+Complete at least 1 of the following Courses:
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS281 - Ethics of Artificial Intelligence
+PHIL152 - Computability and Logic
+PHIL167D - Philosophy of Neuroscience
+OR
+Philosophical Analysis & Empirical Cognitive Science
+Complete at least 1 of the following Courses:
+PHIL167D - Philosophy of Neuroscience
+PHIL181 - Philosophy of Language
+PHIL186 - Philosophy of Mind
+OR
+Formal Methods & Computational Methods
+Complete at least 1 of the following Courses:
+CS151 - Logic Programming
+CS154 - Introduction to the Theory of Computation
+CS161 - Design and Analysis of Algorithms
+CS224N - Natural Language Processing with Deep Learning
+CS229 - Machine Learning
+CS238 - Decision Making under Uncertainty
+CS257 - Introduction to Automated Reasoning
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST180 - From Languages to Information
+PHIL152 - Computability and Logic
+PHIL154 - Modal Logic
+PSYCH209 - Neural Network Models of Cognition
+PSYCH220A - Probabilistic models of cognition: Reasoning and Learning
+PSYCH221 - Image Systems Engineering
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+OR
+Formal Methods & Empirical Cognitive Science
+Complete at least 1 of the following Courses:
+CS229 - Machine Learning
+ECON178 - Behavioral Economics
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST180 - From Languages to Information
+PHIL154 - Modal Logic
+PHIL181 - Philosophy of Language
+PSYCH209 - Neural Network Models of Cognition
+PSYCH221 - Image Systems Engineering
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+OR
+Computational Methods & Empirical Cognitive Science
+Complete at least 1 of the following Courses:
+CS147 - Introduction to Human-Computer Interaction Design
+CS224C - NLP for Computational Social Science
+CS224N - Natural Language Processing with Deep Learning
+CS229 - Machine Learning
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CS448B - Data Visualization
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST180 - From Languages to Information
+PHIL167D - Philosophy of Neuroscience
+PSYCH209 - Neural Network Models of Cognition
+PSYCH204A - Human Neuroimaging Methods
+PSYCH220A - Probabilistic models of cognition: Reasoning and Learning
+PSYCH221 - Image Systems Engineering
+PSYCH240A - Curiosity in Artificial Intelligence
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+SYMSYS206 - Topics in Natural and Artificial Intelligence
+Writing in the Major (WIM)
+Completion requirement
+Mind Matter and Meaning
+Complete ALL of the following Courses:
+PHIL80 - Mind, Matter, and Meaning
+Capstone
+Completion requirement
+Capstone Overview
+An experiential requirement consisting of the following components, chosen in consultation with, and approved by, a student’s Concentration (Subplan) Adviser (3 or more units each).
+To obtain approval for your Capstone plan, submit the
+Capstone Approval Form
+. This form must be submitted in addition to your SYMSYS Course Plan. Additionally, your Capstone plan is subject to final approval by the Symbolic Systems Program office and must be approved by the end of the first week of Winter Quarter, Junior Year (8th quarter) or a hold will be placed on Spring quarter registration.
+Practicum - A Project or Internship-Accompanying Course
+Fulfill ANY of the following requirements:
+Senior Honors Tutorial
+Complete ALL of the following Courses:
+SYMSYS190 - Senior Honors Tutorial
+Taken under a student's Honors Advisor.
+OR
+An Approved Project Course With a SYMSYS Listing in The 195-Series
+Complete at least 1 courses in the following Course Sets:
+Untitled Course Set
+OR
+Supervised Research
+Complete at least 1 of the following Courses:
+SYMSYS196 - Independent Study
+COMM199 - Individual Work
+CS197 - Computer Science Research
+CS199 - Independent Work
+EDUC190 - Directed Research in Education
+LINGUIST199 - Independent Study
+MATH360 - Advanced Reading and Research
+MUSIC220D - Research in Computer-Generated Music
+NBIO199 - Undergraduate Research
+PHIL196 - Honors Tutorial, Senior Year
+PHIL197 - Individual Work, Undergraduate
+PSYCH195 - Special Laboratory Projects
+PSYCH199 - Individually Supervised Practicum
+STATS199 - Independent Study
+Supervised research with a faculty member on an approved symbolic-systems-related project, taken as SYMSYS 196, or one of the following department-based directed research course:
+OR
+Symbolic Systems in Practice
+Complete ALL of the following Courses:
+SYMSYS192 - Symbolic Systems in Practice
+Must be taken in conjunction with an approved internship or service project.
+OR
+Unnamed Rule
+One of the following courses, taken in conjunction with section leading in a SymSys Core course:
+Complete ANY of the following Courses:
+SYMSYS197 - Practicum in Teaching SymSys 1
+PSYCH182 - Practicum in Teaching PSYCH 1
+CS198 - Teaching Computer Science
+Integrative Requirement
+Either an additional research project course (e.g., the second course of an Honors Project) or a Subplan-Specific Integrative Course, which must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Senior Honors Tutorial - Continuation
+Complete ALL of the following Courses:
+SYMSYS190 - Senior Honors Tutorial
+Continuation of the course taken for the Practicum requirement.
+OR
+An Approved Project Course With a SYMSYS Listing in The 195-Series
+Complete at least 1 courses in the following Course Sets:
+Untitled Course Set
+May be either the second quarter of a two-quarter course, or a one-quarter course.
+OR
+Supervised Research
+Complete ANY of the following Courses:
+SYMSYS196 - Independent Study
+COMM199 - Individual Work
+CS197 - Computer Science Research
+CS199 - Independent Work
+EDUC190 - Directed Research in Education
+LINGUIST199 - Independent Study
+MATH360 - Advanced Reading and Research
+MUSIC220D - Research in Computer-Generated Music
+NBIO199 - Undergraduate Research
+PHIL196 - Honors Tutorial, Senior Year
+PHIL197 - Individual Work, Undergraduate
+PSYCH195 - Special Laboratory Projects
+PSYCH199 - Individually Supervised Practicum
+STATS199 - Independent Study
+Supervised research with a faculty member on an approved symbolic-systems-related project, taken as SYMSYS 196, or one of the following department-based directed research courses:
+OR
+Subplan-Specific Integrative Course
+An approved Subplan-Specific Integrative Course taken within a Subplan.
+Presentation Requirement (not a course requirement, check-off only)
+A public presentation of the student’s work at one of the following annual events:
+Symbolic Systems Autumn Poster Fair for Summer Interns and Capstone Projects,
+Symbolic Systems Spring Graduation Fair for Capstone and Master’s Projects, or
+Symbolic Systems Senior Honors Forum at the end of spring quarter
+Honors
+Completion requirement
+Honors Program Requirements
+Seniors in SSP may apply for admission to the Symbolic Systems honors program before their final year of study begins. Students who are accepted into the honors program can graduate with honors by completing an honors thesis under the supervision of a faculty member. Course credit for the honors project may be obtained by registering for
+course
+Senior Honors Tutorial any quarter while a student works on an honors project.
+course
+Senior Honors Seminar is recommended for honors students during their senior year. Contact SSP or visit the program’s website for more information on the honors program, including deadlines and policies.
+In order to be considered for Honors, students must:
+Be a junior or senior
+Be in good academic standing, with at least a 3.0 GPA
+Submit an acceptable honors project proposal
+For more information,
+visit the Symbolic Systems website
+.
+Applied Logic Subplan
+Completion requirement
+Metalogic
+Complete ALL of the following Courses:
+PHIL151 - Metalogic
+Computability
+Complete at least 1 of the following Courses:
+CS154 - Introduction to the Theory of Computation
+PHIL152 - Computability and Logic
+Set Theory
+Complete ALL of the following Courses:
+MATH161 - Set Theory
+Integrative Requirement
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+CS151 - Logic Programming
+CS163 - The Practice of Theory Research
+CS204 - Computational Law
+CS227B - General Game Playing
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS242 - Programming Languages
+CS254 - Computational Complexity
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST230B - Advanced Semantics
+PHIL154 - Modal Logic
+PHIL162 - Philosophy of Mathematics
+PHIL359 - Logic Spring Seminar
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+BIOE177 - Inventing the Future
+BIOE273 - Biodesign for Digital Health
+COMM153B - Free Speech, Democracy and the Internet
+CS106EA - Exploring Artificial Intelligence
+CS121 - Equity and Governance for Artificial Intelligence
+CS139 - Human-Centered AI
+CS224R - Deep Reinforcement Learning
+CS254B - Computational Complexity II
+CS329X - Human Centered NLP
+EE364A - Convex Optimization I
+ENGR148 - Principled Entrepreneurial Decisions
+ETHICSOC125 - Tech Ethics and the Future of Human Values
+FEMGEN147 - Feminism and Technology
+GLOBAL124 - Global Algorithmic Development and Ethics
+INTLPOL245B - Governing Artificial Intelligence: Law, Policy, and Institutions
+LAW809E - Policy Practicum: AI For Legal Help
+LINGUIST1 - Introduction to Linguistics
+LINGUIST230C - Advanced Topics in Semantics & Pragmatics
+MATH56 - Proofs and Modern Mathematics
+MATH108 - Introduction to Combinatorics and Its Applications
+MATSCI82N - Science of the Impossible
+MS&E135 - Networks
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E233 - Game Theory, Data Science and AI
+OSPHONGK46 - Fundamentals of Artificial Intelligence
+OTOHNS206 - Augmenting Human Senses: Enhancing Perception with Technology and Bioscience
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+PSYC60N - The Psychology of Stoked
+PSYC135 - Dement's Sleep and Dreams
+PSYCH12N - Self Theories
+PSYCH24N - Neuroforecasting
+PSYCH144 - The Sociocultural Shaping of Psychological Experience
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+STATS217 - Introduction to Stochastic Processes I
+SYMSYS104 - Introduction to Race and Technology
+SYMSYS210 - Governance Design: Real, Virtual, and Imaginary Worlds
+See also the
+Symbolic Systems website
+.
+Artificial Intelligence Subplan
+Completion requirement
+Artificial Intelligence Subplan Overview
+Students in this Subplan are urged to take
+course
+, either for the Core Cross-Area Requirement or as a Contingent Elective, before taking
+course
+.
+Programming
+Complete at least 1 of the following Courses:
+CS107 - Computer Organization and Systems
+CS107E - Computer Systems from the Ground Up
+Introduction
+Complete ALL of the following Courses:
+CS221 - Artificial Intelligence: Principles and Techniques
+Artificial Intelligence Depth
+Complete at least 2 of the following Courses:
+CS223A - Introduction to Robotics
+CS224N - Natural Language Processing with Deep Learning
+CS224S - Spoken Language Processing
+CS224U - Natural Language Understanding
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+Chosen from the "select" list of AI courses (category B of the MSCS AI Track).
+Integrative Requirement
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement, or
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+COMM324 - Language and Technology
+COMM326 - Advanced Topics in Human Virtual Representation
+CS131 - Computer Vision: Foundations and Applications
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS229M - Machine Learning Theory
+CS325B - Data for Sustainable Development
+CS329D - Machine Learning Under Distributional Shifts
+LINGUIST180 - From Languages to Information
+MUSIC220C - Research Seminar in Computer-Generated Music
+PHIL359 - Logic Spring Seminar
+PSYCH164 - Brain decoding
+PSYCH209 - Neural Network Models of Cognition
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+STATS220 - Machine Learning Methods for Neural Data Analysis
+SYMSYS202 - Theories of Consciousness
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options to be added as they are approved — some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-3
+are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+ARTSTUDI165A - Intro to Art & Technology
+BIOE70Q - Medical Device Innovation
+BIOE177 - Inventing the Future
+BIOE273 - Biodesign for Digital Health
+BIOE376 - Startup Garage: Design
+BIOE377 - Startup Garage: Testing and Launch
+CEE250 - Product Management Fundamentals for the Real Economy
+COMM130D - Dark Patterns
+COMM153B - Free Speech, Democracy and the Internet
+COMM177T - Building News Applications
+COMM230A - Digital Civil Society
+CS53N - How Can Generative AI Help Us Learn?
+CS106EA - Exploring Artificial Intelligence
+CS111 - Operating Systems Principles
+CS121 - Equity and Governance for Artificial Intelligence
+CS123 - A Hands-On Introduction to Building AI-Enabled Robots
+CS142 - Web Applications
+CS148 - Introduction to Computer Graphics and Imaging
+CS152 - Trust and Safety
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS217 - Hardware Accelerators for Machine Learning
+CS224G - Apps With LLMs Inside
+CS227B - General Game Playing
+CS236 - Deep Generative Models
+CS246 - Mining Massive Data Sets
+CS255 - Introduction to Cryptography
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CS323 - The AI Awakening: Implications for the Economy and Society
+CS329A - Self Improving AI Agents
+CS329D - Machine Learning Under Distributional Shifts
+CS330 - Deep Multi-task and Meta Learning
+CS337 - AI-Assisted Care
+CS348I - Computer Graphics in the Era of AI
+CS348K - Visual Computing Systems
+DATASCI112 - Principles of Data Science
+DESIGN284 - Designing for Physical AI
+EDUC482 - Design to Equip Learners in Under-Resourced Communities
+EE104 - Introduction to Machine Learning
+EE292J - Designing for Authenticity
+ENGLISH384B - Literary Modeling
+ENGR140A - Leadership of Technology Ventures
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ENGR245 - The Lean LaunchPad: Getting Your Lean Startup Off the Ground
+ESS224 - Remote Sensing of Hydrology
+FEMGEN95 - Feminist Games Studio
+FEMGEN147 - Feminism and Technology
+GLOBAL124 - Global Algorithmic Development and Ethics
+INTLPOL245B - Governing Artificial Intelligence: Law, Policy, and Institutions
+INTLPOL259 - Research Topics in Technology and National Security
+LAW809E - Policy Practicum: AI For Legal Help
+LAW4053 - Confronting Misinformation Online: Law and Policy
+LINGUIST1 - Introduction to Linguistics
+MATH108 - Introduction to Combinatorics and Its Applications
+MATSCI82N - Science of the Impossible
+MS&E135 - Networks
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E265 - Product Management Fundamentals for the Real Economy
+MS&E289 - Ethics in Global Technology Design
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+OSPHONGK46 - Fundamentals of Artificial Intelligence
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+PHIL20N - Philosophy of Artificial Intelligence
+PHIL134A - Phenomenology: Animals
+PHIL158 - Philosophy of Logic
+PHIL386P - Mental Action
+POLISCI150B - Machine Learning for Social Scientists
+PSYC60N - The Psychology of Stoked
+PSYC135 - Dement's Sleep and Dreams
+PUBLPOL119 - AI, Autonomy, and the Future of Warfare
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+PUBLPOL353A - Science and Technology Policy
+PUBLPOL353B - Regulating Emerging Technology: Risks, Opportunities, and Reality
+SOC127 - Data Science for Social Impact
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+STATS217 - Introduction to Stochastic Processes I
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+SURG172 - Anatomy and Design Innovations
+SYMSYS104 - Introduction to Race and Technology
+SYMSYS168A - What's Critical to Know about AI
+SYMSYS176S - Studying Stanford: Governance, Culture, and Innovation
+AND
+OSPGEN47 - Governance, Culture, and Innovation in Oxford
+See also the
+Symbolic Systems Website
+.
+Biomedical Applications Subplan
+Completion requirement
+Philosophical & Ethical Inquiry
+Complete at least 1 of the following Courses:
+HUMBIO174 - Foundations of Bioethics
+HUMBIO178A - Intro to Disability Studies: Disability and Technology
+NBIO101 - Social and Ethical Issues in the Neurosciences
+PHIL134A - Phenomenology: Animals
+PHIL167D - Philosophy of Neuroscience
+PHIL178M - Introduction to Environmental Ethics
+PHIL368A - Explanation in Neuroscience
+SYMSYS202 - Theories of Consciousness
+SYMSYS205 - The Philosophy and Science of Perception
+Theoretical & Mathematical Approaches
+Complete at least 1 of the following Courses:
+BIO183 - Theoretical Population Genetics
+BIO223 - Stochastic and Nonlinear Dynamics
+BIO251 - Quantitative Evolutionary Dynamics and Genomics
+BMDS219 - Mathematical Models and Medical Decisions
+ECON136 - Market Design
+EE102A - Signals and Systems I
+HUMBIO88 - Introduction to Statistics for the Health Sciences
+HUMBIO89 - Introduction to Health Sciences Statistics
+HUMBIO154B - Principles of Epidemiology
+MS&E292 - Health Policy Modeling
+STATS141 - Introduction to Statistics for Biology
+STATS215 - Statistical Models in Biology
+Computational & Design Methods
+Complete at least 1 of the following Courses:
+BMDS270 - Algorithmic Foundations for Artificial Intelligence in Healthcare
+BIOE313 - Neuromorphics: Brains in Silicon
+BMDS210 - Modeling Biomedical Systems
+BMDS260 - Computational Methods for Biomedical Image Analysis and Interpretation
+BIOMEDIN273B - Deep Learning in Genomics and Biomedicine
+BMDS245 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CS247B - Design for Behavior Change
+CS247S - Service Design with AI
+CS173A - Foundations of Computational Human Genomics
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+CS448B - Data Visualization
+GENE211 - Genomics
+HUMBIO51 - Big Data for Biologists - Decoding Genomic Function
+HUMBIO151R - Biology, Health and Big Data
+PSYC223B - Topics in Neurodiversity: Design Thinking Approaches
+PSYCH204B - Computational Neuroimaging: Data Analyses
+STATS220 - Machine Learning Methods for Neural Data Analysis
+SYMSYS245 - Cognition in Interaction Design
+Experimental & Observational Science
+Complete at least 1 of the following Courses:
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO84 - Physiology
+BIO150 - Human Behavioral Biology
+BIO151 - Mechanisms of Neuron Death
+BIO204 - Neuroplasticity: From Synapses to Behavior
+HUMBIO51 - Big Data for Biologists - Decoding Genomic Function
+HUMBIO151R - Biology, Health and Big Data
+HUMBIO154B - Principles of Epidemiology
+MS&E292 - Health Policy Modeling
+NBIO206 - The Nervous System
+PSYC124 - Brain Plasticity
+PSYCH30 - Introduction to Perception
+PSYCH45 - Introduction to Learning and Memory
+PSYCH50 - Introduction to Cognitive Neuroscience
+PSYCH60 - Introduction to Developmental Psychology
+PSYCH169 - Advanced Seminar on Memory
+PSYCH202 - Cognitive Neuroscience
+PSYCH204A - Human Neuroimaging Methods
+PSYCH232 - Brain and Decision Making
+PSYCH257 - Affective Neuroscience
+Integrative Requirement
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement, or
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+BMDS210 - Modeling Biomedical Systems
+BIOMEDIN220 - Artificial Intelligence in Healthcare
+BMDS260 - Computational Methods for Biomedical Image Analysis and Interpretation
+BMDS173A - Foundations of Computational Human Genomics
+BIOMEDIN273B - Deep Learning in Genomics and Biomedicine
+BMDS245 - Computational Biology: Structure and Organization of Biomolecules and Cells
+COMM326 - Advanced Topics in Human Virtual Representation
+CS325B - Data for Sustainable Development
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+PHIL167D - Philosophy of Neuroscience
+PHIL178M - Introduction to Environmental Ethics
+PHIL368A - Explanation in Neuroscience
+PSYC223B - Topics in Neurodiversity: Design Thinking Approaches
+PSYCH169 - Advanced Seminar on Memory
+PSYCH202 - Cognitive Neuroscience
+PSYCH204A - Human Neuroimaging Methods
+PSYCH204B - Computational Neuroimaging: Data Analyses
+PSYCH232 - Brain and Decision Making
+PSYCH257 - Affective Neuroscience
+STATS220 - Machine Learning Methods for Neural Data Analysis
+SYMSYS245 - Cognition in Interaction Design
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+BIO2N - Ecology and Evolution of Infectious Disease in a Changing World
+BIO83 - Biochemistry & Molecular Biology
+BIOE70Q - Medical Device Innovation
+BIOE177 - Inventing the Future
+BIOE377 - Startup Garage: Testing and Launch
+COMM153B - Free Speech, Democracy and the Internet
+CS106EA - Exploring Artificial Intelligence
+CS121 - Equity and Governance for Artificial Intelligence
+CS139 - Human-Centered AI
+CS152 - Trust and Safety
+CS224R - Deep Reinforcement Learning
+CS257 - Introduction to Automated Reasoning
+CS323 - The AI Awakening: Implications for the Economy and Society
+CS329A - Self Improving AI Agents
+CS329X - Human Centered NLP
+EDUC482 - Design to Equip Learners in Under-Resourced Communities
+EE364A - Convex Optimization I
+EE374 - Fundamentals of Blockchain Infrastructure
+EE292J - Designing for Authenticity
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+ENGR140A - Leadership of Technology Ventures
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ENGR245 - The Lean LaunchPad: Getting Your Lean Startup Off the Ground
+FEMGEN106Q - Gender and Media
+FEMGEN147 - Feminism and Technology
+GLOBAL124 - Global Algorithmic Development and Ethics
+INTLPOL245B - Governing Artificial Intelligence: Law, Policy, and Institutions
+LINGUIST1 - Introduction to Linguistics
+MATSCI82N - Science of the Impossible
+MS&E135 - Networks
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E233 - Game Theory, Data Science and AI
+MS&E289 - Ethics in Global Technology Design
+OSPCPTWN67 - Beyond Silicon Valley: Technology and Development in the Global South
+OSPHONGK46 - Fundamentals of Artificial Intelligence
+OSPOXFRD44 - Molecular Genetics Ethics and Practice
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+OSPSANTG25 - Health and Disease in an Aging Society: Chile in Transition
+OSPSANTG58 - Global Change in Chile
+POLISCI150B - Machine Learning for Social Scientists
+PSYC60N - The Psychology of Stoked
+PSYC135 - Dement's Sleep and Dreams
+PSYCH12N - Self Theories
+PSYC17N - Think Before You Drink: Neurocircuitry of Alcohol Use Across the Developmental Lifespan
+PSYCH24N - Neuroforecasting
+PSYCH118F - Literature and the Brain
+PSYCH131A - How to Think Like a Shrink
+PSYCH144 - The Sociocultural Shaping of Psychological Experience
+PSYCH147 - Development in Early Childhood
+PSYCH146 - Observation of Children
+PSYCH156A - Narratives of Trauma and Recovery
+PSYCH215 - Mind, Culture, and Society
+PSYCH220A - Probabilistic models of cognition: Reasoning and Learning
+PSYCH238 - Wise Interventions
+PSYCH278 - Psychology of the Climate Crisis
+PSYCH285A - How Can We Enforce Good Norms in Inclusive Ways?
+PUBLPOL50 - Intermediate Microeconomics for Public Policy
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+PUBLPOL353A - Science and Technology Policy
+PUBLPOL353B - Regulating Emerging Technology: Risks, Opportunities, and Reality
+SOC127 - Data Science for Social Impact
+STATS217 - Introduction to Stochastic Processes I
+SYMSYS104 - Introduction to Race and Technology
+SYMSYS168A - What's Critical to Know about AI
+SYMSYS210 - Governance Design: Real, Virtual, and Imaginary Worlds
+SYMSYS176S - Studying Stanford: Governance, Culture, and Innovation
+AND
+OSPGEN47 - Governance, Culture, and Innovation in Oxford
+See also the
+Symbolic Systems website
+.
+Cognitive Science Subplan
+Completion requirement
+Cognitive Neuroscience
+Complete at least 1 of the following Courses:
+PSYCH30 - Introduction to Perception
+PSYCH45 - Introduction to Learning and Memory
+PSYCH50 - Introduction to Cognitive Neuroscience
+Inferential Statistics
+Complete at least 1 of the following Courses:
+ANTHRO116 - Data Analysis for Quantitative Research
+MS&E125 - Introduction to Applied Statistics
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+PSYCH10 - Introduction to Statistical Methods: Precalculus
+SOC180B - Introduction to Data Analysis
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+Research Methods - A course on research practices and/or methods that are commonly used for studying cognition, language, and the brain
+Complete at least 1 of the following Courses:
+CS107 - Computer Organization and Systems
+CS129 - Applied Machine Learning
+CS229 - Machine Learning
+LINGUIST180 - From Languages to Information
+LINGUIST188 - Natural Language Understanding
+LINGUIST245B - Methods in Psycholinguistics
+PHIL167D - Philosophy of Neuroscience
+PSYCH164 - Brain decoding
+PSYCH209 - Neural Network Models of Cognition
+PSYCH221 - Image Systems Engineering
+PSYCH240A - Curiosity in Artificial Intelligence
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+PSYCH251 - Experimental Methods
+PSYCH253 - Multivariate Analysis, Measurement, and Study of Change in Social Science Research
+STATS220 - Machine Learning Methods for Neural Data Analysis
+Cognitive Science Depth
+Complete at least 1 of the following Courses:
+BIO150 - Human Behavioral Biology
+COMM108 - Media Processes and Effects
+COMM322 - Advanced Studies in Behavior and Social Media
+CS131 - Computer Vision: Foundations and Applications
+CS154 - Introduction to the Theory of Computation
+CS224N - Natural Language Processing with Deep Learning
+CS227B - General Game Playing
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229M - Machine Learning Theory
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+ECON160 - Game Theory and Economic Applications
+EDUC486 - Educational Neuroscience
+EDUC368 - Cognitive Development in Childhood and Adolescence
+LINGUIST105 - Phonetics
+LINGUIST110 - Introduction to Phonology
+LINGUIST180 - From Languages to Information
+LINGUIST188 - Natural Language Understanding
+MUSIC251 - Psychophysics and Music Cognition
+NBIO206 - The Nervous System
+PHIL152 - Computability and Logic
+PHIL154 - Modal Logic
+PHIL167D - Philosophy of Neuroscience
+PHIL181 - Philosophy of Language
+PHIL184 - Epistemology
+PHIL186 - Philosophy of Mind
+PHIL187 - Philosophy of Action
+PHIL194D - Capstone Seminar: How Virtual is Reality, and Vice Versa
+PHIL368A - Explanation in Neuroscience
+PHIL386 - Qualitativism: Objects, Structure, and Ontology
+PSYCH30 - Introduction to Perception
+PSYCH45 - Introduction to Learning and Memory
+PSYCH50 - Introduction to Cognitive Neuroscience
+PSYCH70 - Self and Society: Introduction to Social Psychology
+PSYCH140 - Introduction to Psycholinguistics
+PSYCH154 - Judgment and Decision-Making
+PSYCH164 - Brain decoding
+PSYCH169 - Advanced Seminar on Memory
+PSYCH175 - Developmental Science of Social Cognition
+PSYCH202 - Cognitive Neuroscience
+PSYCH204A - Human Neuroimaging Methods
+PSYCH204B - Computational Neuroimaging: Data Analyses
+PSYCH205 - Foundations of Cognition
+PSYCH209 - Neural Network Models of Cognition
+PSYCH221 - Image Systems Engineering
+PSYCH232 - Brain and Decision Making
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+PSYCH250 - High-level Vision: From Neurons to Deep Neural Networks
+PSYCH257 - Affective Neuroscience
+PSYCH266 - Current Debates in Learning and Memory
+SYMSYS203 - Cognitive Science Perspectives on Humanity and Well-Being
+SYMSYS207 - Conceptual Issues in Cognitive Science
+Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+COMM326 - Advanced Topics in Human Virtual Representation
+CS131 - Computer Vision: Foundations and Applications
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS221 - Artificial Intelligence: Principles and Techniques
+CS227B - General Game Playing
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+CS325B - Data for Sustainable Development
+EE104 - Introduction to Machine Learning
+LINGUIST180 - From Languages to Information
+MUSIC220C - Research Seminar in Computer-Generated Music
+MUSIC257 - You Are What You Use: Designing Technology for Neural Change
+NBIO101 - Social and Ethical Issues in the Neurosciences
+PHIL134A - Phenomenology: Animals
+PHIL359 - Logic Spring Seminar
+PHIL368A - Explanation in Neuroscience
+PSYCH164 - Brain decoding
+PSYCH209 - Neural Network Models of Cognition
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+STATS220 - Machine Learning Methods for Neural Data Analysis
+SYMSYS202 - Theories of Consciousness
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS207 - Conceptual Issues in Cognitive Science
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any of requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total 5 courses beyond those that are taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+ANTHRO348C - Phenomenology: The Feel of Lived Experience
+BIOE177 - Inventing the Future
+BIOE273 - Biodesign for Digital Health
+COMM100C - Social Media Cultures: Communication Capstone Seminar
+COMM153B - Free Speech, Democracy and the Internet
+CS53N - How Can Generative AI Help Us Learn?
+CS106EA - Exploring Artificial Intelligence
+CS121 - Equity and Governance for Artificial Intelligence
+CS139 - Human-Centered AI
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS257 - Introduction to Automated Reasoning
+CS323 - The AI Awakening: Implications for the Economy and Society
+CS337 - AI-Assisted Care
+ECON47 - Media Markets and Social Good
+EDUC423A - Introduction to Education Data Science: Data Processing
+ENGLISH384B - Literary Modeling
+EE374 - Fundamentals of Blockchain Infrastructure
+ETHICSOC125 - Tech Ethics and the Future of Human Values
+FEMGEN95 - Feminist Games Studio
+FEMGEN147 - Feminism and Technology
+GENE231 - AI and Vibecoding for healthcare
+GLOBAL124 - Global Algorithmic Development and Ethics
+HUMBIO4B - Development and Epidemiology
+HUMBIO146 - Culture and Madness: Anthropological and Psychiatric Approaches to Mental Illness
+HUMBIO171E - Modern Ethical Challenges in Neuroscience and Organ Transplantation
+INTLPOL245B - Governing Artificial Intelligence: Law, Policy, and Institutions
+LINGUIST1 - Introduction to Linguistics
+LINGUIST154 - Language, Race, and Ethnicity
+MATH108 - Introduction to Combinatorics and Its Applications
+MATSCI82N - Science of the Impossible
+MS&E135 - Networks
+MS&E233 - Game Theory, Data Science and AI
+MUSIC168 - Neuroscience and Psychology of Music: From Practice to Peak Performance
+OSPHONGK46 - Fundamentals of Artificial Intelligence
+OSPOXFRD13 - Know Thyself ! The Philosophy and Psychology of Self-Examination
+OSPOXFRD84 - The Promises and Perils of Social and Behavioral Genomics
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+PHIL134A - Phenomenology: Animals
+PHIL158 - Philosophy of Logic
+PHIL171 - Justice
+POLISCI150B - Machine Learning for Social Scientists
+PSYC17N - Think Before You Drink: Neurocircuitry of Alcohol Use Across the Developmental Lifespan
+PSYC60N - The Psychology of Stoked
+PSYC135 - Dement's Sleep and Dreams
+PSYCH12N - Self Theories
+PSYCH24N - Neuroforecasting
+PSYCH80 - Introduction to Personality and Affective Science
+PSYCH95 - Introduction to Abnormal Psychology
+PSYCH156A - Narratives of Trauma and Recovery
+PSYCH238 - Wise Interventions
+PSYCH265 - Social Psychology and Social Change
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+PUBLPOL119 - AI, Autonomy, and the Future of Warfare
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+PUBLPOL353A - Science and Technology Policy
+PUBLPOL353B - Regulating Emerging Technology: Risks, Opportunities, and Reality
+SOC127 - Data Science for Social Impact
+STATS217 - Introduction to Stochastic Processes I
+SURG172 - Anatomy and Design Innovations
+SYMSYS104 - Introduction to Race and Technology
+SYMSYS210 - Governance Design: Real, Virtual, and Imaginary Worlds
+Additional courses may be added here in the future.
+See also the
+Symbolic Systems website
+.
+Computational Foundations Subplan
+Completion requirement
+Computational Foundations Subplan Overview
+Students in this Subplan are strongly encouraged to take either
+course
+or
+course
+as part of the major, either for the Core Cross-Area Requirement, for the Capstone Integrative Requirement, as a Contingent Elective, or (in the case of
+course
+) for the Core Introductory Philosophy requirement.
+Computer Systems I
+Complete at least 1 of the following Courses:
+CS107 - Computer Organization and Systems
+CS107E - Computer Systems from the Ground Up
+Computing Systems II
+Complete at least 1 of the following Courses:
+CS110 - Principles of Computer Systems
+CS111 - Operating Systems Principles
+Theory of Computation Depth
+Complete at least 1 of the following Courses:
+CS154 - Introduction to the Theory of Computation
+PHIL152 - Computability and Logic
+Algorithms
+Complete ALL of the following Courses:
+CS161 - Design and Analysis of Algorithms
+Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement, or
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+CS151 - Logic Programming
+CS157 - Computational Logic
+CS163 - The Practice of Theory Research
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+PHIL154 - Modal Logic
+PHIL359 - Logic Spring Seminar
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+BIOE177 - Inventing the Future
+BIOE273 - Biodesign for Digital Health
+BIOE376 - Startup Garage: Design
+BIOE377 - Startup Garage: Testing and Launch
+COMM153B - Free Speech, Democracy and the Internet
+CS106EA - Exploring Artificial Intelligence
+CS120 - Introduction to AI Safety
+CS121 - Equity and Governance for Artificial Intelligence
+CS139 - Human-Centered AI
+CS152 - Trust and Safety
+CS224R - Deep Reinforcement Learning
+CS329A - Self Improving AI Agents
+CS329X - Human Centered NLP
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+DATASCI112 - Principles of Data Science
+EE364A - Convex Optimization I
+ENGR40M - An Intro to Making: What is EE
+FEMGEN147 - Feminism and Technology
+GLOBAL124 - Global Algorithmic Development and Ethics
+INTLPOL268 - Hack Lab: Introduction to Cybersecurity
+LINGUIST1 - Introduction to Linguistics
+MATSCI82N - Science of the Impossible
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E265 - Product Management Fundamentals for the Real Economy
+NBIO220 - Machine Learning Methods for Neural Data Analysis
+OSPHONGK46 - Fundamentals of Artificial Intelligence
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+OTOHNS206 - Augmenting Human Senses: Enhancing Perception with Technology and Bioscience
+PHIL20N - Philosophy of Artificial Intelligence
+PSYC60N - The Psychology of Stoked
+PSYC135 - Dement's Sleep and Dreams
+PSYC221 - Machine Learning for Neuroimaging
+PSYCH12N - Self Theories
+PSYCH24N - Neuroforecasting
+PSYCH144 - The Sociocultural Shaping of Psychological Experience
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+SOC127 - Data Science for Social Impact
+STATS217 - Introduction to Stochastic Processes I
+SYMSYS104 - Introduction to Race and Technology
+SYMSYS168A - What's Critical to Know about AI
+Any course of three units or more, listed with a CS course number greater than 110, excluding CS 196 or CS198.
+Any course of three units or more, listed with an EE course number.
+Any course of three units or more, listed with a MATH course number.
+Any course of three units or more, listed with a STATS course number.
+See also the
+Symbolic Systems website
+.
+Computational Social Science Subplan
+Completion requirement
+Social Behavior
+Complete at least 1 of the following Courses:
+BIO81 - Introduction to Ecology
+COMM1 - Introduction to Communication
+ECON1 - Principles of Economics
+ECON46 - Networks and Human Behavior
+ECON50 - Economic Analysis I
+ECON160 - Game Theory and Economic Applications
+ECON178 - Behavioral Economics
+ECON180 - Accelerated Game Theory
+LINGUIST150 - Language and Society
+MS&E135 - Networks
+MS&E180 - Organizations: Theory and Management
+MS&E232 - Introduction to Game Theory
+POLISCI1 - The Science of Politics
+POLISCI120C - American Political Institutions in Uncertain Times
+PSYCH70 - Self and Society: Introduction to Social Psychology
+PSYCH154 - Judgment and Decision-Making
+SOC1 - Introduction to Sociology
+SOC126 - Introduction to Social Networks
+SOC130 - Education and Society
+SOC146 - Introduction to Comparative Studies in Race and Ethnicity
+Statistical Inference - An introductory course in statistical methods
+Complete at least 1 of the following Courses:
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+MS&E125 - Introduction to Applied Statistics
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+SOC180B - Introduction to Data Analysis
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+Computational Data Methods - A course in machine learning, natural language processing, and/or probabilistic computational inference
+Complete at least 1 of the following Courses:
+CS129 - Applied Machine Learning
+CS224N - Natural Language Processing with Deep Learning
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS238 - Decision Making under Uncertainty
+CS246 - Mining Massive Data Sets
+CS448B - Data Visualization
+ECON102B - Applied Econometrics
+LINGUIST180 - From Languages to Information
+LINGUIST188 - Natural Language Understanding
+PSYCH209 - Neural Network Models of Cognition
+Social Data Science - A course on applying statistical and computational methods to the study of social behavior
+Complete at least 1 of the following Courses:
+COMM106 - Communication Research Methods
+ECON151 - Tackling Big Questions Using Social Data Science
+POLISCI150A - Data Science for Politics
+POLISCI150C - Causal Inference for Social Science
+PSYCH290 - Natural Language Processing in the Social Sciences
+SOC180A - Foundations of Social Research
+SOC194 - Computational Undergraduate Research
+SOC369 - Social Network Methods
+Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement, or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+COMM322 - Advanced Studies in Behavior and Social Media
+COMM326 - Advanced Topics in Human Virtual Representation
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS206 - Exploring Computational Journalism
+CS224W - Machine Learning with Graphs
+CS246 - Mining Massive Data Sets
+CS278 - Social Computing
+CS325B - Data for Sustainable Development
+ECON160 - Game Theory and Economic Applications
+ECON178 - Behavioral Economics
+ECON180 - Accelerated Game Theory
+PHIL171 - Justice
+PHIL171P - Liberalism and its Critics
+PHIL359 - Logic Spring Seminar
+PSYCH154 - Judgment and Decision-Making
+PSYCH253 - Multivariate Analysis, Measurement, and Study of Change in Social Science Research
+PSYCH290 - Natural Language Processing in the Social Sciences
+SOC154 - The Politics of Algorithms
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+ANTHRO116 - Data Analysis for Quantitative Research
+ANTHRO348C - Phenomenology: The Feel of Lived Experience
+BIO85 - Evolution
+BIO102 - Introduction to Neuroscience
+BIO145 - Behavioral Ecology
+BIO154 - Advanced Neurobiology: Food, Sex, and Gaming
+BIOE122 - BioSecurity and Pandemic Resilience
+BIOE177 - Inventing the Future
+BIOE273 - Biodesign for Digital Health
+BIOE376 - Startup Garage: Design
+BIOE377 - Startup Garage: Testing and Launch
+BUSGEN100 - Triple Bottom Line: Managing Sustainable Value Creation
+COMM100C - Social Media Cultures: Communication Capstone Seminar
+COMM151 - The First Amendment:  Freedom of Speech and Press
+COMM153B - Free Speech, Democracy and the Internet
+COMM158 - Censorship and Propaganda
+COMM176 - Advanced Digital Journalism Production
+COMM177B - Big Local Journalism: a project-based class
+COMM177T - Building News Applications
+COMM230A - Digital Civil Society
+CS53N - How Can Generative AI Help Us Learn?
+CS106EA - Exploring Artificial Intelligence
+CS121 - Equity and Governance for Artificial Intelligence
+CS139 - Human-Centered AI
+CS145 - Introduction to Big Data Systems
+CS148 - Introduction to Computer Graphics and Imaging
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS224R - Deep Reinforcement Learning
+CS236 - Deep Generative Models
+ECON102C - Advanced Topics in Econometrics
+CS257 - Introduction to Automated Reasoning
+CS293 - Empowering Educators via Language Technology
+CS329A - Self Improving AI Agents
+CS329X - Human Centered NLP
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+EARTHSYS137 - Concepts and Analytic Skills for the Social Sector
+EARTHSYS216A - Climate Perspectives: Climate Science, Impacts, Carbon Markets, Decarbonization Models and Projects
+ECON47 - Media Markets and Social Good
+ECON106 - World Food Economy
+ECON125 - Economic Development, Microfinance, and Social Networks
+ECON144 - Family and Society
+ECON150 - Economic Policy Analysis
+ECON155 - Climate change and global inequality
+EDUC482 - Design to Equip Learners in Under-Resourced Communities
+EE364A - Convex Optimization I
+EE374 - Fundamentals of Blockchain Infrastructure
+ENGLISH384B - Literary Modeling
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ESS224 - Remote Sensing of Hydrology
+FEMGEN106Q - Gender and Media
+FEMGEN147 - Feminism and Technology
+GENE231 - AI and Vibecoding for healthcare
+GLOBAL124 - Global Algorithmic Development and Ethics
+HUMBIO166 - Food and Society: Exploring Eating Behaviors in Social, Environmental, and Policy Context
+INTLPOL259 - Research Topics in Technology and National Security
+LINGUIST1 - Introduction to Linguistics
+LINGUIST154 - Language, Race, and Ethnicity
+LINGUIST156 - Language, Gender, & Sexuality
+LINGUIST157 - Sociophonetics
+LINGUIST234 - The Structure of Discourse: Theory and Applications
+LINGUIST250 - Sociolinguistic Theory and Analysis
+LINGUIST258 - Analysis of Variation
+LINGUIST285 - Spoken Language Processing
+LINGUIST278 - Programming for Linguists
+MATH108 - Introduction to Combinatorics and Its Applications
+MATSCI82N - Science of the Impossible
+MGTECON634 - Machine Learning and Causal Inference
+MS&E121 - Introduction to Stochastic Modeling
+MS&E125 - Introduction to Applied Statistics
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+MS&E221 - Stochastic Modeling
+MS&E223 - Stochastic Simulation and Monte Carlo Methods
+MS&E243 - Energy and Environmental Policy Analysis
+MS&E265 - Product Management Fundamentals for the Real Economy
+MS&E280 - Organizational Behavior: Evidence in Action
+MS&E289 - Ethics in Global Technology Design
+MS&E292 - Health Policy Modeling
+NBIO220 - Machine Learning Methods for Neural Data Analysis
+OSPCPTWN67 - Beyond Silicon Valley: Technology and Development in the Global South
+OSPHONGK46 - Fundamentals of Artificial Intelligence
+OSPOXFRD16 - Immersive Creative Writing
+OSPOXFRD76 - Access, Distinction and Material Culture through Coffee
+OSPOXFRD81 - Displacement and Identity in 20th Century Europe
+OSPOXFRD84 - The Promises and Perils of Social and Behavioral Genomics
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+OSPSANTG25 - Health and Disease in an Aging Society: Chile in Transition
+OSPSANTG58 - Global Change in Chile
+OTOHNS206 - Augmenting Human Senses: Enhancing Perception with Technology and Bioscience
+PHIL2 - Introduction to Moral Philosophy
+PHIL60 - Introduction to Philosophy of Science
+PHIL167E - Philosophy of Evolutionary Biology
+PHIL170 - Ethical Theory
+POLISCI223A - Public Opinion and American Democracy
+POLISCI227C - Money in Politics
+PSYC60N - The Psychology of Stoked
+PSYC86Q - Psychology of Xenophobia
+PSYC135 - Dement's Sleep and Dreams
+PSYCH12N - Self Theories
+PSYCH24N - Neuroforecasting
+PSYCH80 - Introduction to Personality and Affective Science
+PSYCH125 - Research Methods in Psychology
+PSYCH131A - How to Think Like a Shrink
+PSYCH144 - The Sociocultural Shaping of Psychological Experience
+PSYCH146 - Observation of Children
+PSYCH147 - Development in Early Childhood
+PSYCH156A - Narratives of Trauma and Recovery
+PSYCH170 - The Psychology of Communication About Politics in America
+PSYCH215 - Mind, Culture, and Society
+PSYCH265 - Social Psychology and Social Change
+PSYCH278 - Psychology of the Climate Crisis
+PSYCH285A - How Can We Enforce Good Norms in Inclusive Ways?
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+PUBLPOL119 - AI, Autonomy, and the Future of Warfare
+PUBLPOL353A - Science and Technology Policy
+PUBLPOL353B - Regulating Emerging Technology: Risks, Opportunities, and Reality
+SOC3 - America: Unequal
+SOC10 - Introduction to Computational Social Science
+SOC14N - Inequality in American Society
+SOC31N - Social Networks
+SOC114 - Economic Sociology
+SOC118 - Social Movements and Collective Action
+SOC133D - Globalization and Social Change
+SOC179A - Crime and Punishment in America
+STATS203 - Regression Models and Analysis of Variance
+STATS209 - Introduction to Causal Inference
+STATS211 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+STATS217 - Introduction to Stochastic Processes I
+STS191W - Doing STS: Introduction to Research
+SYMSYS176S - Studying Stanford: Governance, Culture, and Innovation
+AND
+OSPGEN47 - Governance, Culture, and Innovation in Oxford
+SYMSYS201 - Digital Technology, Society, and Democracy
+See also the
+Symbolic Systems website
+.
+Computer Music Subplan
+Completion requirement
+Computer Music Subplan Overview
+Symbolic Systems majors must complete the following requirements in addition to the Core requirements to fulfill the Subplan in Computer Music. All courses must be taken for three units of more.
+Computer-Generated Music I
+Complete ALL of the following Courses:
+MUSIC220A - Fundamentals of Computer-Generated Sound
+Computer-Generated Music II
+Complete ALL of the following Courses:
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+Music and the Mind & Brain
+Complete at least 1 of the following Courses:
+MUSIC1A - Music, Mind, and Human Behavior
+MUSIC251 - Psychophysics and Music Cognition
+MUSIC351A - Seminar in Music Perception and Cognition I
+PSYCH30 - Introduction to Perception
+PSYCH50 - Introduction to Cognitive Neuroscience
+Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+MUSIC128 - Stanford Laptop Orchestra: Composition, Coding, and Performance
+MUSIC220C - Research Seminar in Computer-Generated Music
+MUSIC250A - Physical Interaction Design for Music
+MUSIC251 - Psychophysics and Music Cognition
+MUSIC253 - Symbolic Musical Information
+MUSIC254 - Computational Music Analysis
+MUSIC256A - Music, Computing, Design: The Art of Design
+MUSIC257 - You Are What You Use: Designing Technology for Neural Change
+MUSIC351A - Seminar in Music Perception and Cognition I
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+ARTSTUDI165A - Intro to Art & Technology
+BIOE177 - Inventing the Future
+BIOE273 - Biodesign for Digital Health
+CS108 - Object-Oriented Systems Design
+CS139 - Human-Centered AI
+CS148 - Introduction to Computer Graphics and Imaging
+CS257 - Introduction to Automated Reasoning
+CS329X - Human Centered NLP
+COMM153B - Free Speech, Democracy and the Internet
+DESIGN1 - Introduction to Design
+EDUC482 - Design to Equip Learners in Under-Resourced Communities
+EE374 - Fundamentals of Blockchain Infrastructure
+ENGR140A - Leadership of Technology Ventures
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ENGR245 - The Lean LaunchPad: Getting Your Lean Startup Off the Ground
+FEMGEN147 - Feminism and Technology
+GLOBAL124 - Global Algorithmic Development and Ethics
+LINGUIST1 - Introduction to Linguistics
+LINGUIST110 - Introduction to Phonology
+MS&E265 - Product Management Fundamentals for the Real Economy
+MUSIC222 - Sound in Space
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+OTOHNS206 - Augmenting Human Senses: Enhancing Perception with Technology and Bioscience
+PSYCH12N - Self Theories
+PSYCH24N - Neuroforecasting
+PSYCH125 - Research Methods in Psychology
+PSYCH144 - The Sociocultural Shaping of Psychological Experience
+PSYCH220A - Probabilistic models of cognition: Reasoning and Learning
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+PUBLPOL353B - Regulating Emerging Technology: Risks, Opportunities, and Reality
+SOC127 - Data Science for Social Impact
+STATS217 - Introduction to Stochastic Processes I
+STS10 - Introduction to AI Safety
+SYMSYS104 - Introduction to Race and Technology
+SYMSYS168A - What's Critical to Know about AI
+See also the
+Symbolic Systems website
+.
+Decision Making & Rationality (DMAR) Subplan
+Completion requirement
+Philosophical Inquiry
+Complete at least 1 of the following Courses:
+MS&E254 - The Ethical Analyst
+PHIL170 - Ethical Theory
+PHIL171 - Justice
+PHIL172 - History of Modern Moral Philosophy
+PHIL184 - Epistemology
+PHIL187 - Philosophy of Action
+PHIL359 - Logic Spring Seminar
+PHIL388 - Topics in Normativity: Foundations of Epistemic Normativity
+POLISCI131L - Modern Political Thought: Machiavelli to Marx and Mill
+POLISCI230A - Classical Seminar: Origins of Political Thought
+Formal Decision Theories
+Complete at least 1 of the following Courses:
+ECON51 - Economic Analysis II
+ECON136 - Market Design
+ECON160 - Game Theory and Economic Applications
+ECON180 - Accelerated Game Theory
+ECON289 - Advanced Topics in Game Theory and Information Economics
+MS&E232 - Introduction to Game Theory
+MS&E232H - Introduction to Game Theory (Accelerated)
+PHIL154 - Modal Logic
+PHIL359 - Logic Spring Seminar
+POLISCI356A - Formal Theory I
+PUBLPOL50 - Intermediate Microeconomics for Public Policy
+Empirical Findings and Explanations
+Complete at least 1 of the following Courses:
+BIO150 - Human Behavioral Biology
+ECON178 - Behavioral Economics
+ECON179 - Experimental Economics
+ECON279 - Behavioral and Experimental Economics II
+EDUC375A - Seminar on Organizational Theory
+GSBGEN646 - Behavioral Economics and the Psychology of Decision Making
+POLISCI351B - Economic Analysis of Political Institutions
+POLISCI351C - Institutions and Bridge-Building in Political Economy
+PSYCH154 - Judgment and Decision-Making
+PSYCH205 - Foundations of Cognition
+PSYCH215 - Mind, Culture, and Society
+PSYCH232 - Brain and Decision Making
+PSYCH257 - Affective Neuroscience
+SOC114 - Economic Sociology
+SOC126 - Introduction to Social Networks
+SYMSYS203 - Cognitive Science Perspectives on Humanity and Well-Being
+Methods and Applications - A course on methods that can be used to study decision making and rationality, or ways to apply research in decision sciences
+Complete at least 1 of the following Courses:
+BMDS219 - Mathematical Models and Medical Decisions
+BMDS237 - Outcomes Analysis
+CEE206 - Decision Analysis for  Civil and Environmental Engineers
+COMM106 - Communication Research Methods
+COMM124 - Truth, Trust, and Tech
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+CS239 - Advanced Topics in Sequential Decision Making
+CS261 - Combinatorial Optimization
+CS325B - Data for Sustainable Development
+ECON50 - Economic Analysis I
+ECON102B - Applied Econometrics
+ECON102C - Advanced Topics in Econometrics
+ECON135 - Foundations of Finance
+ECON136 - Market Design
+ECON137 - Decision Modeling and Information
+ECON150 - Economic Policy Analysis
+ECON155 - Climate change and global inequality
+ENGR62 - Introduction to Optimization
+MS&E121 - Introduction to Stochastic Modeling
+MS&E135 - Networks
+MS&E152 - Introduction to Decision Analysis
+MS&E175 - Innovation, Creativity, and Change
+MS&E180 - Organizations: Theory and Management
+MS&E250A - Reliability and Resilience of Engineered Systems
+MS&E250B - Project Course in Engineering Risk Analysis
+MS&E252 - Foundations of Decision Analysis
+MS&E355 - Influence Diagrams and Probabilistics Networks
+PHIL49 - Survey of Formal Methods
+POLISCI153 - Strategy: Introduction to Game Theory
+PSYCH10 - Introduction to Statistical Methods: Precalculus
+PSYCH251 - Experimental Methods
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS211 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+STATS217 - Introduction to Stochastic Processes I
+STATS218 - Introduction to Stochastic Processes II
+STATS263 - Design of Experiments
+STATS310A - Theory of Probability I
+STATS310B - Theory of Probability II
+STATS310C - Theory of Probability III
+SYMSYS195B - Design for Behavior Change
+SYMSYS195D - Research in Digital Democracy
+SYMSYS201 - Digital Technology, Society, and Democracy
+URBANST132 - Concepts and Analytic Skills for the Social Sector
+Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+CS239 - Advanced Topics in Sequential Decision Making
+CS261 - Combinatorial Optimization
+CS325B - Data for Sustainable Development
+PHIL184 - Epistemology
+PHIL187 - Philosophy of Action
+PHIL359 - Logic Spring Seminar
+PSYCH154 - Judgment and Decision-Making
+PSYCH232 - Brain and Decision Making
+PSYCH257 - Affective Neuroscience
+SYMSYS201 - Digital Technology, Society, and Democracy
+SYMSYS203 - Cognitive Science Perspectives on Humanity and Well-Being
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+BIO102 - Introduction to Neuroscience
+BIO145 - Behavioral Ecology
+BIOE273 - Biodesign for Digital Health
+CEE250 - Product Management Fundamentals for the Real Economy
+COMM100C - Social Media Cultures: Communication Capstone Seminar
+COMM130D - Dark Patterns
+COMM153B - Free Speech, Democracy and the Internet
+COMM230A - Digital Civil Society
+CS53N - How Can Generative AI Help Us Learn?
+CS106EA - Exploring Artificial Intelligence
+CS139 - Human-Centered AI
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS224R - Deep Reinforcement Learning
+CS255 - Introduction to Cryptography
+CS257 - Introduction to Automated Reasoning
+CS293 - Empowering Educators via Language Technology
+CS329A - Self Improving AI Agents
+CS329X - Human Centered NLP
+EARTHSYS137 - Concepts and Analytic Skills for the Social Sector
+ECON151 - Tackling Big Questions Using Social Data Science
+EE292J - Designing for Authenticity
+ENGLISH172 - Reading Games and Playing Literature: Intro to Literary Game Studies
+ENGR140A - Leadership of Technology Ventures
+ENGR145 - Technology Entrepreneurship
+ESS224 - Remote Sensing of Hydrology
+FEMGEN95 - Feminist Games Studio
+FEMGEN106Q - Gender and Media
+FEMGEN147 - Feminism and Technology
+GENE231 - AI and Vibecoding for healthcare
+GLOBAL124 - Global Algorithmic Development and Ethics
+HUMBIO4B - Development and Epidemiology
+HUMBIO146 - Culture and Madness: Anthropological and Psychiatric Approaches to Mental Illness
+LAW4053 - Confronting Misinformation Online: Law and Policy
+LINGUIST1 - Introduction to Linguistics
+MATSCI82N - Science of the Impossible
+MS&E265 - Product Management Fundamentals for the Real Economy
+OSPCPTWN67 - Beyond Silicon Valley: Technology and Development in the Global South
+OSPHONGK46 - Fundamentals of Artificial Intelligence
+OTOHNS206 - Augmenting Human Senses: Enhancing Perception with Technology and Bioscience
+OSPOXFRD13 - Know Thyself ! The Philosophy and Psychology of Self-Examination
+OSPOXFRD76 - Access, Distinction and Material Culture through Coffee
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+PHIL134A - Phenomenology: Animals
+PHIL167E - Philosophy of Evolutionary Biology
+PSYC60N - The Psychology of Stoked
+PSYC135 - Dement's Sleep and Dreams
+PSYC221 - Machine Learning for Neuroimaging
+PSYCH12N - Self Theories
+PSYCH24N - Neuroforecasting
+PSYCH80 - Introduction to Personality and Affective Science
+PSYCH144 - The Sociocultural Shaping of Psychological Experience
+PSYCH146 - Observation of Children
+PSYCH147 - Development in Early Childhood
+PSYCH156A - Narratives of Trauma and Recovery
+SYMSYS176S - Studying Stanford: Governance, Culture, and Innovation
+AND
+OSPGEN47 - Governance, Culture, and Innovation in Oxford
+See also the
+Symbolic Systems website
+.
+Human-Centered Artificial Intelligence Subplan
+Completion requirement
+Digital Technology Ethics and Policy
+A course that brings philosophical ethics and policy analysis to bear on the social implications of digital technology, across a broad range of domains.
+Complete at least 1 of the following Courses:
+CS120 - Introduction to AI Safety
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS281 - Ethics of Artificial Intelligence
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+Human Impact
+One course aimed at understanding how AI interacts with humans as well as with vital social structures and institutions
+Complete at least 1 of the following Courses:
+AFRICAAM200N - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+COMM120W - The Rise of Digital Culture
+COMM124 - Truth, Trust, and Tech
+COMM145 - Personality and Digital Media
+COMM154 - The Politics of Algorithms
+COMM172 - Media Psychology
+COMM184 - Race and Media
+COMM322 - Advanced Studies in Behavior and Social Media
+ENGLISH106A - What's Critical to Know about AI
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+NBIO101 - Social and Ethical Issues in the Neurosciences
+STS1 - Introduction to Science, Technology & Society
+SYMSYS201 - Digital Technology, Society, and Democracy
+Augmenting Human Capabilities
+One course aimed at developing new human-centered design methods and tools so that AI agents and applications are designed and created with the ability to communicate with, collaborate with, and augment people more effectively, and to make their work better and more enjoyable
+Complete at least 1 of the following Courses:
+BIOMEDIN220 - Artificial Intelligence in Healthcare
+COMM166 - Virtual People
+COMM177B - Big Local Journalism: a project-based class
+COMM326 - Advanced Topics in Human Virtual Representation
+CS147 - Introduction to Human-Computer Interaction Design
+CS152 - Trust and Safety
+CS184 - Bridging Policy and Tech Through Design
+CS247A - Design for Artificial Intelligence
+CS247B - Design for Behavior Change
+CS247I - Design for Understanding
+CS247S - Service Design with AI
+CS278 - Social Computing
+CS325B - Data for Sustainable Development
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+CS448B - Data Visualization
+ECON136 - Market Design
+EDUC486 - Educational Neuroscience
+EDUC281 - Technology for Learners
+HUMBIO151R - Biology, Health and Big Data
+MUSIC220C - Research Seminar in Computer-Generated Music
+PSYC124 - Brain Plasticity
+PSYC223B - Topics in Neurodiversity: Design Thinking Approaches
+PSYCH24N - Neuroforecasting
+PSYCH290 - Natural Language Processing in the Social Sciences
+SYMSYS245 - Cognition in Interaction Design
+Intelligence
+One course aimed at developing machine intelligence that understands human language, emotions, intentions, behaviors, and interactions at multiple scales
+Complete at least 1 of the following Courses:
+CS123 - A Hands-On Introduction to Building AI-Enabled Robots
+CS124 - From Languages to Information
+CS129 - Applied Machine Learning
+CS131 - Computer Vision: Foundations and Applications
+CS221 - Artificial Intelligence: Principles and Techniques
+CS223A - Introduction to Robotics
+CS224N - Natural Language Processing with Deep Learning
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS231N - Deep Learning for Computer Vision
+LINGUIST188 - Natural Language Understanding
+LINGUIST285 - Spoken Language Processing
+Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+COMM166 - Virtual People
+COMM172 - Media Psychology
+CS206 - Exploring Computational Journalism
+CS221 - Artificial Intelligence: Principles and Techniques
+CS223A - Introduction to Robotics
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS238 - Decision Making under Uncertainty
+CS247I - Design for Understanding
+CS278 - Social Computing
+CS325B - Data for Sustainable Development
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+EDUC234 - Curiosity in Artificial Intelligence
+EDUC486 - Educational Neuroscience
+EDUC281 - Technology for Learners
+LINGUIST180 - From Languages to Information
+LINGUIST285 - Spoken Language Processing
+PHIL167D - Philosophy of Neuroscience
+PHIL359 - Logic Spring Seminar
+PHIL368A - Explanation in Neuroscience
+PHIL386 - Qualitativism: Objects, Structure, and Ontology
+PSYC124 - Brain Plasticity
+PSYC223B - Topics in Neurodiversity: Design Thinking Approaches
+PSYCH154 - Judgment and Decision-Making
+PSYCH164 - Brain decoding
+PSYCH169 - Advanced Seminar on Memory
+PSYCH202 - Cognitive Neuroscience
+PSYCH209 - Neural Network Models of Cognition
+PSYCH232 - Brain and Decision Making
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+PSYCH257 - Affective Neuroscience
+STATS220 - Machine Learning Methods for Neural Data Analysis
+STATS315B - Modern Applied Statistics: Learning II
+SYMSYS202 - Theories of Consciousness
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS245 - Cognition in Interaction Design
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If requirements 1-4 are fulfilled partly from courses taken for Core requirements, additional approved Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+ARTSTUDI165A - Intro to Art & Technology
+BIO102 - Introduction to Neuroscience
+BIOE70Q - Medical Device Innovation
+BIOE122 - BioSecurity and Pandemic Resilience
+BIOE376 - Startup Garage: Design
+BIOE377 - Startup Garage: Testing and Launch
+BUSGEN100 - Triple Bottom Line: Managing Sustainable Value Creation
+CEE250 - Product Management Fundamentals for the Real Economy
+COMM100C - Social Media Cultures: Communication Capstone Seminar
+COMM151 - The First Amendment:  Freedom of Speech and Press
+COMM153B - Free Speech, Democracy and the Internet
+COMM177T - Building News Applications
+COMM230A - Digital Civil Society
+CS53N - How Can Generative AI Help Us Learn?
+CS110 - Principles of Computer Systems
+CS148 - Introduction to Computer Graphics and Imaging
+CS153 - Frontier Systems
+CS224G - Apps With LLMs Inside
+CS255 - Introduction to Cryptography
+CS257 - Introduction to Automated Reasoning
+DESIGN1 - Introduction to Design
+EARTHSYS137 - Concepts and Analytic Skills for the Social Sector
+EARTHSYS216A - Climate Perspectives: Climate Science, Impacts, Carbon Markets, Decarbonization Models and Projects
+ECON47 - Media Markets and Social Good
+EDUC423A - Introduction to Education Data Science: Data Processing
+EE364A - Convex Optimization I
+ENGLISH90QN - Quantum Narratives:Writing Fiction about Science, Philosophy and Human Experience in the Quantum Age
+ENGLISH172 - Reading Games and Playing Literature: Intro to Literary Game Studies
+ENGR140A - Leadership of Technology Ventures
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ENGR245 - The Lean LaunchPad: Getting Your Lean Startup Off the Ground
+ESS224 - Remote Sensing of Hydrology
+FEMGEN95 - Feminist Games Studio
+FEMGEN106Q - Gender and Media
+HUMBIO166 - Food and Society: Exploring Eating Behaviors in Social, Environmental, and Policy Context
+HUMBIO171E - Modern Ethical Challenges in Neuroscience and Organ Transplantation
+INTLPOL259 - Research Topics in Technology and National Security
+INTLPOL268 - Hack Lab: Introduction to Cybersecurity
+LINGUIST1 - Introduction to Linguistics
+MATSCI82N - Science of the Impossible
+MS&E135 - Networks
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E265 - Product Management Fundamentals for the Real Economy
+MS&E289 - Ethics in Global Technology Design
+OSPCPTWN67 - Beyond Silicon Valley: Technology and Development in the Global South
+OSPOXFRD44 - Molecular Genetics Ethics and Practice
+OSPOXFRD84 - The Promises and Perils of Social and Behavioral Genomics
+PHIL20N - Philosophy of Artificial Intelligence
+PHIL131 - Introduction to Phenomenology
+PHIL134A - Phenomenology: Animals
+PHIL386P - Mental Action
+PSYC60N - The Psychology of Stoked
+PSYC135 - Dement's Sleep and Dreams
+PSYCH12N - Self Theories
+PSYCH125 - Research Methods in Psychology
+PSYCH131A - How to Think Like a Shrink
+PSYCH144 - The Sociocultural Shaping of Psychological Experience
+PSYCH215 - Mind, Culture, and Society
+PSYCH265 - Social Psychology and Social Change
+PSYCH278 - Psychology of the Climate Crisis
+PUBLPOL50 - Intermediate Microeconomics for Public Policy
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+PUBLPOL353A - Science and Technology Policy
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS217 - Introduction to Stochastic Processes I
+SURG172 - Anatomy and Design Innovations
+SYMSYS176S - Studying Stanford: Governance, Culture, and Innovation
+AND
+OSPGEN47 - Governance, Culture, and Innovation in Oxford
+See also the
+Symbolic Systems website
+.
+Human-Computer Interaction Subplan
+Completion requirement
+Human-Computer Interaction Subplan Overview
+Symbolic Systems majors must complete the following requirements in addition to the Core requirements to fulfill the Subplan in Human-Computer Interaction. All courses must be taken for three units or more.
+Students in this Subplan are urged to take
+course
+or
+course
+, either for the Post-
+course
+Computation Core requirement, or as a Contingent Elective, and prior to completing requirement 4 below.
+Introduction to HCS
+Complete ALL of the following Courses:
+CS147 - Introduction to Human-Computer Interaction Design
+Design Methods
+Fulfill ALL of the following requirements:
+Design Methods Overview
+Post-CS 147 courses teaching fundamentals of the human-centered design process, featuring a major project component (including any course in the CS 247 series). One of the following:
+AND
+Design Methods Course Options
+Complete at least 1 of the following Courses:
+CS194H - User Interface Design Project
+CS247A - Design for Artificial Intelligence
+CS247B - Design for Behavior Change
+CS247G - Design for Play
+CS247S - Service Design with AI
+HCI Theory
+Courses teaching design, behavioral, and critical theories that underlie the design process
+Complete at least 1 of the following Courses:
+COMM145 - Personality and Digital Media
+COMM166 - Virtual People
+COMM172 - Media Psychology
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+User Interface Implementation
+An advanced course in programming for user interfaces
+Complete at least 1 of the following Courses:
+CS108 - Object-Oriented Systems Design
+CS142 - Web Applications
+CS147L - Cross-platform Mobile App Development
+Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+COMM120W - The Rise of Digital Culture
+COMM145 - Personality and Digital Media
+COMM166 - Virtual People
+COMM172 - Media Psychology
+COMM322 - Advanced Studies in Behavior and Social Media
+COMM324 - Language and Technology
+COMM326 - Advanced Topics in Human Virtual Representation
+CS107 - Computer Organization and Systems
+CS107E - Computer Systems from the Ground Up
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS206 - Exploring Computational Journalism
+CS247I - Design for Understanding
+CS278 - Social Computing
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CS377E - Designing Solutions to Global Grand Challenges
+CS377G - Designing Serious Games
+CS377Q - Designing for Accessibility
+CS377U - Understanding Users
+EDUC230 - Learning Experience Design
+EDUC281 - Technology for Learners
+EDUC342 - Child Development and New Technologies
+EDUC391 - Engineering Education and Online Learning
+ME115B - Product Design Methods
+SYMSYS201 - Digital Technology, Society, and Democracy
+SYMSYS245 - Cognition in Interaction Design
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+ARTSTUDI130 - Interactive Art: Making it with Arduino
+ARTSINST142 - Drawing with Code
+ARTSTUDI165A - Intro to Art & Technology
+ARTSTUDI168 - Data as Material
+ARTSTUDI169 - Virtual Reality: the possibility and peril of immersive artwork
+BIO102 - Introduction to Neuroscience
+BIOE70Q - Medical Device Innovation
+BIOE177 - Inventing the Future
+BIOE273 - Biodesign for Digital Health
+CEE250 - Product Management Fundamentals for the Real Economy
+COMM1 - Introduction to Communication
+COMM1B - Media, Culture, and Society
+COMM100C - Social Media Cultures: Communication Capstone Seminar
+COMM106 - Communication Research Methods
+COMM124 - Truth, Trust, and Tech
+COMM151 - The First Amendment:  Freedom of Speech and Press
+COMM153B - Free Speech, Democracy and the Internet
+COMM154 - The Politics of Algorithms
+COMM177T - Building News Applications
+COMM230A - Digital Civil Society
+COMM314 - Ethnographic Methods
+CS53N - How Can Generative AI Help Us Learn?
+CS80Q - Race and Gender in Silicon Valley
+CS106EA - Exploring Artificial Intelligence
+CS110 - Principles of Computer Systems
+CS121 - Equity and Governance for Artificial Intelligence
+CS123 - A Hands-On Introduction to Building AI-Enabled Robots
+CS139 - Human-Centered AI
+CS148 - Introduction to Computer Graphics and Imaging
+CS153 - Frontier Systems
+CS224G - Apps With LLMs Inside
+CS224R - Deep Reinforcement Learning
+CS255 - Introduction to Cryptography
+CS257 - Introduction to Automated Reasoning
+CS293 - Empowering Educators via Language Technology
+CS323 - The AI Awakening: Implications for the Economy and Society
+CS329A - Self Improving AI Agents
+CS337 - AI-Assisted Care
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+DATASCI112 - Principles of Data Science
+DESIGN1 - Introduction to Design
+DESIGN284 - Designing for Physical AI
+ECON47 - Media Markets and Social Good
+EE364A - Convex Optimization I
+ENGLISH172 - Reading Games and Playing Literature: Intro to Literary Game Studies
+ENGR140A - Leadership of Technology Ventures
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ENGR245 - The Lean LaunchPad: Getting Your Lean Startup Off the Ground
+ETHICSOC125 - Tech Ethics and the Future of Human Values
+FEMGEN95 - Feminist Games Studio
+FEMGEN106Q - Gender and Media
+FEMGEN147 - Feminism and Technology
+GENE231 - AI and Vibecoding for healthcare
+GLOBAL124 - Global Algorithmic Development and Ethics
+HUMBIO82A - Qualitative Research Methodology
+HUMBIO166 - Food and Society: Exploring Eating Behaviors in Social, Environmental, and Policy Context
+INTLPOL245B - Governing Artificial Intelligence: Law, Policy, and Institutions
+INTLPOL259 - Research Topics in Technology and National Security
+LAW809E - Policy Practicum: AI For Legal Help
+LINGUIST1 - Introduction to Linguistics
+MATSCI82N - Science of the Impossible
+ME203 - Design and Manufacturing
+ME210 - Introduction to Mechatronics
+MED147 - Methods in Community Assessment, Evaluation, and Research
+MED275B - Biodesign Fundamentals
+MS&E125 - Introduction to Applied Statistics
+MS&E135 - Networks
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E233 - Game Theory, Data Science and AI
+MS&E289 - Ethics in Global Technology Design
+MUSIC257 - You Are What You Use: Designing Technology for Neural Change
+OSPCPTWN67 - Beyond Silicon Valley: Technology and Development in the Global South
+OSPHONGK46 - Fundamentals of Artificial Intelligence
+OSPOXFRD85 - Practical Ethics for Artificial Intelligence
+OTOHNS206 - Augmenting Human Senses: Enhancing Perception with Technology and Bioscience
+POLISCI150B - Machine Learning for Social Scientists
+PSYC60N - The Psychology of Stoked
+PSYC135 - Dement's Sleep and Dreams
+PSYC221 - Machine Learning for Neuroimaging
+PSYCH10 - Introduction to Statistical Methods: Precalculus
+PSYCH12N - Self Theories
+PSYCH24N - Neuroforecasting
+PSYCH131A - How to Think Like a Shrink
+PSYCH144 - The Sociocultural Shaping of Psychological Experience
+PSYCH146 - Observation of Children
+PSYCH156A - Narratives of Trauma and Recovery
+PSYCH220A - Probabilistic models of cognition: Reasoning and Learning
+PSYCH265 - Social Psychology and Social Change
+PSYCH278 - Psychology of the Climate Crisis
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+PUBLPOL119 - AI, Autonomy, and the Future of Warfare
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+PUBLPOL353B - Regulating Emerging Technology: Risks, Opportunities, and Reality
+SOC127 - Data Science for Social Impact
+STS1 - Introduction to Science, Technology & Society
+STATS60 - Introduction to Statistical Methods: Precalculus
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+STATS203 - Regression Models and Analysis of Variance
+STATS217 - Introduction to Stochastic Processes I
+STATS263 - Design of Experiments
+SYMSYS104 - Introduction to Race and Technology
+SYMSYS168A - What's Critical to Know about AI
+SYMSYS210 - Governance Design: Real, Virtual, and Imaginary Worlds
+SYMSYS176S - Studying Stanford: Governance, Culture, and Innovation
+AND
+OSPGEN47 - Governance, Culture, and Innovation in Oxford
+See also the
+Symbolic Systems website
+.
+Learning Subplan
+Completion requirement
+Learning Subplan Overview
+Students in the Learning Subplan
+must complete four courses from areas 1-3 below, with at least one from each area, plus one course from area 4.
+If any of requirements 1-4 are fulfilled with courses taken for Core requirements, additional approved Contingent Elective courses (see area 5) must be completed to total five courses beyond those taken for the Core.
+1. Computational Learning
+Complete at least 1 of the following Courses:
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224N - Natural Language Processing with Deep Learning
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS229M - Machine Learning Theory
+CS230 - Deep Learning
+CS234 - Reinforcement Learning
+CS236 - Deep Generative Models
+CS325B - Data for Sustainable Development
+EE104 - Introduction to Machine Learning
+LINGUIST180 - From Languages to Information
+PSYCH209 - Neural Network Models of Cognition
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+STATS220 - Machine Learning Methods for Neural Data Analysis
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+2. Human Learning
+Complete at least 1 of the following Courses:
+EDUC101 - Introduction to Teaching and Learning
+EDUC115N - How to Learn Mathematics
+EDUC218 - Topics in Cognition and Learning: Enhancing Human Cognition with AI
+EDUC486 - Educational Neuroscience
+EDUC368 - Cognitive Development in Childhood and Adolescence
+EDUC378 - Social and Emotional Learning: Conceptual & Measurement Issues
+PSYCH45 - Introduction to Learning and Memory
+PSYCH50 - Introduction to Cognitive Neuroscience
+PSYCH60 - Introduction to Developmental Psychology
+PSYCH169 - Advanced Seminar on Memory
+PSYCH175 - Developmental Science of Social Cognition
+PSYCH202 - Cognitive Neuroscience
+PSYCH209 - Neural Network Models of Cognition
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+PSYCH251 - Experimental Methods
+PSYCH265 - Social Psychology and Social Change
+PSYCH266 - Current Debates in Learning and Memory
+3. Learning Environment Design
+Complete at least 1 of the following Courses:
+COMM322 - Advanced Studies in Behavior and Social Media
+CS147 - Introduction to Human-Computer Interaction Design
+CS194H - User Interface Design Project
+EDUC230 - Learning Experience Design
+EDUC281 - Technology for Learners
+EDUC298 - Seminar on Teaching Introductory Computer Science
+EDUC333A - Introduction to Learning Sciences: Understanding Learning and Learning Environments
+EDUC342 - Child Development and New Technologies
+EDUC391 - Engineering Education and Online Learning
+MUSIC257 - You Are What You Use: Designing Technology for Neural Change
+SYMSYS245 - Cognition in Interaction Design
+4. Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+COMM326 - Advanced Topics in Human Virtual Representation
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS221 - Artificial Intelligence: Principles and Techniques
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS229M - Machine Learning Theory
+CS230 - Deep Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS234 - Reinforcement Learning
+EDUC261E - Curriculum and Instruction Elective in Data Science
+EE104 - Introduction to Machine Learning
+LINGUIST180 - From Languages to Information
+PSYCH209 - Neural Network Models of Cognition
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+PSYCH253 - Multivariate Analysis, Measurement, and Study of Change in Social Science Research
+STATS220 - Machine Learning Methods for Neural Data Analysis
+SYMSYS245 - Cognition in Interaction Design
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+5. Contingent Electives
+If any requirements 1-3 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following :
+These :
+No selection provided
+See also the
+Symbolic Systems website
+.
+Mathematical Foundations Subplan
+Completion requirement
+Multivariate Calculus and Linear Algebra
+Fulfill ALL of the following requirements:
+Multivariate Calculus and Linear Algebra Overview
+One of the following two-course sequences.
+The earlier courses in each series are included in the Core Preparations requirements. Students in this Subplan who began in the
+course
+series should switch to the
+course
+-
+course
+series for the Subplan.
+AND
+Multivariate Calculus and Linear Algebra Two-Course Set Options
+Complete at least 1 of the following Courses:
+MATH52 - Integral Calculus of Several Variables
+AND
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+MATH62CM - Modern Mathematics: Continuous Methods
+AND
+MATH63CM - Modern Mathematics: Continuous Methods
+MATH62DM - Modern Mathematics: Discrete Methods
+AND
+MATH63DM - Modern Mathematics: Discrete Methods
+Matrix Theory and Applications
+Complete at least 1 of the following Courses:
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+MATH113 - Linear Algebra and Matrix Theory
+Applied Mathematics and Statistics
+Complete at least 1 of the following Courses:
+CME107 - Introduction to Machine Learning
+CME263 - Matrix Methods: Singular Value Decomposition
+CS229M - Machine Learning Theory
+EE263 - Matrix Methods: Singular Value Decomposition
+EE276 - Information Theory
+MATH108 - Introduction to Combinatorics and Its Applications
+MATH110 - Number Theory for Cryptography
+MATH136 - Stochastic Processes
+MATH158 - Probability and Stochastic Differential Equations for Applications
+MATH159 - Discrete Probabilistic Methods
+MS&E111 - Introduction to Optimization
+MS&E111X - Introduction to Optimization (Accelerated)
+MS&E121 - Introduction to Stochastic Modeling
+MS&E221 - Stochastic Modeling
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+STATS217 - Introduction to Stochastic Processes I
+Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Standard Specific
+Complete at least 1 of the following Courses:
+CS129 - Applied Machine Learning
+CS151 - Logic Programming
+CS154 - Introduction to the Theory of Computation
+CS157 - Computational Logic
+CS161 - Design and Analysis of Algorithms
+CS163 - The Practice of Theory Research
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS229M - Machine Learning Theory
+CS230 - Deep Learning
+CS246 - Mining Massive Data Sets
+CS254 - Computational Complexity
+CS255 - Introduction to Cryptography
+CS259Q - Quantum Computing
+CS325B - Data for Sustainable Development
+ECON160 - Game Theory and Economic Applications
+ECON178 - Behavioral Economics
+ECON180 - Accelerated Game Theory
+MATH114 - Introduction to Scientific Computing
+MS&E252 - Foundations of Decision Analysis
+PHIL151 - Metalogic
+PHIL152 - Computability and Logic
+PHIL154 - Modal Logic
+PHIL155 - Topics in Mathematical Logic: Non-Classical Logic
+PHIL162 - Philosophy of Mathematics
+PHIL359 - Logic Spring Seminar
+PSYCH154 - Judgment and Decision-Making
+PSYCH204B - Computational Neuroimaging: Data Analyses
+PSYCH209 - Neural Network Models of Cognition
+PSYCH232 - Brain and Decision Making
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+SOC154 - The Politics of Algorithms
+STATS220 - Machine Learning Methods for Neural Data Analysis
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-3 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following :
+These :
+No selection provided
+See also the
+Symbolic Systems website
+.
+Media & Communication Subplan
+Completion requirement
+Introduction
+Complete ALL of the following Courses:
+COMM1 - Introduction to Communication
+Statistical and Data Analysis Methods
+Complete at least 1 of the following Courses:
+ANTHRO116 - Data Analysis for Quantitative Research
+CS229 - Machine Learning
+MS&E125 - Introduction to Applied Statistics
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+SOC180B - Introduction to Data Analysis
+STATS60 - Introduction to Statistical Methods: Precalculus
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+Research Methods
+A course on empirical and computational methods that are commonly used for research on media and communication
+Complete at least 1 of the following Courses:
+COMM106 - Communication Research Methods
+CS142 - Web Applications
+CS147 - Introduction to Human-Computer Interaction Design
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CS448B - Data Visualization
+EDUC200B - Introduction to Qualitative Research Methods
+HUMBIO82A - Qualitative Research Methodology
+MS&E135 - Networks
+MS&E348 - Optimization of Uncertainty and Applications in Finance
+PHIL60 - Introduction to Philosophy of Science
+POLISCI150A - Data Science for Politics
+POLISCI150C - Causal Inference for Social Science
+PSYCH251 - Experimental Methods
+SOC10 - Introduction to Computational Social Science
+SOC180A - Foundations of Social Research
+SOC194 - Computational Undergraduate Research
+SOC369 - Social Network Methods
+STATS211 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+STS191W - Doing STS: Introduction to Research
+Effects, Ethics, and Policy
+A course on the effects of, and possible responses to, digital technology, media, and communication
+Complete at least 1 of the following Courses:
+AFRICAAM200N - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+COMM1B - Media, Culture, and Society
+COMM108 - Media Processes and Effects
+COMM120W - The Rise of Digital Culture
+COMM124 - Truth, Trust, and Tech
+COMM125 - Perspectives on American Journalism
+COMM135W - Deliberative Democracy and its Critics
+COMM145 - Personality and Digital Media
+COMM153B - Free Speech, Democracy and the Internet
+COMM154 - The Politics of Algorithms
+COMM162 - Campaigns, Voting, Media, and Elections
+COMM164 - The Psychology of Communication About Politics in America
+COMM166 - Virtual People
+COMM172 - Media Psychology
+COMM180 - Ethics, Public Policy, and Technological Change
+COMM184 - Race and Media
+COMM186W - Media, Technology, and the Body
+COMM230A - Digital Civil Society
+COMM322 - Advanced Studies in Behavior and Social Media
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+ECON46 - Networks and Human Behavior
+ECON47 - Media Markets and Social Good
+ENGLISH106A - What's Critical to Know about AI
+LINGUIST156 - Language, Gender, & Sexuality
+MS&E135 - Networks
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+NBIO101 - Social and Ethical Issues in the Neurosciences
+POLISCI223A - Public Opinion and American Democracy
+POLISCI227C - Money in Politics
+PSYC86Q - Psychology of Xenophobia
+PSYCH103 - Intergroup Communication
+SOC31N - Social Networks
+SOC126 - Introduction to Social Networks
+STS1 - Introduction to Science, Technology & Society
+SYMSYS201 - Digital Technology, Society, and Democracy
+Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 1 - Subplan Specific
+Complete at least 1 of the following Courses:
+COMM164 - The Psychology of Communication About Politics in America
+COMM166 - Virtual People
+COMM172 - Media Psychology
+COMM176 - Advanced Digital Journalism Production
+COMM177B - Big Local Journalism: a project-based class
+COMM177T - Building News Applications
+COMM322 - Advanced Studies in Behavior and Social Media
+COMM324 - Language and Technology
+COMM326 - Advanced Topics in Human Virtual Representation
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS206 - Exploring Computational Journalism
+CS224W - Machine Learning with Graphs
+CS278 - Social Computing
+LINGUIST134A - The Structure of Discourse: Theory and Applications
+LINGUIST150 - Language and Society
+SOC154 - The Politics of Algorithms
+SYMSYS201 - Digital Technology, Society, and Democracy
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+Contingent Electives
+If any requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+No selection provided
+See also the
+Symbolic Systems Website
+.
+Natural Language Subplan
+Completion requirement
+Natural Language Subplan Overview
+Students in the Natural Language Subplan
+must take four courses from at least three of areas 1-7, plus a course from area 8.
+If any of requirements 1-7 are fulfilled with courses taken for Core requirements, additional approved Contingent Elective courses (see area 9) must be completed to total five courses beyond those taken for the Core.
+1. Mathematical/Computational Foundations
+Complete ANY of the following Courses:
+CS154 - Introduction to the Theory of Computation
+CS221 - Artificial Intelligence: Principles and Techniques
+CS229 - Machine Learning
+PHIL154 - Modal Logic
+PSYCH209 - Neural Network Models of Cognition
+PSYCH251 - Experimental Methods
+PSYCH257 - Affective Neuroscience
+2. Computational Linguistics
+Complete ANY of the following Courses:
+CS124 - From Languages to Information
+CS224N - Natural Language Processing with Deep Learning
+CS224S - Spoken Language Processing
+CS224U - Natural Language Understanding
+PSYCH290 - Natural Language Processing in the Social Sciences
+3. Phonetics/Phonology/Speech
+Complete ANY of the following Courses:
+LINGUIST105 - Phonetics
+LINGUIST110 - Introduction to Phonology
+LINGUIST157 - Sociophonetics
+LINGUIST207A - Advanced Phonetics: Theory
+LINGUIST210A - Phonology
+4. Morphosyntax
+Complete ANY of the following Courses:
+LINGUIST121A - The Syntax of English
+LINGUIST121B - Crosslinguistic Syntax
+LINGUIST217 - Morphosyntax
+LINGUIST222A - Foundations of Syntactic Theory I
+5. Semantics/Pragmatics/Philosophy of Language
+Complete ANY of the following Courses:
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST130B - Introduction to Lexical Semantics
+LINGUIST132 - Lexical Semantic Typology
+LINGUIST230B - Advanced Semantics
+LINGUIST230C - Advanced Topics in Semantics & Pragmatics
+LINGUIST232A - Lexical Semantics
+PHIL137 - Wittgenstein
+PHIL181 - Philosophy of Language
+PHIL194D - Capstone Seminar: How Virtual is Reality, and Vice Versa
+6. Psycholinguistics
+Complete ANY of the following Courses:
+LINGUIST245B - Methods in Psycholinguistics
+PSYCH132 - Language and Thought
+PSYCH140 - Introduction to Psycholinguistics
+PSYCH209 - Neural Network Models of Cognition
+7. Sociolinguistics and Language Change
+Complete ANY of the following Courses:
+LINGUIST150 - Language and Society
+LINGUIST156 - Language, Gender, & Sexuality
+LINGUIST157 - Sociophonetics
+8. Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+COMM324 - Language and Technology
+CS221 - Artificial Intelligence: Principles and Techniques
+LINGUIST180 - From Languages to Information
+PHIL137 - Wittgenstein
+PHIL181 - Philosophy of Language
+PHIL194D - Capstone Seminar: How Virtual is Reality, and Vice Versa
+PHIL359 - Logic Spring Seminar
+PSYCH209 - Neural Network Models of Cognition
+PSYCH209 - Neural Network Models of Cognition
+PSYCH247 - Topics in Natural and Artificial Intelligence
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS207 - Conceptual Issues in Cognitive Science
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options to be added as they are approved — some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+9. Contingent Electives
+If any requirements 1-7 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+No selection provided
+See also the
+Symbolic Systems website
+.
+Neurosciences Subplan
+Completion requirement
+Neurosciences Subplan Overview
+Students in the Neurosciences Subplan must take a total of five courses. At least two of the five courses must be from the first two areas, and at least one must come from area 7.
+If any courses listed under areas 1-6 are taken for Core requirements, additional approved Contingent Elective courses (see area 8) must be completed to total five courses beyond those taken for the Core. Area 9 (Recommended Add-ons) consists of one- and two-unit courses that supplement areas 1-8. Add-on courses do not count toward the five-course requirement for the Subplan.
+1. Basic Neuroscience
+Complete at least 1 of the following Courses:
+BIO84 - Physiology
+BIO86 - Cell Biology
+BIO150 - Human Behavioral Biology
+BIO151 - Mechanisms of Neuron Death
+BIO154 - Advanced Neurobiology: Food, Sex, and Gaming
+HUMBIO4A - The Human Organism
+NBIO206 - The Nervous System
+PSYCH205 - Foundations of Cognition
+Note:
+course
+is a six-unit course, which counts as two concentration courses, from areas 1 and 2.
+2. Systems Neuroscience
+Complete at least 1 of the following Courses:
+BIO222 - Exploring Neural Circuits
+EDUC486 - Educational Neuroscience
+PSYC124 - Brain Plasticity
+PSYCH30 - Introduction to Perception
+PSYCH45 - Introduction to Learning and Memory
+PSYCH50 - Introduction to Cognitive Neuroscience
+PSYCH169 - Advanced Seminar on Memory
+PSYCH232 - Brain and Decision Making
+PSYCH257 - Affective Neuroscience
+PSYCH266 - Current Debates in Learning and Memory
+3. Computational Approaches
+Complete at least 1 of the following Courses:
+BIOE101 - Systems Biology
+BIOE300B - Quantitative Physiology
+CS223A - Introduction to Robotics
+CS229 - Machine Learning
+EE124 - Introduction to Neuroelectrical Engineering
+MATSCI384 - Materials Advances in Neurotechnology
+MUSIC257 - You Are What You Use: Designing Technology for Neural Change
+PSYCH164 - Brain decoding
+PSYCH204A - Human Neuroimaging Methods
+PSYCH204B - Computational Neuroimaging: Data Analyses
+PSYCH209 - Neural Network Models of Cognition
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+STATS220 - Machine Learning Methods for Neural Data Analysis
+4. Biological and Computational Approaches to Vision
+Complete at least 1 of the following Courses:
+CS131 - Computer Vision: Foundations and Applications
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+PSYCH30 - Introduction to Perception
+PSYCH221 - Image Systems Engineering
+PSYCH250 - High-level Vision: From Neurons to Deep Neural Networks
+5. Philosophical and Theoretical Approaches
+Complete at least 1 of the following Courses:
+NBIO101 - Social and Ethical Issues in the Neurosciences
+PHIL167D - Philosophy of Neuroscience
+PHIL186 - Philosophy of Mind
+PHIL368A - Explanation in Neuroscience
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+SYMSYS207 - Conceptual Issues in Cognitive Science
+6. Methodological Foundations
+Complete at least 1 of the following Courses:
+BIOE291 - Principles and Practice of Optogenetics for Optical Control of Biological Tissues
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS448B - Data Visualization
+EE102A - Signals and Systems I
+EE102B - Signals and Systems II
+EE261 - The Fourier Transform and Its Applications
+EE263 - Matrix Methods: Singular Value Decomposition
+MATH113 - Linear Algebra and Matrix Theory
+MS&E211 - Introduction to Optimization
+PSYCH10 - Introduction to Statistical Methods: Precalculus
+PSYCH204A - Human Neuroimaging Methods
+PSYCH251 - Experimental Methods
+PSYCH252 - Statistical Methods for Behavioral and Social Sciences
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS141 - Introduction to Statistics for Biology
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+7. Integrative Requirement.
+Must be completed no earlier than the Junior Year.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+CS131 - Computer Vision: Foundations and Applications
+CS221 - Artificial Intelligence: Principles and Techniques
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS234 - Reinforcement Learning
+PHIL167D - Philosophy of Neuroscience
+PHIL368A - Explanation in Neuroscience
+PSYC223B - Topics in Neurodiversity: Design Thinking Approaches
+PSYCH164 - Brain decoding
+PSYCH169 - Advanced Seminar on Memory
+PSYCH202 - Cognitive Neuroscience
+PSYCH204A - Human Neuroimaging Methods
+PSYCH204B - Computational Neuroimaging: Data Analyses
+PSYCH209 - Neural Network Models of Cognition
+PSYCH232 - Brain and Decision Making
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH247 - Topics in Natural and Artificial Intelligence
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+PSYCH257 - Affective Neuroscience
+STATS220 - Machine Learning Methods for Neural Data Analysis
+SYMSYS202 - Theories of Consciousness
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS207 - Conceptual Issues in Cognitive Science
+SYMSYS245 - Cognition in Interaction Design
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved -- some options may be removed if they are included in the list of SYMSYS 195* project courses to avoid redundancy with the Standard Options.
+8. Contingent Electives
+If any courses listed under areas 1-6 are taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those that are taken for the Core. These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+No selection provided
+See also the
+Symbolic Systems website
+.
+Philosophical Foundations Subplan
+Completion requirement
+Philosophy of Mind and Language
+Complete at least 1 courses in the following Course Sets:
+Untitled Course Set
+Ethics, Historical, and Political Philosophy
+Courses must be numbered 100 or above
+Complete at least 1 of the following Courses:
+PHIL102 - Modern Philosophy, Descartes to Kant
+PHIL107B - Plato's Later Metaphysics and Epistemology
+PHIL172 - History of Modern Moral Philosophy
+PHIL173B - Undergraduate Introduction to Metaethics
+PHIL175 - Philosophy of Law
+PHIL194P - Capstone Seminar: The Meaning of Life
+Logic
+Complete at least 1 of the following Courses:
+CS154 - Introduction to the Theory of Computation
+PHIL152 - Computability and Logic
+PHIL154 - Modal Logic
+PHIL359 - Logic Spring Seminar
+Philosophy of Science
+Complete at least 1 of the following Courses:
+PHIL20N - Philosophy of Artificial Intelligence
+PHIL162 - Philosophy of Mathematics
+PHIL165 - Philosophy of Physics: Space, Time and Motion
+PHIL167D - Philosophy of Neuroscience
+SYMSYS207 - Conceptual Issues in Cognitive Science
+Integrative Requirement.
+Fulfill ANY of the following requirements:
+Option 1 - Standard
+Any of the Standard Options for all Subplans specified under the Core Capstone requirement or:
+OR
+Option 2 - Subplan Specific
+Complete at least 1 of the following Courses:
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+NBIO101 - Social and Ethical Issues in the Neurosciences
+PHIL134A - Phenomenology: Animals
+PHIL162 - Philosophy of Mathematics
+PHIL167D - Philosophy of Neuroscience
+PHIL194D - Capstone Seminar: How Virtual is Reality, and Vice Versa
+PHIL194Y - Capstone seminar: Metaphilosophy
+PHIL359 - Logic Spring Seminar
+PHIL368A - Explanation in Neuroscience
+SYMSYS202 - Theories of Consciousness
+SYMSYS205 - The Philosophy and Science of Perception
+SYMSYS207 - Conceptual Issues in Cognitive Science
+A Subplan-Specific Integrative Course: A course that integrates the themes of the Subplan with the Core requirements. More options are to be added as they are approved — some options may be removed if they are included in the SYMSYS 195* project courses list to avoid redundancy with the Standard Options.
+Must be completed no earlier than the Junior Year.
+Contingent Electives
+If any requirements 1-4 are fulfilled with courses taken for Core requirements, then additional approved Contingent Elective courses must be completed to total five courses beyond those taken for the Core: These electives can be one or more courses from any of the areas above, or which are approved for a Core requirement that the student has fulfilled with a different course, or any of the following:
+Complete ANY of the following Courses:
+No selection provided
+See also the
+Symbolic Systems website
+.
+Individually Designed Subplan
+Completion requirement
+Individually Designed Concentrations (IDCs)
+(Concentrations referred to as Subplans within Bulletin and Degree Guide)
+Individually Designed Concentrations (IDCs) consist of five courses in a coherent subject area related to symbolic systems. This relationship may be established through inclusion in an IDC of two or more courses that connect the proposed concentration to the core, i.e., courses that (a) directly apply disciplines included in the core and (b) are related by topic or methodology to the other courses in the proposed concentration.
+Course selection is to be made in consultation with the student’s advisor and is subject to approval by the advisor, the Associate Director, and the Director. For examples of IDCs completed by past SSP students, consult the alumni list and apply the filter “Individually Designed Concentration.”
+Approval of an IDC must take place no less than two full quarters before a student plans to graduate, e.g., before the first day of winter quarter of the senior year if a student intends to graduate in June of that year. Failure to obtain approval by the required date will necessitate either completing the requirements for one of the suggested concentrations or delaying graduation to the end of the second full quarter following approval of an IDC.
+To get a proposed IDC approved, send an email message to symsys-directors at lists.stanford.edu, cc’d to your prospective concentration advisor, stating that the advisor has approved your proposal and giving a title, one-paragraph description, and course plan for your proposed concentration.

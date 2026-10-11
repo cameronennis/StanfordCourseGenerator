@@ -1,0 +1,235 @@
+BIO-MS - Biology (MS)
+Download as PDF
+Biology
+Biology
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+For graduate-level students, the department offers resources and experience learning from and working with world-renowned faculty involved in research on ecology, neurobiology, population biology, plant and animal physiology, biochemistry, immunology, cell and developmental biology, genetics, and molecular biology.
+The MS degree program offers  study to individuals seeking biologically-oriented coursework and undergraduate science majors wishing to increase or update their science background or obtain advanced research experience.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+The MS program consists of Department of Biology and/or Hopkins Marine Station course work, approved out-of-department electives, and foundational breadth courses totaling at least 45 units at or above the 100-level distributed as follows:
+At least 23 of the 45 units must be courses designated primarily for graduate students.
+These 45 units can be chosen among offerings in the Department of Biology
+(BIO)
+, the list of approved out-of-department electives (outlined below), research, teaching, and/or foundational breadth courses.
+A maximum of 18 units may be a combination of Biology research, directed reading, and/or teaching
+Other Stanford coursework relevant to a student’s professional development may be no more than nine units. Using the
+General Petition form
+, students must petition for courses that fall into this category
+.
+Each candidate designs a coherent program of study in consultation with their department advisor. Although no specific courses are required, program proposals must adhere to department parameters.
+In addition to the unit requirements outlined above, students must adhere to the following:
+A program proposal, signed by the student’s advisor.
+Students may take only six units CR/NC. (This is separate from Satisfactory/No Credit. There is no limit to Satisfactory/No Credit)
+Students must maintain a GPA of 3.0 or higher.
+Students must receive a B- or better grade in all courses taken for the degree.
+Students not meeting these minimum requirements are subject to departmental academic review and/or dismissal.
+Course Options
+Fulfill ANY of the following requirements:
+BIO Courses
+Complete ANY of the following Courses:
+BIO198 - Directed Reading in Biology
+BIO198X - Out-of-Department Directed Reading
+BIO290 - Teaching Practicum in Biology
+BIO300 - Graduate Research
+BIO300X - Out-of-Department Graduate Research
+OCEANS198H - Directed Instruction or Reading
+OCEANS290H - Teaching Practicum in Biology
+OCEANS300 - Research
+OR
+Approved Out of Department Electives
+Fulfill ANY of the following requirements:
+Out of Department Electives Overview
+MS Students: A few courses under the 100‐level are on this list because they are not allowable for graduate students per university policy. You must take courses designated primarily for graduate students. If the course you are interested in has an offering at the 100‐ and 200‐ levels, be sure to enroll in the 200‐level section.
+OR
+Biochemistry
+Complete ANY of the following Courses:
+BIOC241 - Biological Macromolecules
+BIOC 241 (same as BIOE241, BIOPHYS 241, SBIO 241)
+OR
+Bioengineering
+Complete ANY of the following Courses:
+BIOE101 - Systems Biology
+BIOE103 - Systems Physiology and Design
+BIOE214 - Representations and Algorithms for Computational Molecular Biology
+BIOE217 - Translational Bioinformatics
+BIOE220 - Introduction to Imaging and Image-based Human Anatomy
+BIOE231 - Protein Engineering
+BIOE241 - Biological Macromolecules
+BIOE279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+BIOE450 - Advances in Biotechnology
+BIOE 214 (same as BIOMEDIN/GENE 214, CS 274)
+BIOE 217 (same as BIOMEDIN 217, GENE 217, CS 275)
+BIOE 220 (same as RAD 220)
+BIOE 241 (same as BIOC 241, BIOPHYS 241, SBIO 241)
+BIOE 279 (same as BIOPHYS 279, BIOMEDIN 279, CME 279, and CS 279)
+BIOE 450 (same as CHEMENG 450) may only count toward the Biology requirements
+once
+.
+OR
+Biomedical Informatics
+Complete ANY of the following Courses:
+BMDS210 - Modeling Biomedical Systems
+BMDS214 - Representations and Algorithms for Computational Molecular Biology
+BMDS217 - Translational Bioinformatics
+BMDS173A - Foundations of Computational Human Genomics
+BIOMEDIN273B - Deep Learning in Genomics and Biomedicine
+BMDS245 - Computational Biology: Structure and Organization of Biomolecules and Cells
+BIOMEDIN 210 (same as CS 270)
+BIOMEDIN 214 (same as BIOE/GENE 214, CS 274)
+BIOMEDIN 217 (same as BIOE 217, CS 275, GENE 217)
+BIOMEDIN 273A (same as CS 273A, DBIO 273A)
+BIOMEDIN 273B (same as BIODS 237, CS 273B, GENE 236)
+BIOMEDIN 279 (same as BIOPHYS 279, BIOE279, CME 279, CS 279)
+OR
+Biophysics
+Complete ANY of the following Courses:
+BIOPHYS241 - Biological Macromolecules
+BIOPHYS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+BIOPHYS 241 (same as BIOC 241, BIOE 241, SBIO 241)
+BIOPHYS 279 (same as BIOE 279, BIOMEDIN 279, CME 279, and CS 279)
+OR
+Biomedical Data Science
+Complete ANY of the following Courses:
+BMDS273 - Deep Learning in Genomics and Biomedicine
+BIODS 237 (same as BIOMEDIN 273B, CS 273B, GENE 236)
+OR
+Cancer Biology
+Complete ANY of the following Courses:
+CBIO101 - Cancer Biology
+CBIO240 - Molecular and Genetic Basis of Cancer
+CBIO275 - Tumor Immunology
+CBIO 101 (same as PATH 101)
+CBIO 275 (same as IMMUNOL 275)
+OR
+Chemical Engineering
+Complete ANY of the following Courses:
+CHEMENG450 - Advances in Biotechnology
+CHEMENG 450 (same as BIOE 450) may only count toward the Biology requirements
+once
+.
+OR
+Chemistry
+Complete ANY of the following Courses:
+CHEM141 - The Chemical Principles of Life I
+CHEM143 - The Chemical Principles of Life II
+CHEM181 - Biochemistry I
+CHEM183 - Biochemistry II
+CHEM184 - Biological Chemistry Laboratory
+CHEM185 - Biophysical Chemistry
+CHEM 181 (may not count if CHEM 141/143 were also taken)
+OR
+Civil & Environmental Engineering
+Complete ANY of the following Courses:
+CEE162I - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+CEE177 - Aquatic Chemistry and Biology
+CEE274D - Pathogens and Disinfection
+CEE 162I (same as EARTHSYS 146B)
+OR
+Computer Science
+Complete ANY of the following Courses:
+CS109 - Introduction to Probability for Computer Scientists
+CS270 - Modeling Biomedical Systems
+CS173A - Foundations of Computational Human Genomics
+CS237B - Principles of Robot Autonomy II
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275A - Symbolic Musical Information
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CS 270 (same as BIOMEDIN 210)
+CS 273A (same as BIOMEDIN 273A, DBIO 273A)
+CS 273B (same as BIODS 237, BIOMEDIN 273B, GENE 236)
+CS 274 (same as BIOE/BIOMEDIN/GENE 214)
+CS 275 (same as BIOE 217, BIOMEDIN 217, GENE 217)
+CS 279 (same as BIOPHYS 279, BIOE 279, BIOMEDIN 279, and CME 279)
+OR
+Developmental Biology
+Complete ANY of the following Courses:
+DBIO173A - Foundations of Computational Human Genomics
+DBIO210 - Developmental Biology
+DBIO 173A (same as CS 273A, DBIO 273A)
+OR
+Earth Systems
+Complete ANY of the following Courses:
+EARTHSYS114 - Global Change and Emerging Infectious Disease
+EARTHSYS132 - Evolution of Earth Systems
+EARTHSYS141 - Remote Sensing of the Oceans
+EARTHSYS142 - Remote Sensing of Land
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS146B - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+EARTHSYS151 - Biological Oceanography
+EARTHSYS152 - Marine Chemistry
+EARTHSYS155 - Science of Soils
+EARTHSYS158 - Geomicrobiology
+EARTHSYS240 - Data Science for Geoscience
+EARTHSYS 114 (same as HUMBIO 114)
+EARTHSYS 132 (same as ESS 132, GEOLSCI 132)
+EARTHSYS 141 (same as ESS 141, GEOPHYS 141)
+EARTHSYS 142 (same as ESS 162)
+EARTHSYS 144 (same as ESS 164)
+EARTHSYS 146B (same as CEE 162I)
+EARTHSYS 151 (same as ESS 151) TAKE WITH 152
+EARTHSYS 152 (same as ESS 152) TAKE WITH 151
+EARTHSYS 155 (same as ESS 155)
+EARTHSYS 158 (same as ESS 158)
+EARTHSYS 240 (same as ENERGY 240, ESS 239, GEOLSCI 240)
+OR
+Energy
+Complete ANY of the following Courses:
+ENERGY240 - Data Science for Geoscience
+ENERGY 240 (same as EARTHSYS 240, ESS 239, GEOLSCI 240)
+OR
+Earth System Science
+Complete ANY of the following Courses:
+ESS141 - Remote Sensing of the Oceans
+ESS151 - Biological Oceanography
+ESS152 - Marine Chemistry
+ESS155 - Science of Soils
+ESS158 - Geomicrobiology
+ESS162 - Remote Sensing of Land
+ESS164 - Fundamentals of Geographic Information Science (GIS)
+ESS239 - Data Science for Geoscience
+ESS 132 (same as EARTHSYS 132, GEOLSCI 132)
+ESS 141 (same as EARTHSYS 141, GEOPHYS 141)
+ESS 151 (same as EARTHSYS 151) TAKE WITH 152
+ESS 152 (same as EARTHSYS 152) TAKE WITH 151
+ESS 155 (same as EARTHSYS 155)
+ESS 158 (same as EARTHSYS 158)
+ESS 162 (same as EARTHSYS 142)
+ESS 164 (same as EARTHSYS 144)
+ESS 239 (same as EARTHSYS 240, ENERGY 240, GEOLSCI 240)
+OR
+Genetics
+Complete ANY of the following Courses:
+GENE202 - Molecular, Cellular, and Genetic Medicine
+GENE211 - Genomics
+GENE214 - Representations and Algorithms for Computational Molecular Biology
+GENE217 - Translational Bioinformatics
+GENE212 - Introduction to Biomedical Informatics Research Methodology
+GENE235 - C. Elegans Genetics
+GENE236 - Deep Learning in Genomics and Biomedicine
+GENE 214 (same as BIOE/BIOMEDIN 214, CS 274)
+GENE 217 (same as BIOE 217, BIOMEDIN 217, CS 275)
+GENE 236 (same as BIODS 237, BIOMEDIN 273B, CS 273B)
+OR
+Unnamed Rule
+Complete ANY of the following Courses:
+PATH151 - Human Anatomy (Online)
+AND
+PATH151B - Regional Anatomy (Online): Cardiopulmonary System
+AND
+PATH151A - Regional Anatomy (Online): Musculoskeletal System
+AND
+PATH151C - Regional Anatomy (Online): Gastrointestinal and Genitourinary Systems
+AND
+PATH151D - Regional Anatomy (Online): Nervous, Endocrine, and Sensory Systems

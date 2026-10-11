@@ -1,0 +1,259 @@
+EPIDM-MS - Epidemiology and Clinical Research (MS)
+Download as PDF
+Epidemiology
+Epidemiology
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Master’s Degree in Epidemiology and Clinical Research provides students with the skills essential to population-based study and patient-oriented clinical research, including epidemiologic methods and statistical analysis. Many students are clinical investigators with an MD or comparable clinical degree, often in the fellowship stages of their training or are already junior faculty members. The program also considers applicants from doctoral programs in the social, behavioral, or biological sciences who are interested in a concurrent master’s degree and wish to apply epidemiologic techniques in their areas of research interest. The program also serves as a rigorous introduction to epidemiology and clinical research for students with baccalaureate degrees or Stanford co-term students (below) who anticipate careers in clinical epidemiology or medicine. Many go on to PhD and MD degrees or pursue careers in public health and other disciplines.
+See
+Epidemiology & Population Health
+for additional information on the MS Epidemiology & Clinical Research program.
+Mentors
+MS students in the Graduate Program in Epidemiology and Clinical Research have two mentors. Upon entering the program, each student is assigned an academic program advisor, usually a core faculty member. In addition, the student will choose a research mentor. Research mentors are typically members of the Stanford University professoriate but need not be designated as faculty in EPH. For physicians in our graduate programs, this mentor is usually from the discipline of the student’s clinical affiliation. For example, physicians who maintain an affiliation with another university can often arrange to include a research mentor from the other university if the student’s research takes place, in part, at that university. If the research mentor is from EPH, then the same faculty member may serve as both academic program advisor and research mentor with permission of the program director.
+The academic program advisor also serves as the student’s methodology mentor and is responsible for advising in the selection of courses, approving a thesis research topic, monitoring the student’s progress through the program, and helping with other program-related issues that may arise. If a student’s thesis research requires additional expertise not covered by those of the methodology or research mentors (e.g., outcomes research or advanced statistical methods), a third mentor may be appointed with the approval of the methodology mentor.
+Coterminal Master’s Program
+The Department of Epidemiology and Population Health also offers a
+coterminal Master’s program
+in Epidemiology and Clinical Research for current Stanford undergraduates. Students who desire to concentrate in a specific area can participate in one of the track areas (Infectious Diseases, Health Equity and Community-Engaged Research, Global Health ). Coterminal students are enrolled full-time, and courses are ordinarily taken on campus. Graduates of this program are prepared to contribute creatively to basic or applied projects in epidemiology and clinical research. Many go on to PhD and MD degrees or pursue careers in public health and other disciplines.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Core Program Requirements
+Completion requirement
+Epidemiologic Methods
+Complete ALL of the following Courses:
+EPI225 - Introduction to Epidemiologic and Clinical Research Methods
+EPI226 - Intermediate Epidemiologic and Clinical Research Methods
+EPI251 - Design and Conduct of Clinical Trials
+course
+is recommended but not required for students in designated tracks.
+course
+and
+course
+must be taken for a letter grade and completed with B- or better. A grade lower than B- will require remedial work, or the student may need to retake the course.
+Core courses in epidemiologic methods and biostatistics are ordinarily taken during the first year of study.
+Biostatistics
+Complete ALL of the following Courses:
+EPI259 - Introduction to Probability and Statistics for Epidemiology
+EPI261 - Intermediate Biostatistics: Analysis of Discrete Data
+EPI262 - Intermediate Biostatistics: Regression, Prediction, Survival Analysis
+All courses must be taken for a letter grade and completed with B- or better. A grade lower than B- will require remedial work, or the student may need to retake the course
+Research Seminar (3 quarters)
+Complete exactly 3 course(s) and earn exactly 3 credit(s) from the following:
+EPI236 - Epidemiology Research Seminar
+course
+is not offered in summer.
+Research Conduct
+Complete ALL of the following Courses:
+MED255 - The Responsible Conduct of Research
+Research Conduct requirement may be waived for students who are listed as principal investigator for a Stanford IRB-approved research protocol. Students can upload their IRB via
+MAP
+to request the waiver.
+Electives
+Earn at least 11 credits from the following:
+BIO230 - Cellular and Molecular Immunology: An Introductory Course
+BIOE122 - BioSecurity and Pandemic Resilience
+CEE274A - Environmental Microbiology I
+CEE274D - Pathogens and Disinfection
+CEE274P - Environmental Health Microbiology Lab
+CEE371C - SARS-CoV-2 in the Environment
+CHPR212 - Methods for Health Care Delivery Innovation, Implementation and Evaluation
+CHPR228 - Theoretical Foundations and Design of Behavioral Intervention Trials
+CHPR242 - The Science of Well-being: A Global Perspective
+CHPR247 - Pragmatic Skills for Mixed Methods Community Research
+CHPR288 - Cancer in Asian Americans: Epidemiology and Prevention
+EARTHSYS114 - Global Change and Emerging Infectious Disease
+EARTHSYS214 - Global Change and Emerging Infectious Disease
+ECON127 - Economics of Health Improvement in Developing Countries
+ENGLISH102 - Pathogens and Populations: Representing Infectious Disease
+EPI202 - R Fundamentals for Health Research
+EPI206 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+EPI214 - Scientific Writing
+EPI219 - Evaluating Technologies for Diagnosis, Prediction and Screening
+EPI223 - Introduction to Data Management and Analysis in SAS & R
+EPI224 - Genetic Epidemiology
+EPI227 - Advanced Epidemiologic Methods
+EPI231 - Epidemiology of Infectious Diseases
+EPI237 - Practical Approaches to Global Health Research
+EPI238 - Genes and Environment in Disease Causation: Implications for Medicine and Public Health
+EPI240 - Reproductive and Perinatal Epidemiology
+EPI244 - Developing Measurement Tools for Health Research
+EPI247 - Epidemic Intelligence: How to Identify, Investigate and Interrupt Outbreaks of Disease
+EPI248 - Human Health and the Environment
+EPI253 - Cancer Epidemiology and Prevention
+EPI258 - Introduction to Probability and Statistics for Clinical Research
+EPI263 - Social Epidemiology
+EPI264 - Foundations of Statistical and Scientific Inference
+EPI265 - Using Real-World Data for Clinical and Population Health Research
+EPI267 - Life Course Epidemiology
+EPI270 - Big Data Methods for Behavioral, Social, and Population Health Research
+EPI272 - The Science of Community Engagement in Health Research
+EPI282 - Community-Based Participatory Research for Health
+EPI299 - Directed Reading in Epidemiology
+EPI297 - History of Epidemiology
+GENE208 - Gut Microbiota in Health and Disease
+HISTORY243D - Emerging Diseases, Past and Present
+HRP224 - Social Entrepreneurship and Innovation Lab (SE Lab) - Human & Planetary Health
+HRP252 - Outcomes Analysis
+HRP263 - Advanced Decision Science Methods and Modeling in Health
+HRP391 - Health Law: Finance and Insurance
+HRP392 - Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions
+MI115B - The Vaccine Revolution
+MI210 - Microbe-Host Interactions in Health and Disease
+MI221 - Gut Microbiota in Health and Disease
+MS&E292 - Health Policy Modeling
+PEDS202A - Practical Applications for Qualitative Data Analysis
+PEDS202C - Qualitative Research Methods and Study Design
+SOMGEN207 - Theories of Change in Global Health
+*Any graduate-level EPI course with a primary focus on epidemiology, clinical, or population health or methods can be taken as an elective if approved by the student's epidemiology advisor.
+*Please note that
+course
+, Essentials of Clinical Research at Stanford, is for the broader research community and not intended for for matriculated students.
+Concentrations
+Concentrations are not required. If students would like to take courses in a concentration, please select suggested courses below.
+Global Health Concentration
+In addition to completing the core courses required for an MS in Epidemiology and Clinical Research, students focusing on Global Health Concentration must complete the following requirements:
+Required Course:
+EPI 237
+: Practical Approaches to Global Health Research (INTLPOL 290, MED 226)
+Electives: Take at least six units from the list below
+·
+course
+: Epidemiology of Infectious Diseases
+·
+course
+: Global Change and Emerging Infectious Disease (EARTHSYS 114, ESS 213, HUMBIO 114)
+·
+course
+: Outcomes Analysis (BIOMEDIN 251, MED 252)
+·
+course
+: Theories of Change in Global Health (INTLPOL 291, PUBLPOL 291)
+Health Equity and Community-Engaged Research Concentration
+Health Equity and Community-Engaged Research (THE CeR) is ideal for students with different health equity research interests across the fields of epidemiology, health policy, environmental health, health services research, bioinformatics, and other related fields. Students focusing on Health Equity and Community-Engaged Research must complete the following requirements:
+Required Courses:
+1.
+course
+: The Science of Community Engagement in Health Research (CHPR 227)
+2.
+course
+: Community-Based Participatory Research for Health
+3.
+course
+: Directed Reading in Epidemiology
+(taken for 1 unit with Dr. Rosas, Dr. Rodriguez-Espinosa, or Dr. Thomas)
+4. One methods course from the list below:
+•
+course
+: Developing Measurement Tools for Health Research
+•
+course
+: Big Data Methods for Behavioral, Social, and Population Health Research
+•
+course
+: Methods for Health Care Delivery Innovation, Implementation and Evaluation (HRP 218, MED 212)
+•
+course
+: Theoretical Foundations and Design of Behavioral Intervention Trials
+•
+course
+: Methods in Community Assessment, Evaluation, and Research (MED 247)
+•
+course
+: Practical Applications for Qualitative Data Analysis
+•
+course
+: Qualitative Research Methods and Study Design
+Note: Additional electives may be approved by the student’s advisor.
+Infectious Disease Concentration
+The Adult and Pediatric Divisions of Infectious Diseases coordinate an interdisciplinary program in Infectious Diseases for students. In addition to completing the core courses required for an MS degree in Epidemiology and Clinical Research, students focusing on the Infectious Disease Concentration must complete the following requirements:
+Required Course:
+course
+: Epidemiology of Infectious Diseases
+·       NOT required to take EPI 251: Design and Conduct of Clinical Trials (
+encouraged, yet not required
+)
+·       Encouraged to attend
+ID seminars
+in the Division of Infectious Diseases
+Electives: Take at least 6 units from the list below
+·
+EPI 237
+: Practical Approaches to Global Health Research (INTLPOL 290, MED 226)
+·
+EPI 247
+: Epidemic Intelligence (HUMBIO 57)
+·
+course
+: Cellular and Molecular Immunology: An Introductory Course (IMMUNOL 200, MI 200)
+·
+course
+: BioSecurity and Pandemic Resilience (EMED 122, EMED 222, PUBLPOL 122, PUBLPOL 222)
+·
+course
+: Environmental Microbiology I (BIO 273A, CHEMENG 174, CHEMENG 274)
+·
+course
+: Pathogens and Disinfection
+·
+course
+: Environmental Health Microbiology Lab (offered various years)
+·
+course
+: SARS-CoV-2 in the Environment
+·
+course
+: Global Change and Emerging Infectious Disease (EARTHSYS 214, ESS 213, HUMBIO 114)
+·
+course
+: Pathogens and Populations: Representing Infectious Disease
+·
+course
+: Gut Microbiota in Health and Disease (BIOE 221G, MI 221)
+·
+course
+: Emerging Diseases, Past and Present
+·
+course
+: The Vaccine Revolution
+·
+course
+: Advanced Pathogenesis of Bacteria, Viruses, and Eukaryotic Parasites
+·
+course
+: Gut Microbiota in Health and Disease (BIOE 221G, GENE 208)
+·
+course
+: Health Policy Modeling
+Note: Additional Infectious Disease electives may be approved by the student's advisor.
+Master's Thesis
+Students must take 12 units total over at least two quarters. Only 12 units are counted towards the 45-unit degree requirement.
+Complete 2 or more course(s) and earn exactly 12 credit(s) from the following:
+EPI399 - Graduate Research
+The completion of a master’s thesis is an essential component of the MS degree, allowing students a chance to integrate epidemiologic principles learned in courses. A thesis should demonstrate the following:
+•     Familiarity with epidemiologic terms, reasoning, and issues.
+•     Ability to communicate scientific reasoning and argue analytically.
+•     Awareness of technical, methodological, and other issues relevant to traditional and clinical
+epidemiologic research.
+•     Comprehension of statistical techniques, their proper use, and limitations.
+•     Knowledge in a substantive area.
+The thesis is ordinarily 30 to 60 pages long, double-spaced, including tables, figures and references. Each thesis must include a summary abstract of approximately 400 to 800 words. The thesis can take one of the four following forms:
+•     Original analysis of data, whether collected primarily for the thesis or as secondary data analysis. (This thesis form is most commonly selected by students.)
+•     A comprehensive literature review with a meta-analysis of data or a critical reanalysis of data.
+•     Evaluation of a methodologic problem using real or hypothetical data.
+•     A comprehensive literature review with a grant proposal (NIH-style format) for a new study to bridge a gap in the existing knowledge. The proposal should highlight methodologic principles.
+The quality of the master's thesis should be such that it can be converted into a manuscript for publication or a credible research grant application, and students are strongly encouraged to do so.
+Students must present their research findings during a session of EPI 236: Epidemiology Research Seminar.
+Please visit
+Stanford Library
+for previously approved Epidemiology and Clinical Research master's theses.
+Each student’s thesis committee comprises at least two faculty members, an epidemiology core reader, and a co-reader. The epidemiology core reader, typically the student’s methodology mentor, is the principal thesis advisor. The co-reader is typically the research mentor. The epidemiology core reader is generally a member of the Stanford Academic Council and should be listed as the instructor for at least 9 of the required 12 master’s thesis (research) units (EPI 399).
+Registration for master's thesis units must be approved by the core reader. If the student’s thesis research requires expertise beyond that covered by the mentoring team described above, a third faculty mentor may be appointed as a thesis reader. This appointment must be requested by the student and approved by the core reader. Primary supervision during thesis research and writing is shared by the core reader and the co-reader.
+Completion of the master's thesis involves registration for at least 12 units of master’s thesis research over a period of two or more quarters. During the first quarter of research, a proposal for the thesis must be submitted to thesis readers when the project is in the early conceptual stages. The purpose is for the student to obtain guidance from the Thesis Committee about specific aims, study design features, and analytic methods before commencing the project. The Master’s Thesis Committee will notify the student of its decision within two weeks of receipt of the proposal. Rejected proposals can be resubmitted before the end of the quarter.
+Registration for the second quarter of master’s thesis units can take place only after the successful completion of the first quarter thesis requirements. In the quarter the student expects to graduate, the master’s thesis should be completed and submitted to the readers, allowing sufficient time for readers’ comments and revisions that might be required. A student should expect readers’ comments within two weeks of submission. The final version should be submitted at least two weeks before the end of the quarter. Students must send the PDF, including the signature page, to the Student Services Officer before the thesis submission deadline.

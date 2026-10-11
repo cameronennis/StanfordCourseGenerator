@@ -1,0 +1,218 @@
+ENVSS-MA - Environmental Social Sciences (MA)
+Download as PDF
+Environmental Social Sciences
+Environmental Social Sciences
+MA - Master of Arts
+General
+Program Policies
+Learning Outcomes
+Program Overview
+The department is not admitting students directly to the master's degree at this time. Currently the ENVSS-MA is only open to existing ENVSS-PHD students.
+Minimum Units in the Program
+46
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+A graduate student may request or be advised to withdraw from the PhD program. This might be the result of continued unsatisfactory degree progress, non-admission to candidacy, personal circumstances, or because the student is no longer committed to doctoral study. In these cases, no thesis will be required. To be conferred the Master’s degree, students must meet the following criteria and requirements:
+A minimum of 45 units
+3.0 grade point average
+Completion of subplan requirements, with all courses taken for a letter grade
+Completion of one quarter of TAship
+If the student has met the minimum university requirements for the Master’s degree, including completing a minimum of 45 units, the graduate program has discretion to waive or substitute its programmatic requirements for the Master's degree.
+Environmental Behavioral Science Subplan
+Completion requirement
+Required Courses
+In the first year, PhD students are required to complete the three Theory Core courses and the two Methods Core (Qualitative and Quantitative) courses. Within the first two years, PhD students are required to complete four Advanced Theory courses, one Data course, one Ecology course, and one Advanced Methods course. In the first two years, PhD students are required to participate in the weekly Workshop in Environmental Behavioral Sciences (WEBS).
+Note that offerings rotate and that not all approved courses are offered yearly. Students should consult with the DGS and their advising team to ensure that the combination of courses they select meets their programmatic, educational, and research needs. The requirement of these courses is typically completed by the end of the second year of residency and must be met by the end of the third year.
+Theory Core
+Complete ALL of the following Courses:
+EBS301 - Human Ecology
+EBS302 - Human Behavior and the Environment: Individual, Collective and Structural Factors
+EBS303 - Institutions and Environmental Social Science
+Methods Core
+Complete ALL of the following Courses:
+COMM318 - Quantitative Social Science Research Methods
+EBS308 - Qualitative Inquiry: Theory and Practice of Qualitative Environmental Social Sciences
+COMM 318 must be taken for 5 units.
+Advanced Theory Courses
+Complete at least 4 courses and at least 10 units from any EBS 200+-level course, in addition to the following list (i.e., 100-level courses and additional courses taught by EBS faculty members):
+Complete ANY of the following Courses:
+COMM308 - Graduate Seminar in Political Psychology
+EBS130 - Sustainability, Governance, and Economic Development in SE Asia
+EBS183 - Adaptation
+HISTORY401A - Spatial History: Concepts, Methods, Problems
+LAW2515 - Environmental Justice
+Data Course
+Complete at least 1 of the following Courses:
+CS229 - Machine Learning
+CS246 - Mining Massive Data Sets
+CS325B - Data for Sustainable Development
+EBS281 - Computational Social Science for Sustainability
+EBS282 - Agent-based modeling
+ECON270 - Intermediate Econometrics I
+AND
+ECON271 - Intermediate Econometrics II
+EPI223 - Introduction to Data Management and Analysis in SAS & R
+HRP252 - Outcomes Analysis
+POLISCI450A - Political Methodology I: Regression
+POLISCI450B - Political Methodology II: Causal Inference
+STATS264 - Foundations of Statistical and Scientific Inference
+STATS361 - Causal Inference
+Ecology Course
+Complete at least 1 of the following Courses:
+BIO148 - Evolution of Terrestrial Ecosystems
+BIO276 - Disease Ecology
+EBS183 - Adaptation
+EPS139 - 500 Million Years of Land Plant Evolution
+OCEANS273H - Marine Conservation Biology
+Advanced Methods Course
+Complete at least 1 of the following Courses:
+ALP303 - Analysis and Measurement of Impact
+BIO282 - Modeling Cultural Evolution
+BIO287 - Mathematical Population Biology
+CEE362A - Uncertainty Quantification
+CHPR247 - Pragmatic Skills for Mixed Methods Community Research
+COMM339 - Questionnaire Design for Surveys and Laboratory Experiments: Social and Cognitive Perspectives
+COMM365 - Longitudinal Data Analysis in Social Science Research
+CS224C - NLP for Computational Social Science
+CS224N - Natural Language Processing with Deep Learning
+CS324 - Advances in Foundation Models
+CS329X - Human Centered NLP
+ECON270 - Intermediate Econometrics I
+ECON271 - Intermediate Econometrics II
+ECON272 - Intermediate Econometrics III: Methods for Applied Econometrics
+EDUC316 - Social Network Methods
+EDUC317 - Computational Sociology
+EDUC399A - Designing Surveys
+EDUC400B - Statistical Analysis in Education: Regression
+EDUC450C - Qualitative Interviewing
+EDUC497 - Research Methods in Social Psychology and Allied Fields
+EPI227 - Advanced Epidemiologic Methods
+EPI261 - Intermediate Biostatistics: Analysis of Discrete Data
+EPI262 - Intermediate Biostatistics: Regression, Prediction, Survival Analysis
+EPI270 - Big Data Methods for Behavioral, Social, and Population Health Research
+HRP252 - Outcomes Analysis
+MS&E232 - Introduction to Game Theory
+MS&E319 - Efficient Generative Models
+PEDS202A - Practical Applications for Qualitative Data Analysis
+AND
+PEDS202B - Practical Applications for Qualitative Data Analysis
+PSYCH251 - Experimental Methods
+PSYCH252 - Statistical Methods for Behavioral and Social Sciences
+PSYCH253 - Multivariate Analysis, Measurement, and Study of Change in Social Science Research
+POLISCI450A - Political Methodology I: Regression
+POLISCI450B - Political Methodology II: Causal Inference
+POLISCI450C - Political Methodology III: Model-Based Inference
+SOC258C - Using Data to Describe the World: Descriptive Social Science Research Techniques
+SOC319 - Ethnographic Methods
+SOC376 - Ethnographic and Fieldwork Methods
+SOC382 - Statistics for an Open Science: Explanation
+SOC383 - Statistics for an Open Science: Modeling
+STATS207 - Time Series Analysis
+STATS211 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+Petitioning for Course Approval
+If a course is not pre-approved, a student may petition EBS, via the Director of Graduate Studies, to allow the course to count toward the requirements. To be eligible for consideration:
+the course must have a course number of 200 or higher
+the course must be a minimum of 3 units (2 units may be considered)
+the course must be taken for a letter grade.
+Once this information is provided, the DGS will inform the student of approval of the course as counting toward degree requirements.
+Workshop Requirement
+Students in the EBS subplan are required to register in EBS 300 - Workshop in Environmental Behavioral Sciences (WEBS) in Autumn, Winter, and Spring quarters of the first two years, and are required to attend EBS Research Seminars. To accompany WEBS, first- and second-year students must register for a 1-unit directed reading credit in Spring Quarter to support development of their GRP (first year) and Qualifying Proposal (second year).  Attendance in WEBS and at the EBS Research Seminars is strongly encouraged for students throughout all years  of the program.
+Complete ALL of the following Courses:
+EBS298 - Directed Individual Study or Reading in Environmental Social Sciences
+EBS300 - Workshop in Environmental Behavioral Sciences: Theory and Praxis
+EBS 298 must be completed for a minimum of 2 quarters.
+EBS 300 must be completed for a minimum of 6 quarters.
+Teaching Requirement
+PhD students in the EBS subplan are required to complete at least one TA appointment at a rate of at least 25% beginning in their second year. They then have the option to complete a second TAship or a quarter-long service commitment, either by serving on a departmental committee or participating in external service opportunities, as approved by the DGS and their advisor(s).
+Graduate and Research Plan
+The major product of the PhD student’s first year is the Graduate Research Plan (GRP), a foundational document created by the student with support from their advising team. At the start of the Spring Quarter of the first year, the student will meet with their advisor(s) to begin drafting their GRP. After incorporating feedback from their advisor(s) and committee, the student will present their GRP by the end of the Spring Quarter of their first year.
+The written GRP, and the oral presentation of it by the student at the end of the first year, will be evaluated by the three-person committee (advisor or co-advisors and one-to-two committee members). The GRP allows the student to craft an individualized program of study with faculty guidance and approval.
+The GRP is not merely a “to-do” list but, rather, is an intellectual statement. Sections may include: Intellectual Aims, Proposed Methods, Preparation, Schedule, and Potential Problems, with the first two sections being written in the style of a professional review paper or grant proposal (with literature citations). The GRP allows graduate students to focus on the most important issues--what do I want to do and how will I do it---and facilitates faculty input and approval on these crucial parameters. In the first two quarters of the PhD, the DGS will provide more details to the PhD students on the parameters of the GRP, and the students will discuss GRP requirements in WEBS.
+Annual Review
+With the first-year GRP serving as a foundation, the GRP is updated each year as part of the annual report to ensure timely progress toward completion of the PhD. In addition to the updated GRP, the annual review will include a record of accomplishments presented by the student, written evaluations by the faculty advisor(s) of the student’s progress, and feedback from the committee on the student’s academic and research progress. The student should have no 'I' grades in core courses, must maintain at least a 3.0 grade-point average, and must demonstrate evidence of productive and sustained research progress, with no conflict of interest or commitment. Possible outcomes of the annual review include: (1) continuation of the student in good standing, or (2) placing the student on probation, with specific written guidelines of the period of probation and the necessary steps for reinstatement to good standing.
+Global Environmental Policy Subplan
+Completion requirement
+Required Courses
+Through coursework, students will develop expertise in key quantitative disciplines which they integrate in research that addresses unsolved global challenges, such as the management of climate change, biodiversity loss, food systems, pollution, global health, natural disasters, energy resources, use of outer space, water resources, and ecosystems. Students will be educated in GEP courses as well as in courses taught by Stanford’s leading departments of economics, computer science, environmental science, law, and political science.
+Methods Sequence
+Fulfill ALL of the following requirements:
+Casual Inference Sequence
+Complete one causal inference sequence (ECON or POLISCI)
+Complete ANY of the following Courses:
+ECON270 - Intermediate Econometrics I
+AND
+ECON271 - Intermediate Econometrics II
+AND
+ECON272 - Intermediate Econometrics III: Methods for Applied Econometrics
+POLISCI450A - Political Methodology I: Regression
+AND
+POLISCI450B - Political Methodology II: Causal Inference
+AND
+Data Science Sequence
+Fulfill ALL of the following requirements:
+Data Science - Machine Learning
+Complete ALL of the following Courses:
+CS229 - Machine Learning
+AND
+Data Science - Deep Learning
+Complete one CS 200 level course in deep learning (i.e. CS 231N)
+AND
+Advanced Topics Sequence
+Complete ALL of the following Courses:
+GEP268 - Topics and Methods in Global Environmental Policy I
+GEP269 - Topics and Methods in Global Environmental Policy II
+Economics Sequence
+Complete ALL of the following Courses:
+ECON202 - Microeconomics I
+ECON203 - Microeconomics II
+ECON210 - Macroeconomics I
+ECON211 - Macroeconomics II
+ECON250 - Environmental Economics
+Science/Engineering Sequence
+Complete a 2-3 course graduate sequence in one area of natural science or engineering, as determined with student's advisor. Can be a 2 course sequence if the student opts for a 3 course Policy Elective Sequence.
+Energy systems
+Food systems
+Ecology
+Climate
+Hydrology & Water resource engineering
+Oceans
+Land management
+Health
+Chemistry
+Other
+Policy Sequence
+Fulfill ALL of the following requirements:
+Policy Courses
+Complete ALL of the following Courses:
+GEP215 - Modeling Human-Environment Systems
+GEP305 - Global Environmental Challenges
+GEP347 - Advanced Analysis of Global Environmental Policy
+GEP365 - Global Environmental Governance: Politics, Institutions, and Change
+AND
+Open Elective Courses
+Choose 2-3 open elective courses (may be in other departments or GEP) to be determined with student's advisor. Can be a 2 course sequence if the student opts for a 3 course Science/Enginnering Sequence.
+Political economy
+Industrial organization
+Development
+Urban economics
+Urban planning
+Public finance
+Law
+Health policy
+International relations
+Comparative politics
+Trade
+Management science
+Up to one course in natural science or engineering
+Workshop Requirement
+Students in the GEP subplan are required to register in GEP 300 throughout all years that they are in the PhD program.
+Teaching Requirement
+PhD students in the GEP subplan are required to complete at least (2) TA appointments at a rate of at least 25% after their first year.
+Graduate Research Plan
+Students will work with their advisor, dissertation committee, and Director of Graduate Studies (DGS) for GEP to develop a program of study that aligns with their objectives.
+Annual Review
+Students will review their progress annually with their primary advisor and Director of Graduate Studies (DGS) to ensure they are making adequate progress in their program of study.

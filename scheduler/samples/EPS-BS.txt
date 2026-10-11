@@ -1,0 +1,150 @@
+EPS-BS - Earth and Planetary Sciences (BS)
+Download as PDF
+Earth and Planetary Sciences
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The undergraduate program in Earth and Planetary Sciences aims to provide students with a broad background in the Earth and Planetary Sciences fundamentals and the quantitative, analytical, and communication skills necessary to conduct research and think critically about questions involving the Earth and other planets. EPS focuses on the history and structure of the Earth and other planets, the physics and chemistry of planetary materials, the processes that cycle those materials globally, and the interaction of human activities with geological processes and resources. The major provides excellent preparation for graduate school and careers in geological and environmental consulting, land use planning, law, teaching, and other professions in which a background in science and an understanding of our and other planets are necessary.
+Areas of study to explore within EPS:
+Earth history and the evolution of life
+Oceans and the atmosphere
+Climate change
+Processes that shape the Earth’s landscapes
+Chemistry and physics of Earth materials
+Sources of water, economic minerals, metals, and fuels
+Natural hazards like earthquakes, volcanoes, and landslides
+Contamination of natural waterways and possibilities for mitigation
+Natural resource depletion and sustainable management practices
+Planetary exploration
+Multidisciplinary areas to explore within EPS:
+Geobiology
+Geochemistry & Environmental Chemistry
+Geochronology & Thermochronology
+Geomorphology, Hydrology, and Surface Processes
+Geostatistics & Uncertainty Quantification
+Mineralogy, Materials Science, and Mineral Physics
+Petrology & Volcanology
+Planetary Science
+Sedimentary & Petroleum Geology
+Structural Geology & Tectonics, Geomechanics
+Minimum Units in the Program
+60
+Minimum University Units
+180
+Collapse All
+Earth and Planetary Sciences is an interdisciplinary field that draws heavily on the other sciences. Students are encouraged to supplement their major coursework with classes in Mathematics, Physics, Chemistry, and Biology, based on their background, goals, and interests, in consultation with their faculty advisor.
+Major Requirements (60 units):
+Core: 21 units
+Breadth in Discipline: 27 units
+Depth in Discipline: 6 units
+WIM: 3 units
+Capstone: 3 units
+Core Program Requirements
+Completion requirement
+Earth and Planetary Sciences Foundation (21 units)
+Students must complete 6 courses that introduce the properties of planetary materials, the processes that change the Earth and other planets, and the timescales over which those processes act. These courses provide a broad foundational knowledge that can lead to specialization in many different geological and environmental sciences disciplines.
+Complete ALL of the following Courses:
+EPS1 - Introduction to Geology
+EPS2 - Chemistry of the Earth and Planets
+EPS3 - Earth and Planetary Processes and Mechanics
+EPS4 - Coevolution of Earth and Life
+EPS6 - Introduction to Data Science for Geoscience
+EPS105 - Introduction to Field Methods
+Breadth in Discipline
+Completion requirement
+Electives (27 units)
+Students select from a range of 100-level elective geoscience courses, providing exposure to diverse fields. These courses include classroom lectures, often supplemented with field and laboratory components.
+Students are required to complete 27 units, of which 18 must be from EPS.
+Complete ANY of the following Courses:
+EPS20 - The Geoscience of Environmental Justice
+EPS30N - Designing Science Fiction Planets
+EPS42N - Moving and Shaking in the Bay Area
+EPS101 - Earth Materials: Introduction to Mineralogy
+EPS102 - Introduction to Sedimentology and Stratigraphy
+EPS104 - Introduction to Igneous and Metamorphic Petrology
+EPS107 - Journey to the Center of the Earth
+EPS111 - Fundamentals of Structural Geology
+EPS119 - Formation and Dynamics of Planets
+EPS124 - Introduction to Planetary Science
+EPS128 - Evolution of Terrestrial Ecosystems
+EPS129 - Paleomagnetism
+EPS135 - Sedimentary Geochemistry and Analysis
+EPS136 - Macroevolution
+EPS137 - The Sixth Extinction (and the Other Five)
+EPS139 - 500 Million Years of Land Plant Evolution
+EPS140 - Data Science for Geoscience
+EPS164 - Geochemical Thermodynamics
+EPS180 - Magmatic and Eruptive Processes
+EPS189 - Tectonics Field Trip
+CEE177 - Aquatic Chemistry and Biology
+ESS151 - Biological Oceanography
+ESS152 - Marine Chemistry
+ESS155 - Science of Soils
+ESS158 - Geomicrobiology
+ESS220 - Physical Hydrogeology
+ESS256 - Soil and Water Chemistry
+GEOPHYS110 - Introduction to the Foundations of Contemporary Geophysics
+GEOPHYS120 - Geophysical Mechanics and Dynamics
+GEOPHYS130 - Introductory Seismology
+GEOPHYS190 - Near-Surface Geophysics: Imaging Groundwater Systems
+CS106A - Programming Methodology
+GEOPHYS233 - Physics of Ice
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EPS120 - Planetary Surface Processes: Shaping the Landscape of the Solar System
+EPS112 - Geomorphology: The Mechanics of Earth's Landscapes
+Depth in Discipline
+Completion requirement
+Research (6 units)
+Students are required to complete 6 units of hands-on scientific research under the guidance of one or more faculty mentors. All majors must engage in hands-on research using the scientific method under faculty mentorship. Each student is required to complete 6 units of research under the guidance of one or more faculty mentors. The culmination of this research is a thesis that is potentially suitable for submission to a disciplinary journal.
+Example: Students can enroll in 4 units of EPS 192 and 2 units of EPS 197 to equal the minimum 6 units required for Depth in Discipline.
+Complete ANY of the following Courses:
+EPS192 - Undergraduate Research in Earth & Planetary Sciences
+EPS197 - Senior Thesis
+Senior Thesis (for seniors who wish to take writing units on a thesis based on research in 192 or as a summer research fellow).
+Writing in the Major (WIM)
+Completion requirement
+WIM (3 units)
+Writing in the Major courses provides students with opportunities to develop writing skills in the context of their major fields. It begins the process of learning to write effectively in discipline-specific formats and styles.
+Complete ALL of the following Courses:
+EPS150 - Senior Seminar: Issues in Earth Sciences
+Capstone
+Completion requirement
+EPS Capstone Options (3 units)
+Students may fulfill the capstone requirement through either a departmental field study program or an independent capstone research project. The field study option includes a minimum of six weeks of field research with training in field techniques, including mapping, and a written report. The research project option requires students to present their findings through written reports and oral presentations.
+Contact the EPS Student Services Team in the department for enrollment guidance.
+Fulfill ANY of the following requirements:
+Option 1 - Research in the Field
+The first option is participation in a departmental field study program, which includes a minimum of six weeks of field research. These month-long courses provide students with the opportunity to collect data in the field as part of a team-based investigation of research questions, under the guidance of faculty and graduate students. Students learn and apply field techniques, including mapping, and complete a written report documenting their work. Topics and locations vary.
+Rule Note: Juniors planning to enroll in this summer field course should contact the EPS Student Services Team during the Winter or Spring Quarter, prior to the summer offering, for information regarding the course location, tuition, enrollment procedures, and other logistical details.
+Complete ALL of the following Courses:
+EPS190 - Research in the Field
+Students may enroll for a minimum of 1 unit per quarter and may repeat enrollment for credit, up to a maximum of 3 units
+OR
+Option 2 - Scientific Knowledge Applied to Real-World Challenges
+Alternatively, students may fulfill the requirement by completing an independent capstone research project. In this option, students apply their geoscience background to design and address real-world problems. They are expected to present their findings through written reports and oral presentations.
+Evaluation may include participation in SDSS departmental symposia or assessment by non-profit specialists, and must take place within the year of enrollment in the capstone course. All self-designed capstone projects must be submitted to and approved by the Director of Undergraduate Studies prior to enrollment.
+Complete ALL of the following Courses:
+EPS193 - Scientific Knowledge Applied to Real-World Challenges
+Students may enroll for a minimum of 1 unit per quarter and may repeat enrollment for credit, up to a maximum of 3 units
+Honors
+Completion requirement
+Overview & Requirements
+The honors program provides an opportunity for year-long independent study and research on a topic of particular interest, culminating in a written thesis. Students select research topics in consultation with the faculty advisor of their choice. Research undertaken for the honors program may be theoretical, field, experimental, or a combination of these approaches. The honors program is open to students with a GPA of at least 3.0 in all university coursework. Modest financial support is available from several sources to help defray laboratory and field expenses incurred in conjunction with honors research.
+To apply, please visit:
+https://epsci.stanford.edu/academics-admissions/undergraduate-program/honors-program
+To receive a Bachelor of Science with honors designation, students are required to:
+Submit a formal written report to both the student’s research advisor and the second faculty member no later than the fourth week of the student’s final quarter, or by a date preferred by the research advisor.
+Obtain advisor (first reader) approval on the report and a second faculty member (second reader). Submit the
+Bachelor of Science with Honors Completion Verification Signature Form
+to the department before graduation, ideally by the University’s thesis submission deadline for the quarter.
+Students may choose to submit their paper to the Stanford Digital Repository—please contact the EPS Student Services Team for more information.
+Students must present their research at a public seminar approved by the DUS. The EPS department typically hosts an Undergraduate Symposium or coordinates with the student EPS Brown Bag seminars at the end of May each year, providing an opportunity for BSH students to present their research.
+The decision whether a given research project merits an award of honors will be made jointly by the student’s faculty advisor, second reader, and the Undergraduate Program Director, and will be based on the quality of both the honors work and the student’s other work in earth sciences.
+Enroll in the following Courses:
+EPS199 - Honors Program
+Enroll in EPS 199 under your research faculty advisor. 9 units total are required by year-end, which can be distributed throughout senior year as needed.
+Optional: Honors students in EPS are also eligible for University awards such as the Firestone Medal, which is awarded by Academic Advising for exceptional theses. Students who wish to be considered for University awards must submit the Bachelor of Science with Honors Completion Verification Signature Form by the end of the Winter Quarter of their graduating year.

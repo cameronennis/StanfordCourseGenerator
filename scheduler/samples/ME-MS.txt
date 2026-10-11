@@ -1,0 +1,600 @@
+ME-MS - Mechanical Engineering (MS)
+Download as PDF
+Mechanical Engineering
+Mechanical Engineering
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The master’s program in Mechanical Engineering is a non-thesis degree that allows students broad flexibility in selecting a program of lecture and project-based courses to meet their educational objectives. The program is designed principally for students who wish to enter industry as practicing professionals. With our emphasis on human-centered design, as well as the multidisciplinary nature of the curriculum and the University-wide initiative on sustainability, Stanford Mechanical Engineering is producing graduates with advanced skills to meet the coming needs of the industry.
+Students are encouraged to visit the
+ME Student Intranet
+for departmental forms, policy resources, and procedure guides.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Mathematical Fundamentals
+Two math courses covering
+two different areas
+from Linear Algebra, Partial Differential Equations, Numerical Analysis, and Statistics. The following courses satisfy the requirement in the indicated area(s).
+Complete at least 2 of the following:
+Linear Algebra
+Complete ANY of the following Courses:
+ME300A - Linear Algebra with Application to Engineering Computations
+OR
+CME200 - Linear Algebra with Application to Engineering Computations
+CME302 - Numerical Linear Algebra
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+EE263 - Matrix Methods: Singular Value Decomposition
+OR
+CME263 - Matrix Methods: Singular Value Decomposition
+EE363 - Linear Dynamical Systems
+OR
+Partial Differential Equations
+Complete ANY of the following Courses:
+CME303 - Partial Differential Equations of Applied Mathematics
+OR
+MATH220A - Partial Differential Equations of Applied Mathematics
+ME300B - Partial Differential Equations in Engineering
+OR
+CME204 - Partial Differential Equations in Engineering
+OR
+Numerical Analysis
+Complete ANY of the following Courses:
+CME306 - Computational Methods of Applied Mathematics
+ME300C - Introduction to Numerical Methods for Engineering
+OR
+CME206 - Introduction to Numerical Methods for Engineering
+ME408 - Spectral Methods in Computational Physics
+OR
+CME322 - Spectral Methods in Computational Physics
+OR
+Statistics
+Complete ANY of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+OR
+ENGR155C - Introduction to Probability and Statistics for Engineers
+STATS117 - Introduction to Probability Theory
+STATS118 - Probability Theory for Statistical Inference
+STATS200 - Introduction to Theoretical Statistics
+Petitions for other math-focused courses, including more advanced math courses and math applications courses, will be considered in cases where students can demonstrate sufficient math fundamentals from prior coursework. Such petitions should be submitted to ME Student Services for review before taking the proposed course; include the prior course(s) syllabus.
+Depth in Mechanical Engineering
+“Depth” refers to a cluster of courses with thematic and/or technical continuity that enables a student to study a part of mechanical engineering in more depth, with more focus, and over a period of time. A depth cluster or area comprises at least nine units (2-3 courses).
+Complete at least 1 of the following:
+Automatic Controls
+At least one of
+course
+or
+course
+is recommended.
+Complete at least 3 of the following Courses:
+AA203 - Optimal and Learning-based Control
+AA212 - Advanced Feedback Control Design
+AA228 - Decision Making under Uncertainty
+OR
+CS238 - Decision Making under Uncertainty
+AA277 - Multi-Robot Control and Distributed Optimization
+ENGR105 - Feedback Control Design
+ENGR205 - Introduction to Control Design Techniques
+ME274A - Principles of Robot Autonomy I
+OR
+AA274A - Principles of Robot Autonomy I
+OR
+CS237A - Principles of Robot Autonomy I
+OR
+EE260A - Principles of Robot Autonomy I
+ME274B - Principles of Robot Autonomy II
+OR
+AA274B - Principles of Robot Autonomy II
+OR
+CS237B - Principles of Robot Autonomy II
+OR
+EE260B - Principles of Robot Autonomy II
+ME286 - Identification and Estimation in Engineering Design
+ME327 - Design and Control of Haptic Systems
+OR
+Biomechanical Engineering
+At least two Foundational Courses must be taken.
+Fulfill ALL of the following requirements:
+Foundational Courses
+Complete at least 2 of the following Courses:
+ME235 - Biotransport Phenomena
+ME244 - Mechanotransduction in Cells and Tissues
+ME249 - Designing Biomaterials
+ME281 - Biomechanics of Movement
+ME283 - Introduction to Biomechanics and Mechanobiology
+ME287 - Mechanics of Biological Tissues
+ME305 - Dynamics and Feedback Control of Living Systems
+OR
+BIOE305 - Dynamics and Feedback Control of Living Systems
+AND
+System-Specific Courses
+Complete at least 1 of the following Courses:
+ME234 - Introduction to Neuromechanics
+ME285 - Computational Modeling in the Cardiovascular System
+ME303 - Soft Composites and Soft Robotics
+OR
+MATSCI333 - Soft Composites and Soft Robotics
+ME381 - Orthopaedic Bioengineering
+ME485 - Modeling and Simulation of Human Movement
+OR
+Design Methodology
+Complete ALL of the following Courses:
+ME310A - Global Engineering Design Thinking, Innovation, and Entrepreneurship
+ME310B - Global Engineering Design Thinking, Innovation, and Entrepreneurship
+ME310C - Global Engineering Design Thinking, Innovation, and Entrepreneurship
+Note: The Design Methodology Depth is intended as a series, and a singular course cannot be used as breadth. Please refer to the "Breadth in Mechanical Engineering" section for approved breadth courses in the Design Methodology area.
+OR
+Dynamics
+Complete at least 3 of the following Courses:
+AA242A - Classical Dynamics
+AA279A - Space Mechanics
+CS225A - Experimental Robotics
+CS327A - Advanced Robotic Manipulation
+OR
+ME323 - Advanced Robotic Manipulation
+ME331A - Advanced Dynamics & Computation
+ME331B - Advanced Dynamics, Simulation & Control
+ME334 - Advanced Dynamics, Modeling and Analysis
+OR
+Energy and Transport Sciences
+Fulfill ALL of the following requirements:
+Required Courses
+Complete ALL of the following Courses:
+ME352B - Fundamentals of Heat Conduction
+ME370A - Energy Systems I: Thermodynamics
+AND
+Additional Course
+Complete at least 1 of the following Courses:
+ME352C - Convective Heat Transfer
+ME352D - Nanoscale heat, mass and charge transport
+ME362A - Physical Gas Dynamics
+ME371 - Combustion Fundamentals
+ME457 - Fluid Flow in Microdevices
+Note:
+course
+is not taught frequently.
+OR
+Fluid Mechanics
+Fulfill ALL of the following requirements:
+Required Courses
+Complete ALL of the following Courses:
+ME351A - Fluid Mechanics
+ME351B - Fluid Mechanics
+AND
+Additional Course
+Complete at least 1 of the following Courses:
+ME354 - Experimental Methods in Fluid Mechanics
+ME355 - Compressible Flow
+ME361 - Turbulence
+ME451A - Advanced Fluid Mechanics Multiphase Flows
+ME451B - Advanced Fluid Mechanics - Flow Instabilities
+ME451C - Advanced Fluid Mechanics - Low-Order Modeling for Turbulent Flow
+ME461 - Advanced Topics in Turbulence
+Students with exceptionally strong backgrounds in Fluid Mechanics may substitute
+course
+and/or
+course
+with other courses listed in this depth area (with advisor’s consent).
+OR
+Manufacturing and Product Realization
+Fulfill ALL of the following requirements:
+Required Course
+Complete ALL of the following Courses:
+ME203 - Design and Manufacturing
+Students who have previously completed
+course
+/
+course
+as an undergraduate can substitute one of the courses below. Three courses total must be taken to fulfill this Depth area.
+AND
+Additional Courses
+Complete at least 2 of the following Courses:
+ME204 - Advanced Mechanical Systems Design
+ME217 - Engineering Design Analytics for Product Realization
+ME219 - The Magic of Materials and Manufacturing
+ME225 - Scaling Up
+ME227 - Design for Additive Manufacturing
+ME318 - Computer-Aided Product Creation
+ME321 - Multimaterial Additive Manufacturing
+OR
+MATSCI351 - Multimaterial Additive Manufacturing
+ME324 - Precision Engineering
+ME325 - Making Multiples: Injection Molding
+OR
+Materials and Stress Analysis
+Complete at least 3 of the following Courses:
+ME219 - The Magic of Materials and Manufacturing
+ME258 - Fracture and Fatigue of Materials and Thin Film Structures
+OR
+MATSCI358 - Fracture and Fatigue of Materials and Thin Film Structures
+ME303 - Soft Composites and Soft Robotics
+OR
+MATSCI333 - Soft Composites and Soft Robotics
+ME329 - Mechanical Analysis in Design
+ME340 - Mechanics - Elasticity and Inelasticity
+OR
+Mechatronics
+Complete at least 2 of the following Courses:
+ME218A - Smart Product Design Fundamentals
+ME218B - Smart Product Design Applications
+ME218C - Smart Product Design Practice
+Note: The Mechatronics Depth is intended as a series, and a singular course cannot be used as breadth. Please refer to the "Breadth in Mechanical Engineering" section for approved breadth courses in the Mechatronics area.
+OR
+Reactive and Ionized Gas Dynamics
+Fulfill ALL of the following requirements:
+Required Course
+Complete ALL of the following Courses:
+ME362A - Physical Gas Dynamics
+AND
+Additional Courses
+Complete at least 2 of the following Courses:
+ME362B - Nonequilibrium Processes in High-Temperature Gases
+ME363 - Partially Ionized Plasmas and Gas Discharges
+ME364 - Optical Diagnostics and Spectroscopy
+ME366 - Light and Plasma
+ME371 - Combustion Fundamentals
+ME372 - Combustion Applications
+ME374 - Fundamentals of Aerosols and Nanoparticle Science
+ME463 - Advanced Topics in Plasma Science and Engineering
+OR
+Robotics and Kinematics
+Complete at least 3 of the following Courses:
+AA277 - Multi-Robot Control and Distributed Optimization
+CS225A - Experimental Robotics
+CS229 - Machine Learning
+OR
+STATS229 - Machine Learning
+CS326 - Topics in Advanced Robotic Manipulation
+ME274A - Principles of Robot Autonomy I
+OR
+AA274A - Principles of Robot Autonomy I
+OR
+CS237A - Principles of Robot Autonomy I
+OR
+EE260A - Principles of Robot Autonomy I
+ME274B - Principles of Robot Autonomy II
+OR
+AA274B - Principles of Robot Autonomy II
+OR
+CS237B - Principles of Robot Autonomy II
+OR
+EE260B - Principles of Robot Autonomy II
+ME303 - Soft Composites and Soft Robotics
+OR
+MATSCI333 - Soft Composites and Soft Robotics
+ME320 - Introduction to Robotics
+OR
+CS223A - Introduction to Robotics
+ME323 - Advanced Robotic Manipulation
+OR
+CS327A - Advanced Robotic Manipulation
+ME326 - Collaborative Robotics
+OR
+CS339R - Collaborative Robotics
+ME327 - Design and Control of Haptic Systems
+OR
+Solid Mechanics
+Complete at least 3 of the following Courses:
+ME335A - Finite Element Analysis
+ME338 - Continuum Mechanics
+ME340 - Mechanics - Elasticity and Inelasticity
+ME346A - Introduction to Statistical Mechanics
+Breadth in Mechanical Engineering
+“Breadth” refers to graduate-level ME courses outside the student’s depth area. The intent is for students to engage in coursework in areas of mechanical engineering outside of the depth to broaden their understanding and competency in the broader range of topics.
+Two courses are required from the list of eligible breadth courses from area(s) outside your depth. They can come from the same area or two different areas. If you select two Data Science classes for your breadth, at least one of those must have an ME course number.
+Complete at least 2 of the following:
+Automatic Controls
+Complete ANY of the following Courses:
+AA203 - Optimal and Learning-based Control
+AA212 - Advanced Feedback Control Design
+AA228 - Decision Making under Uncertainty
+OR
+CS238 - Decision Making under Uncertainty
+AA277 - Multi-Robot Control and Distributed Optimization
+ENGR105 - Feedback Control Design
+ENGR205 - Introduction to Control Design Techniques
+ME274A - Principles of Robot Autonomy I
+OR
+AA274A - Principles of Robot Autonomy I
+OR
+CS237A - Principles of Robot Autonomy I
+OR
+EE260A - Principles of Robot Autonomy I
+ME274B - Principles of Robot Autonomy II
+OR
+AA274B - Principles of Robot Autonomy II
+OR
+CS237B - Principles of Robot Autonomy II
+OR
+EE260B - Principles of Robot Autonomy II
+ME286 - Identification and Estimation in Engineering Design
+ME327 - Design and Control of Haptic Systems
+If depth is Automatic Controls, select any two courses from one or two of the other areas. If depth is other than Automatic Controls, select any course(s) from the list above.
+OR
+Biomechanical Engineering
+Complete ANY of the following Courses:
+ME234 - Introduction to Neuromechanics
+ME235 - Biotransport Phenomena
+ME244 - Mechanotransduction in Cells and Tissues
+ME249 - Designing Biomaterials
+ME281 - Biomechanics of Movement
+ME283 - Introduction to Biomechanics and Mechanobiology
+ME285 - Computational Modeling in the Cardiovascular System
+ME287 - Mechanics of Biological Tissues
+ME303 - Soft Composites and Soft Robotics
+OR
+MATSCI333 - Soft Composites and Soft Robotics
+ME305 - Dynamics and Feedback Control of Living Systems
+OR
+BIOE305 - Dynamics and Feedback Control of Living Systems
+ME381 - Orthopaedic Bioengineering
+ME485 - Modeling and Simulation of Human Movement
+If depth is Biomechanical Engineering, select any two courses from one or two of the other areas. If depth is other than Biomechanical Engineering, select any course(s) from the list above.
+OR
+Design Methodology
+Complete ANY of the following Courses:
+ME318 - Computer-Aided Product Creation
+ME324 - Precision Engineering
+If depth is Design Methodology, select any two courses from one or two of the other areas. If depth is other than Design Methodology, select any course(s) from the list above.
+OR
+Dynamics
+Complete ANY of the following Courses:
+AA242A - Classical Dynamics
+AA279A - Space Mechanics
+CS225A - Experimental Robotics
+CS327A - Advanced Robotic Manipulation
+OR
+ME323 - Advanced Robotic Manipulation
+ME331A - Advanced Dynamics & Computation
+ME331B - Advanced Dynamics, Simulation & Control
+ME334 - Advanced Dynamics, Modeling and Analysis
+If depth is Dynamics, select any two courses from one or two of the other areas. If depth is other than Dynamics, select any course(s) from the list above.
+OR
+Energy and Transport Sciences
+Complete ANY of the following Courses:
+ME352B - Fundamentals of Heat Conduction
+ME352C - Convective Heat Transfer
+ME352D - Nanoscale heat, mass and charge transport
+ME362A - Physical Gas Dynamics
+ME370A - Energy Systems I: Thermodynamics
+ME371 - Combustion Fundamentals
+ME457 - Fluid Flow in Microdevices
+If depth is Energy and Transport Sciences, select any two courses from one or two of the other areas. If depth is other than Energy Systems, select any course(s) from the list above.
+OR
+Fluid Mechanics
+Complete ANY of the following Courses:
+ME351A - Fluid Mechanics
+ME351B - Fluid Mechanics
+ME354 - Experimental Methods in Fluid Mechanics
+ME355 - Compressible Flow
+ME361 - Turbulence
+ME451A - Advanced Fluid Mechanics Multiphase Flows
+ME451B - Advanced Fluid Mechanics - Flow Instabilities
+ME451C - Advanced Fluid Mechanics - Low-Order Modeling for Turbulent Flow
+ME461 - Advanced Topics in Turbulence
+If depth is Fluid Mechanics, select any two courses from one or two of the other areas, excluding
+course
+. If depth is other than Fluid Mechanics, select any course(s) from the list above.
+OR
+Manufacturing and Product Realization
+Complete ANY of the following Courses:
+MATSCI251 - Microstructure and Mechanical Properties
+ME203 - Design and Manufacturing
+ME204 - Advanced Mechanical Systems Design
+ME206B - Design for Extreme Affordability
+ME217 - Engineering Design Analytics for Product Realization
+ME219 - The Magic of Materials and Manufacturing
+ME225 - Scaling Up
+ME227 - Design for Additive Manufacturing
+ME318 - Computer-Aided Product Creation
+ME321 - Multimaterial Additive Manufacturing
+OR
+MATSCI351 - Multimaterial Additive Manufacturing
+ME324 - Precision Engineering
+ME325 - Making Multiples: Injection Molding
+If depth is Manufacturing and Product Realization, select any two courses from one or two of the other areas. If depth is other than Manufacturing and Product Realization, select any course(s) from the list above.
+OR
+Materials and Stress Analysis
+Complete ANY of the following Courses:
+ME219 - The Magic of Materials and Manufacturing
+ME258 - Fracture and Fatigue of Materials and Thin Film Structures
+OR
+MATSCI358 - Fracture and Fatigue of Materials and Thin Film Structures
+ME303 - Soft Composites and Soft Robotics
+OR
+MATSCI333 - Soft Composites and Soft Robotics
+ME329 - Mechanical Analysis in Design
+ME340 - Mechanics - Elasticity and Inelasticity
+If depth is Materials and Stress Analysis, select any two courses from one or two of the other areas. If depth is other than Materials and Stress Analysis, select any course(s) from the list above.
+OR
+Mechatronics
+Complete ANY of the following Courses:
+AA274B - Principles of Robot Autonomy II
+OR
+CS237B - Principles of Robot Autonomy II
+OR
+EE260B - Principles of Robot Autonomy II
+OR
+ME274B - Principles of Robot Autonomy II
+ME210 - Introduction to Mechatronics
+ME220 - Introduction to Sensors
+If depth is Mechatronics, select any two courses from one or two of the other areas. If depth is other than Mechatronics, any course(s) from the list above may be taken as a breadth course in Mechatronics.
+OR
+MEMS
+The following MEMS courses can be used for Breadth only.
+Complete ANY of the following Courses:
+ENGR240 - Introduction to Micro and Nano Electromechanical Systems
+ENGR241 - Advanced Micro and Nano Fabrication Laboratory
+OR
+Reactive and Ionized Gas Dynamics
+Complete ANY of the following Courses:
+ME362A - Physical Gas Dynamics
+ME362B - Nonequilibrium Processes in High-Temperature Gases
+ME363 - Partially Ionized Plasmas and Gas Discharges
+ME364 - Optical Diagnostics and Spectroscopy
+ME366 - Light and Plasma
+ME371 - Combustion Fundamentals
+ME372 - Combustion Applications
+ME374 - Fundamentals of Aerosols and Nanoparticle Science
+ME463 - Advanced Topics in Plasma Science and Engineering
+If depth is Reactive and Ionized Gas Dynamics, select any two courses from one or two of the other areas. If depth is other than Reactive and Ionized Gas Dynamics, select any course(s) from the list above.
+OR
+Robotics and Kinematics
+Complete ANY of the following Courses:
+AA277 - Multi-Robot Control and Distributed Optimization
+CS225A - Experimental Robotics
+CS229 - Machine Learning
+OR
+STATS229 - Machine Learning
+CS326 - Topics in Advanced Robotic Manipulation
+ME274A - Principles of Robot Autonomy I
+OR
+AA274A - Principles of Robot Autonomy I
+OR
+CS237A - Principles of Robot Autonomy I
+OR
+EE260A - Principles of Robot Autonomy I
+ME274B - Principles of Robot Autonomy II
+OR
+AA274B - Principles of Robot Autonomy II
+OR
+CS237B - Principles of Robot Autonomy II
+OR
+EE260B - Principles of Robot Autonomy II
+ME303 - Soft Composites and Soft Robotics
+OR
+MATSCI333 - Soft Composites and Soft Robotics
+ME320 - Introduction to Robotics
+OR
+CS223A - Introduction to Robotics
+ME323 - Advanced Robotic Manipulation
+OR
+CS327A - Advanced Robotic Manipulation
+ME326 - Collaborative Robotics
+OR
+CS339R - Collaborative Robotics
+ME327 - Design and Control of Haptic Systems
+If depth is Robotics and Kinematics, select any two courses from one or two of the other areas. If depth is other than Robotics and Kinematics, select any course(s) from the list above.
+OR
+Solid Mechanics
+Complete ANY of the following Courses:
+ME335A - Finite Element Analysis
+ME338 - Continuum Mechanics
+ME339 - Introduction to parallel computing using MPI, openMP, and CUDA
+ME340 - Mechanics - Elasticity and Inelasticity
+ME346A - Introduction to Statistical Mechanics
+ME346B - Introduction to Molecular Simulations
+If depth is Solid Mechanics, select any two courses from one or two of the other areas. If depth is other than Solid Mechanics, select any course(s) from the list above.
+OR
+Data Science
+The following Data Science courses can be used for Breadth only. If you select two Data Science courses for your breadth, at least one of those must have an ME course number.
+Complete ANY of the following Courses:
+AA222 - Engineering Design Optimization
+CS131 - Computer Vision: Foundations and Applications
+CS229 - Machine Learning
+OR
+STATS229 - Machine Learning
+CS230 - Deep Learning
+CS234 - Reinforcement Learning
+CS236 - Deep Generative Models
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+ME233 - Automated Model Discovery
+ME343 - Machine Learning for Computational Engineering.
+ME470 - Uncertainty Quantification
+Sufficient Mechanical Engineering Coursework
+Students must take a minimum of
+15 units
+of coursework in mechanical engineering. Only courses with a 200+ ME course number and lecture (LEC) designation are considered mechanical engineering topics, with the addition that the specific courses
+course
+can count toward this requirement. Research (independent study) units and seminars
+cannot
+count toward the 15 units of ME coursework.
+Approved Electives
+Additional graduate (numbered
+200+
+) engineering, math, and science courses will bring the total number of units to at least 39. The student’s advisor must approve all of these units. Graduate engineering, math, and science courses are typically approved. 100-level CS courses that satisfy the
+program
+program are also allowed.
+Of these 39 units, no more than six units may come from independent study (
+course
+and
+course
+), and no more than three units may come from seminars. Students planning to pursue the PhD should discuss taking
+course
+or
+course
+during the master’s program with their academic advisor.
+course
+and
+course
+/
+course
+may not be included in approved electives.
+Students may use
+one
+of the following courses as an approved elective without petition:
+course
+,
+course
+,
+course
+,
+course
+.
+Note
+: Students participating in
+course
+or
+course
+should make the necessary arrangements with a faculty member. In addition, the faculty member and the student should determine the number of units for the course.
+course
+and
+course
+may only be taken on a credit / no credit basis. If a student takes an independent study in a different department, the grading option should be credit/no credit.
+Unrestricted Electives
+These courses will bring the total number of units submitted for the MS degree to 45. Students are strongly encouraged to take these units outside engineering, mathematics, or the sciences. Students should consult their advisor for recommendations on course loads and on ways to use the unrestricted electives to make a manageable program.
+Unrestricted electives must be
+level 100+
+and may be taken credit/no credit.
+Laboratory Requirement
+Within the courses satisfying the requirements above, there must be at least one graduate-level course with a laboratory component. The following courses can satisfy this requirement.
+Complete ANY of the following Courses:
+ME203 - Design and Manufacturing
+ME210 - Introduction to Mechatronics
+ME218A - Smart Product Design Fundamentals
+ME218B - Smart Product Design Applications
+ME218C - Smart Product Design Practice
+ME220 - Introduction to Sensors
+ME287 - Mechanics of Biological Tissues
+ME327 - Design and Control of Haptic Systems
+ME310B - Global Engineering Design Thinking, Innovation, and Entrepreneurship
+ME310C - Global Engineering Design Thinking, Innovation, and Entrepreneurship
+ME318 - Computer-Aided Product Creation
+ME324 - Precision Engineering
+ME326 - Collaborative Robotics
+ME354 - Experimental Methods in Fluid Mechanics
+ME367 - Optical Diagnostics and Spectroscopy Laboratory
+ME274B - Principles of Robot Autonomy II
+OR
+AA274B - Principles of Robot Autonomy II
+OR
+CS237B - Principles of Robot Autonomy II
+OR
+EE260B - Principles of Robot Autonomy II
+course
+,
+course
+,
+course
+, and similar directed study/research courses offered by faculty in other departments will satisfy this requirement if 3 units are taken for work involving laboratory experiments. Please contact ME Student Services (
+me-degreeprogress@stanford.edu
+) for verification of lab work and approval.
+Students should work with their assigned advisors to develop and update their course plans.

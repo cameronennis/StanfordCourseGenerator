@@ -1,0 +1,1188 @@
+STS-BA - Science, Technology, and Society (BA)
+Download as PDF
+Science, Technology, and Society
+Undergraduate Matriculated
+BA - Bachelor of Arts
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Mission of the Program in Science, Technology, and Society
+The Program in Science, Technology, and Society (STS) aims to provide students with an interdisciplinary framework to understand the complex interactions of science, technology, and the social world. STS students develop technical skills in one or two areas of interest and learn about social dimensions of those areas, while fostering a broad understanding of how science, technology, and society interact. The curriculum includes a set of core courses, as well as six thematic concentration areas for students to dive deeper into a specific intersection of science, technology, and society. Students can also design their own concentration anchored in the distinct intellectual frameworks of STS.
+Students may also undertake research in affiliated laboratories and through the honors program for course units. In the STS honors program, students pursue independent, faculty-supervised research on a topic of their choice, present their findings at an annual honors symposium, and complete a thesis. Some publish their work in academic journals.Students are encouraged to pursue mastery in at least one field from within the humanities or social sciences and at least one field from within the sciences or engineering. Majors may declare either a BA or a BS degree (see the specific requirements for each degree).
+The program’s
+affiliated faculty
+represent over a dozen departments, including Anthropology, Communication, Computer Science, Education, Electrical Engineering, History, Law, Management Science and Engineering, Political Science, and Sociology. By learning to bring such a rich collection of disciplinary approaches to bear on questions of science and technology, students graduate uniquely equipped to succeed in professions that demand fluency with both technical and social frameworks. Recent graduates of STS have entered top-ranked PhD and MBA programs and forged successful careers in various fields, including business, engineering, law, public service, medicine, and academia.
+STS knowledge and sensibilities help you become an active agent in a tech-driven world and an independent thinker who can reimagine how we innovate and address societal challenges.
+Minimum Units in the Program
+76
+Minimum University Units
+180
+Collapse All
+Core Program Requirements
+Completion requirement
+A. Gateway Requirement
+Complete ALL of the following Courses:
+STS1 - Introduction to Science, Technology & Society
+B. Disciplinary Requirement
+Six courses; one of these courses must be an STS WIM course (see WIM section for more details) and at least one of these courses must be an STS Global course. WIM & Global courses can double-count as Program Core Social Sciences & Humanities or Program Core Engineering and Science course.
+Fulfill ALL of the following requirements:
+Global Courses
+Complete at least 1 of the following Courses:
+ANTHRO82 - Medical Anthropology
+ANTHRO126 - The Urban Century: The City in Global Perspective
+ANTHRO151 - Medical Anthropology, a Global View
+ANTHRO186 - Culture and Madness: Anthropological and Psychiatric Approaches to Mental Illness
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+COMPLIT107 - Why is Climate Change Un-believable? Interdisciplinary Approaches to Environmental Action
+COMPLIT207B - Emergent Thinking: Abolition and Climate Change
+CLASSICS151 - Ten Things: An Archaeology of Design
+EARTHSYS106 - World Food Economy
+ECON106 - World Food Economy
+HISTORY44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY79C - History and Ethics of the Global Climate Crisis
+HISTORY140 - World History of Science: From Prehistory through the Scientific Revolution
+HISTORY144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY179C - History and Ethics of the Global Climate Crisis
+HISTORY200B - Doing Environmental History: Water Justice
+HISTORY244F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
+POLISCI114S - International Security in a Changing World
+AND
+1. Social Science and Humanities Courses
+Complete at least 4 of the following Courses:
+AMSTUD145 - Silicon Valley
+ANTHRO41 - Genes and Identity
+ANTHRO82 - Medical Anthropology
+ANTHRO111 - Archaeology of Gender and Sexuality
+ANTHRO126 - The Urban Century: The City in Global Perspective
+ANTHRO151 - Medical Anthropology, a Global View
+ANTHRO186 - Culture and Madness: Anthropological and Psychiatric Approaches to Mental Illness
+ANTHRO198B - Digital Traces
+CLASSICS151 - Ten Things: An Archaeology of Design
+COMM120W - The Rise of Digital Culture
+COMM135W - Deliberative Democracy and its Critics
+COMM137W - The Dialogue of Democracy
+COMM177SW - Specialized Writing and Reporting: Sports Journalism
+COMM184 - Race and Media
+COMM186W - Media, Technology, and the Body
+COMPLIT207B - Emergent Thinking: Abolition and Climate Change
+COMPLIT376 - How to Think About Catastrophe Toward a Theory of Enlightened Doomsaying
+DATASCI154 - Data Science for Social Impact
+EARTHSYS106 - World Food Economy
+ECON106 - World Food Economy
+EDUC120 - Sociology of Science
+ENGLISH106A - What's Critical to Know about AI
+HISTORY44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY79C - History and Ethics of the Global Climate Crisis
+HISTORY140 - World History of Science: From Prehistory through the Scientific Revolution
+HISTORY140A - The Scientific Revolution
+HISTORY144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY179C - History and Ethics of the Global Climate Crisis
+HISTORY200B - Doing Environmental History: Water Justice
+HISTORY200D - Doing the History of Science and Technology
+HISTORY203C - History of Ignorance
+HISTORY235D - The Trial of Galileo: Science, Politics, and Religion
+HISTORY243G - Tobacco and Health in World History: How Big Nic created the template for global science denial
+HISTORY244F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
+MUSIC147R - Performing Rights: Race, Intellectual Property, and the U.S. Recording Industry
+PHIL60 - Introduction to Philosophy of Science
+PHIL165 - Philosophy of Physics: Space, Time and Motion
+POLISCI114S - International Security in a Changing World
+RELIGST3 - The Religious Life of Things
+SOC114 - Economic Sociology
+STS51D - Ethical STEM: Race, Justice, and Embodied Practice
+STS115 - The Ethics of Developing Life-Saving Technologies for Children
+STS142 - Performing The Economy: Markets, Measurement, and Expertise
+STS191W - Doing STS: Introduction to Research
+AND
+2. Engineering and Science Courses
+Complete at least 2 of the following Courses:
+BIO179 - The Science & Practice of Valuing Nature for a Better World
+BIOE122 - BioSecurity and Pandemic Resilience
+BIOE131 - Ethics in Bioengineering
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+CEE70 - Environmental Science and Technology
+CEE100 - Managing Sustainable Building Projects
+CEE107A - Understand Energy
+CEE107R - E^3: Extreme Energy Efficiency
+CEE107S - Understand Energy - Essentials
+CEE130R - Racial Equity in Energy
+CEE173 - Urban Water
+CS181W - Computers, Ethics, and Public Policy (WIM)
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+CS283 - Governing Artificial Intelligence: Law, Policy, and Institutions
+CS339H - Human-Computer Interaction and AI/ML
+EARTHSYS112 - Human Society and Environmental Change
+EARTHSYS114 - Global Change and Emerging Infectious Disease
+EARTHSYS177C - Science and Environmental Journalism
+EARTHSYS191 - Concepts in Environmental Communication
+EARTHSYS227 - Decision Science for Environmental Threats
+ENGR60 - Engineering Economics and Sustainability
+ENGR102W - Technical and Professional Communication
+ENGR110 - Perspectives in Assistive Technology (ENGR 110)
+EPS194 - Technology, International Security, and Sustainability
+HUMBIO171E - Modern Ethical Challenges in Neuroscience and Organ Transplantation
+MED142 - Modern Ethical Challenges in Neuroscience and Organ Transplantation
+PHYSICS191 - Scientific Communication in Physics
+PUBLPOL156 - Health Care Policy and Reform
+SUSTAIN2 - Climate and Society
+All courses must be taken for a letter grade. With a grade of C or higher in each course. Courses
+may not be double-counted
+toward both Core and Concentration Area requirements.
+Depth in Discipline
+Completion requirement
+Pathway Areas
+In addition to the Core requirements common to all STS students, a minimum of 50 units, at least twelve courses, are required from among those designated on the appropriate Pathway Area course list.
+All courses must be taken for a letter grade if offered and may not be double-counted with core coursework. Students may count no more than two-course petitions outside the approved Concentration Area course list toward their STS degree plan. Concentrations are organized around an STS-related area or topic:
+Catastrophic Risks and Solutions
+Communication and Media
+Innovation and Organization
+Life Sciences and Health
+Politics and Policy
+Self-Designed Concentration
+Social Dynamics of Data and Information
+A Bachelor of Arts student must take at least eight classes from the Socio-Cultural Course menu, including at least three designated as Concentration Core and at least four classes from the Technical Course menus.
+Students in both degree programs are encouraged to pursue sequences of courses that build on one another to increase the coherence of their program and give depth to their skill set and knowledge related to STS.
+Alternatively, subject to program approval, a student may design a
+self-designed pathway
+. Students interested in creating their own plan must work with the associate director and have their proposal approved at least two quarters before their graduating quarter. A proposal (5 to 10 pages) should (a) describe your intellectual objectives in detail, (b) explain why a self-designed plan is an optimal way to pursue these objectives (as opposed to the five STS pathways or other majors at Stanford), and (c) list at least 12 courses and 50 units that comprise the plan of study. Students with a self-designed plan must fulfill the same core requirements as other STS students. More information can be found on the
+STS website.
+Each student’s Plan Area, certified or self-designed, requires the approval of the STS Associate Director.
+Concentration in Catastrophic Risks and Solutions
+Fulfill ALL of the following requirements:
+Socio-Cultural Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 5 of the following Courses:
+ANTHRO167 - Body and Environment
+BIOE122 - BioSecurity and Pandemic Resilience
+BIOE131 - Ethics in Bioengineering
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+CEE107A - Understand Energy
+CEE130R - Racial Equity in Energy
+CEE175A - California Coast: Science, Policy, and Law
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE243 - Intro to Urban Sys Engrg
+CEE265F - Environmental Governance and Climate Resilience
+COLLEGE107 - Preventing Human Extinction
+EARTHSYS102 - Fundamentals of Renewable Energy Processes
+EARTHSYS106 - World Food Economy
+EARTHSYS108 - Environmental Wayfinding: Cultural, Artistic, and Spiritual Approaches to Life on a Changing Planet
+EARTHSYS112 - Human Society and Environmental Change
+EARTHSYS116A - Climate Perspectives: Climate Science, Impacts, Carbon Markets, Decarbonization Models and Projects
+EARTHSYS120 - Environmental Justice in California
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+EARTHSYS146J - Black Ecologies
+EARTHSYS149 - Wild Writing
+EARTHSYS160 - Sustainable Cities
+EARTHSYS165 - Sustainable Transportation: Policy and Planning in Practice
+EARTHSYS177C - Science and Environmental Journalism
+EARTHSYS185 - Feeding Nine Billion
+EARTHSYS191 - Concepts in Environmental Communication
+EARTHSYS194 - Introduction to Environmental Justice: Race, Class, Gender and Place
+EARTHSYS227 - Decision Science for Environmental Threats
+EBS123 - The Social Science of Sustainability
+EBS129 - A Deep Dive Into the Indian Ocean: From Prehistory to the Modern Day
+ECON106 - World Food Economy
+ECON155 - Climate change and global inequality
+EPS194 - Technology, International Security, and Sustainability
+ESS166 - Will Technology Save the World?: Environmental Ethics and Techno-Optimism
+FEMGEN147 - Feminism and Technology
+HISTORY79C - History and Ethics of the Global Climate Crisis
+HISTORY179C - History and Ethics of the Global Climate Crisis
+HISTORY203C - History of Ignorance
+HISTORY231D - Disasters: Environment, Disease, and War in Early Modern Europe
+HISTORY278B - The Historical Ecology of Latin America
+HUMRTS224 - Climate Displacement, Migration, and Mobility
+INTLPOL200 - The Social & Economic Impact of Artificial Intelligence
+INTLPOL240 - Contemporary Issues in International Security
+INTLPOL265 - AI, Autonomy, and the Future of Warfare
+INTLPOL296 - Strategic Technology and Global Challenges
+INTLPOL340 - Technology, Innovation and Great Power Competition
+INTNLREL115 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+INTNLREL145 - Genocide and Humanitarian Intervention
+INTNLREL165 - Global Environmental Governance: Politics, Institutions, and Change
+LAW2504 - Environmental Law and Policy
+LAW2515 - Environmental Justice
+MED224 - Social Entrepreneurship and Innovation Lab (SE Lab) - Human & Planetary Health
+MS&E296 - Technology, Innovation and Great Power Competition
+POLISCI111 - The Politics of Climate Change
+POLISCI114S - International Security in a Changing World
+POLISCI115 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+POLISCI231R - Themes in Political Philosophy: Nature
+PUBLPOL154 - Politics and Policy in California
+PUBLPOL183 - Human and Planetary Health
+PWR2STA - Writing & Rhetoric 2: Machine Reasoning, Rhetorics, and Wrongness
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS191W - Doing STS: Introduction to Research
+URBANST165 - Sustainable Transportation: Policy and Planning in Practice
+AND
+Technical Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan. You may use only
+one
+introductory computer science course (CS 105 or CS 106A) toward STS degree requirements.
+Complete at least 4 of the following Courses:
+BIOE271 - Frugal Science
+CEE63 - Weather and Storms
+CEE70 - Environmental Science and Technology
+CEE101D - Computations in Civil and Environmental Engineering
+CEE130B - Quest for an Inclusive Clean Energy Economy
+CEE166B - Hydrologic Processes, Water Resources and Hazards
+CEE173S - Electricity Economics
+CEE176A - Energy Efficient Buildings
+CEE176C - Energy Storage Integration - Vehicles, Renewables, and the Grid
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE263C - Weather and Storms
+CEE278A - Air Pollution Fundamentals
+CEE287 - Earthquake Resistant Design and Construction
+CEE297M - Managing Critical Infrastructure
+CEE330B - Quest for an Inclusive Clean Energy Economy
+CS21SI - AI for Social Good
+CS105 - Introduction to Computers
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+CS106EA - Exploring Artificial Intelligence
+CS151 - Logic Programming
+CS155 - Computer and Network Security
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224N - Natural Language Processing with Deep Learning
+CS224W - Machine Learning with Graphs
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS231N - Deep Learning for Computer Vision
+CS255 - Introduction to Cryptography
+CS273B - Deep Learning in Genomics and Biomedicine
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+EARTHSYS101 - Energy and the Environment
+EARTHSYS102 - Fundamentals of Renewable Energy Processes
+EARTHSYS11 - Introduction to Geology
+EARTHSYS113 - Earthquakes and Volcanoes
+EARTHSYS115 - Science for Sustainable Solutions
+EARTHSYS123A - Biosphere-Atmosphere Interactions
+EARTHSYS128 - Evolution of Terrestrial Ecosystems
+EARTHSYS141 - Remote Sensing of the Oceans
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS145 - Advanced Concepts in Geographic Information Science
+EARTHSYS146B - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+EASTASN217 - Health and Healthcare Systems in East Asia
+ECON133 - Energy Market Design and Regulation
+ENERGY191 - Optimization of Energy Systems
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR60 - Engineering Economics and Sustainability
+EPS6 - Introduction to Data Science for Geoscience
+EPS20 - The Geoscience of Environmental Justice
+ESS102 - Scientific Basis of Climate Change
+ESS123 - Biosphere-Atmosphere Interactions
+ESS141 - Remote Sensing of the Oceans
+ESS162 - Remote Sensing of Land
+ESS305 - Earth System Perspectives I
+GEOPHYS90 - Earthquakes and Volcanoes
+GEOPHYS115 - Taking the Pulse of the Planet
+GEOPHYS201 - Frontiers of Geophysical Research at Stanford
+GEOPHYS220 - Geophysical Mechanics and Dynamics
+INDE263 - Intro to Microbiology and Pharmacology
+MATSCI144 - Thermodynamic Evaluation of Green Energy Technologies
+MATSCI156 - Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution
+MS&E220 - Probabilistic Analysis
+MS&E243 - Energy and Environmental Policy Analysis
+MS&E394 - Advanced Methods in Modeling for Climate and Energy Policy
+PHYSICS25 - Modern Physics
+AND
+Concentration Core Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 3 of the following Courses:
+ANTHRO167 - Body and Environment
+ARCHLGY171 - Failure: From Design Flaws to Societal Collapses
+COLLEGE107 - Preventing Human Extinction
+COMPLIT371 - Posthumanism, Biopolitics, and the Anthropocene  in Science Fiction: A Comparative Perspective
+COMPLIT376 - How to Think About Catastrophe Toward a Theory of Enlightened Doomsaying
+EARTHSYS112 - Human Society and Environmental Change
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+FILMEDIA216 - Media and the Environment
+HISTORY109 - Racial Justice in the Nuclear Age
+HISTORY179C - History and Ethics of the Global Climate Crisis
+HISTORY203C - History of Ignorance
+HISTORY243D - Emerging Diseases, Past and Present
+INTLPOL296 - Strategic Technology and Global Challenges
+POLISCI231R - Themes in Political Philosophy: Nature
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS190 - Environment, Technoscience, and Society
+STS191W - Doing STS: Introduction to Research
+The Pathway Core (Concentration Core) courses must average a C or higher. The minimum cumulative GPA for this requirement is 2.000.
+Concentration in Communication and Media
+Fulfill ALL of the following requirements:
+Socio-Cultural Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 5 of the following Courses:
+AFRICAAM274 - Copyright, IP, and AI in Popular Music
+AFRICAAM389C - Race, Ethnicity, and Language: Anansi in the Machine: Black Oral Traditions and Digital Cultures
+AMSTUD43X - Starstuff: Space and the American Imagination
+AMSTUD120A - News of the West
+AMSTUD143X - Starstuff: Space and the American Imagination
+AMSTUD159A - Making History in Silicon Valley
+ANTHRO98C - Digital Methods in Anthropology
+ANTHRO120H - Introduction to the Medical Humanities
+ANTHRO123A - Archaeology and the Public
+ARCHLGY123 - Archaeology and the Public
+ARTHIST294 - Writing and the Visual: The Art of Art Writing
+ARTSTUDI122 - Decolonizing Archives: Video and AI
+ARTSTUDI192 - AI Art & Aesthetics
+COMM106 - Communication Research Methods
+COMM108 - Media Processes and Effects
+COMM116 - Journalism Law
+COMM120W - The Rise of Digital Culture
+COMM124 - Truth, Trust, and Tech
+COMM135W - Deliberative Democracy and its Critics
+COMM137W - The Dialogue of Democracy
+COMM154 - The Politics of Algorithms
+COMM166 - Virtual People
+COMM172 - Media Psychology
+COMM178A - Artificial Intelligence (AI) and Journalism
+COMM184 - Race and Media
+COMM186W - Media, Technology, and the Body
+CS120 - Introduction to AI Safety
+CS152 - Trust and Safety
+CS182 - Ethics, Public Policy, and Technological Change
+EARTHSYS146J - Black Ecologies
+EARTHSYS177C - Science and Environmental Journalism
+EDUC120 - Sociology of Science
+EDUC421 - Powerful Ideas for Learning Sciences and Technology Design: Sociocultural Practices of the Blues
+ENGLISH106A - What's Critical to Know about AI
+ENGLISH108A - Intro to Disability Studies: Disability and Technology
+ENGLISH182 - Critical Game Studies: What Video Games Tell Us About Us
+ENGLISH186 - Media Theory for an Analog, Digital, and Networked World
+ENGR102W - Technical and Professional Communication
+ENGR145 - Technology Entrepreneurship
+FEMGEN95 - Feminist Games Studio
+FEMGEN147 - Feminism and Technology
+FILMEDIA6 - Media and Mediums
+HISTORY151 - The American West
+HISTORY159 - Making History in Silicon Valley
+HISTORY204D - Advanced Topics in Agnotology
+HISTORY207F - Capstone: Crafting Digital Stories
+MS&E180 - Organizations: Theory and Management
+OSPCPTWN67 - Beyond Silicon Valley: Technology and Development in the Global South
+OSPFLOR67 - Women in Film
+OSPOXFRD57 - The Professional Woman Writer 1660-1860
+OSPPARIS30 - The Avant Garde in France through Literature, Art, and Theater
+POLISCI231R - Themes in Political Philosophy: Nature
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+RELIGST3 - The Religious Life of Things
+SOC126 - Introduction to Social Networks
+SOC180A - Foundations of Social Research
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS177 - The Cultural Politics of Food and Eating: Technology, History, and Justice
+STS190 - Environment, Technoscience, and Society
+STS191W - Doing STS: Introduction to Research
+SYMSYS1 - Minds and Machines
+AND
+Technical Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan. You may use only
+one
+introductory computer science course (CS 105 or CS 106A) toward STS degree requirements
+Complete at least 4 of the following Courses:
+ARTSTUDI114 - Worldbuilding: Sound, Video, Space
+ARTSTUDI129 - Augmented Reality: Placemaking and Storytelling
+ARTSTUDI165A - Intro to Art & Technology
+ARTSTUDI169 - Virtual Reality: the possibility and peril of immersive artwork
+COMM176 - Advanced Digital Journalism Production
+COMM177T - Building News Applications
+CS103 - Mathematical Foundations of Computing
+CS105 - Introduction to Computers
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+CS106E - Exploring Computing
+CS106EA - Exploring Artificial Intelligence
+CS107 - Computer Organization and Systems
+CS107E - Computer Systems from the Ground Up
+CS109 - Introduction to Probability for Computer Scientists
+CS111 - Operating Systems Principles
+CS124 - From Languages to Information
+CS131 - Computer Vision: Foundations and Applications
+CS147 - Introduction to Human-Computer Interaction Design
+CS148 - Introduction to Computer Graphics and Imaging
+CS151 - Logic Programming
+CS206 - Exploring Computational Journalism
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224W - Machine Learning with Graphs
+DATASCI120 - Data Narratives
+DESIGN60 - Visual Expressions
+DESIGN170 - Visual Frontiers
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+ECON102B - Applied Econometrics
+EDUC218 - Topics in Cognition and Learning: Enhancing Human Cognition with AI
+EDUC342 - Child Development and New Technologies
+EE101A - Circuits I
+EE101B - Circuits II
+EE102A - Signals and Systems I
+EE102B - Signals and Systems II
+EE108 - Digital System Design
+EE180 - Digital Systems Architecture
+ENGLISH184E - Literary Text Mining
+ENGLISH184F - Literary Text Mining 2: Studies in Cultural Analytics
+ENGR110 - Perspectives in Assistive Technology (ENGR 110)
+MS&E20 - Discrete Probability Concepts And Models
+MS&E111DS - Introduction to Optimization: Data Science
+MS&E120 - Introduction to Probability
+MS&E135 - Networks
+MS&E220 - Probabilistic Analysis
+MUSIC220A - Fundamentals of Computer-Generated Sound
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+MUSIC251 - Psychophysics and Music Cognition
+MUSIC254 - Computational Music Analysis
+MUSIC256A - Music, Computing, Design: The Art of Design
+MUSIC257 - You Are What You Use: Designing Technology for Neural Change
+POLISCI150A - Data Science for Politics
+SOC180B - Introduction to Data Analysis
+SOC302A - Introduction to Education Data Science: Data Processing
+STATS60 - Introduction to Statistical Methods: Precalculus
+STATS117 - Introduction to Probability Theory
+STATS191 - Introduction to Applied Statistics
+SYMSYS195B - Design for Behavior Change
+SYMSYS195G - Design for Play
+AND
+Concentration Core Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 3 of the following Courses:
+AMSTUD43X - Starstuff: Space and the American Imagination
+AMSTUD143X - Starstuff: Space and the American Imagination
+AMSTUD159A - Making History in Silicon Valley
+ANTHRO98C - Digital Methods in Anthropology
+ANTHRO198B - Digital Traces
+ARCHLGY171 - Failure: From Design Flaws to Societal Collapses
+COMM120W - The Rise of Digital Culture
+COMM154 - The Politics of Algorithms
+COMM184 - Race and Media
+COMM186W - Media, Technology, and the Body
+COMM230A - Digital Civil Society
+EDUC120 - Sociology of Science
+ENGLISH106A - What's Critical to Know about AI
+HISTORY159 - Making History in Silicon Valley
+POLISCI231R - Themes in Political Philosophy: Nature
+RELIGST3 - The Religious Life of Things
+SOC126 - Introduction to Social Networks
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS177 - The Cultural Politics of Food and Eating: Technology, History, and Justice
+STS190 - Environment, Technoscience, and Society
+STS191W - Doing STS: Introduction to Research
+STS200N - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+The Pathway Core (Concentration Core) courses must average a C or higher. The minimum cumulative GPA for this requirement is 2.000.
+Concentration in Innovation and Organization
+Fulfill ALL of the following requirements:
+Socio-Cultural Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 5 of the following Courses:
+AFRICAAM121B - "The Will to Adorn": An Anthropology of Dress
+AMSTUD145 - Silicon Valley
+AMSTUD159A - Making History in Silicon Valley
+ANTHRO91 - Method and Evidence in Anthropology
+ANTHRO123W - How Markets Made the World: Economy, Society, and Power
+ARTHIST129 - Fashion
+BIO182 - Modeling Cultural Evolution
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+CEE130R - Racial Equity in Energy
+CEE134E - Architectural Theory of the American City
+CEE177L - Smart Cities & Communities: Sustainability Design Thinking
+CEE243 - Intro to Urban Sys Engrg
+CLASSICS151 - Ten Things: An Archaeology of Design
+CLASSICS156 - Design of Cities
+COMM124 - Truth, Trust, and Tech
+COMM154 - The Politics of Algorithms
+COMM252A - Governing Artificial Intelligence: Law, Policy, and Institutions
+COMPLIT166 - An Other Science: Technical Knowledge in Multiethnic America
+CS121 - Equity and Governance for Artificial Intelligence
+CS152 - Trust and Safety
+CS177 - Introduction to Product Management with AI
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS283 - Governing Artificial Intelligence: Law, Policy, and Institutions
+CSRE128 - An Other Science: Technical Knowledge in Multiethnic America
+DESIGN101 - History and Ethics of Design
+EARTHSYS137 - Concepts and Analytic Skills for the Social Sector
+EARTHSYS181 - Urban Agroecology
+ECON132 - Persuasive Economic Storytelling
+ECON134 - Wealth of Nations
+ECON136 - Market Design
+EDUC120 - Sociology of Science
+ENGLISH108A - Intro to Disability Studies: Disability and Technology
+ENGLISH182 - Critical Game Studies: What Video Games Tell Us About Us
+ENGR102W - Technical and Professional Communication
+ENGR145 - Technology Entrepreneurship
+FEMGEN44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+FEMGEN147 - Feminism and Technology
+FEMGEN252 - Gender, Work, and the Global Digital Economy
+HISTORY44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY140 - World History of Science: From Prehistory through the Scientific Revolution
+HISTORY140A - The Scientific Revolution
+HISTORY144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY151 - The American West
+HISTORY159 - Making History in Silicon Valley
+HISTORY200D - Doing the History of Science and Technology
+HISTORY202B - Coffee, Sugar, and Chocolate: Commodities and Consumption in World History, 1200-1800
+HISTORY203C - History of Ignorance
+HISTORY205G - Technology and the Meaning of Life
+INTLPOL296 - Strategic Technology and Global Challenges
+INTLPOL340 - Technology, Innovation and Great Power Competition
+INTNLREL140B - Navigating New Frontiers in International Law
+INTNLREL142 - Challenging the Status Quo: Innovation in the Public Sector
+MS&E180 - Organizations: Theory and Management
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+MS&E256 - Technology Assessment and Regulation of Medical Devices
+MS&E265 - Product Management Fundamentals for the Real Economy
+MS&E280 - Organizational Behavior: Evidence in Action
+MS&E296 - Technology, Innovation and Great Power Competition
+OSPPARIS30 - The Avant Garde in France through Literature, Art, and Theater
+OSPPARIS44 - Studio Art: Analytical Drawing
+POLISCI231R - Themes in Political Philosophy: Nature
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+PUBLPOL353A - Science and Technology Policy
+RELIGST3 - The Religious Life of Things
+SOC114 - Economic Sociology
+SOC126 - Introduction to Social Networks
+SOC180A - Foundations of Social Research
+STS51D - Ethical STEM: Race, Justice, and Embodied Practice
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS142 - Performing The Economy: Markets, Measurement, and Expertise
+STS177 - The Cultural Politics of Food and Eating: Technology, History, and Justice
+STS190 - Environment, Technoscience, and Society
+STS191W - Doing STS: Introduction to Research
+SYMSYS1 - Minds and Machines
+URBANST163 - Introduction to Land Use Policy and Planning
+AND
+Technical Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan. You may use only one introductory computer science course (CS 105 or CS 106A) toward STS degree requirements.
+Complete at least 4 of the following Courses:
+ARTSTUDI114 - Worldbuilding: Sound, Video, Space
+ARTSTUDI148P - The Hybrid Print
+ARTSTUDI165A - Intro to Art & Technology
+BIOE271 - Frugal Science
+BMDS223 - Deploying and Evaluating Fair AI in Healthcare
+CEE120A - Building Modeling for Design & Construction
+CEE120B - Advanced Building Modeling Workshop
+CEE130B - Quest for an Inclusive Clean Energy Economy
+CEE176A - Energy Efficient Buildings
+CEE176C - Energy Storage Integration - Vehicles, Renewables, and the Grid
+CEE226 - Life Cycle Assessment for Complex Systems
+CS105 - Introduction to Computers
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+CS106E - Exploring Computing
+CS106EA - Exploring Artificial Intelligence
+CS107 - Computer Organization and Systems
+CS107E - Computer Systems from the Ground Up
+CS109 - Introduction to Probability for Computer Scientists
+CS110 - Principles of Computer Systems
+CS111 - Operating Systems Principles
+CS123 - A Hands-On Introduction to Building AI-Enabled Robots
+CS124 - From Languages to Information
+CS131 - Computer Vision: Foundations and Applications
+CS147 - Introduction to Human-Computer Interaction Design
+CS151 - Logic Programming
+CS221 - Artificial Intelligence: Principles and Techniques
+CS223A - Introduction to Robotics
+CS224W - Machine Learning with Graphs
+CS225A - Experimental Robotics
+CS278 - Social Computing
+CS293 - Empowering Educators via Language Technology
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CSRE323 - Deploying and Evaluating Fair AI in Healthcare
+DATASCI112 - Principles of Data Science
+DATASCI120 - Data Narratives
+DESIGN11 - Visual Thinking
+DESIGN60 - Visual Expressions
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+ECON102B - Applied Econometrics
+ECON108 - Data Science for Business and Economic Decisions
+ECON109 - Economics from Outer Space
+ECON133 - Energy Market Design and Regulation
+ECON137 - Decision Modeling and Information
+EE101A - Circuits I
+EE101B - Circuits II
+EE102A - Signals and Systems I
+EE102B - Signals and Systems II
+EE169 - Introduction to Bioimaging
+EE108 - Digital System Design
+EE180 - Digital Systems Architecture
+ENERGY191 - Optimization of Energy Systems
+ENGR14 - Intro to Solid Mechanics
+ENGR21 - Engineering of Systems
+ENGR40M - An Intro to Making: What is EE
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+ENGR60 - Engineering Economics and Sustainability
+ENGR110 - Perspectives in Assistive Technology (ENGR 110)
+INTLPOL268 - Hack Lab: Introduction to Cybersecurity
+ME80 - Mechanics of Materials
+ME102 - Foundations of Product Realization
+ME103 - Product Realization: Design and Making
+ME128 - Computer-Aided Product Realization
+ME214 - Designing for Accessibility
+MS&E20 - Discrete Probability Concepts And Models
+MS&E111DS - Introduction to Optimization: Data Science
+MS&E120 - Introduction to Probability
+MS&E121 - Introduction to Stochastic Modeling
+MS&E125 - Introduction to Applied Statistics
+MS&E135 - Networks
+MS&E152 - Introduction to Decision Analysis
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+MS&E220 - Probabilistic Analysis
+MS&E236 - Machine Learning for Discrete Optimization
+MS&E252 - Foundations of Decision Analysis
+MS&E284 - Managing Data Science Organizations for Innovation and Impact
+MUSIC220A - Fundamentals of Computer-Generated Sound
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+MUSIC256A - Music, Computing, Design: The Art of Design
+MUSIC257 - You Are What You Use: Designing Technology for Neural Change
+PHYSICS25 - Modern Physics
+SOC180B - Introduction to Data Analysis
+STATS60 - Introduction to Statistical Methods: Precalculus
+STATS100 - Mathematics of Sports
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS117 - Introduction to Probability Theory
+STATS191 - Introduction to Applied Statistics
+STATS202 - Statistical Learning and Data Science
+STATS211 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+SYMSYS195B - Design for Behavior Change
+AND
+Concentration Core Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 3 of the following Courses:
+AMSTUD145 - Silicon Valley
+AMSTUD159A - Making History in Silicon Valley
+CLASSICS151 - Ten Things: An Archaeology of Design
+COMPLIT166 - An Other Science: Technical Knowledge in Multiethnic America
+CSRE128 - An Other Science: Technical Knowledge in Multiethnic America
+COMM154 - The Politics of Algorithms
+EDUC120 - Sociology of Science
+FEMGEN44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY140 - World History of Science: From Prehistory through the Scientific Revolution
+HISTORY140A - The Scientific Revolution
+HISTORY144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY159 - Making History in Silicon Valley
+INTLPOL296 - Strategic Technology and Global Challenges
+PUBLPOL353A - Science and Technology Policy
+RELIGST3 - The Religious Life of Things
+SOC114 - Economic Sociology
+SOC126 - Introduction to Social Networks
+STS51D - Ethical STEM: Race, Justice, and Embodied Practice
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS142 - Performing The Economy: Markets, Measurement, and Expertise
+STS177 - The Cultural Politics of Food and Eating: Technology, History, and Justice
+STS190 - Environment, Technoscience, and Society
+STS191W - Doing STS: Introduction to Research
+STS200N - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+The Pathway Core (Concentration Core) courses must average a C or higher. The minimum cumulative GPA for this requirement is 2.000.
+Concentration in Life Sciences and Health
+Fulfill ALL of the following requirements:
+Socio-Cultural Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 5 of the following Courses:
+AFRICAAM121B - "The Will to Adorn": An Anthropology of Dress
+ANTHRO82 - Medical Anthropology
+ANTHRO91 - Method and Evidence in Anthropology
+ANTHRO120H - Introduction to the Medical Humanities
+ANTHRO151 - Medical Anthropology, a Global View
+ANTHRO153 - Asylum: Knowledge, Politics, and Population
+ANTHRO167 - Body and Environment
+ANTHRO186 - Culture and Madness: Anthropological and Psychiatric Approaches to Mental Illness
+ARCHLGY126 - Archaeobotany
+ARCHLGY139 - Archaeology & Disability
+BIOE131 - Ethics in Bioengineering
+CEE175A - California Coast: Science, Policy, and Law
+COMM186W - Media, Technology, and the Body
+DLCL120 - Introduction to the Medical Humanities
+EARTHSYS112 - Human Society and Environmental Change
+EARTHSYS120 - Environmental Justice in California
+EARTHSYS181 - Urban Agroecology
+EARTHSYS194 - Introduction to Environmental Justice: Race, Class, Gender and Place
+EDUC120 - Sociology of Science
+EDUC340 - Psychology and American Indian/Alaska Native Mental Health
+ENGLISH108A - Intro to Disability Studies: Disability and Technology
+FEMGEN147 - Feminism and Technology
+GENE104Q - Law and the Biosciences
+GENE131 - AI and Vibecoding for healthcare
+HISTORY44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY140 - World History of Science: From Prehistory through the Scientific Revolution
+HISTORY144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY203C - History of Ignorance
+HISTORY243C - People, Plants, and Medicine: Atlantic World Amerindian, African, and European Science
+HISTORY243G - Tobacco and Health in World History: How Big Nic created the template for global science denial
+HUMBIO2B - Culture, Evolution, and Society
+HUMBIO3B - Health Policy Analysis and Population Health
+HUMBIO4B - Development and Epidemiology
+HUMBIO75 - The Cancer Problem: Causes, Treatment, and Prevention
+HUMBIO113 - The Human-Plant Connection
+HUMBIO122A - Health Care Policy and Reform
+HUMBIO122E - Reducing Health Disparities and Closing the Achievement Gap through Health Integration in Schools
+HUMBIO123G - Health Care Systems around the World
+HUMBIO174 - Foundations of Bioethics
+MED224 - Social Entrepreneurship and Innovation Lab (SE Lab) - Human & Planetary Health
+MED232 - Global Health:  Scaling Health Technology Innovations in Low Resource Settings
+MS&E256 - Technology Assessment and Regulation of Medical Devices
+OSPMADRD57 - Health Care: A Contrastive Analysis between Spain and the U.S.
+PEDS202C - Qualitative Research Methods and Study Design
+POLISCI231R - Themes in Political Philosophy: Nature
+PSYCH30 - Introduction to Perception
+PUBLPOL122 - BioSecurity and Pandemic Resilience
+PUBLPOL183 - Human and Planetary Health
+SOC180A - Foundations of Social Research
+STS51D - Ethical STEM: Race, Justice, and Embodied Practice
+STS115 - The Ethics of Developing Life-Saving Technologies for Children
+STS177 - The Cultural Politics of Food and Eating: Technology, History, and Justice
+STS190 - Environment, Technoscience, and Society
+STS191W - Doing STS: Introduction to Research
+SUSTAIN128 - Systems Design for Health: Reimagining Stanford's Food System
+AND
+Technical Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan. You may use only one introductory computer science course (CS 105 or CS 106A) toward STS degree requirements.
+Complete at least 4 of the following Courses:
+BIO43 - Introduction to Laboratory Research in Neuronal Cell Biology
+BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
+BIO47 - Introduction to Research in Ecology and Evolutionary Biology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO102 - Introduction to Neuroscience
+BIO139 - Pattern Formation
+BIO141 - Introduction to Statistics for Biology
+BIO144 - Conservation Biology: A Latin American Perspective
+BIO153 - Molecular Epigenetics in Health and Disease
+BIO161 - Organismal Biology Lab
+BIO163 - Exploring Mammalian Cell Biology Using AI
+BIOE44 - Fundamentals for Engineering Biology Lab
+BIOE80 - Introduction to Bioengineering (Engineering Living Matter)
+BIOE101 - Systems Biology
+BIOE102 - Physical Biology
+BIOE103 - Systems Physiology and Design
+BIOE123 - Bioengineering Systems Prototyping Lab
+BIOE236 - Bioengineering Innate Immunity
+BIOE271 - Frugal Science
+BMDS210 - Modeling Biomedical Systems
+BMDS223 - Deploying and Evaluating Fair AI in Healthcare
+CHEM31A - Chemical Principles I
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+CHEM171 - Linking the Molecular to the Macroscopic: Foundations of Physical Chemistry
+CHEMENG20 - Introduction to Chemical Engineering
+CS105 - Introduction to Computers
+CS106A - Programming Methodology
+CS106EA - Exploring Artificial Intelligence
+CSRE323 - Deploying and Evaluating Fair AI in Healthcare
+EE102A - Signals and Systems I
+EE102B - Signals and Systems II
+ENGR55 - Foundational Biology for Engineers
+EPI159 - Introduction to Probability and Statistics for Epidemiology
+EPI259 - Introduction to Probability and Statistics for Epidemiology
+EPS139 - 500 Million Years of Land Plant Evolution
+GENE222 - Cloud Computing for Biology and Healthcare
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+HUMBIO3A - Cell and Developmental Biology
+HUMBIO4A - The Human Organism
+HUMBIO89 - Introduction to Health Sciences Statistics
+HUMBIO151R - Biology, Health and Big Data
+HUMBIO159 - Genes and Environment in Disease Causation: Implications for Medicine and Public Health
+OSPAUSTL10 - Coral Reef Ecosystems
+OSPAUSTL28 - Terrestrial Ecology and Conservation
+OSPAUSTL32 - Coastal Ecosystems
+PHYSICS21 - Mechanics and Fluids
+PHYSICS23 - Electricity, Magnetism, and Optics
+PSYCH204B - Computational Neuroimaging: Data Analyses
+SOC180B - Introduction to Data Analysis
+STATS60 - Introduction to Statistical Methods: Precalculus
+STATS141 - Introduction to Statistics for Biology
+STATS191 - Introduction to Applied Statistics
+STATS211 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+AND
+Concentration Core Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 3 of the following Courses:
+ANTHRO82 - Medical Anthropology
+ANTHRO151 - Medical Anthropology, a Global View
+ANTHRO167 - Body and Environment
+ANTHRO186 - Culture and Madness: Anthropological and Psychiatric Approaches to Mental Illness
+ARCHLGY126 - Archaeobotany
+COMM186W - Media, Technology, and the Body
+EARTHSYS112 - Human Society and Environmental Change
+EDUC120 - Sociology of Science
+HISTORY44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY140 - World History of Science: From Prehistory through the Scientific Revolution
+HISTORY144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY243C - People, Plants, and Medicine: Atlantic World Amerindian, African, and European Science
+HISTORY243G - Tobacco and Health in World History: How Big Nic created the template for global science denial
+POLISCI231R - Themes in Political Philosophy: Nature
+STS51D - Ethical STEM: Race, Justice, and Embodied Practice
+STS177 - The Cultural Politics of Food and Eating: Technology, History, and Justice
+STS190 - Environment, Technoscience, and Society
+STS191W - Doing STS: Introduction to Research
+The Pathway Core (Concentration Core) courses must average a C or higher. The minimum cumulative GPA for this requirement is 2.000.
+Concentration in Politics and Policy
+Fulfill ALL of the following requirements:
+Socio-Cultural Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 5 of the following Courses:
+AMSTUD43X - Starstuff: Space and the American Imagination
+AMSTUD143X - Starstuff: Space and the American Imagination
+ANTHRO91 - Method and Evidence in Anthropology
+ANTHRO123W - How Markets Made the World: Economy, Society, and Power
+ANTHRO153 - Asylum: Knowledge, Politics, and Population
+ANTHRO167 - Body and Environment
+BIOE122 - BioSecurity and Pandemic Resilience
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+CEE130R - Racial Equity in Energy
+CEE175A - California Coast: Science, Policy, and Law
+CEE177L - Smart Cities & Communities: Sustainability Design Thinking
+COMM135W - Deliberative Democracy and its Critics
+COMM137W - The Dialogue of Democracy
+COMM154 - The Politics of Algorithms
+COMM252A - Governing Artificial Intelligence: Law, Policy, and Institutions
+CS121 - Equity and Governance for Artificial Intelligence
+CS145 - Introduction to Big Data Systems
+CS152 - Trust and Safety
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS283 - Governing Artificial Intelligence: Law, Policy, and Institutions
+EARTHSYS106 - World Food Economy
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+EARTHSYS160 - Sustainable Cities
+EARTHSYS165 - Sustainable Transportation: Policy and Planning in Practice
+EBS123 - The Social Science of Sustainability
+ECON106 - World Food Economy
+EDUC120 - Sociology of Science
+EDUC120C - Education and Society
+EPS194 - Technology, International Security, and Sustainability
+ESS112 - Human Society and Environmental Change
+ESS166 - Will Technology Save the World?: Environmental Ethics and Techno-Optimism
+FEMGEN147 - Feminism and Technology
+FEMGEN252 - Gender, Work, and the Global Digital Economy
+HISTORY102 - The Modern International System
+HISTORY103F - Introduction to Modern Military History
+HISTORY140 - World History of Science: From Prehistory through the Scientific Revolution
+HISTORY151 - The American West
+HISTORY200D - Doing the History of Science and Technology
+HISTORY203C - History of Ignorance
+HISTORY204D - Advanced Topics in Agnotology
+HISTORY261G - Presidents and Foreign Policy in Modern History
+HISTORY278B - The Historical Ecology of Latin America
+HUMBIO122E - Reducing Health Disparities and Closing the Achievement Gap through Health Integration in Schools
+HUMBIO123G - Health Care Systems around the World
+HUMRTS224 - Climate Displacement, Migration, and Mobility
+INTLPOL265 - AI, Autonomy, and the Future of Warfare
+INTLPOL296 - Strategic Technology and Global Challenges
+INTLPOL321 - Fundamentals of Cyber Policy and Security
+INTLPOL340 - Technology, Innovation and Great Power Competition
+INTNLREL115 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+INTNLREL140A - International Law and International Relations
+INTNLREL140B - Navigating New Frontiers in International Law
+INTNLREL140C - The U.S., U.N. Peacekeeping, and Humanitarian War
+INTNLREL142 - Challenging the Status Quo: Innovation in the Public Sector
+INTNLREL165 - Global Environmental Governance: Politics, Institutions, and Change
+INTNLREL180A - Transitional Justice, Human Rights, and International Criminal Tribunals
+MS&E296 - Technology, Innovation and Great Power Competition
+OSPCPTWN67 - Beyond Silicon Valley: Technology and Development in the Global South
+OSPMADRD57 - Health Care: A Contrastive Analysis between Spain and the U.S.
+POLISCI102 - American Politics and Policy: In Defense of Democracy
+POLISCI111 - The Politics of Climate Change
+POLISCI114D - Democracy, Development, and the Rule of Law
+POLISCI114S - International Security in a Changing World
+POLISCI115 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+POLISCI116M - Global Futures: History, Statecraft, Systems
+POLISCI124L - The Psychology of Communication About Politics in America
+POLISCI157 - Politics of AI
+POLISCI231R - Themes in Political Philosophy: Nature
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+PUBLPOL114 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+PUBLPOL122 - BioSecurity and Pandemic Resilience
+PUBLPOL154 - Politics and Policy in California
+PUBLPOL183 - Human and Planetary Health
+PUBLPOL353A - Science and Technology Policy
+SOC180A - Foundations of Social Research
+STS51D - Ethical STEM: Race, Justice, and Embodied Practice
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS177 - The Cultural Politics of Food and Eating: Technology, History, and Justice
+STS190 - Environment, Technoscience, and Society
+STS191W - Doing STS: Introduction to Research
+SUSTAIN128 - Systems Design for Health: Reimagining Stanford's Food System
+URBANST163 - Introduction to Land Use Policy and Planning
+URBANST165 - Sustainable Transportation: Policy and Planning in Practice
+AND
+Technical Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan. You may use only one introductory computer science course (CS 105 or CS 106A) toward STS degree requirements.
+Complete at least 4 of the following Courses:
+CEE70 - Environmental Science and Technology
+CEE101D - Computations in Civil and Environmental Engineering
+CEE130B - Quest for an Inclusive Clean Energy Economy
+CEE173S - Electricity Economics
+CHEM31A - Chemical Principles I
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+CS105 - Introduction to Computers
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+CS106E - Exploring Computing
+CS107 - Computer Organization and Systems
+CS107E - Computer Systems from the Ground Up
+CS109 - Introduction to Probability for Computer Scientists
+CS111 - Operating Systems Principles
+CS151 - Logic Programming
+EARTHSYS102 - Fundamentals of Renewable Energy Processes
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+ECON133 - Energy Market Design and Regulation
+ENERGY132 - Fundamentals of Renewable Energy Processes
+EPS20 - The Geoscience of Environmental Justice
+INTLPOL268 - Hack Lab: Introduction to Cybersecurity
+MS&E220 - Probabilistic Analysis
+PHYSICS25 - Modern Physics
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS43 - Electricity and Magnetism
+PHYSICS45 - Light and Heat
+PHYSICS61 - Mechanics and Special Relativity
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+PHYSICS240 - Introduction to the Physics of Energy
+PHYSICS241 - Introduction to Nuclear Energy
+POLISCI150A - Data Science for Politics
+POLISCI150B - Machine Learning for Social Scientists
+POLISCI150C - Causal Inference for Social Science
+SOC180B - Introduction to Data Analysis
+SOC302A - Introduction to Education Data Science: Data Processing
+STATS60 - Introduction to Statistical Methods: Precalculus
+STATS191 - Introduction to Applied Statistics
+SYMSYS195B - Design for Behavior Change
+AND
+Concentration Core Courses
+Complete at least 3 of the following Courses:
+AMSTUD43X - Starstuff: Space and the American Imagination
+AMSTUD143X - Starstuff: Space and the American Imagination
+ANTHRO167 - Body and Environment
+COMM154 - The Politics of Algorithms
+EARTHSYS106 - World Food Economy
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+ECON106 - World Food Economy
+EDUC120 - Sociology of Science
+EPS194 - Technology, International Security, and Sustainability
+HISTORY140 - World History of Science: From Prehistory through the Scientific Revolution
+HISTORY203C - History of Ignorance
+INTLPOL296 - Strategic Technology and Global Challenges
+POLISCI231R - Themes in Political Philosophy: Nature
+PUBLPOL353A - Science and Technology Policy
+STS51D - Ethical STEM: Race, Justice, and Embodied Practice
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS177 - The Cultural Politics of Food and Eating: Technology, History, and Justice
+STS190 - Environment, Technoscience, and Society
+STS191W - Doing STS: Introduction to Research
+Concentration  in Social Dynamics of Data and Information
+Fulfill ALL of the following requirements:
+Socio-Cultural Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 5 of the following Courses:
+AFRICAAM274 - Copyright, IP, and AI in Popular Music
+AFRICAAM389C - Race, Ethnicity, and Language: Anansi in the Machine: Black Oral Traditions and Digital Cultures
+AMSTUD145 - Silicon Valley
+AMSTUD159A - Making History in Silicon Valley
+ANTHRO98C - Digital Methods in Anthropology
+ARTSTUDI122 - Decolonizing Archives: Video and AI
+ARTSTUDI192 - AI Art & Aesthetics
+CEE177L - Smart Cities & Communities: Sustainability Design Thinking
+CEE243 - Intro to Urban Sys Engrg
+COMM120W - The Rise of Digital Culture
+COMM124 - Truth, Trust, and Tech
+COMM154 - The Politics of Algorithms
+COMM164 - The Psychology of Communication About Politics in America
+COMM166 - Virtual People
+COMM172 - Media Psychology
+COMM173A - Media, Mind, and Black Mirror
+COMM178A - Artificial Intelligence (AI) and Journalism
+COMM184 - Race and Media
+COMM186W - Media, Technology, and the Body
+COMM252A - Governing Artificial Intelligence: Law, Policy, and Institutions
+CS120 - Introduction to AI Safety
+CS121 - Equity and Governance for Artificial Intelligence
+CS152 - Trust and Safety
+CS177 - Introduction to Product Management with AI
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+CS281 - Ethics of Artificial Intelligence
+CS283 - Governing Artificial Intelligence: Law, Policy, and Institutions
+ENGLISH106A - What's Critical to Know about AI
+ENGLISH182 - Critical Game Studies: What Video Games Tell Us About Us
+ENGLISH186 - Media Theory for an Analog, Digital, and Networked World
+FEMGEN147 - Feminism and Technology
+FEMGEN252 - Gender, Work, and the Global Digital Economy
+FILMEDIA6 - Media and Mediums
+HISTORY159 - Making History in Silicon Valley
+HISTORY203C - History of Ignorance
+INTLPOL321 - Fundamentals of Cyber Policy and Security
+INTLPOL340 - Technology, Innovation and Great Power Competition
+INTNLREL115 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+INTNLREL140B - Navigating New Frontiers in International Law
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+MS&E256 - Technology Assessment and Regulation of Medical Devices
+MS&E296 - Technology, Innovation and Great Power Competition
+OSPCPTWN67 - Beyond Silicon Valley: Technology and Development in the Global South
+POLISCI115 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+PUBLPOL353A - Science and Technology Policy
+SOC126 - Introduction to Social Networks
+SOC180A - Foundations of Social Research
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS191W - Doing STS: Introduction to Research
+STS200N - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+SYMSYS1 - Minds and Machines
+AND
+Technical Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan. You may use only one introductory computer science course (CS 105 or CS 106A) toward STS degree requirements.
+Complete at least 4 of the following Courses:
+ARTSTUDI165A - Intro to Art & Technology
+ARTSTUDI169 - Virtual Reality: the possibility and peril of immersive artwork
+BIO141 - Introduction to Statistics for Biology
+BMDS223 - Deploying and Evaluating Fair AI in Healthcare
+CEE120A - Building Modeling for Design & Construction
+CEE120B - Advanced Building Modeling Workshop
+CEE124 - Sustainable Development Studio
+CS103 - Mathematical Foundations of Computing
+CS105 - Introduction to Computers
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+CS106E - Exploring Computing
+CS106EA - Exploring Artificial Intelligence
+CS107 - Computer Organization and Systems
+CS107E - Computer Systems from the Ground Up
+CS109 - Introduction to Probability for Computer Scientists
+CS111 - Operating Systems Principles
+CS123 - A Hands-On Introduction to Building AI-Enabled Robots
+CS124 - From Languages to Information
+CS131 - Computer Vision: Foundations and Applications
+CS139 - Human-Centered AI
+CS145 - Introduction to Big Data Systems
+CS147 - Introduction to Human-Computer Interaction Design
+CS148 - Introduction to Computer Graphics and Imaging
+CS151 - Logic Programming
+CS161 - Design and Analysis of Algorithms
+CS206 - Exploring Computational Journalism
+CS221 - Artificial Intelligence: Principles and Techniques
+CS223A - Introduction to Robotics
+CS224W - Machine Learning with Graphs
+CS225A - Experimental Robotics
+CS278 - Social Computing
+CS293 - Empowering Educators via Language Technology
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CSRE323 - Deploying and Evaluating Fair AI in Healthcare
+DATASCI112 - Principles of Data Science
+DATASCI120 - Data Narratives
+DESIGN170 - Visual Frontiers
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS145 - Advanced Concepts in Geographic Information Science
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+ECON102B - Applied Econometrics
+EDUC218 - Topics in Cognition and Learning: Enhancing Human Cognition with AI
+EDUC342 - Child Development and New Technologies
+EE101A - Circuits I
+EE101B - Circuits II
+EE102A - Signals and Systems I
+EE108 - Digital System Design
+EE180 - Digital Systems Architecture
+ENERGY191 - Optimization of Energy Systems
+ENGLISH184E - Literary Text Mining
+ENGLISH184F - Literary Text Mining 2: Studies in Cultural Analytics
+ENGR76 - Information Science and Engineering
+EPS6 - Introduction to Data Science for Geoscience
+GENE222 - Cloud Computing for Biology and Healthcare
+GEOPHYS115 - Taking the Pulse of the Planet
+HUMBIO88 - Introduction to Statistics for the Health Sciences
+HUMBIO89 - Introduction to Health Sciences Statistics
+HUMBIO140 - Sex and Gender in Human Physiology and Disease
+HUMBIO151R - Biology, Health and Big Data
+INTLPOL268 - Hack Lab: Introduction to Cybersecurity
+ME214 - Designing for Accessibility
+MS&E111DS - Introduction to Optimization: Data Science
+MS&E125 - Introduction to Applied Statistics
+MS&E135 - Networks
+MS&E284 - Managing Data Science Organizations for Innovation and Impact
+MS&E297 - "Hacking for Defense": Solving National Security issues with the Lean Launchpad
+MUSIC220A - Fundamentals of Computer-Generated Sound
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+MUSIC254 - Computational Music Analysis
+MUSIC257 - You Are What You Use: Designing Technology for Neural Change
+PHYSICS25 - Modern Physics
+POLISCI150A - Data Science for Politics
+POLISCI150B - Machine Learning for Social Scientists
+POLISCI150C - Causal Inference for Social Science
+PSYCH204B - Computational Neuroimaging: Data Analyses
+SOC180B - Introduction to Data Analysis
+SOC302A - Introduction to Education Data Science: Data Processing
+STATS60 - Introduction to Statistical Methods: Precalculus
+STATS100 - Mathematics of Sports
+STATS117 - Introduction to Probability Theory
+STATS191 - Introduction to Applied Statistics
+STATS202 - Statistical Learning and Data Science
+STATS211 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+AND
+Concentration Core Courses
+Before a student enrolls in a course from this list, the STS Associate Director must approve the course for their curriculum plan.
+Complete at least 3 of the following Courses:
+AMSTUD145 - Silicon Valley
+AMSTUD159A - Making History in Silicon Valley
+ANTHRO98C - Digital Methods in Anthropology
+COMM120W - The Rise of Digital Culture
+COMM154 - The Politics of Algorithms
+COMM186W - Media, Technology, and the Body
+ENGLISH106A - What's Critical to Know about AI
+FEMGEN252 - Gender, Work, and the Global Digital Economy
+HISTORY159 - Making History in Silicon Valley
+HISTORY203C - History of Ignorance
+SOC126 - Introduction to Social Networks
+STS135 - Constructing and Deconstructing Artificial "Intelligence"
+STS191W - Doing STS: Introduction to Research
+STS200N - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+The Pathway Core (Concentration Core) courses must average a C or higher. The minimum cumulative GPA for this requirement is 2.000.
+Writing in the Major (WIM)
+Completion requirement
+WIM Requirement
+Complete at least 1 of the following Courses:
+BIOE131 - Ethics in Bioengineering
+COMM120W - The Rise of Digital Culture
+COMM135W - Deliberative Democracy and its Critics
+COMM137W - The Dialogue of Democracy
+COMM177SW - Specialized Writing and Reporting: Sports Journalism
+COMM186W - Media, Technology, and the Body
+CS181W - Computers, Ethics, and Public Policy (WIM)
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+EARTHSYS177C - Science and Environmental Journalism
+EARTHSYS191 - Concepts in Environmental Communication
+ENGR102W - Technical and Professional Communication
+HISTORY140A - The Scientific Revolution
+PHYSICS191 - Scientific Communication in Physics
+STS191W - Doing STS: Introduction to Research
+Course must be taken for a letter grade. With a grade of C or higher.
+Capstone
+Completion requirement
+Capstone Courses
+Course must be taken for a letter grade. With a grade of C or higher.
+Complete ANY of the following Courses:
+STS200F - What's New? Interrogating Innovation as a Concept and Practice
+STS200N - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+STS200Q - Sociology of Science
+STS200Y - Reimagining Innovation: Sustainability, Democracy, and Human Dignity
+STS299 - Advanced Individual Work
+Course must be taken for a letter grade. With a grade of C or higher
+Honors
+Completion requirement
+Honors Overview
+Additional information about the Honors Program can be found on the department website:
+https://sts.stanford.edu/academics/sts-honors-program
+All students must complete a capstone project by taking one of the senior capstone courses (STS 200) or applying for and completing an STS honors thesis (STS 299).
+Honors Course
+Earn at least 10 credits from the following:
+STS299 - Advanced Individual Work
+Students must register for STS 299 each quarter for a total of three quarters (Autumn, Winter, and Spring) and a minimum of 10 units to complete the STS Honors program  (i.e. 2 units of STS 299 in Autumn, 3 units of STS 299 in Winter, and 5 units of STS 299 in Spring = 10 units of STS 299). Recommended to take during senior year.
+Must receive a grade of C or higher.
+Monthly STS Honors Meetings
+Enroll in the following Courses:
+STS298 - STS Honors Meeting
+A required monthly workshops for current STS honors students.

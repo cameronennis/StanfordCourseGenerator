@@ -1,0 +1,178 @@
+BIOE-BS - Bioengineering (BS)
+Download as PDF
+BioengineeringUndergraduate MatriculatedBS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+
+The Stanford Bioengineering major enables students to combine engineering and the life sciences.
+
+Minimum Units in the Program
+100
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+Mathematics
+
+24 units minimum
+
+Fulfill ALL of the following requirements:
+Calculus Course Series
+Complete ALL of the following Courses:
+MATH19 - Calculus
+
+MATH20 - Calculus
+
+MATH21 - Calculus
+
+AND
+Mathematics Series
+
+The CME series (100, 102) is strongly recommended over the MATH series (51, 53).
+
+Fulfill ANY of the following requirements:
+CME Series
+Complete ALL of the following Courses:
+CME100 - Vector Calculus for Engineers
+
+CME102 - Ordinary Differential Equations for Engineers
+
+OR
+MATH Series
+Complete ALL of the following Courses:
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+
+AND
+Probability/Statistics
+Complete ANY of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+
+STATS141 - Introduction to Statistics for Biology
+
+Science
+
+26 units minimum
+
+Fulfill ALL of the following requirements:
+Biology, Chemistry and Physics
+Complete ALL of the following Courses:
+BIO82 - Genetics
+OR BIO83 - Biochemistry & Molecular Biology
+
+BIO84 - Physiology
+
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+
+PHYSICS41 - Mechanics
+OR PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+OR PHYSICS61 - Mechanics and Special Relativity
+
+PHYSICS43 - Electricity and Magnetism
+OR PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+
+AND
+General Chemistry
+Complete ANY of the following Courses:
+CHEM31A - Chemical Principles I
+AND CHEM31B - Chemical Principles II
+
+CHEM31E - Chemical Foundations and 21st Century Problems
+
+Technology in Society (TiS)
+Complete ALL of the following Courses:
+BIOE131 - Ethics in Bioengineering
+
+Engineering Fundamentals
+
+The minimum Combined GPA for all courses in Engineering Fundamentals and Depth is 2.0.
+
+Fulfill ALL of the following requirements:
+Fundamentals Core
+Complete ALL of the following Courses:
+BIOE80 - Introduction to Bioengineering (Engineering Living Matter)
+
+CS106A - Programming Methodology
+OR CS106B - Programming Abstractions
+
+AND
+Fundamentals Elective
+Complete at least 1 of the following Courses:
+ENGR10 - Introduction to Engineering Analysis
+
+ENGR14 - Intro to Solid Mechanics
+
+ENGR21 - Engineering of Systems
+
+Core Program Requirements
+Completion requirement
+Bioengineering Core
+
+A course may only be counted toward one requirement; it may not be double-counted.
+
+Complete ALL of the following Courses:
+BIOE44 - Fundamentals for Engineering Biology Lab
+
+BIOE101 - Systems Biology
+
+BIOE102 - Physical Biology
+
+BIOE103 - Systems Physiology and Design
+
+BIOE123 - Bioengineering Systems Prototyping Lab
+
+BIOE141A - Senior Capstone Design I
+
+BIOE141B - Senior Capstone Design II
+
+Depth in Discipline
+Completion requirement
+Depth Electives
+
+Independent study, individual research, and directed study courses cannot fulfill depth elective requirements.
+
+Complete 3 or more course(s) and earn 8 or more credit(s) from the following:
+BIOE51 - Anatomy for Bioengineers
+OR BIOE220 - Introduction to Imaging and Image-based Human Anatomy
+
+BIOE150 - Biochemical Engineering
+
+BIOE209 - Mathematical Modeling of Biological Systems
+
+BIOE260 - Tissue Engineering
+
+BIOE282 - Introduction to Biomechanics and Mechanobiology
+
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+Complete ALL of the following Courses:
+BIOE131 - Ethics in Bioengineering
+
+Capstone
+Completion requirement
+Capstone Experience
+Complete ALL of the following Courses:
+BIOE141A - Senior Capstone Design I
+
+BIOE141B - Senior Capstone Design II
+
+Honors
+Completion requirement
+Honors Requirement Overview
+
+Complete at least two quarters of research with a minimum of nine units of BIOE191X for a letter grade.
+
+Research Lab in Bioengineering
+
+Complete at least two quarters of research with a minimum of nine units.
+
+Earn at least 9 credits from the following:
+BIOE191X - Advanced Honors Research in Bioengineering

@@ -1,0 +1,274 @@
+BIO-MIN - Biology (Minor)
+Download as PDF
+Biology
+Undergraduate Matriculated
+General
+Program Policies
+Learning Outcomes
+Program Overview
+Students in the program learn to think and analyze information critically, draw connections among the different areas of biology, and communicate their ideas effectively to the scientific community.
+Students interested in the minor in Biology must declare the minor and submit their course plan online via Axess no later than two quarters before the student’s intended quarter of degree conferral.
+Minimum Units in the Program
+20
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+The Biology minor requires a minimum of six courses meeting the following criteria:
+All courses must be taken for a letter grade (no other grading basis is allowed).
+A minimum total GPA of 2.0 is required in courses taken for the minor.
+All courses must be worth or approved for three or more units.
+At least three courses must be taken at the 100-level or higher. The only courses below 100 that are allowable are one additional BIO 80- level course and OSPAUSTL 10, 28, or 32; note that OSPAUSTL 10, 28, and 32 together count as three courses toward the minor
+The two required 80-series courses for the minor cannot be substituted through transfer credit or any other course (BIO 100-level or higher, approved out-of-department course, or through a submitted General Petition)
+Courses used to fulfill the minor may not be used to satisfy any other department degree requirements (minor or major).
+Stanford Introductory Seminars (IntroSems or Sophomore Seminars) may not be used to fulfill the minor requirements.
+Courses that do NOT count toward the minor:
+Foundational lab courses (BIO 43, BIO 44,  BIO 45, BIO 46, BIO 47)
+Capstone courses: BIO 196A, 196B, 196C; BIO 199A, 199B, 199C; BIO 199W
+Out-of-department research (BIO 199X)
+Directed reading (BIO 198, 198X)
+No transfer courses can count toward the BIO 80-series
+HUMBIO Core cannot substitute BIO 80-series courses
+Biology Foundations Courses
+Complete at least 2 of the following Courses:
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO85 - Evolution
+BIO86 - Cell Biology
+Additionally, students may count one additional Bio Foundations (80-level) Course toward the minor.
+Upper Division Coursework
+Fulfill ANY of the following requirements:
+Upper Division Coursework Overview
+Complete 3-4 courses, of at least three units, from the options listed below.
+OR
+BIO Courses numbered 100 and above
+OR
+Approved Out of Department Electives for the Minor
+Fulfill ANY of the following requirements:
+Biochemistry
+Complete ANY of the following Courses:
+BIOC241 - Biological Macromolecules
+OR
+Bioengineering
+Complete ANY of the following Courses:
+BIOE101 - Systems Biology
+BIOE103 - Systems Physiology and Design
+BIOE214 - Representations and Algorithms for Computational Molecular Biology
+BIOE217 - Translational Bioinformatics
+BIOE220 - Introduction to Imaging and Image-based Human Anatomy
+BIOE231 - Protein Engineering
+BIOE241 - Biological Macromolecules
+BIOE279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+BIOE450 - Advances in Biotechnology
+course
+(and any crosslisting) Advances in Biotechnology may only count toward the Biology minor
+once
+.
+OR
+Biomedical Informatics
+Complete ANY of the following Courses:
+BMDS173A - Foundations of Computational Human Genomics
+BMDS210 - Modeling Biomedical Systems
+BMDS214 - Representations and Algorithms for Computational Molecular Biology
+BMDS217 - Translational Bioinformatics
+BMDS221 - Machine Learning Approaches for Data Fusion in Biomedicine
+BMDS245 - Computational Biology: Structure and Organization of Biomolecules and Cells
+BMDS273 - Deep Learning in Genomics and Biomedicine
+OR
+Biophysics
+Complete ANY of the following Courses:
+BIOPHYS241 - Biological Macromolecules
+BIOPHYS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+OR
+Cancer Biology
+Complete ANY of the following Courses:
+CBIO101 - Cancer Biology
+CBIO240 - Molecular and Genetic Basis of Cancer
+OR
+Chemistry
+Complete ANY of the following Courses:
+CHEM141 - The Chemical Principles of Life I
+CHEM143 - The Chemical Principles of Life II
+CHEM171 - Linking the Molecular to the Macroscopic: Foundations of Physical Chemistry
+CHEM181 - Biochemistry I
+CHEM183 - Biochemistry II
+CHEM184 - Biological Chemistry Laboratory
+CHEM185 - Biophysical Chemistry
+CHEM283 - Therapeutic Science at the Chemistry -  Biology Interface
+CHEM 181 and 183 (may not count if CHEM 141/143 were also taken)
+OR
+Civil & Environmental Engineering
+Complete ANY of the following Courses:
+CEE162I - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+CEE177 - Aquatic Chemistry and Biology
+CEE274D - Pathogens and Disinfection
+OR
+Computer Science
+Complete ANY of the following Courses:
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+CS107 - Computer Organization and Systems
+CS109 - Introduction to Probability for Computer Scientists
+CS173A - Foundations of Computational Human Genomics
+CS221 - Artificial Intelligence: Principles and Techniques
+CS270 - Modeling Biomedical Systems
+CS273B - Deep Learning in Genomics and Biomedicine
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275 - Translational Bioinformatics
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+OR
+Developmental Biology
+Complete ANY of the following Courses:
+DBIO173A - Foundations of Computational Human Genomics
+DBIO210 - Developmental Biology
+OR
+Earth Systems
+Complete ANY of the following Courses:
+EARTHSYS114 - Global Change and Emerging Infectious Disease
+EARTHSYS123A - Biosphere-Atmosphere Interactions
+EARTHSYS141 - Remote Sensing of the Oceans
+EARTHSYS142 - Remote Sensing of Land
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS146B - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+EARTHSYS151 - Biological Oceanography
+EARTHSYS152 - Marine Chemistry
+EARTHSYS155 - Science of Soils
+EARTHSYS158 - Geomicrobiology
+EARTHSYS205A - Fundamentals of Geobiology
+EARTHSYS240 - Data Science for Geoscience
+OR
+Energy
+Complete ANY of the following Courses:
+ENERGY240 - Data Science for Geoscience
+OR
+Earth System Science
+Complete ANY of the following Courses:
+ESS123 - Biosphere-Atmosphere Interactions
+ESS141 - Remote Sensing of the Oceans
+ESS151 - Biological Oceanography
+ESS152 - Marine Chemistry
+ESS155 - Science of Soils
+ESS158 - Geomicrobiology
+ESS162 - Remote Sensing of Land
+ESS164 - Fundamentals of Geographic Information Science (GIS)
+ESS205 - Fundamentals of Geobiology
+ESS239 - Data Science for Geoscience
+OR
+Genetics
+Complete ANY of the following Courses:
+GENE202 - Molecular, Cellular, and Genetic Medicine
+GENE211 - Genomics
+GENE214 - Representations and Algorithms for Computational Molecular Biology
+GENE217 - Translational Bioinformatics
+GENE235 - C. Elegans Genetics
+GENE236 - Deep Learning in Genomics and Biomedicine
+OR
+Earth and Planetary Science
+Complete ANY of the following Courses:
+EPS139 - 500 Million Years of Land Plant Evolution
+EPS240 - Data Science for Geoscience
+EPS205 - Fundamentals of Geobiology
+OR
+Geophysics
+Complete ANY of the following Courses:
+GEOPHYS141 - Remote Sensing of the Oceans
+OR
+Human Biology
+Complete ANY of the following Courses:
+HUMBIO113 - The Human-Plant Connection
+HUMBIO114 - Global Change and Emerging Infectious Disease
+HUMBIO130 - Human Nutrition
+HUMBIO135 - Exercise Physiology
+HUMBIO154C - Cancer Epidemiology
+OR
+Immunology
+Complete ANY of the following Courses:
+IMMUNOL201 - Advanced Immunology I
+IMMUNOL202 - Advanced Immunology II
+IMMUNOL205 - Immunology in Health and Disease
+IMMUNOL206 - Introduction to Applied Computational Tools in Immunology
+IMMUNOL209 - Translational Immunology
+OR
+Molecular and Cellular Physiology
+Complete ANY of the following Courses:
+MCP156 - How Cells Work: Energetics, Compartments, and Coupling in Cell Biology
+OR
+Neurobiology
+Complete ANY of the following Courses:
+NBIO227 - Understanding Techniques in Neuroscience
+OR
+Overseas Studies - Australia
+Complete ANY of the following Courses:
+OSPAUSTL10 - Coral Reef Ecosystems
+OSPAUSTL28 - Terrestrial Ecology and Conservation
+OSPAUSTL32 - Coastal Ecosystems
+OSPAUSTL10, 28, and 32 together count for
+3 courses
+toward the Biology minor.
+OR
+Overseas Studies - Santiago
+Complete ANY of the following Courses:
+OSPSANTG85 - Marine Ecology of Chile and the South Pacific
+OSPSANTG58 - Global Change in Chile
+OR
+Pathology
+Complete ANY of the following Courses:
+PATH101 - Cancer Biology
+OR
+Psychology
+Complete ANY of the following Courses:
+PSYCH169 - Advanced Seminar on Memory
+PSYCH202 - Cognitive Neuroscience
+PSYCH221 - Image Systems Engineering
+OR
+Radiology
+Complete ANY of the following Courses:
+RAD220 - Introduction to Imaging and Image-based Human Anatomy
+OR
+Structural Biology
+Complete ANY of the following Courses:
+SBIO241 - Biological Macromolecules
+OR
+Stem Cell Biology and Regenerative Medicine
+Complete ANY of the following Courses:
+STEMREM201A - Stem Cell Biology & Regenerative Medicine
+OR
+Surgery
+Complete ANY of the following Courses:
+SURG101 - Regional Study of Human Structure
+OR
+Symbolic Systems
+Complete ANY of the following Courses:
+SYMSYS195I - Image Systems Engineering
+OR
+Sustainability
+Complete ANY of the following Courses:
+SUSTAIN103 - Human and Planetary Health
+OR
+Chemical Engineering
+Complete ANY of the following Courses:
+CHEMENG110A - Introduction to Chemical Engineering Thermodynamics
+OR
+Medicine
+Complete ANY of the following Courses:
+TRAM212B - Advanced Translational Technologies and Computational Methods
+OR
+Oceans
+Complete ANY of the following Courses:
+OCEANS173H - Marine Conservation Biology
+OR
+Psychiatry
+Complete ANY of the following Courses:
+PSYC124 - Brain Plasticity
+PSYC152 - The Neuroscience of Stress and Reward: Emotions, Behavior, and Neurocircuit Mechanisms
+PSYC183 - Addictions in our World: From Physiology to Human Behavior
+OR
+Statistics
+Complete ANY of the following Courses:
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science

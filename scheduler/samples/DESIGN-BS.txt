@@ -1,0 +1,556 @@
+DESIGN-BS - Design (BS)
+Download as PDF
+Hasso Plattner Institute of Design
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Welcome to Design!  The DESIGN-BS bulletin outlines 2026-2027 degree requirements for students pursuing the undergraduate Design major from the
+School of Engineering
+.  The degree is administered by the
+Hasso Plattner Institute of Design at Stanford
+(the Stanford d.school).  100% completion of all degree requirements within this engineering program, along with meeting
+Undergraduate Academic Progress
+, can lead to the conferral of the Bachelor of Science in Design (DESIGN-BS).
+Our mission is to graduate designers who can synthesize technology, aesthetics, and business factors in service of the planet and human needs.  Students emerge with a strong technical know-how, and visual thinking abilities that provide human-centered orientation to problem-solving.  The ability to seamlessly integrate across "right brain / left brain" ways of thinking empowers students to make products, services, and experiences with transformative potential.
+The d.school is a creative home for the major.  Our students regularly engage in community events, making programs, group work, and the pursuit of meaningful design projects.  This major prepares students for unique internships, research, postgraduate study in design (including Stanford coterminal degrees), public or private sector institutions, entrepreneurial endeavors, and careers that are emerging and may not yet exist.
+Minimum Units in the Program
+94
+Minimum University Units
+180
+Collapse All
+Degree Requirements Overview:
+Fulling DESIGN-BS degree requirements consists of completing classes in the following categories:
+Mathematics and Statistics
+(School Requirements)
+Behavioral Science
+(School Requirements)
+Additional SoE Math and Science
+(School Requirements)
+Technology in Society
+(School Requirements)
+Engineering Fundamentals
+(School Requirements)
+Design Core
+(Core Program Requirements)
+Methods Depth Area
+(Depth in Discipline)
+Domain Focus Area
+(Breadth in Discipline)
+Capstone
+(Capstone)
+Review each section carefully to see all posted requirements, allowed courses, rules, and note stipulations to follow.
+School Requirements
+Completion requirement
+School Requirements (Engineering Breadth):
+School of Engineering (SoE) requires SoE Breadth to be fulfilled. These are a set of defined subjects that provide you with a well-rounded education in the Engineering field.  You will gain a foundation in critical topics for being an engineer.  You should pay close attention to the notes in each section as certain classes and stipulations are required depending on the Methods Depth Track you pursue.
+Fulfill ALL of the following requirements:
+Mathematics
+Mathematics consists of the single-variable, or multi-variable, calculus series along with  statistics courses.
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+OR
+CME100 - Vector Calculus for Engineers
+OR
+CS103 - Mathematical Foundations of Computing
+STATS60 - Introduction to Statistical Methods: Precalculus
+OR
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+OR
+STATS160 - Introduction to Statistical Methods: Precalculus
+A) 20 units minimum required for the (Physical Methods Track) and (AI Methods Track).
+B) 15 units minimum required for the (Human Behavior Methods Track).
+C) (MATH 19), (MATH 20), and 6 units of Mathematics can be waived only if you receive a grade of C or better in (Math 21).  The course waiver automatically is made on a student’s My Academic Path (MAP) page, but you must ask the Design Student Services Officer to manually waive the associated units in the Mathematics section.
+D) (MATH 21) needs to be taken either at Stanford or with the equivalent transfer work.  Students can replace the (MATH 21) requirement if they take a class that makes substantial use of the concepts in (MATH 21) while also receiving a grade of C or better: (MATH 53), (MATH 106), (MATH 115), or (CME 102).
+E) A score of 5 on the (AP Calculus BC test) is equivalent to (MATH 19), (MATH 20), (MATH 21) and gives students 10 units towards Mathematics.
+F) A score of 4 on (AP Calculus BC test) or 5 on the (AP Calculus AB test) is equivalent to only (MATH 19) and (MATH 20) and gives students only 6 units towards Mathematics.  The AP substitution, and units, is made automatically on a student’s My Academic Path (MAP) page.
+G) (MATH 51) or (CME 100) is only required for the (Physical Methods Track) or (AI Methods Track).
+(CS 103) is also a suitable option for (AI Methods Track).
+AND
+Behavioral Science
+Behavioral Sciences draws on the social sciences to study human behavior.
+Complete ALL of the following Courses:
+PSYCH1 - Introduction to Psychology
+A) No other (PSYCH) or (PSYC) class is allowed.
+AND
+Additional School of Engineering Math and Science (Additional SoE Math & Science):
+Additional SoE Math and Science is where allowed classes posted by SoE for Mathematics and Science may be applied.  The number of courses for use here may vary based on the remaining units you need to reach the 30 unit required minimum.
+Complete ANY of the following Courses:
+BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
+BIO47 - Introduction to Research in Ecology and Evolutionary Biology
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO85 - Evolution
+BIO86 - Cell Biology
+BIO150 - Human Behavioral Biology
+CEE63 - Weather and Storms
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+CEE70 - Environmental Science and Technology
+CEE101D - Computations in Civil and Environmental Engineering
+CEE201D - Computations in Civil and Environmental Engineering
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+CHEM31A - Chemical Principles I
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+CHEM123 - Organic Polyfunctional Compounds
+CME100 - Vector Calculus for Engineers
+CME102 - Ordinary Differential Equations for Engineers
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+CME106 - Introduction to Probability and Statistics for Engineers
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+CME192 - MATLAB for Scientific Computing and Engineering
+CS103 - Mathematical Foundations of Computing
+CS109 - Introduction to Probability for Computer Scientists
+EARTHSYS2 - Chemistry of the Earth and Planets
+EARTHSYS10 - Introduction to Earth Systems
+EARTHSYS11 - Introduction to Geology
+EE178 - Probabilistic Systems Analysis
+ENGR62 - Introduction to Optimization
+ENGR62X - Introduction to Optimization (Accelerated)
+ENGR90 - Environmental Science and Technology
+ENGR108 - Introduction to Matrix Methods
+ENGR154 - Vector Calculus for Engineers
+ENGR155A - Ordinary Differential Equations for Engineers
+ENGR155B - Linear Algebra and Partial Differential Equations for Engineers
+ENGR155C - Introduction to Probability and Statistics for Engineers
+EPS1 - Introduction to Geology
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+HUMBIO3A - Cell and Developmental Biology
+HUMBIO4A - The Human Organism
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+MATH52 - Integral Calculus of Several Variables
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+MATH104 - Applied Matrix Theory
+MATH106 - Functions of a Complex Variable
+MATH109 - Groups and Symmetry
+MATH110 - Number Theory for Cryptography
+MATH113 - Linear Algebra and Matrix Theory
+MATH115 - Functions of a Real Variable
+MATH120 - Groups and Rings
+MATH121 - Galois Theory
+MATH131P - Partial Differential Equations
+MATH151 - Introduction to Probability Theory
+MS&E111 - Introduction to Optimization
+MS&E111X - Introduction to Optimization (Accelerated)
+MS&E120 - Introduction to Probability
+MS&E121 - Introduction to Stochastic Modeling
+MS&E125 - Introduction to Applied Statistics
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS42 - Classical Mechanics Laboratory
+PHYSICS43 - Electricity and Magnetism
+PHYSICS44 - Electricity and Magnetism Lab
+PHYSICS45 - Light and Heat
+PHYSICS46 - Light and Heat Laboratory
+PHYSICS61 - Mechanics and Special Relativity
+PHYSICS61L - Mechanics Laboratory
+PHYSICS71 - Quantum and Thermal Physics
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS160 - Introduction to Statistical Methods: Precalculus
+A) Design abides by the
+Allowed List of Mathematics Courses
+and the
+Allowed List of Science Courses
+from School of Engineering.
+B) Quantity of courses varies based on the units needed to reach 30 units.
+C) (PHYSICS 41) is required for (Physical Methods Track). Students may choose (PHYSICS 41) or (PHYSICS 41E), but both cannot be taken towards the major.
+D) (CS 103) and (CS 109) are recommended for (AI Methods Track).
+E) If (MATH 51) and (CME 100) are both taken, only 8 units of credit will be allowed towards the Design major due to overlapping material.
+F) More advanced Mathematics or Statistics courses may be considered through petition.
+G) ACE courses are encouraged for students that seek additional support with MATH or CS courses, but the ACE credit may not count towards the major unit minimum requirements.
+AND
+Technology in Society (TiS)
+Technology in Society is devoted to exploring ethical, social issues, and responsibilities arising from the interplay of engineering, technology, and society.  You must take one course.
+Complete at least 1 of the following Courses:
+AA252 - Techniques of Failure Analysis
+ARCHLGY151 - Ten Things: An Archaeology of Design
+BIOE131 - Ethics in Bioengineering
+DESIGN259 - Inventing the Future
+BIOE177 - Inventing the Future
+CEE145E - Equitable Infrastructure Solutions
+CLASSICS168 - Engineering the Roman Empire
+COMM120W - The Rise of Digital Culture
+COMM166 - Virtual People
+CS125 - Data: Algorithms, Tools, Policy, and Society
+CS139 - Human-Centered AI
+CS152 - Trust and Safety
+CS181 - Computers, Ethics, and Public Policy
+OR
+CS181W - Computers, Ethics, and Public Policy (WIM)
+CS182 - Ethics, Public Policy, and Technological Change
+CS256 - Algorithmic Fairness
+CS278 - Social Computing
+DATASCI154 - Data Science for Social Impact
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+ENGR117 - Expanding Engineering Limits: Culture, Diversity, and Equity
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ENGR248 - Principled Entrepreneurial Decisions
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+AND
+ENERGY177B - Engineering and Sustainable Development: Implementation
+EPS194 - Technology, International Security, and Sustainability
+EPS204 - Technology, International Security, and Sustainability
+MS&E179 - Entrepreneurship for Everyone
+MS&E193 - Technology and National Security
+NBIO101 - Social and Ethical Issues in the Neurosciences
+POLISCI114S - International Security in a Changing World
+PUBLPOL114 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+STS1 - Introduction to Science, Technology & Society
+STS115 - The Ethics of Developing Life-Saving Technologies for Children
+A) Design abides by the
+Allowed List of Technology in Society courses
+from School of Engineering.
+B) (ENERGY 177A) and (ENERGY 177B) must both be taken, and for 3 units each, to fulfill TiS.
+C) (NBIO 101) is by application, and must be taken for 3 units and a letter grade to fulfill TiS.
+AND
+Engineering Fundamentals
+Engineering Fundamentals is a set of technically rigorous introductory courses chosen from the various engineering disciplines.  They provide knowledge about major fields, they give an opportunity to explore a number of engineering topics before embarking on a specific engineering major, and each class offers a reasonable insight into a contemporary technological subject for the interested non-engineer.  You must complete a minimum of two Engineering Fundamentals courses.
+Complete at least 2 of the following Courses:
+BIOE80 - Introduction to Bioengineering (Engineering Living Matter)
+CEE70 - Environmental Science and Technology
+CS106A - Programming Methodology
+OR
+CS106B - Programming Abstractions
+CS106AX - Programming Methodologies in JavaScript and Python (Accelerated)
+CS106M - Enrichment Adventures in Programming Abstractions
+ENGR10 - Introduction to Engineering Analysis
+ENGR14 - Intro to Solid Mechanics
+ENGR15 - Dynamics
+ENGR20 - Introduction to Chemical Engineering
+ENGR21 - Engineering of Systems
+ENGR40M - An Intro to Making: What is EE
+ENGR42 - Introduction to Electromagnetics and Its Applications
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+ENGR55 - Foundational Biology for Engineers
+ENGR60 - Engineering Economics and Sustainability
+ENGR65 - Modern Physics for Engineers
+EE65 - Modern Physics for Engineers
+ENGR76 - Information Science and Engineering
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+ENGR90 - Environmental Science and Technology
+MS&E111DS - Introduction to Optimization: Data Science
+MS&E111X - Introduction to Optimization (Accelerated)
+A) Design abides by the
+Allowed List of Engineering Fundamental courses
+from School of Engineering.
+B) (ENGR 14) is required for (Physical Methods Track).
+C) (CS 106A) is required for (AI Methods Track).
+D) Only (CS 106A) or (CS 106B) counts towards Engineering Fundamentals.
+E) (CS 106M) is a companion course to (CS 106B), for 1 unit, but may not count as a standalone course fulfilling Engineering Fundamentals.
+Core Program Requirements
+Completion requirement
+Design Core
+The Design Core are signature courses to our major program.  It consists of defined classes where you will learn, work, collaborate, and cultivate skills among your design peers.  Each course has its own learning outcomes and priorities.  It is an integrated sequence that delves into topics of needfinding, user research, expressing ideas visually, rapid prototyping across media, building to think business factors, and storytelling (among other subjects).  A key component to all our core classes is the ethics and implications of producing design work.
+Complete ALL of the following Courses:
+DESIGN1 - Introduction to Design
+DESIGN11 - Visual Thinking
+DESIGN60 - Visual Expressions
+DESIGN101 - History and Ethics of Design
+DESIGN121 - Introduction to Human Values in Design
+DESIGN131 - Advanced Design: Needfinding
+DESIGN141 - Design Methods
+DESIGN160R - Design Formation
+(DESIGN 1) and (Design 11) have limited space which may impact the quarter you enroll.
+(DESIGN 121) should be completed spring of sophomore year, or fall of junior year.
+(DESIGN 160R) should be taken junior year.
+(DESIGN 151) is strongly recommended for students following a 2025-2026 Program Sheet or a 2026-2027 Program Sheet.
+Depth in Discipline
+Completion requirement
+Methods Depth Areas
+Methods lets you take classes across the university to sharpen making skills, abilities, and gain professional fluency.
+You will choose one of three Method Depths tracks listed below:
+[1]
+Physical Design + Manufacturing
+— Methods range from classes on materials and mechanisms (to understand what is possible with physical design) to manufacturing processes and supply chain logistics (to understand how physical design is implemented).
+[2]
+AI + Digital User Experience
+— Methods range from foundational programming methodologies and human-computer interaction classes to applied courses on digital prototyping, user experience design, and incorporating AI and data science.
+[3]
+Human Behavior + Multi-stakeholder Research
+— Methods span qualitative and quantitative approaches to better understand people – who we are, what we do, and why we do it.  Classes focus on communication, data science, and psychology to help understand how to design for the human experience.
+Fulfill ANY of the following requirements:
+Physical Design + Manufacturing
+Complete ALL of the following Courses:
+ME80 - Mechanics of Materials
+OR
+CEE101A - Mechanics of Materials
+ME102 - Foundations of Product Realization
+ME103 - Product Realization: Design and Making
+ME104 - Mechanical Systems Design
+OR
+ME129 - Manufacturing Processes and Design
+OR
+ME152 - Material Behaviors and Failure Prediction
+OR
+ME210 - Introduction to Mechatronics
+OR
+ME220 - Introduction to Sensors
+A) Prerequisites: The following may be prerequisites for these Method classes.  All are also expected to be taken in the SoE Mathematics, Science, and Engineering Fundamentals categories for (Physical Design + Manufacturing Methods Track):
+Engineering Fundamentals - (ENGR 14)
+Math - (CME 100) / (Math 51)
+Science - (PHYSICS 41)
+OR
+AI + Digital User Experience
+Complete ALL of the following Courses:
+CS106B - Programming Abstractions
+CS124 - From Languages to Information
+OR
+CS223A - Introduction to Robotics
+CS247A - Design for Artificial Intelligence
+OR
+CS247B - Design for Behavior Change
+OR
+CS247G - Design for Play
+OR
+CS247I - Design for Understanding
+OR
+CS247S - Service Design with AI
+OR
+CS448B - Data Visualization
+OR
+CS278 - Social Computing
+OR
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+OR
+CS377Q - Designing for Accessibility
+PSYCH30 - Introduction to Perception
+OR
+BIOMEDIN220 - Artificial Intelligence in Healthcare
+OR
+CS272 - Introduction to Biomedical Informatics Research Methodology
+A) Prerequisites: The following may be prerequisites for these Method classes.  All are also expected to be taken in the SoE Mathematics, Science, and Engineering Fundamentals categories for the (Physical Design + Manufacturing Methods Track).  They may include others (please consult course-specific prerequisites):
+Engineering Fundamentals - (CS 106A)
+Math - (Math 51) / (CME 100)
+(CS 103, CS 109 recommended)
+OR
+Human Behavior + Multi-stakeholder Research
+Complete ALL of the following Courses:
+COMM1 - Introduction to Communication
+OR
+ANTHRO91 - Method and Evidence in Anthropology
+OR
+MS&E180 - Organizations: Theory and Management
+OR
+PSYCH70 - Self and Society: Introduction to Social Psychology
+OR
+PSYCH80 - Introduction to Personality and Affective Science
+OR
+SOC1 - Introduction to Sociology
+OR
+SOC180A - Foundations of Social Research
+HUMBIO82A - Qualitative Research Methodology
+OR
+ANTHRO91 - Method and Evidence in Anthropology
+OR
+CHPR247 - Pragmatic Skills for Mixed Methods Community Research
+OR
+URBANST123A - Designing Research for Social Justice: Creating a Community Engaged Research Project
+ANTHRO116 - Data Analysis for Quantitative Research
+OR
+COMM106 - Communication Research Methods
+OR
+STATS191 - Introduction to Applied Statistics
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+OR
+COMM124 - Truth, Trust, and Tech
+OR
+CS278 - Social Computing
+OR
+MS&E92Q - International Environmental Policy
+A) (HUMBIO 82A) prepares students for advanced research work (ie, for an honors thesis), and students should be planning to do subsequent research work beyond the class.
+To fulfill a Methods Depth, you will take four classes focused on foundational understanding and application.
+Breadth in Discipline
+Completion requirement
+Domain Focus Areas
+A Domain Focus Area is a unique opportunity for you to immerse in a field that you are curious about or motivated by.  You can apply your design abilities within a specific context, and emerge having a changed perspective. Each of the domain sphere options is saturated with wicked problems where design work is useful and needed.
+You will choose one of four Domain Focus Areas listed below:
+[1]
+Designing for the Planet
+— A domain sphere including Climate, Environment, Oceans, and Energy (and more).  Gain knowledge around environmental problem solving at macro and micro scales, on all corners of our planet.
+[2]
+Designing for Biological Futures
+— A domain sphere including Living Matter and Synthetic Biology (and more)
+.
+Learn about biofutures and explore the possibilities of building with biology.
+[3]
+Designing for Health
+— A domain sphere including Healthcare & Health Technology Innovation (and more).  Investigate domestic and global governance and their intersection with development, economics, and a more equitable society.
+[4]
+Designing for Social Impact
+— A domain sphere including Global Development, Social Systems, Social Inequity (and more).  Gain understanding in anatomy, physiology, healthcare systems, and health technology while exploring a new era of personalized, accessible, and patient-centered care.
+To fulfill a Domain, you will pursue a three-course “pathway”.  Students take 3 classes total: one or more class from [List A], and the remaining classes from [List B]. You should plan your Domain classes and work with the guidance of a d.school Domain Co-Lead.  Chosen domains and associated courses must be on the approved list in the year taken.
+Note
+:
+Domain requirements updated to the [List A] and [List B] format beginning in 2025-2026.  If you are following an earlier program sheet from 2023-2024 or 2024-2025, you will follow the 2024-2025 Domain list of classes that utilizes the [Foundational], [Applied], and [Future Horizons] categories.
+Designing for the Planet (Climate + Environment Pathway)
+Fulfill ALL of the following requirements:
+List A
+The following courses explore climate , the environment, and human Interactions.
+Complete ANY of the following Courses:
+CEE63 - Weather and Storms
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+CEE70 - Environmental Science and Technology
+CEE166A - Introduction to Hydrology
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+EARTHSYS4 - Coevolution of Earth and Life
+EARTHSYS10 - Introduction to Earth Systems
+EARTHSYS100A - Introduction to Data Science for Geoscience
+EARTHSYS102 - Fundamentals of Renewable Energy Processes
+EARTHSYS111 - Biology and Global Change
+EARTHSYS112 - Human Society and Environmental Change
+EARTHSYS114 - Global Change and Emerging Infectious Disease
+EARTHSYS123A - Biosphere-Atmosphere Interactions
+EARTHSYS146B - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+EARTHSYS155 - Science of Soils
+EARTHSYS179 - The Science & Practice of Valuing Nature for a Better World
+EARTHSYS183 - Adaptation
+EARTHSYS185 - Feeding Nine Billion
+ENERGY131 - Energy and the Environment
+ENERGY134 - Sustainable Energy for 9 Billion
+EPS20 - The Geoscience of Environmental Justice
+SUSTAIN2 - Climate and Society
+SUSTAIN101A - Sustainable Energy for Future Presidents
+SUSTAIN103 - Human and Planetary Health
+SUSTAIN128 - Systems Design for Health: Reimagining Stanford's Food System
+URBANST165 - Sustainable Transportation: Policy and Planning in Practice
+AND
+List B
+The following courses explore planetary health, sustainable societies, energy systems, and the biophysical world.  Complete remaining classes from this group to total three classes.
+Complete at least 2 of the following Courses:
+CEE70 - Environmental Science and Technology
+CEE107R - E^3: Extreme Energy Efficiency
+CEE130B - Quest for an Inclusive Clean Energy Economy
+EARTHSYS103 - Understand Energy
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS160 - Sustainable Cities
+EARTHSYS168 - Introduction to Land Use Policy and Planning
+SUST234 - Integrative Design and Entrepreneurship for Sustainability
+URBANST165 - Sustainable Transportation: Policy and Planning in Practice
+Designing for the Planet (Oceans Pathway)
+Fulfill ALL of the following requirements:
+List A
+The following courses explore oceans, ecology, or biological change.
+Complete at least 1 of the following Courses:
+BIO71 - Planet Ocean
+BIO173H - Marine Conservation Biology
+BIO182H - Stanford at Sea
+EARTHSYS141 - Remote Sensing of the Oceans
+OCEANS125H - Environmental Change and Marine Biodiversity
+OCEANS143H - Quantitative Methods for Marine Ecology and Conservation
+AND
+List B
+The following courses explore marine conservation and management.  Complete remaining classes from this group to total three classes.
+Complete at least 2 of the following Courses:
+OCEANS174H - Marine Data Science in Practice
+OCEANS185H - Kelp Forest Ecology
+Designing for Biological Futures
+Fulfill ALL of the following requirements:
+List A
+The following courses explore bioengineering and ecology.
+Complete at least 1 of the following Courses:
+BIOE80 - Introduction to Bioengineering (Engineering Living Matter)
+BIO81 - Introduction to Ecology
+BIOE44 - Fundamentals for Engineering Biology Lab
+BIOE177 - Inventing the Future
+AND
+List B
+The following courses explore building with biology.  Complete remaining classes from this group to total three classes.
+Complete at least 2 of the following Courses:
+BIOE122 - BioSecurity and Pandemic Resilience
+OCEANS247H - Scientific Writing through Marine Research
+Designing for Health
+Fulfill ALL of the following requirements:
+List A
+The following courses explore anatomy and physiology.
+Complete at least 1 of the following Courses:
+BIO84 - Physiology
+BIO150 - Human Behavioral Biology
+BIOE51 - Anatomy for Bioengineers
+BIOE220 - Introduction to Imaging and Image-based Human Anatomy
+BMDS215 - Data Science for Medicine
+DESIGN264 - Design for Health Equity
+HUMBIO4A - The Human Organism
+MED275B - Biodesign Fundamentals
+SURG101 - Regional Study of Human Structure
+AND
+List B
+The following courses explore design for health and health technology innovation.  Complete remaining classes from this group to total three classes.
+Complete at least 2 of the following Courses:
+ANES221 - Ethnicity and Medicine: Voices, Power, and Practice
+BIO141 - Introduction to Statistics for Biology
+BIOE10SC - Needs Finding in Healthcare
+BIOE273 - Biodesign for Digital Health
+BIOE375 - Prevention Medicine and Entrepreneurship for Societal Health
+BIOE394 - Innovate for Planet Health: Entrepreneurial Opportunities for Planet and Societal Health Challenges
+DESIGN262 - Design for Healthy Behaviors
+DESIGN266 - Healthcare Acceleration: Artificial Intelligence
+EPI219 - Evaluating Technologies for Diagnosis, Prediction and Screening
+HUMBIO131 - The Science of Human Movement Lab
+MED232 - Global Health:  Scaling Health Technology Innovations in Low Resource Settings
+MS&E256 - Technology Assessment and Regulation of Medical Devices
+PATH151 - Human Anatomy (Online)
+SURG172 - Anatomy and Design Innovations
+Designing for Social Impact
+Fulfill ALL of the following requirements:
+List A
+The following courses explore political economy and development economics.
+Complete at least 1 of the following Courses:
+CEE265D - Water and Sanitation in Developing Countries
+EARTHSYS185 - Feeding Nine Billion
+ECON127 - Economics of Health Improvement in Developing Countries
+POLISCI101 - Introduction to International Relations
+POLISCI247G - Governance and Poverty
+AND
+List B
+Complete remaining classes from this group to total three classes.
+Complete at least 2 of the following Courses:
+ECON113 - Historical perspectives on inequality and opportunity in America
+ECON118 - Development Economics
+ECON166 - International Trade
+INTNLREL142 - Challenging the Status Quo: Innovation in the Public Sector
+ME206A - Design for Extreme Affordability
+ME206B - Design for Extreme Affordability
+POLISCI114D - Democracy, Development, and the Rule of Law
+POLISCI147 - Comparative Democratic Development
+POLISCI244C - Wealth of Nations
+Capstone
+Completion requirement
+Capstone Courses
+For your Capstone, you will scope and execute design work that integrates and draws upon what you have learned across your engineering breadth, design core, methods depth and your domain focus area. You will choose from two available Capstone sequences.
+Fulfill ANY of the following requirements:
+DESIGN Capstone Sequence 1
+Complete ALL of the following Courses:
+DESIGN161A - Advanced Design: Open Build Capstone
+DESIGN161B - Advanced Design: Open Build Capstone
+OR
+DESIGN Capstone Sequence 2
+Complete ALL of the following Courses:
+DESIGN162A - Advanced Design: Partnered Build Capstone
+DESIGN162B - Advanced Design: Partnered Build Capstone
+Writing in the Major (WIM)
+Completion requirement
+WIM Courses
+Complete at least 1 of the following Courses:
+DESIGN161A - Advanced Design: Open Build Capstone
+DESIGN161B - Advanced Design: Open Build Capstone
+DESIGN162A - Advanced Design: Partnered Build Capstone
+DESIGN162B - Advanced Design: Partnered Build Capstone

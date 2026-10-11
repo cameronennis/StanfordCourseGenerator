@@ -1,0 +1,401 @@
+EE-BS - Electrical Engineering (BS)
+Electrical EngineeringUndergraduate MatriculatedBS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+
+The mission of the undergraduate program of the Department of Electrical Engineering is to augment the liberal education expected of all Stanford undergraduates, to impart a basic understanding of electrical engineering, and to develop skills in the design and building of systems that directly impact societal needs.
+
+The program includes a balanced foundation in the physical sciences, mathematics, and computing; core courses in electronics, information systems, and digital systems; and develops specific skills in the analysis and design of systems. Students in the major have broad flexibility to select from disciplinary areas beyond the core, including hardware and software, information systems and science, physical technology and science, and electives in multidisciplinary areas, including bio-electronics and bio-imaging, energy and environment, and music.
+
+The program prepares students for a broad range of careers—both industrial and government—as well as for professional and academic graduate education.
+
+Minimum Units in the Program
+100
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+Mathematics
+
+Minimum 40 units Math and Science combined, plus three units of TIS, for a total of 43 units.
+
+Fulfill ALL of the following requirements:
+Calculus
+Complete ALL of the following Courses:
+MATH19 - Calculus
+
+MATH20 - Calculus
+
+MATH21 - Calculus
+
+This requirement may also be satisfied with AP Calculus.
+
+AND
+Mathematics Sequence
+Complete ANY of the following Courses:
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+AND MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+
+CME100 - Vector Calculus for Engineers
+AND CME102 - Ordinary Differential Equations for Engineers
+
+CME 100 and CME 102 can be substituted for MATH 51 and MATH 53. MATH 52 can be substituted for MATH 51. MATH 51 and MATH 53 are recommended, in part, for providing substantial early exposure to linear algebra.
+
+CME100 is same as ENGR154. CME102 is same as ENGR155A.
+
+MATH51 may be replaced by MATH52. MATH53 may be replaced by CME102.
+
+AND
+EE Math
+Complete ANY of the following Courses:
+CS103 - Mathematical Foundations of Computing
+
+ENGR108 - Introduction to Matrix Methods
+
+MATH113 - Linear Algebra and Matrix Theory
+
+If used for math, ENGR108 may not be used as an EE elective.
+
+AND
+Statistics/Probability
+Complete ALL of the following Courses:
+EE178 - Probabilistic Systems Analysis
+
+Students may use CS109 in place of EE178. Students are strongly encouraged to take EE178 to learn key EE topics.
+
+Science
+
+3 courses, minimum 12 units
+
+Fulfill ALL of the following requirements:
+Physics
+Complete ANY of the following Courses:
+PHYSICS41 - Mechanics
+AND EE65 - Modern Physics for Engineers
+
+PHYSICS61 - Mechanics and Special Relativity
+AND EE65 - Modern Physics for Engineers
+
+PHYSICS41 - Mechanics
+AND PHYSICS71 - Quantum and Thermal Physics
+
+PHYSICS61 - Mechanics and Special Relativity
+AND PHYSICS71 - Quantum and Thermal Physics
+
+AND
+Science Elective
+Complete at least 1 of the following Courses:
+BIO81 - Introduction to Ecology
+
+BIO82 - Genetics
+
+BIO83 - Biochemistry & Molecular Biology
+
+BIO84 - Physiology
+
+BIO85 - Evolution
+
+BIO86 - Cell Biology
+
+BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
+
+BIO47 - Introduction to Research in Ecology and Evolutionary Biology
+
+BIO150 - Human Behavioral Biology
+
+CEE63 - Weather and Storms
+
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+
+CEE70 - Environmental Science and Technology
+
+CHEM31A - Chemical Principles I
+
+CHEM31B - Chemical Principles II
+
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+
+CHEM123 - Organic Polyfunctional Compounds
+
+EARTHSYS2 - Chemistry of the Earth and Planets
+
+EARTHSYS10 - Introduction to Earth Systems
+
+EARTHSYS11 - Introduction to Geology
+
+PHYSICS41 - Mechanics
+
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+
+PHYSICS42 - Classical Mechanics Laboratory
+
+PHYSICS43 - Electricity and Magnetism
+
+PHYSICS44 - Electricity and Magnetism Lab
+
+PHYSICS45 - Light and Heat
+
+PHYSICS46 - Light and Heat Laboratory
+
+PHYSICS61 - Mechanics and Special Relativity
+
+PHYSICS61L - Mechanics Laboratory
+
+PHYSICS71 - Quantum and Thermal Physics
+
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+
+Please visit HERE for more notes about Science courses.
+
+Technology in Society
+Complete ANY of the following Courses:
+AA252 - Techniques of Failure Analysis
+
+ARCHLGY151 - Ten Things: An Archaeology of Design
+
+BIOE131 - Ethics in Bioengineering
+
+BIOE177 - Inventing the Future
+
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+
+CEE145E - Equitable Infrastructure Solutions
+
+CLASSICS168 - Engineering the Roman Empire
+
+COMM120W - The Rise of Digital Culture
+
+COMM166 - Virtual People
+
+CS125 - Data: Algorithms, Tools, Policy, and Society
+
+CS152 - Trust and Safety
+
+CS181 - Computers, Ethics, and Public Policy
+
+CS182 - Ethics, Public Policy, and Technological Change
+
+CS256 - Algorithmic Fairness
+
+CS278 - Social Computing
+
+DATASCI154 - Data Science for Social Impact
+
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+
+ENGR117 - Expanding Engineering Limits: Culture, Diversity, and Equity
+
+ENGR145 - Technology Entrepreneurship
+
+ENGR148 - Principled Entrepreneurial Decisions
+
+ENGR248 - Principled Entrepreneurial Decisions
+
+HUMBIO174 - Foundations of Bioethics
+
+MS&E193 - Technology and National Security
+
+POLISCI114S - International Security in a Changing World
+
+PUBLPOL114 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+
+STS1 - Introduction to Science, Technology & Society
+
+One course, see Basic Requirement 4 in the School of Engineering section. The course taken must be on the School of Engineering Approved Courses list the year it is taken. Please visit HERE for more notes about TiS courses.
+
+Engineering Fundamentals
+
+Minimum 57 units comprised of Engineering Fundamentals (minimum eight units), Core Electrical Engineering Courses (minimum 18 units), and EE Discipline and Electives (minimum 31 units).
+
+Fulfill ALL of the following requirements:
+Engineering Fundamentals Required Course
+Complete ALL of the following Courses:
+CS106B - Programming Abstractions
+
+Students may take CS 106B OR CS 106B + CS 106M to fulfill the requirement.
+
+AND
+Engineering Fundamentals Elective Course
+Complete at least 1 of the following Courses:
+ENGR10 - Introduction to Engineering Analysis
+
+ENGR14 - Intro to Solid Mechanics
+
+ENGR15 - Dynamics
+
+ENGR20 - Introduction to Chemical Engineering
+
+ENGR21 - Engineering of Systems
+
+ENGR40M - An Intro to Making: What is EE
+
+ENGR42 - Introduction to Electromagnetics and Its Applications
+
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+
+ENGR55 - Foundational Biology for Engineers
+
+ENGR60 - Engineering Economics and Sustainability
+
+ENGR62 - Introduction to Optimization
+
+ENGR62X - Introduction to Optimization (Accelerated)
+
+ENGR65 - Modern Physics for Engineers
+
+ENGR76 - Information Science and Engineering
+
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+
+ENGR90 - Environmental Science and Technology
+
+Recommended: ENGR40M (recommended before taking EE101A) or ENGR76 (recommended before taking EE102A).
+
+Core Program Requirements
+Completion requirement
+Core Electrical Engineering Courses
+Complete ALL of the following Courses:
+EE42 - Introduction to Electromagnetics and Its Applications
+OR EE142 - Engineering Electromagnetics
+OR PHYSICS43 - Electricity and Magnetism
+OR PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+
+EE100 - The Electrical Engineering Profession
+
+EE101A - Circuits I
+
+EE102A - Signals and Systems I
+
+EE108 - Digital System Design
+
+Minimum 18 units. Students are strongly encouraged to take EE42 or EE142 to learn key EE topics, including transmission lines, waveguides, and antennas. Students specializing in Physical Technology and Science must take EE42 or EE142.
+
+Students may petition an upper-level seminar in place of EE 100.
+
+Required Course
+
+One course must be completed for a minimum of 4 units.
+
+Complete ANY of the following Courses:
+EE101B - Circuits II
+OR EE102B - Signals and Systems II
+OR EE180 - Digital Systems Architecture
+OR CS107 - Computer Organization and Systems
+OR CS107E - Computer Systems from the Ground Up
+
+Additional required courses may be taken for elective units.
+
+Electives
+Completion requirement
+Electives
+
+A minimum of 24 units must be completed.
+
+Earn at least 24 credits from the following:
+EE101B - Circuits II
+
+EE102B - Signals and Systems II
+
+EE104 - Introduction to Machine Learning
+
+EE109 - Digital Systems Design Lab
+
+31 units must be completed between the Required Course, WIM/Design/Capstone, and Electives.
+
+Engineering Fundamentals, EE Core, one Required Course, WIM/Design/Capstone, and Electives must total a minimum of 57 units, over and above the 43 units of Math and Science.
+
+Students may select any combination of electives from the Electives list. Electives may include up to two additional Engineering Fundamentals and any letter-graded lecture/lab EE courses (minus any previously noted restrictions).
+
+Frosh and Sophomore seminars and EE191 do not count toward the 57 units. Students may have fewer elective units if they have more than seven units in the Required Course and WIM/Design/Capstone course areas. EE191W may only be used towards the 57 units if being used for WIM.
+
+A course may only be counted toward one requirement, not double-counted. All courses taken for the major must be taken for a letter grade if the instructor offers that option.
+
+Writing in the Major (WIM)
+Completion requirement
+WIM
+
+All courses below can satisfy the WIM/Design/Capstone requirements, with the exception of EE191W which only satisfies WIM.
+
+Complete ANY of the following Courses:
+CS194W - Software Project (WIM)
+
+EE109 - Digital Systems Design Lab
+
+EE133 - Analog Communications Design Laboratory
+
+EE134 - Introduction to Photonics
+
+EE153 - Power Electronics
+
+EE191W - Special Studies and Reports in Electrical Engineering (WIM)
+
+EE264W - Digital Signal Processing (WIM)
+
+EE267W - Virtual Reality (WIM)
+
+EE191W may satisfy WIM only if it is a follow-up to an REU or independent study project or as part of an honors thesis project and a faculty member agrees to supervise the writing of a technical paper, with proper support from the Writing Center.
+
+Capstone
+Completion requirement
+Design/Capstone
+
+All courses below can satisfy the WIM/Design/Capstone requirements, with the exception of EE264 and EE267 which only meet the Design/Capstone requirement and do not meet the WIM requirement.
+
+Complete ANY of the following Courses:
+CS194W - Software Project (WIM)
+
+EE109 - Digital Systems Design Lab
+
+EE133 - Analog Communications Design Laboratory
+
+EE134 - Introduction to Photonics
+
+EE153 - Power Electronics
+
+EE264 - Digital Signal Processing
+
+EE264W - Digital Signal Processing (WIM)
+
+EE267 - Virtual Reality
+
+EE267W - Virtual Reality (WIM)
+
+Honors
+Completion requirement
+Honors Overview
+
+The Department of Electrical Engineering offers a program leading to a Bachelor of Science in Electrical Engineering with Honors. This program provides a unique opportunity for qualified undergraduate majors to conduct independent study and research at an advanced level with a faculty mentor, graduate students, and fellow undergraduates.
+
+Admission to the honors program is by application. Declared EE majors with a grade point average (GPA) of at least 3.5 in Electrical Engineering are eligible to apply. Applications must be submitted by autumn quarter of the senior year, be signed by the thesis advisor and second reader (the primary thesis advisor must be a full or joint EE Faculty member), and include an honors proposal. Students need to declare the EE Honors major on Axess.
+
+Honors Requirements
+
+To receive departmental honors, students admitted to the honors program must:
+
+Submit an Undergraduate Honors Program Application, including the thesis proposal, to the Degree Progress Officer via email by autumn quarter of the senior year, signed by the thesis advisor and second reader (one must be an Electrical Engineering faculty member).
+
+Declare the EE Honors major in Axess before the end of autumn quarter of the senior year.
+
+Maintain a grade point average of at least 3.5 in Electrical Engineering courses.
+
+Complete at least ten units of EE191 or EE191W with the thesis advisor for a letter grade. EE191 units do not count toward the required 57 units, except EE191W, which is approved to satisfy WIM. A minimum grade of B+ is required for EE191 or EE191W to receive honors.
+
+Submit one final copy of the honors thesis approved by the advisor and second reader to the Degree Progress Officer by May 15th.
+
+Attend poster and oral presentation at the end of spring quarter or present in another appropriate forum approved by the faculty advisor.
+
+Earn at least 10 credits from the following:
+EE191 - Special Studies and Reports in Electrical Engineering
+OR EE191W - Special Studies and Reports in Electrical Engineering (WIM)

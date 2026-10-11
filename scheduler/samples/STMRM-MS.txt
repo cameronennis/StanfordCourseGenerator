@@ -1,0 +1,91 @@
+STMRM-MS - Stem Cell Biology and Regenerative Medicine (MS)
+Download as PDF
+Stem Cell Bio Regenerative Medicine
+Stem Cell Bio & Regen Med
+MS - Master of Science
+General
+Program Policies
+Learning Outcomes
+Program Overview
+This program is only open to existing students in the STMRM-PHD Program.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+Students in the PhD program may apply for an MS degree after satisfactorily completing the course and laboratory requirements of the first two years, including the qualifying exam.  Postdoctoral research training is available to graduates having a PhD or MD degree.
+To meet theses requirements, each student must complete three one-quarter laboratory rotations during the first year.
+All rotations must be approved by the DGS, Executive Director and SSO prior to the start of the rotation.
+Two rotations (including the first rotation) must be done with ISCBRM faculty.
+Students may complete one of the rotations with a faculty member who is Academic Council (AC) outside the program with program approval (by DGS and Executive Director). Students must choose a dissertation advisor before the end of summer quarter of the first year.
+SCBRM graduate students must be registered in all quarters. All required courses, including those counting toward the 10 units of elective credit, must be taken for a letter grade if offered and must be passed with a B grade or better. The course must be repeated if a student does not earn a B grade or better.
+Core Courses
+Complete ALL of the following Courses:
+BIOS200 - Foundations in Experimental Biology
+DBIO210 - Developmental Biology
+STEMREM200 - Stem Cell Intensive
+STEMREM201A - Stem Cell Biology & Regenerative Medicine
+STEMREM201B - Ethical Issues in Stem Cell Biology
+STEMREM203 - Stem Cells Immersion: Applications in Medicine, Business and Law
+STEMREM205 - Bioinformatics for Stem Cell and Cancer Biology
+STEMREM250 - Regenerative Medicine Seminar Series
+STEMREM280 - Stem Cell Biology and Regenerative Medicine Journal Club
+STEMREM399 - Graduate Research
+Electives
+Complete 10 units from the following areas.
+Fulfill ALL of the following requirements:
+Elective 1: Biochemistry Elective
+Complete 1 or more course(s) and earn 3 - 4 credit(s) from the following:
+BIOC241 - Biological Macromolecules
+BIOE331 - Protein Engineering
+BIOE361 - Biomaterials in Regenerative Medicine
+BIOE385 - Biomaterials for Drug Delivery
+BIOS204 - Modeling Cell Signaling
+BIOS294 - Chemistry for Biologists and Others
+CSB250 - The Biology of Chromatin Templated Processes
+CSB260 - Concepts and Applications in Chemical Biology
+AND
+Elective 2: Advanced Genetics, Genomics, or Advanced Cell Biology
+Complete 1 or more course(s) and earn 3 - 4 credit(s) from the following:
+BIO214 - Advanced Cell Biology
+GENE205 - Advanced Genetics
+GENE211 - Genomics
+AND
+Elective 3: Science Elective(s)
+Complete at least 1 of the following Courses:
+BIO152 - Imaging: Biological Light Microscopy
+BIOE374A - Biodesign Innovation: Needs Finding and Concept Creation
+BIOE390 - Introduction to Bioengineering Research
+BIOS217 - Foundations of statistics and reproducible research
+BIOS224 - Stem Cell Biology and Applications
+BIOS227 - Mass Spectrometry and Proteomics: Opening the Black Box
+BIOS229 - Open Source Prototyping: Translating Ideas to Reality using Rapid Prototyping Methods
+BIOS268 - Biology and Applications of CRISPR/Cas9: Genome Editing and Epigenome Modifications
+BIOS272 - Science and Art
+BIOS296 - Preparation & Practice: Biotechnology Business
+BIOS412 - Antibody Anywhere All at Once: An Introduction to Techniques in Immunology
+BIOS420 - Building Connections, Defining the Future of Biosciences
+BMDS210 - Modeling Biomedical Systems
+CBIO240 - Molecular and Genetic Basis of Cancer
+COMPMED210 - Form and Funkiness of Lab Animals : Anatomy, Histology, and Pathology
+CS106A - Programming Methodology
+CSB243 - Biotechnology and Development of Therapeutics
+CSB245 - Economics of Biotechnology
+ENGR208 - Patent Law and Strategy for Innovators and Entrepreneurs
+IMMUNOL201 - Advanced Immunology I
+BIOS319 - Analysis of Public Companies in the Life Sciences
+MCP256 - How Cells Work: Energetics, Compartments, and Coupling in Cell Biology
+OTOHNS204 - Biology and Physics of Hearing
+STATS195 - Introduction to R
+STEMREM223 - Biology and Disease of Hematopoiesis
+STRAMGT353 - Entrepreneurship: Formation of New Ventures
+Grant Writing
+Complete at least 1 of the following Courses:
+BIOS242 - Writing Compelling Fellowships and Career Development Awards
+BIOS399 - Write a Grant Proposal in 9 Weeks
+BIOS425 - Online Proposal Bootcamp
+Students must take upper-division elective units relevant to the dissertation and career goals, totaling at least ten units.
+Minimum required grade (e.g., B or better ) and required grading basis. (e.g., letter grade only).

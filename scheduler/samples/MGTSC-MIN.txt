@@ -1,0 +1,43 @@
+MGTSC-MIN - Management Science and Engineering (Minor)
+Download as PDF
+Management Science and Engineering
+Undergraduate Matriculated
+General
+Program Policies
+Learning Outcomes
+Program Overview
+The Management Science and Engineering undergraduate program prepares students to create solutions to pressing societal problems by integrating and pushing the frontiers of operations research, economics, and organization science. The program builds on foundational courses in calculus and linear algebra. The undergraduate minor allows students to explore some of the undergraduate programs in MS&E to complement their undergraduate major.
+Minimum Units in the Program
+25
+Minimum University Units
+18
+Collapse All
+Minor Requirements
+Completion requirement
+Minor Requirements
+Fulfill ALL of the following requirements:
+Prerequisites
+Complete ALL of the following Courses:
+CME100 - Vector Calculus for Engineers
+OR
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+CS106A - Programming Methodology
+AND
+Core Courses
+Complete ALL of the following Courses:
+MS&E111 - Introduction to Optimization
+OR
+MS&E111DS - Introduction to Optimization: Data Science
+OR
+MS&E111X - Introduction to Optimization (Accelerated)
+MS&E120 - Introduction to Probability
+MS&E121 - Introduction to Stochastic Modeling
+MS&E125 - Introduction to Applied Statistics
+MS&E180 - Organizations: Theory and Management
+All core courses must be taken for a letter grade. Students completing a calculus-based probability course, such as CS 109 or STATS 118 for their major, may substitute another letter-graded MS&E course for MS&E 120.
+AND
+Required Electives
+Complete any two 100-level or higher MS&E courses for three or more units each.
+Both required elective courses must be taken for a letter grade.
+course
+is a recommended additional elective course.

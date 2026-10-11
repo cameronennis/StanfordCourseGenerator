@@ -1,0 +1,480 @@
+ME-BS - Mechanical Engineering (BS)
+Download as PDF
+Mechanical EngineeringUndergraduate MatriculatedBS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+
+The bachelor's degree in Mechanical Engineering at Stanford University provides a rigorous mathematical, scientific, and engineering education, preparing our students to analyze and design a wide range of mechanical systems. Students study topics in math, physics, materials, structures, fluid mechanics, thermodynamics, heat transfer, dynamical systems, control, and design methods. They use these tools to develop analytical and computational models of real-world systems, conduct experiments and interpret their findings, and design new systems to meet engineering specifications.
+
+Students with a bachelor's degree in Mechanical Engineering go on to rewarding careers as engineers in industry or pursue further study as graduate students. Our recent graduates are making important contributions in advanced manufacturing, aviation, biomechanics, data science, defense, energy systems, healthcare, medical devices, renewable energy, robotics, transportation systems, sustainable agriculture, and related fields. Whatever field they choose, Mechanical Engineers from Stanford have the intellectual foundation to develop technologies that address societal needs and improve people's lives.
+
+Please see the Mechanical Engineering Program Sheet, Four-Year Plans, and Flowchart for additional information and materials.
+
+Minimum Units in the Program
+116
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+Mathematics
+
+The program requires a minimum of 45 units of math and science combined, including 24 units in math and 20 units in science. The 45th unit may be either math or science. ACE units do not count toward major program unit minimums, though they do count toward the 180-unit minimum needed for graduation.
+
+The CME courses in mathematics are strongly preferred for ME majors.
+
+Fulfill ALL of the following requirements:
+Calculus
+Complete ALL of the following Courses:
+MATH19 - Calculus
+
+MATH20 - Calculus
+
+MATH21 - Calculus
+
+10 units of AP Calculus BC, with placement into MATH51/CME100, is equivalent to MATH19/MATH20/MATH21 and acceptable in any engineering major. If 6-8 units of AP or IB credit are given, MATH21 must be taken regardless of the Math Diagnostic Placement results.
+
+Recommended Timeline: Taken in the 1st year.
+
+AND
+Vector Calculus
+Complete ANY of the following Courses:
+CME100 - Vector Calculus for Engineers
+OR ENGR154 - Vector Calculus for Engineers
+
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+
+Recommended Timeline: Taken in Autumn of the 2nd year or earlier.
+
+AND
+Ordinary Differential Equations
+Complete ANY of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+OR ENGR155A - Ordinary Differential Equations for Engineers
+
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+
+Recommended Timeline: Taken in Autumn of the 2nd year or earlier.
+
+AND
+Linear Algebra or Statistics
+Complete ANY of the following Courses:
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+OR ENGR155B - Linear Algebra and Partial Differential Equations for Engineers
+
+CME106 - Introduction to Probability and Statistics for Engineers
+OR ENGR155C - Introduction to Probability and Statistics for Engineers
+
+ENGR108 - Introduction to Matrix Methods
+
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+
+STATS117 - Introduction to Probability Theory
+
+AND
+Additional Math Courses
+
+As needed, to reach the 24-unit minimum for math and/or the 45-unit minimum for math and science.
+
+Complete ANY of the following Courses:
+CEE101D - Computations in Civil and Environmental Engineering
+OR CEE201D - Computations in Civil and Environmental Engineering
+
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+
+CME100 - Vector Calculus for Engineers
+OR ENGR154 - Vector Calculus for Engineers
+
+CME102 - Ordinary Differential Equations for Engineers
+OR ENGR155A - Ordinary Differential Equations for Engineers
+
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+OR ENGR155B - Linear Algebra and Partial Differential Equations for Engineers
+
+CME106 - Introduction to Probability and Statistics for Engineers
+OR ENGR155C - Introduction to Probability and Statistics for Engineers
+
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+
+CME192 - MATLAB for Scientific Computing and Engineering
+
+CS103 - Mathematical Foundations of Computing
+
+CS109 - Introduction to Probability for Computer Scientists
+
+EE178 - Probabilistic Systems Analysis
+
+ENGR108 - Introduction to Matrix Methods
+
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+OR MATH61CM - Modern Mathematics: Continuous Methods
+OR MATH61DM - Modern Mathematics: Discrete Methods
+
+MATH52 - Integral Calculus of Several Variables
+OR MATH62CM - Modern Mathematics: Continuous Methods
+OR MATH62DM - Modern Mathematics: Discrete Methods
+
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+OR MATH63CM - Modern Mathematics: Continuous Methods
+OR MATH63DM - Modern Mathematics: Discrete Methods
+
+MATH104 - Applied Matrix Theory
+
+MATH106 - Functions of a Complex Variable
+
+MATH109 - Groups and Symmetry
+
+MATH110 - Number Theory for Cryptography
+
+MATH113 - Linear Algebra and Matrix Theory
+
+MATH115 - Functions of a Real Variable
+
+MATH120 - Groups and Rings
+
+MATH121 - Galois Theory
+
+MATH131P - Partial Differential Equations
+
+MATH151 - Introduction to Probability Theory
+
+MS&E111 - Introduction to Optimization
+
+MS&E111X - Introduction to Optimization (Accelerated)
+
+MS&E120 - Introduction to Probability
+
+MS&E121 - Introduction to Stochastic Modeling
+
+MS&E125 - Introduction to Applied Statistics
+
+STATS60 - Introduction to Statistical Methods: Precalculus
+OR STATS160 - Introduction to Statistical Methods: Precalculus
+
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+
+STATS117 - Introduction to Probability Theory
+
+If MATH51 and CME100 are both taken, only 8 units of credit will be allowed toward the SoE major program due to overlapping material.
+
+Science
+
+The program requires a minimum of 45 units of math and science combined, including 20 units in science and 24 units in math. The 45th unit may be either math or science. ACE units do not count toward major program unit minimums, though they do count toward the 180-unit minimum needed for graduation.
+
+Fulfill ALL of the following requirements:
+Mechanics
+Complete ANY of the following Courses:
+PHYSICS41 - Mechanics
+
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+
+PHYSICS61 - Mechanics and Special Relativity
+
+A score of 5 on the AP Physics C Mechanics exam may be used to satisfy this requirement. AP credits can only be applied if the parallel Stanford courses are skipped.
+
+Recommended Timeline: Taken by Autumn of the 2nd year.
+
+AND
+Electricity and Magnetism
+Complete ANY of the following Courses:
+PHYSICS43 - Electricity and Magnetism
+
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+
+A score of 5 on the AP Physics C Electricity & Magnetism exam may be used to satisfy this requirement. AP credits can only be applied if the parallel Stanford courses are skipped.
+
+Recommended Timeline: Taken by Winter of the 2nd year.
+
+AND
+Additional Science Courses
+
+As needed, to reach the 20-unit minimum for science and/or the 45-unit minimum for math and science.
+
+Complete ANY of the following Courses:
+BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
+
+BIO47 - Introduction to Research in Ecology and Evolutionary Biology
+
+BIO81 - Introduction to Ecology
+
+BIO82 - Genetics
+
+BIO83 - Biochemistry & Molecular Biology
+
+BIO84 - Physiology
+
+BIO85 - Evolution
+
+BIO86 - Cell Biology
+
+BIO150 - Human Behavioral Biology
+
+CEE63 - Weather and Storms
+
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+
+CEE70 - Environmental Science and Technology
+OR ENGR90 - Environmental Science and Technology
+
+CHEM31A - Chemical Principles I
+
+CHEM31B - Chemical Principles II
+
+CHEM31E - Chemical Foundations and 21st Century Problems
+
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+
+CHEM123 - Organic Polyfunctional Compounds
+
+EARTHSYS2 - Chemistry of the Earth and Planets
+
+EARTHSYS10 - Introduction to Earth Systems
+
+EARTHSYS11 - Introduction to Geology
+OR EPS1 - Introduction to Geology
+
+EARTHSYS110 - Introduction to the Foundations of Contemporary Geophysics
+OR GEOPHYS110 - Introduction to the Foundations of Contemporary Geophysics
+
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+
+HUMBIO3A - Cell and Developmental Biology
+
+HUMBIO4A - The Human Organism
+
+PHYSICS41 - Mechanics
+
+PHYSICS42 - Classical Mechanics Laboratory
+
+PHYSICS43 - Electricity and Magnetism
+
+PHYSICS44 - Electricity and Magnetism Lab
+
+PHYSICS45 - Light and Heat
+
+PHYSICS46 - Light and Heat Laboratory
+
+PHYSICS61 - Mechanics and Special Relativity
+
+PHYSICS61L - Mechanics Laboratory
+
+PHYSICS71 - Quantum and Thermal Physics
+
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+
+AP Physics 1&2 and Physics 20 courses are not allowed as science units.
+
+Technology in Society (TiS)
+Complete ANY of the following Courses:
+AA252 - Techniques of Failure Analysis
+
+BIOE131 - Ethics in Bioengineering
+
+COMM120W - The Rise of Digital Culture
+
+CS181 - Computers, Ethics, and Public Policy
+
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+AND ENERGY177B - Engineering and Sustainable Development: Implementation
+
+EPS194 - Technology, International Security, and Sustainability
+OR EPS204 - Technology, International Security, and Sustainability
+
+HUMBIO174 - Foundations of Bioethics
+
+NBIO101 - Social and Ethical Issues in the Neurosciences
+OR NBIO201 - Social and Ethical Issues in the Neurosciences
+
+Engineering Fundamentals
+Complete ALL of the following Courses:
+CS106A - Programming Methodology
+OR CS106B - Programming Abstractions
+
+ENGR14 - Intro to Solid Mechanics
+
+Recommended Timeline: CS106A or CS106B taken in the 1st year. ENGR14 taken in Winter of the 2nd year or earlier.
+
+Core Program Requirements
+Completion requirement
+Electives
+Completion requirement
+Technical Electives
+
+The program requires a minimum of 12 units of Technical Electives from the following list. If needed, additional units must be taken to fulfill the 68-unit minimum in Engineering Topics (Fundamentals, ME Depth, and Technical Electives). Students are encouraged to review "Course Recommendations" on the latest program sheet for courses well-aligned with various career plans.
+
+Earn at least 12 credits from the following:
+AA103 - Air and Space Propulsion
+
+AA156 - Introduction to Mechanics of Composite Materials
+
+AA174A - Principles of Robot Autonomy I
+
+AA174B - Principles of Robot Autonomy II
+
+AA222 - Engineering Design Optimization
+
+AA283 - Aircraft and Rocket Propulsion
+
+BIOE209 - Mathematical Modeling of Biological Systems
+
+CME192 - MATLAB for Scientific Computing and Engineering
+
+DESIGN223 - Silver Pendant Project
+
+DESIGN298 - Silversmithing and Design
+
+ENGR40M - An Intro to Making: What is EE
+
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+OR ENGR50E - Introduction to Materials Science, Energy Emphasis
+OR ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+
+ENGR105 - Feedback Control Design
+
+ENGR110 - Perspectives in Assistive Technology (ENGR 110)
+OR ENGR210 - Perspectives in Assistive Technology (ENGR 110)
+
+ENGR205 - Introduction to Control Design Techniques
+
+ENGR240 - Introduction to Micro and Nano Electromechanical Systems
+
+MATSCI144 - Thermodynamic Evaluation of Green Energy Technologies
+
+MATSCI151 - Microstructure and Mechanical Properties
+
+MATSCI198 - Mechanical Properties of Materials
+
+ME80A - Introduction to Deformable Bodies
+
+ME127 - Design for Additive Manufacturing
+OR ME227 - Design for Additive Manufacturing
+
+ME128 - Computer-Aided Product Realization
+
+ME129 - Manufacturing Processes and Design
+
+ME132 - Intermediate Thermodynamics
+
+ME133 - Intermediate Fluid Mechanics
+
+ME152 - Material Behaviors and Failure Prediction
+
+ME170C - Mechanical Engineering Design - Integrating Context with Engineering III
+
+ME204 - Advanced Mechanical Systems Design
+
+ME210 - Introduction to Mechatronics
+
+ME217 - Engineering Design Analytics for Product Realization
+
+ME220 - Introduction to Sensors
+
+ME234 - Introduction to Neuromechanics
+
+ME235 - Biotransport Phenomena
+
+ME257 - Gas-Turbine Design Analysis
+
+ME281 - Biomechanics of Movement
+
+ME283 - Introduction to Biomechanics and Mechanobiology
+
+ME285 - Computational Modeling in the Cardiovascular System
+
+ME287 - Mechanics of Biological Tissues
+
+ME300C - Introduction to Numerical Methods for Engineering
+
+ME303 - Soft Composites and Soft Robotics
+
+ME320 - Introduction to Robotics
+
+ME327 - Design and Control of Haptic Systems
+
+ME331A - Advanced Dynamics & Computation
+
+ME335A - Finite Element Analysis
+
+ME338 - Continuum Mechanics
+
+ME339 - Introduction to parallel computing using MPI, openMP, and CUDA
+
+ME351A - Fluid Mechanics
+
+ME351B - Fluid Mechanics
+
+ME352B - Fundamentals of Heat Conduction
+
+ME352C - Convective Heat Transfer
+
+ME362A - Physical Gas Dynamics
+
+ME370A - Energy Systems I: Thermodynamics
+
+ME371 - Combustion Fundamentals
+
+ME485 - Modeling and Simulation of Human Movement
+
+PHYSICS240 - Introduction to the Physics of Energy
+
+Only 3 units in total from DESIGN223 and/or DESIGN298 can be counted towards the Technical Electives requirement.
+
+Only 3 units in total from ME170C and/or ME191 can be counted towards the Technical Electives requirement.
+
+ME191 units may only be used to satisfy the Technical Electives requirement if successfully petitioned in advance. Petitions must include a detailed study plan with deliverables and must demonstrate approval by the independent study supervisor.
+
+Writing in the Major (WIM)
+Completion requirement
+Courses
+Complete ALL of the following Courses:
+ME170A - Mechanical Engineering Design- Integrating Context with Engineering
+
+ME170B - Mechanical Engineering Design: Integrating Context with Engineering
+
+The required Capstone courses ME170A and ME170B also fulfill the WIM requirement.
+
+Capstone
+Completion requirement
+Capstone Courses
+
+Courses ME170A and ME170B are a two-quarter Capstone Design Sequence and must be taken in consecutive quarters.
+
+Complete ALL of the following Courses:
+ME170A - Mechanical Engineering Design- Integrating Context with Engineering
+
+ME170B - Mechanical Engineering Design: Integrating Context with Engineering
+
+Honors
+Completion requirement
+Honors Overview
+
+Honors programs are designed to allow undergraduates with strong academic records and enthusiasm for independent research to engage in a significant project leading to a degree with departmental honors. This option is particularly valuable for students who plan to pursue a PhD because it provides research experience that helps prepare for doctoral-level work. These programs require that the student find a faculty member from the Academic Council in the School of Engineering to supervise the work, in addition to a second reader.
+
+The Department of Mechanical Engineering offers a program leading to a Bachelor of Science in Mechanical Engineering with Honors. This program provides a unique opportunity for qualified mechanical engineering majors to conduct independent study and research at an advanced level with a faculty mentor.
+
+Honors Criteria
+
+GPA of 3.5 or higher in the major
+
+Arrangement with an ME faculty member who agrees to be the thesis advisor; the advisor must be a member of the Academic Council
+
+Apply no later than the end of the second week of the autumn quarter of your senior year
+
+To receive departmental honors, students admitted to the honors program must, in addition to satisfying the standard requirements for the undergraduate degree, do the following:
+
+Declare the honors program in Axess
+
+Maintain a 3.5 GPA in the major required for admission to the honors program
+
+Under the direction of the thesis advisor, complete at least nine units of ME191H during the senior year
+
+Complete an honors thesis deemed acceptable by the thesis advisor and at least one additional faculty member
+
+Honors Required Course
+Complete ALL of the following Courses:
+ME191H - Honors Research

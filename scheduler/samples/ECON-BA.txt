@@ -1,0 +1,232 @@
+ECON-BA - Economics (BA)
+Download as PDF
+Economics
+Undergraduate Matriculated
+BA - Bachelor of Arts
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The undergraduate program in Economics aims to acquaint students with the economic aspects of modern society, familiarize them with techniques for analyzing contemporary economic problems, and develop an ability to exercise judgment in evaluating public policy. The program introduces students to macro- and microeconomic theory, teaches them to think and write clearly about economic problems and policy issues and apply essential economic analysis tools. The undergraduate Bachelor of Arts degree provides an excellent background for those who plan government and private enterprise careers and those pursuing graduate degrees in professional schools or economics.
+Minimum Units in the Program
+80
+Minimum University Units
+180
+Collapse All
+Core Program Requirements
+Completion requirement
+Core Courses
+Complete ALL of the following Courses:
+ECON1 - Principles of Economics
+ECON50 - Economic Analysis I
+OR
+ECON50Q - Economic Analysis I (Quantitative)
+ECON51 - Economic Analysis II
+ECON52 - Economic Analysis III
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+ECON102B - Applied Econometrics
+All Core Courses must be taken for a letter grade. In Fall 24 and onward, students must earn a C or better in all courses completed for the ECON Core.
+Field Courses
+Must be taken at Stanford in California and must be taken for a letter grade. The economics major does not require following a specific track or concentration; however, students may go to
+economics.stanford.edu
+to see the economics courses (listed below) sorted by focus areas.
+Complete at least 5 of the following Courses:
+ECON47 - Media Markets and Social Good
+ECON102C - Advanced Topics in Econometrics
+ECON108 - Data Science for Business and Economic Decisions
+ECON111 - Money and Banking
+ECON113 - Historical perspectives on inequality and opportunity in America
+ECON115 - Causality, Decision Making and Data Science
+ECON118 - Development Economics
+ECON122 - Economics of Health Equity
+ECON125 - Economic Development, Microfinance, and Social Networks
+ECON126 - Economics of Health and Medical Care
+ECON127 - Economics of Health Improvement in Developing Countries
+ECON131 - The Chinese Economy
+ECON135 - Foundations of Finance
+OR
+ECON140 - (FIN I) Introduction to Corporate Finance
+OR
+ECON141 - Investments in Financial Markets
+ECON136 - Market Design
+ECON137 - Decision Modeling and Information
+ECON146 - Economics of Education
+ECON149 - Management Economics
+ECON150 - Economic Policy Analysis
+ECON152 - Advanced Macroeconomics
+ECON155 - Climate change and global inequality
+ECON156 - Energy Markets and Policy
+ECON157 - Imperfect Competition
+ECON160 - Game Theory and Economic Applications
+OR
+ECON167G - Game Theory and Social Behavior
+OR
+ECON180 - Accelerated Game Theory
+ECON165 - International Finance
+ECON166 - International Trade
+ECON169 - Advanced Topics in Macroeconomics and International Finance
+ECON170 - Globalization and Growth
+ECON177 - Environmental Economics: Models, Data, and Policy Design
+ECON178 - Behavioral Economics
+ECON179 - Experimental Economics
+ECON185 - Data Science for Environmental Business
+ECON198 - Junior Honors Seminar
+any 200-level course with permission of DUS and course instructor. Students should contact the department Student Services Officer once a course is approved.
+Students may not count units from Econ 140, ECON 141, and Econ 135 toward their major as the courses are too similar in content.
+Students may count toward the econ field course requirement Econ 160, Econ 167G, or 180. The others may count as electives.
+Electives
+Completion requirement
+Elective Courses
+Students complete 20-27 units in addition to the field courses taken; choose from any ECON courses offered for a letter grade.
+If a student waives
+course
+, they must complete another 5 units of electives to make up for the unit credit.
+If the Field Course requirement of 5 courses does not add up to 25 units, the missing units can be made up with elective units.
+Advanced undergraduate majors with strong quantitative preparation may enroll in Econ graduate (200-level) courses with the permission of the Director of Undergraduate Studies and the course instructor.
+(Optional) In addition to ECON courses, up to 10 units of this requirement may be satisfied by some combination of the following:
+Upper division math, statistics, and computer science courses (see list below).
+Approved non-economics courses, including those from the Bing Overseas Study Program, Stanford in Washington, and Stanford in New York (see list below).
+Approved Transfer Credit
+Approved units of
+course
+(Directed Reading).
+The department does not give credit for internships.
+Complete ANY of the following Courses:
+CS106B - Programming Abstractions
+CS161 - Design and Analysis of Algorithms
+CS221 - Artificial Intelligence: Principles and Techniques
+CS227B - General Game Playing
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+MATH113 - Linear Algebra and Matrix Theory
+MATH114 - Introduction to Scientific Computing
+MATH115 - Functions of a Real Variable
+MATH118 - Mathematics of Computation
+MATH120 - Groups and Rings
+MATH136 - Stochastic Processes
+MATH151 - Introduction to Probability Theory
+MATH161 - Set Theory
+MATH171 - Fundamental Concepts of Analysis
+MATH172 - Fourier Analysis
+MATH175 - Elementary Functional Analysis
+MS&E244 - Statistical Arbitrage
+MS&E245A - Investment Science
+MS&E245B - Advanced Investment Science
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+STATS203 - Regression Models and Analysis of Variance
+STATS206 - Applied Multivariate Analysis
+STATS207 - Time Series Analysis
+STATS208 - Resampling Methods: Bootstrap, Cross Validation and Beyond
+STATS209 - Introduction to Causal Inference
+STATS217 - Introduction to Stochastic Processes I
+STATS218 - Introduction to Stochastic Processes II
+STATS219 - Stochastic Processes
+STATS221 - Random Processes on Graphs and Lattices
+STATS315B - Modern Applied Statistics: Learning II
+POLISCI110C - America and the World Economy
+Students may petition courses outside of this list to be reviewed by the DUS for approval. For more information, please visit
+https://economics.stanford.edu/undergraduate/major
+Writing in Major (WIM)
+Completion requirement
+WIM Courses
+Completing
+course
+(5 units) or at least 5 units of
+course
+will meet the WIM requirement for the ECON BA.
+These courses also complete the Capstone Requirement. See Capstone section below for more information.
+Complete at least 1 of the following Courses:
+ECON101 - Economic Policy Seminar
+ECON199D - Honors Thesis Research
+NOTE:
+course
+is only open for enrollment by students accepted to the ECON Honors Program.
+course
+must be taken at Stanford in California. This course is only open to students in the final year of coursework, and should be taken only after completing
+course
+Economic Analysis II and
+course
+Economic Analysis III,
+course
+Applied Econometrics, and at least two field courses. See Capstone section for more information.
+Capstone
+Completion requirement
+Capstone Requirement
+The Economics capstone experience will consist of two components.
+Fulfill ALL of the following requirements:
+1. Electronic Portfolio
+To be completed in junior year: All students must submit an electronic portfolio of their work in the major. Submissions will be graded for completeness by the Economics Major Faculty Advisor. Students must be declared Econ BA Majors BEFORE completing this requirement. This requirement is a prerequisite for the Economics Capstone Course or Honors Thesis.
+AND
+2. Economics Policy Seminar or Honors Thesis
+During their senior year, students may choose 1 of two paths to complete the second half of the economics Capstone requirement. Both options also fulfill the Writing in the Major (WIM) requirement for the major (students choosing to complete an honors thesis must complete at least 5 units of
+course
+to fulfill their WIM requirement).
+Fulfill ANY of the following requirements:
+(A) Economic Policy Seminar
+Graduating seniors may request permission to enroll in the Economic Policy Seminar Course,
+course
+, during the Fall, Winter, or Spring quarter of their final year of coursework.
+course
+is only available to students completing their final year of coursework, and enrollment is limited by application at the start of each school year. Student placement notifications will be sent out before the term starts.
+course
+must be taken at Stanford California and may only be taken after completing
+course
+,
+course
+,
+course
+, and at least two field courses.ch and write an honors thesis.
+Complete ALL of the following Courses:
+ECON101 - Economic Policy Seminar
+OR
+(B) Economics Honors Thesis
+Research and write an honors thesis under the guidance of a faculty advisor.
+Students wishing to apply for the Economics Honors Thesis program must meet the following requirements by the fall quarter of their senior year:
+Achieve a grade point average (GPA) of at least 3.5 for the units required for the Economics major. Units of
+course
+or
+course
+do not count in the computation of the GPA requirement for honors. The GPA will be calculated at two points: (1) when the student applies to the honors program, and (2) at the end of the quarter in which the student graduates. If the GPA is below 3.5 at the end of the quarter in which the student graduates, the student will have to drop honors in order to graduate.
+Complete
+course
+(a core program requirement) and at least two Econ upper division courses relevant to the proposed topic of the honors thesis by the end of junior year.
+More information about program requirements and expectations can be found at:
+https://economics.stanford.edu/undergraduate/honors-program
+Complete exactly 1 course(s) and earn 1 - 10 credit(s) from the following:
+ECON199D - Honors Thesis Research
+NOTE: Students must complete at least 5 units of 199D to meet their Writing in the Major (WIM) Requirement. See Writing in the Major section above for more information.
+Honors
+Completion requirement
+Honors Course Requirements
+The honors program
+offers independent research, creativity, and achievement opportunities. It is designed to encourage a more intensive study of economics than is required for the typical major, with course and research work of exceptional quality. Honors students submit their theses in writing and present them during the Honors Research Symposium during spring quarter. The honors program requires:
+Completing all requirements for the ECON BA major plus five additional units, bringing the total to 85 units.
+Achieving a grade point average (GPA) of at least 3.5 for the required courses of the Economics BA major (excluding
+course
+Directed Reading and
+course
+Honors Thesis Research). See details in the Information Book for Economics Majors.
+Complete
+course
+Applied Econometrics (a core program requirement) and at least two Econ upper-division courses most relevant to the proposed topic of the honors thesis by the end of the junior year. (These can be included in the basic 80 units.)
+Candidates must
+write and present an honors thesis in their senior year
+for one to nine credit units in their thesis advisor’s section of Econ 199D. Additionally, winter registration for one unit of Honors Thesis Research under the Director of the Honors Program section number (199D-20) is mandatory for all honors students. The thesis must be of very high quality and written under the direction of a member of the department or its affiliated faculty.
+Complete ALL of the following Courses:
+ECON199D - Honors Thesis Research
+Application Details
+Prospective candidates should communicate with the Director of the Honors Program as soon as possible.
+At the start of fall quarter of senior year, prospective candidates for the honors program must submit the following items to the
+Honors Program Application Form
+:
+A one-page description of the proposed thesis topic and research question
+A one-page proposed timeline
+Other information requested in the application form. For example, some courses taken, student information.
+After you submit your application, your thesis advisor and the Director of the Honors Program will review it and (if everything is satisfactory) approve it. After you are given the go-ahead, you can declare the Econ BAH in Axess and register in
+course
+units.
+See
+https://economics.stanford.edu/undergraduate/honors-program
+for current application deadlines/requirements and more information.

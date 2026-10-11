@@ -1,0 +1,541 @@
+URBST-BA - Urban Studies (BA)
+Download as PDF
+Urban Studies
+Undergraduate Matriculated
+BA - Bachelor of Arts
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Program on Urban Studies treats urbanism as an interdisciplinary field; it brings together students, faculty, and outside specialists concerned with cities and the impacts of cities on society and people’s lives. The Urban Studies major encourages students to inquire deeply into the nature of cities and the techniques used to modify urban environments. It prepares students to address urbanization, and gives students a knowledge base and theoretical, analytical, and practical skills to understand urban social systems and effect social change.
+Mission of the Undergraduate Program on Urban Studies
+Cities are now home to more than half of humanity. The mission of the undergraduate Program on Urban Studies is to develop students' understanding of the nature of cities and their impact on the world. The dynamic and complex nature of cities challenges traditional disciplinary boundaries, so the program is interdisciplinary, drawing from fields in the social sciences, the humanities, engineering, and education. Courses in the program focus on issues in contemporary urban society and the forces and practices that shape urban life. Courses also address how cities have changed over time and how they continue to change today in cultures around the world. Through a comprehensive program that includes course work, community engagement, and independent research, a major in Urban Studies prepares students for careers and graduate study in fields including architecture, business, education, environmental planning, law, public policy, real estate development, social services, urban design, and urban planning. It also prepares students to be critical thinkers, engaged citizens, and informed leaders who can help to transform cities for the better.
+Minimum Units in the Program
+75
+Minimum University Units
+180
+Collapse All
+The Urban Studies major requires students to complete five types of courses totaling at least 75 units:
+24 units in the core (including 5 units for ECON1)
+9 units (minimum) of skills courses in at least three courses of three units each
+20 units (minimum) in an area of concentration (see Depth section)
+3 units (minimum) of an internship or Cardinal service-learning course approved by Urban Studies to meet this requirement
+10 units in the capstone sequence (see Capstone section)
+If units in these categories total less than 75, the remaining units may be fulfilled by courses in other concentrations or Urban Studies courses numbered 100 or higher (except
+course
+, Community-Engaged Scholars Program Seminar, URBANST 198A or B,  or
+course
+Senior Honors Thesis).
+Prerequisite Information:
+Majors must complete one prerequisite:
+course
+Principles of Economics. This prerequisite course may be taken CR/NC. This course is included in the 75 units required for the major.
+course
+, Community-Engaged Scholars Program,
+course
+Senior Honors Thesis, and prerequisites for required courses and electives also do not count towards the 75-unit minimum. Students should review Navigate Classes for prerequisite information prior to enrolling.
+Recommended coursework:
+Urban Studies students interested in graduate school in business or urban planning are advised to obtain basic quantitative skills by completing
+course
+Calculus,
+course
+Calculus, and
+course
+Calculus, preferably before the junior year.
+A course in statistical methods, such as
+course
+Introduction to Statistical Methods: Precalculus,
+course
+Introduction to Statistical Methods (Postcalculus) for Social Scientists, or
+course
+Data Science for Politics, is recommended for students interested in business or urban planning.
+Overseas Study:
+Urban Studies students are encouraged to spend at least one quarter studying overseas to learn how cities vary across societies. Some Urban Studies concentration courses and electives can be satisfied at Stanford’s overseas campuses. Courses offered overseas differ from year to year, and students should check in advance with Overseas Studies and Urban Studies concerning which courses meet Urban Studies requirements. Students may arrange to fulfill the community-engaged learning requirement through an internship placement at one of Stanford’s overseas locations.
+Core Program Requirements
+Completion requirement
+Urban Studies Core
+Fulfill ALL of the following requirements:
+Urban Studies Core - Courses
+Overview: Urban Studies majors should complete URBANST 110 Introduction to Urban Studies before spring quarter of the junior year. The courses below, totaling 24 units, are required.
+Complete ALL of the following Courses:
+URBANST110 - Introduction to Urban Studies
+URBANST112 - The Urban Underclass
+URBANST113 - Introduction to Urban Design: Contemporary Urban Design in Theory and Practice
+URBANST114 - The Urban Century: The City in Global Perspective
+Majors must complete one prerequisite:
+course
+Principles of Economics.
+Skills Courses
+Fulfill ALL of the following requirements:
+Skills Courses
+Overview: A minimum of nine units in three courses of at least three units each are required and should be taken before the end of the junior year. The following courses are recommended for most Urban Studies majors.
+Complete ALL of the following Courses:
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+SOC180A - Foundations of Social Research
+AND
+Additional Skills Courses
+The additional skills courses vary depending on a student's needs and interests. Students consult with an advisor to determine the best choice.
+Complete ANY of the following Courses:
+ANTHRO91 - Method and Evidence in Anthropology
+ANTHRO98C - Digital Methods in Anthropology
+ARCHLGY125 - Archaeological Field Methods: Excavating Campus Histories at Frenchman's Lake
+CEE31Q - Accessing Architecture Through Drawing
+CEE118X - Shaping the Future of the Bay Area
+CEE118Y - Shaping the Future of the Bay Area
+CEE118Z - Shaping the Future of the Bay Area
+CEE130 - Architectural Design: 3-D Modeling, Methodology, and Process
+CEE133F - Studio 6: Integrated Design Capstone
+CEE154 - Data Analytics for Physical Systems
+DATASCI112 - Principles of Data Science
+DATASCI154 - Data Science for Social Impact
+EARTHSYS142 - Remote Sensing of Land
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+HUMBIO82A - Qualitative Research Methodology
+HUMBIO82B - Advanced Data Analysis in Qualitative Research
+MED147 - Methods in Community Assessment, Evaluation, and Research
+MS&E125 - Introduction to Applied Statistics
+PEDS202C - Qualitative Research Methods and Study Design
+POLISCI150A - Data Science for Politics
+POLISCI150B - Machine Learning for Social Scientists
+POLISCI150C - Causal Inference for Social Science
+SOC180A - Foundations of Social Research
+SOC180B - Introduction to Data Analysis
+STATS60 - Introduction to Statistical Methods: Precalculus
+URBANST123A - Designing Research for Social Justice: Creating a Community Engaged Research Project
+URBANST123B - Community Engaged Research - Principles, Ethics, and Design
+URBANST145 - Advanced Concepts in Geographic Information Science
+Community Engaged Learning
+Complete at least 1 of the following Courses:
+OSPPARIS17 - Green Urban Planning Internship
+SINY56 - Changemakers in Action: Business Innovation and Technology for Social Change
+SINY101 - The New York City Seminar
+URBANST125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+URBANST141 - Gentrification
+URBANST155 - Just Transitions Policy Lab
+URBANST164 - Sustainable Cities
+URBANST165 - Sustainable Transportation: Policy and Planning in Practice
+URBANST201A - Capstone Internship in Urban Studies
+Urban Studies students must participate in a community-engaged learning experience as part of their study. Students can fulfill this requirement in one of four ways:
+Enroll in an approved course such as those listed above.
+Complete an independent internship with a government agency or non-profit/community organization relevant to the major while enrolled in
+course
+Capstone Internship in Urban Studies before autumn quarter of the senior year.
+Conduct research with the guidance of a faculty mentor, or
+Complete Haas Center for Public Service requirements for the
+Cardinal Service notation
+.
+Students planning to participate in an internship should consult with the Urban Studies Co-Director no later than winter quarter of their junior year and complete the internship before autumn quarter of their senior year or three quarters before graduation. Students who intern for a private sector organization may receive credit for
+course
+, but cannot use
+course
+credits to meet the capstone requirement. Urban Studies majors who wish to receive academic credit for additional internship work may enroll in
+course
+. Students may not count more than seven units of internship credit toward their major, including
+course
+Internship in Urban Studies and
+course
+Capstone Internship in Urban Studies. Students can consult the Haas Center for Public Service for other courses with internship placements at community organizations.
+Not all Haas Center fellowships or Cardinal Courses automatically fulfill the Urban Studies major community-engaged learning requirement. Other classes with a significant community-engaged learning component may count towards the requirement. Requests should be submitted through the course substitution petition and approved by the Program Co-Director.
+Before enrolling in the course,
+we recommend that you confirm whether it can meet the community-engaged learning component.
+Depth in Discipline
+Completion requirement
+Urban Studies Pathways
+Students must complete at least 20 units in one of the following pathways:
+Global Urban  Culture and History
+Race, Ethnicity, and Urban Life
+Urban Education
+Urban Society and Social Change
+Urban Sustainability
+Self-Designed
+Courses may not be double-counted within the major.
+Students should consult an advisor to develop a program that meets their academic goals; relevant courses not listed here may be counted toward the concentration with the prior consent of an advisor.
+These pathways are declared to the department; they are not declared on Axess and do not appear on the transcript or diploma.
+Global Urban Culture and History Pathway
+Fulfill ALL of the following requirements:
+Pathway Overview
+Between required and elective courses, students must complete a total of 20 units in their chosen concentration.
+Approximately half of the world’s population lives in cities, and the proportion grows every day. Urban issues cannot be understood in the context of a single nation or a single moment in time. This concentration draws on disciplinary approaches, including anthropology, archaeology, art history, geography, and history, to help students understand how cities have developed and relate to each other today. By placing urban issues in perspective, students improve their comprehension of the United States, the world, and the present and the past.
+Students in this pathway are encouraged to study off-campus, preferably overseas, for at least one quarter. Many courses offered through the Overseas Studies Program can be counted toward the concentration. Similarly, internships offered at many of Stanford’s overseas locations can be used to fulfill the Urban Studies internship requirement.
+AND
+Required Courses
+Complete ALL of the following Courses:
+DLCL100 - CAPITALS: How Cities Shape Cultures, States, and People
+OR
+COLLEGE118 - Global Capitals: How Cities Shape Cultures, States, and People
+AND
+Elective Courses
+Complete ANY of the following Courses:
+AMSTUD145 - Silicon Valley
+AMSTUD154D - American Disaster
+ANTHRO39 - Sense of Place
+ANTHRO167 - Body and Environment
+ARTHIST142 - Architecture Since 1900
+ARTHIST143A - American Architecture
+ARTHIST250 - Cultural Heritage and Urban Space in Cairo and Istanbul
+ARTSTUDI11Q - Art in the Metropolis
+CEE32G - Architecture Since 1900
+CEE33B - Japanese Modern Architecture
+CEE32R - American Architecture
+CEE41Q - Clean Water Now! Urban Water Conflicts
+CLASSICS83 - The Greeks
+CLASSICS84 - The Romans
+CLASSICS156 - Design of Cities
+CSRE270 - Introduction to Arab Studies: Memory, Heritage, and Cultural Production
+EARTHSYS112 - Human Society and Environmental Change
+ENGLISH83N - City, Space, Literature
+HISTORY91B - The City in Imperial China
+HISTORY106A - Global Human Geography: Asia and Africa
+HISTORY106B - Global Human Geography: Europe and Americas
+HISTORY110C - Modern Europe's Lives
+HISTORY150C - The United States in the Twentieth Century
+HISTORY232B - Heretics, Prostitutes, and Merchants:  The Venetian Empire
+JAPAN125 - Tokyo, Kyoto, Osaka and Beyond: Place in Modern Japan
+ME120 - History and Ethics of Design
+MUSIC11Q - Art in the Metropolis
+OSPBER30 - Berlin vor Ort: A Field Trip Module
+OSPBER60 - Cityscape as History: Architecture and Urban Design in Berlin
+OSPCPTWN79 - Engaging Southern Cities: Thinking urbanization, development, and public culture from Cape Town
+OSPFLOR115Y - Building the Cathedral and the Town Hall: Constructing and Deconstructing Symbols of a Civilization
+OSPHONGK30 - Investigating Hong Kong Through Multidisciplinary Lens
+OSPHONGK39 - Studies of Cities in Comparative Perspective
+OSPHONGK89 - Ethnic, Groups, Ethnic Relations and Identities
+OSPISTAN88 - History of Istanbul:  Ancient to Contemporary
+OSPKYOCT199 - The Public Space Potential of Kyoto's Urban Cemeteries
+OSPMADRD8A - Cities and Creativity: Cultural and Architectural Interpretations of Madrid
+OSPMADRD60 - Internship Seminar: Experiential Learning through Service and Professional Opportunities
+OSPPARIS94 - Post Colonial Paris
+OSPPARIS99P - Paris: Capital of the Modern World
+OSPSANTG29 - Sustainable Cities: Comparative Transportation Systems in Latin America
+OSPSANTG71 - Santiago: Urban Planning, Public Policy, and the Built Environment
+POLISCI110C - America and the World Economy
+SINY114 - Writing in the City: Why New York Makes Great Writers
+SLAVIC36N - Get Your Own Toothbrush: Experiments in Communal Housing and their Discontents
+URBANST27Q - The Detective and the City
+URBANST83N - City, Space, Literature
+URBANST100UR - Doing (Sub)Urban History
+URBANST114 - The Urban Century: The City in Global Perspective
+URBANST119 - Ancient Urbanism
+URBANST140F - Casablanca - Algiers - Tunis : Cities on the Edge
+URBANST141 - Gentrification
+URBANST147 - Discovering the World of Indus
+URBANST150 - From Gold Rush to Google Bus: History of San Francisco
+URBANST169 - Race, Ethnicity, and Water  in Urban California
+URBANST169B - Race and Ethnicity in Urban California: Research Seminar
+Race, Ethnicity, and Urban Life Pathway
+Fulfill ALL of the following requirements:
+Pathway Overview
+Between required and elective courses, students must complete a total of 20 units in their chosen pathway.
+Race and ethnicity are central organizing categories shaping virtually every aspect of city life. This concentration focuses on race and ethnicity’s role in city formation, development, and change. Through a range of courses from across the university, students engage with how race and ethnicity shape where people live; relationships with law enforcement; neighborhood change; access to institutions; local politics; social movements; identity formation; and health care access; and health outcomes, among other themes.
+Students who elect this pathway will come away with the analytical tools to assess the causes and consequences of racial and ethnic inequality in cities and to make informed judgments about which policies bring about racial and ethnic justice.
+AND
+Required Course
+Complete ALL of the following Courses:
+CSRE100 - Introduction to Comparative Studies in Race and Ethnicity
+CSRE 100 - formerly CSRE 196C
+AND
+Elective Courses
+Complete ANY of the following Courses:
+AFRICAAM80Q - Race and Gender in Silicon Valley
+AFRICAAM105 - Foundations of African American Studies II
+ANTHRO31Q - The Big Shift
+ANTHRO111C - Muwekma: Landscape Archaeology and the Narratives of California Natives
+ANTHRO167 - Body and Environment
+ARTHIST291 - Riot: Visualizing Civil Unrest in the 20th and 21st Centuries
+ASNAMST100 - Introduction to Asian American Studies
+ASNAMST110 - The Development of the Southeast Asian American Communities:  A comparative analysis
+ASNAMST261 - Introduction to Asian American History
+CHILATST100 - Introduction to Latinx Studies
+CHILATST173 - Mexican Migration to the United States
+CHILATST177A - Well-Being in Immigrant Children & Youth: A Service Learning Course
+CHILATST180E - Introduction to Chicanx/Latinx Studies
+CSRE30Q - The Big Shift
+CSRE147A - Race and Ethnicity Around the World
+EDUC103B - Race, Ethnicity, and Linguistic Diversity in Classrooms: Sociocultural Theory and Practices
+EDUC392 - Education for Liberation: A History of African American Education, 1800 to the Present
+HISTORY200C - Doing the History of Race and Ethnicity
+HISTORY255D - Identity in the American Imagination
+HISTORY271B - Making Latino America
+HISTORY274C - Mexicans in the United States
+OSPHONGK89 - Ethnic, Groups, Ethnic Relations and Identities
+OSPPARIS94 - Post Colonial Paris
+PEDS150 - Advancing Health Equity: Exploring Social Determinants of Health and Multi-sector Solutions
+POLISCI121L - Racial-Ethnic Politics in US
+POLISCI141A - Immigration and Multiculturalism
+PWR194AJB - Race, Ethnicity, and Language: Anansi in the Machine: Black Oral Traditions and Digital Cultures
+SINY15 - Migrant Media in New York City
+SINY63 - Languages and Culture of Immigrant New York
+SOC3 - America: Unequal
+SOC179A - Crime and Punishment in America
+SOC189 - Race and Immigration
+URBANST125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+URBANST139 - Black Geographies
+URBANST140F - Casablanca - Algiers - Tunis : Cities on the Edge
+URBANST141 - Gentrification
+URBANST156A - The Changing American City
+URBANST164 - Sustainable Cities
+URBANST169 - Race, Ethnicity, and Water  in Urban California
+URBANST169B - Race and Ethnicity in Urban California: Research Seminar
+Urban Education Pathway
+Fulfill ALL of the following requirements:
+Pathway Overview
+Between required and elective courses, students must complete a total of 20 units in their chosen pathway.
+Providing education that is both high in quality and fair to all is one of the most significant challenges facing cities today. This pathway prepares students for careers in educational policy and practice. It is a popular choice for students who plan to pursue a coterminal master's degree at the Graduate School of Education in the
+Stanford Teacher Education Program (STEP)
+or the
+Policy, Organization, and Leadership Studies Program (POLS)
+. Stanford undergraduates can apply to the Stanford Teacher Education Program (STEP) in their junior or senior year.
+Coterminal students applying to STEP are encouraged to take
+course
+Introduction to Teaching and Learning before applying. Additionally, students interested in STEP Secondary (Single Subject) must demonstrate subject matter competency in their intended teaching area. Transcripts should reflect coursework in the intended teaching subject, even if it was not a student’s undergraduate major.
+For additional information, contact the STEP Admissions Officer at 723-2110, or consult the
+STEP website
+.
+AND
+Required Course
+Complete ALL of the following Courses:
+URBANST115 - Urban Education
+AND
+Elective Courses
+Complete ANY of the following Courses:
+AFRICAAM106 - Race, Ethnicity, and Linguistic Diversity in Classrooms: Sociocultural Theory and Practices
+EDUC101 - Introduction to Teaching and Learning
+EDUC103A - Tutoring: Seeing a Child through Literacy
+EDUC103B - Race, Ethnicity, and Linguistic Diversity in Classrooms: Sociocultural Theory and Practices
+EDUC107 - Education and Inequality: Big Data for Large-Scale Problems
+EDUC271 - Education Policy in the United States
+EDUC131 - Raza Youth in Urban Schools: Mis-educating Chicana/o/x and Latina/o/x Communities
+EDUC201 - History of Education in the United States
+EDUC202 - Introduction to Global and Comparative Education
+EDUC204 - Introduction to Philosophy of Education
+EDUC220C - Education and Society
+EDUC277 - Education of Immigrant Students: Psychological Perspectives
+EDUC283 - Child Development in and Beyond Schools
+HUMBIO142 - Adolescent Health and Development
+OR
+PSYCH60 - Introduction to Developmental Psychology
+PWR194AJB - Race, Ethnicity, and Language: Anansi in the Machine: Black Oral Traditions and Digital Cultures
+Urban Society & Social Change Pathway
+Fulfill ALL of the following requirements:
+Pathway Overview
+Between required and elective courses, students must complete a total of 20 units in their chosen pathway.
+Many students are drawn to Urban Studies by their desire to understand and address the unique problems confronting cities today. This pathway focuses on issues in contemporary urban society and the tools and concepts that can bring about change to improve urban life. Courses focus on diverse issues, from public health crises to racial and class inequality. Students also learn how community action, urban planning and design, and organizations in nonprofit, for-profit, and government sectors address these challenges. This concentration prepares students to enter graduate programs concerned with urban affairs, community service, and public policy and to work with local governmental agencies and for-profit and nonprofit organizations engaged in community service and development.
+AND
+Required Course
+Complete ALL of the following Courses:
+URBANST156A - The Changing American City
+AND
+Elective Courses
+Complete ANY of the following Courses:
+AMSTUD154D - American Disaster
+CEE32A - Psychology of Architecture
+CEE32B - Design Theory
+CEE141A - Infrastructure Project Development
+CEE177L - Smart Cities & Communities: Sustainability Design Thinking
+CEE141B - Infrastructure Project Delivery
+CEE246 - Venture Creation for the Real Economy
+CSRE12 - Community Organizing: People, Power, and Change
+CSRE107 - Community Organizing: People, Power and Change
+CSRE100 - Introduction to Comparative Studies in Race and Ethnicity
+EARTHSYS181 - Urban Agroecology
+ECON150 - Economic Policy Analysis
+ECON155 - Climate change and global inequality
+EDUC107 - Education and Inequality: Big Data for Large-Scale Problems
+ENVRES223 - Introduction to Environmental Justice: Race, Class, Gender and Place
+ENVRES223 - Introduction to Environmental Justice: Race, Class, Gender and Place
+HISTORY106A - Global Human Geography: Asia and Africa
+HISTORY106B - Global Human Geography: Europe and Americas
+INTNLREL142 - Challenging the Status Quo: Innovation in the Public Sector
+LAW2505 - Land Use Law
+MS&E180 - Organizations: Theory and Management
+OR
+SOC160 - Formal Organizations
+OSPCPTWN79 - Engaging Southern Cities: Thinking urbanization, development, and public culture from Cape Town
+OSPSANTG29 - Sustainable Cities: Comparative Transportation Systems in Latin America
+OSPSANTG71 - Santiago: Urban Planning, Public Policy, and the Built Environment
+PEDS150 - Advancing Health Equity: Exploring Social Determinants of Health and Multi-sector Solutions
+POLISCI121L - Racial-Ethnic Politics in US
+POLISCI236 - Philanthropy for Sustainable Development
+PUBLPOL135 - Regional Politics and Decision Making in Silicon Valley and the Greater Bay Area
+SINY101 - The New York City Seminar
+SOC3 - America: Unequal
+SOC14N - Inequality in American Society
+SOC118 - Social Movements and Collective Action
+SOC145 - Race and Ethnic Relations in the USA
+SOC146 - Introduction to Comparative Studies in Race and Ethnicity
+SOC160 - Formal Organizations
+SOC179A - Crime and Punishment in America
+URBANST33 - Architectural Theory of the American City
+URBANST103C - Housing Visions
+URBANST108H - Housing Affordability Crisis in California:  Causes, Impacts, and Solutions
+URBANST115 - Urban Education
+URBANST123A - Designing Research for Social Justice: Creating a Community Engaged Research Project
+URBANST125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+URBANST126A - Ethics and Leadership in Public Service
+URBANST127A - Community Organizing: People, Power & Change
+URBANST127B - Leadership, Organizing and Action: Intensive
+URBANST127C - Leadership, Organizing and Action: Campaign Coaching
+URBANST131 - Very Impactful People (V.I.P.):  Social Innovation & the Impact Entrepreneur
+URBANST132 - Concepts and Analytic Skills for the Social Sector
+URBANST133 - Social Enterprise Workshop
+URBANST141 - Gentrification
+URBANST148 - Who Owns Your City?: Institutional Real Estate Seminar
+URBANST155 - Just Transitions Policy Lab
+URBANST163 - Introduction to Land Use Policy and Planning
+URBANST164 - Sustainable Cities
+URBANST168 - Race, Nature, and the City
+URBANST169 - Race, Ethnicity, and Water  in Urban California
+URBANST169B - Race and Ethnicity in Urban California: Research Seminar
+URBANST171 - Urban Design Studio
+URBANST172A - Introduction to Urban, Rural, and Regional Planning
+URBANST173 - The Urban Economy
+URBANST183 - Team Urban Design Studio
+URBANST190A - Public Service for Social Impact: Pathways to Purposeful Careers
+Urban Sustainability Pathway
+Fulfill ALL of the following requirements:
+Pathway Overview
+Between required and elective courses, students must complete a total of 20 units in their chosen pathway.
+The Urban Sustainability pathway provides the basis for a holistic understanding of cities through the lens of environmental and social sustainability. By combining coursework in urban studies, history, sociology, and design with the STEM fields (science, technology, engineering, and mathematics), students in the Urban Sustainability concentration are exposed to the environmental and infrastructural aspects of cities, as well as to issues of human development, public policy, and social equity.
+Students in the pathway acquire a foundation in sustainability concepts and skills for research and professional practices. The Urban Sustainability concentration helps prepare students to serve as social change agents in future roles as scholars, urban planners, designers, entrepreneurs, public servants, and advocates to address the most pressing issues of urban development and its human impacts in cities worldwide.
+The following courses may be counted toward the Urban Sustainability Pathway. Students must select at least one course from each of the following categories:
+Environmental sustainability
+Social sustainability
+Project-based courses.
+Students interested in pursuing the pathway in urban sustainability should meet with an Urban Studies advisor to determine an appropriate course of study.
+AND
+Required Course
+Complete ALL of the following Courses:
+EARTHSYS112 - Human Society and Environmental Change
+AND
+Pathway Electives - Environmental Sustainability
+Complete at least 1 of the following Courses:
+BIO81 - Introduction to Ecology
+CEE41Q - Clean Water Now! Urban Water Conflicts
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+CEE100 - Managing Sustainable Building Projects
+CEE107A - Understand Energy
+CEE172 - Air Quality Management
+CEE173 - Urban Water
+CEE176A - Energy Efficient Buildings
+CEE178 - Introduction to Human Exposure Analysis
+CEE243 - Intro to Urban Sys Engrg
+CEE265F - Environmental Governance and Climate Resilience
+CEE308 - Topics in Disaster and Climate Risk and Resilience Research
+EARTHSYS10 - Introduction to Earth Systems
+EARTHSYS101 - Energy and the Environment
+EARTHSYS104 - The Water Course
+ECON17N - Energy, the Environment, and the Economy
+ECON155 - Climate change and global inequality
+ENGR90 - Environmental Science and Technology
+OSPSANTG29 - Sustainable Cities: Comparative Transportation Systems in Latin America
+Environmental sustainability refers to the biosphere, environmental planning and policy, natural resource planning and development, sustainable building design, and urban infrastructure systems.
+AND
+Pathway Electives - Social Sustainability
+Complete at least 1 of the following Courses:
+AMSTUD154D - American Disaster
+ANTHRO167 - Body and Environment
+ENVRES221 - New Frontiers and Opportunities in Sustainability
+ENVRES223 - Introduction to Environmental Justice: Race, Class, Gender and Place
+HISTORY200B - Doing Environmental History: Water Justice
+PEDS150 - Advancing Health Equity: Exploring Social Determinants of Health and Multi-sector Solutions
+PUBLPOL153 - Energy, Clean Innovation & Sustainability
+SINY122 - The Agile City
+SOC3 - America: Unequal
+URBANST103C - Housing Visions
+URBANST108H - Housing Affordability Crisis in California:  Causes, Impacts, and Solutions
+URBANST125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+URBANST155 - Just Transitions Policy Lab
+URBANST155A - Environmental Justice Colloquium
+URBANST156A - The Changing American City
+URBANST163 - Introduction to Land Use Policy and Planning
+URBANST165 - Sustainable Transportation: Policy and Planning in Practice
+URBANST169 - Race, Ethnicity, and Water  in Urban California
+Social sustainability refers to land use planning and its human impacts, distribution of public goods, human-centered design, human and community development, citizen participation, and social equity.
+AND
+Pathway Electives - Project-Based Courses
+Complete at least 1 of the following Courses:
+CEE124 - Sustainable Development Studio
+URBANST125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+URBANST164 - Sustainable Cities
+URBANST165 - Sustainable Transportation: Policy and Planning in Practice
+URBANST171 - Urban Design Studio
+URBANST172A - Introduction to Urban, Rural, and Regional Planning
+URBANST181 - Urban Agroecology
+URBANST183 - Team Urban Design Studio
+Project-based courses enable students to work on a real-life urban sustainability issue in collaboration with local and international community partners. Students grapple with sustainability concepts while practicing community engagement and capacity building, fluency in cross-cultural collaboration, human-centered design thinking, and developing a sense of one’s place in relation to global society and the praxis of urban sustainability.
+Self-Designed Pathway
+Students who wish to concentrate in an area of urban studies other than one of the above pathways must complete the Urban Studies core, skills, and capstone requirement, and design additional units to bring the total to at least 70 units.
+The self-designed portion of the major should concentrate on a particular area of urban study, such as urban health care or urban technologies. Additional units must be approved by the Director of Urban Studies and an academic advisor who is a member of the Academic Council and has expertise in the particular area of interest to the student. A proposal for a self-designed concentration should include a list of courses and a description of how each course meets the student’s educational objectives. A proposal for a self-designed concentration must be accompanied by a letter to the Director of Urban Studies indicating that the academic advisor has examined and approved the student’s plan.
+Students pursuing a self-designed pathway must submit proposals for approval by the Director of Urban Studies by the beginning of the third quarter of the student’s sophomore year. Applications received after that deadline are not considered. Students interested in designing their concentration are strongly encouraged to meet with the Director of Urban Studies before the end of autumn quarter of their sophomore year.
+Overseas Studies Courses (OPTIONAL)
+The
+Bing Overseas Studies Program
+(BOSP) manages Stanford international and domestic study away programs for Stanford undergraduates. Students should consult their department or program's student services office for applicability of Overseas Studies courses to a major or minor program.
+The
+BOSP course search site
+displays courses, locations, and quarters relevant to specific majors.
+For course descriptions and additional offerings, see the listings in the Stanford Bulletin's
+ExploreCourses
+, Stanford Navigator, or
+Bing Overseas Studies
+.
+Complete ANY of the following Courses:
+OSPBER30 - Berlin vor Ort: A Field Trip Module
+OSPBER60 - Cityscape as History: Architecture and Urban Design in Berlin
+OSPCPTWN79 - Engaging Southern Cities: Thinking urbanization, development, and public culture from Cape Town
+OSPFLOR115Y - Building the Cathedral and the Town Hall: Constructing and Deconstructing Symbols of a Civilization
+OSPMADRD8A - Cities and Creativity: Cultural and Architectural Interpretations of Madrid
+OSPMADRD60 - Internship Seminar: Experiential Learning through Service and Professional Opportunities
+OSPSANTG29 - Sustainable Cities: Comparative Transportation Systems in Latin America
+OSPSANTG71 - Santiago: Urban Planning, Public Policy, and the Built Environment
+Electives
+Completion requirement
+Major Electives
+If units in the above categories total less than 75, the remaining units may be fulfilled by courses in other concentrations or Urban Studies courses numbered 100 or higher (except URBANST 196, Senior Research in Public Service, URBANST 198A or B, Thesis Support, and URBANST 199, Honors Thesis.
+Writing in the Major (WIM)
+Completion requirement
+WIM Requirment
+Complete ALL of the following Courses:
+URBANST202A - Junior Seminar: Preparation for Research
+URBANST203 - Senior Seminar
+All majors are required to complete a sequence of two seminars, totaling ten units, in which students design a senior project and write the results of their project. The capstone seminars can be used to satisfy the Writing in the Major requirement.
+Capstone
+Completion requirement
+Capstone Requirement
+All majors are required to complete a sequence of two seminars, totaling ten units, in which students design a senior project and write the results of their project. The capstone seminars can be used to satisfy the Writing in the Major requirement and to complete some work on an honors thesis.
+Complete ALL of the following Courses:
+URBANST202A - Junior Seminar: Preparation for Research
+URBANST203 - Senior Seminar
+course
+Junior Seminar: Preparation for Research should be taken in the junior year, and
+course
+Senior Seminar in the senior year.
+Students who plan to be away during winter quarter of their junior year are advised to take
+course
+Junior Seminar: Preparation for Research in winter quarter of their sophomore year.
+Honors
+Completion requirement
+Honors Requirements
+The honors program offers qualified students an opportunity to conduct independent research and to write a thesis summarizing the results. Before being accepted to the honors program in Urban Studies, a student must:
+Declare a major in Urban Studies and complete at least 30 of the 70 required units, including all prerequisites and core classes
+Complete
+course
+Junior Seminar: Preparation for Research (offered winter quarter)
+Have an overall GPA of 3.3 and a GPA of at least 3.5 in Urban Studies
+Submit an application to the program office no later than April 30 of the junior year, including a one-page abstract and the signatures of an advisor and, if applicable, a second reader; the Director must then approve it for the Urban Studies honors program
+If the advisor is not a Stanford Academic Council member, the student must have a second reader who is an Academic Council member.
+Honors students are expected to complete some of their honors work in
+course
+Senior Seminar. Additionally, they must register for 5-10 units total in
+course
+Senior Honors Thesis over their senior year. The units of
+course
+Senior Honors Thesis are in addition to the 70 units required for the major. Honors students must present their theses at the Senior Colloquium in spring quarter of the senior year.
+To graduate with honors, students must receive a grade of at least A- in the honors work and a GPA of at least 3.5 in courses for the Urban Studies major at graduation.
+Complete ALL of the following Courses:
+URBANST198A - Honors Thesis Support I
+URBANST198B - Honors Thesis Support II
+URBANST199 - Senior Honors Thesis
+URBANST202A - Junior Seminar: Preparation for Research
+URBANST203 - Senior Seminar

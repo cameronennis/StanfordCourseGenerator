@@ -1,0 +1,181 @@
+{
+  "_note": "Stanford university-wide undergraduate requirements -- these apply regardless of major, on top of whatever a person's program sheet(s) require. Compiled from web research on 2026-09-03 without a direct rendered read of the bulletin (org web-fetch was unavailable), cross-checked with a couple of follow-up searches. Anything with a 'confidence' field other than 'verified' should be spot-checked against the linked source before being treated as ground truth by the solver -- surface these to the user rather than silently trusting them.",
+  "catalog_year": "2026-2027",
+
+  "units": {
+    "single_degree_min": 180,
+    "dual_degree_min": 225,
+    "confidence": "verified",
+    "source": "https://bulletin.stanford.edu/academic-polices/degree-requirements/baccalaureate-degree-requirements"
+  },
+
+  "gpa_min_undergrad": {
+    "value": 2.0,
+    "confidence": "verified",
+    "source": "https://bulletin.stanford.edu/academic-polices/academic-progress/undergraduate"
+  },
+
+  "residency": {
+    "freshman_admit_units_in_residence_min": 180,
+    "transfer_units_in_residence_min": 135,
+    "final_quarter_must_be_in_residence": true,
+    "final_quarter_waiver_possible_if_resident_units_at_least": 180,
+    "confidence": "verified",
+    "source": "https://bulletin.stanford.edu/academic-polices/degree-requirements/baccalaureate-degree-requirements"
+  },
+
+  "pass_fail": {
+    "unit_cap": 36,
+    "transfer_student_unit_cap": 27,
+    "activity_course_unit_cap": 8,
+    "note": "Activity-unit cap sits inside, not on top of, the pass/fail cap. Cap does not include terms officially offered Satisfactory/No Credit only.",
+    "confidence": "verified",
+    "source": "https://bulletin.stanford.edu/academic-polices/degree-requirements/special-types-credit"
+  },
+
+  "writing": {
+    "wr1": {
+      "satisfied_by": ["PWR1", "ESF95W", "ITALIC95W"],
+      "units": 4,
+      "prerequisite": null,
+      "deadline": "by end of sophomore year",
+      "confidence": "verified",
+      "source": "https://pwr.stanford.edu/about-pwr/understanding-writing-and-rhetoric-requirements"
+    },
+    "wr2": {
+      "satisfied_by": ["PWR2"],
+      "units": 4,
+      "prerequisite": "wr1",
+      "confidence": "verified",
+      "source": "https://pwr.stanford.edu/about-pwr/understanding-writing-and-rhetoric-requirements/how-meet-wr-2-requirement"
+    },
+    "wim": {
+      "note": "Writing in the Major -- a third tier, separate from WR1/WR2. Each major designates its own WIM course(s); see that major's program sheet, not this file.",
+      "confidence": "verified",
+      "source": "https://pwr.stanford.edu/writing-major/understand-wim-requirement"
+    }
+  },
+
+  "language": {
+    "requirement_summary": "Equivalent of one year of college-level foreign language study (typically 3 quarters), covering oral, reading, and writing skill.",
+    "placement_determines_start": true,
+    "can_place_out_via_test": true,
+    "ap_credit_min_score": {
+      "value": 4,
+      "note": "A score of 4 or 5 on the AP foreign-language exam (Chinese, French, German, Japanese, Latin, Spanish) gives credit and satisfies the requirement. AP foreign-*literature* exams do NOT satisfy it.",
+      "confirmed_by": "user (Cameron), 2026-09",
+      "confidence": "verified",
+      "source": "https://language.stanford.edu/academics/language-requirement"
+    },
+    "confidence": "verified",
+    "source": "https://language.stanford.edu/academics/language-requirement"
+  },
+
+  "ways": {
+    "status": "active alongside COLLEGE (not replaced by it)",
+    "total_courses_required": 11,
+    "min_units_per_course": 3,
+    "categories": {
+      "AII": {"name": "Aesthetic and Interpretive Inquiry", "courses_required": 2},
+      "SI": {"name": "Social Inquiry", "courses_required": 2},
+      "SMA": {"name": "Scientific Method and Analysis", "courses_required": 2},
+      "AQR": {"name": "Applied Quantitative Reasoning", "courses_required": 1},
+      "CE": {"name": "Creative Expression", "courses_required": 1, "units_note": "2 units total; may be met with two 1-unit courses in the same department"},
+      "EDP": {"name": "Exploring Difference and Power", "courses_required": 1},
+      "ER": {"name": "Ethical Reasoning", "courses_required": 1},
+      "FR": {"name": "Formal Reasoning", "courses_required": 1}
+    },
+    "double_counts_with_college": true,
+    "confidence": "verified",
+    "source": "https://ways.stanford.edu/about/ways-categories"
+  },
+
+  "college": {
+    "full_name": "Civic, Liberal, and Global Education",
+    "replaced": "Thinking Matters (pre-2022)",
+    "in_residence_required": true,
+    "double_counts_with_ways": true,
+    "alternatives": ["ESF (Autumn only; also satisfies WR1)", "ITALIC", "SLE (Structured Liberal Education)"],
+    "effective_through_2026_2027": {
+      "quarters_required": 2,
+      "sequence": [
+        {"quarter": "Autumn", "course": "COLLEGE 101", "title": "Why College? Your Education and the Good Life"},
+        {"quarter": "Winter", "course": "COLLEGE 102", "title": "Citizenship in the 21st Century"},
+        {"quarter": "Spring", "course": "COLLEGE (Global Perspectives menu)", "title": "one of ~8-10 topic options, mostly 4-unit lecture/section, some 3-unit seminar"}
+      ],
+      "note": "Students choose 2 of their first-year's 3 quarters to enroll in COLLEGE."
+    },
+    "effective_2027_2028_onward": {
+      "quarters_required": 3,
+      "note": "Faculty Senate voted May 2026 to make COLLEGE permanent and extend it from 2 to 3 quarters, effective Fall 2027. If planning schedules for students starting Fall 2027 or later, use 3 quarters, not 2."
+    },
+    "confidence": "verified",
+    "sources": [
+      "https://college.stanford.edu/",
+      "https://college.stanford.edu/students/policies",
+      "https://news.stanford.edu/stories/2026/05/faculty-senate-votes-to-extend-college",
+      "https://stanforddaily.com/2026/05/14/college-extends-to-three-quarters/"
+    ]
+  },
+
+  "secondary_major": {
+    "double_counting_with_primary_major_allowed": true,
+    "diploma_listed": false,
+    "transcript_listed": true,
+    "total_units_required": 180,
+    "overlap_unit_cap": {
+      "value": null,
+      "note": "No fixed university-wide numeric cap. Overlap between the primary and secondary major is allowed and is worked out case-by-case (via the 'Major-Minor and Multiple Major Course Approval Form', department-approved) -- don't encode a specific number here, treat it as 'ask your department' territory rather than a solver constraint.",
+      "confirmed_by": "user (Cameron), 2026-09",
+      "confidence": "verified",
+      "source": "https://advising.stanford.edu/current-students/advising-student-handbook/double-secondary-dual"
+    }
+  },
+
+  "double_major": {
+    "diplomas": 1,
+    "total_units_required": 180,
+    "double_counting_between_majors_allowed": false,
+    "exceptions": "Intro-level shared requirements (e.g. intro math/language) and School of Engineering school-wide requirements may still be shared even though double-counting is otherwise disallowed.",
+    "degree_type_mixing_ba_bs": {
+      "value": "may mix -- a double major does not require both majors to be the same degree type; one can be BA and the other BS, still resulting in a single diploma",
+      "confirmed_by": "user (Cameron), 2026-09",
+      "confidence": "verified"
+    },
+    "confidence": "verified",
+    "source": "https://advising.stanford.edu/current-students/advising-student-handbook/double-secondary-dual"
+  },
+
+  "double_degree": {
+    "diplomas": 2,
+    "total_units_required": 225,
+    "degree_type_requirement": "one BA + one BS",
+    "double_counting_between_majors_allowed": false,
+    "confidence": "verified",
+    "source": "https://bulletin.stanford.edu/academic-polices/degree-requirements/baccalaureate-degree-requirements"
+  },
+
+  "coterm": {
+    "_note": "General university policy only. Specific graduate programs (e.g. a CS MS coterm) layer additional requirements on top -- check that program's page separately.",
+    "eligibility_to_apply": {
+      "non_summer_quarters_in_residence_min": 6,
+      "transfer_student_quarters_min": 2,
+      "units_toward_bachelors_min": 120
+    },
+    "gpa_min_undergrad_to_apply": 2.0,
+    "gpa_min_grad_once_admitted": 3.0,
+    "masters_units_min": 45,
+    "masters_unit_rules": "100-level or above; at least 50% of units must be primarily graduate-level (typically 200+).",
+    "double_counting_between_degrees": "Not generally allowed simultaneously -- the 45 graduate units must be unduplicated relative to the 180 undergraduate units. A separate 'coterm course transfer' mechanism can later re-designate specific units from the undergrad to the grad transcript, which is a reassignment, not simultaneous double-counting.",
+    "overlap_quarter_required": true,
+    "overlap_quarter_note": "At least one quarter where both the bachelor's and master's programs are simultaneously open on the student's record.",
+    "application_deadline": "No later than the quarter before expected bachelor's degree conferral (university floor); individual graduate programs may set earlier deadlines.",
+    "tuition_group_transition": "May request to move into the graduate tuition group once 180 units are completed (225 for dual-degree students) or upon bachelor's conferral.",
+    "confidence": "verified",
+    "sources": [
+      "https://gap.stanford.edu/handbooks/gap-handbook/chapter-4/subchapter-2/page-4-2-1",
+      "https://studentservices.stanford.edu/my-academics/earn-my-degree/coterminal-degree-programs",
+      "https://bulletin.stanford.edu/academic-polices/degree-requirements/coterm"
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+EASYS-MS - Earth Systems (MS)
+Download as PDF
+Earth Systems
+Earth Systems
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Earth Systems Program offers current Stanford University undergraduates the opportunity to apply for a one-year coterminal master’s program. The Earth Systems Program is interdisciplinary. Students may select the topic area where they’d like to advance their knowledge in consultation with their master’s advisor. Students learn about and investigate complex environmental problems caused by human activities in conjunction with natural changes in the Earth system. Earth Systems Coterm students gain advanced knowledge to tackle the world’s most pressing social-environmental problems and sustainability challenges.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Pre-requisite Coursework
+Completion requirement
+Core Pre-requisite
+Complete ANY of the following Courses:
+EARTHSYS108 - Environmental Wayfinding: Cultural, Artistic, and Spiritual Approaches to Life on a Changing Planet
+EARTHSYS111 - Biology and Global Change
+EARTHSYS112 - Human Society and Environmental Change
+EARTHSYS115 - Science for Sustainable Solutions
+EBS123 - The Social Science of Sustainability
+GEOPHYS115 - Taking the Pulse of the Planet
+SUSTAIN101C - Climate 101
+Natural Science Pre-requisite
+Complete at least 1 of the following Courses:
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO85 - Evolution
+EARTHSYS127A - The Sixth Extinction (and the Other Five)
+EARTHSYS128 - Evolution of Terrestrial Ecosystems
+EPS1 - Introduction to Geology
+EPS4 - Coevolution of Earth and Life
+Environmental Justice, Human Rights, and Environmental Ethics Pre-requisite
+Complete ANY of the following Courses:
+EARTHSYS120 - Environmental Justice in California
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+EARTHSYS179C - History and Ethics of the Global Climate Crisis
+EARTHSYS194 - Introduction to Environmental Justice: Race, Class, Gender and Place
+EPS20 - The Geoscience of Environmental Justice
+ETHICSOC171 - Justice
+LAW2515 - Environmental Justice
+NATIVEAM115 - Introduction to Native American History
+STS190 - Environment, Technoscience, and Society
+Path Specific Pre-Requisites
+Complete at least 1 of the following:
+OPTION 1
+Fulfill ALL of the following requirements:
+Chemistry or Physics Pre-requisite
+Complete ANY of the following Courses:
+CHEM31A - Chemical Principles I
+CHEM31E - Chemical Foundations and 21st Century Problems
+EPS2 - Chemistry of the Earth and Planets
+EPS3 - Earth and Planetary Processes and Mechanics
+GEOPHYS110 - Introduction to the Foundations of Contemporary Geophysics
+PHYSICS21 - Mechanics and Fluids
+PHYSICS22 - Mechanics, Fluids, and Heat Laboratory
+PHYSICS23 - Electricity, Magnetism, and Optics
+PHYSICS24 - Electricity, Magnetism, and Optics Laboratory
+PHYSICS25 - Modern Physics
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS45 - Light and Heat
+PHYSICS61 - Mechanics and Special Relativity
+AND
+Statistics Pre-requisite
+Complete ANY of the following Courses:
+BIO131 - Environmental Data Analysis
+CME106 - Introduction to Probability and Statistics for Engineers
+EARTHSYS100A - Introduction to Data Science for Geoscience
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS117 - Introduction to Probability Theory
+OR
+STATS118 - Probability Theory for Statistical Inference
+STATS141 - Introduction to Statistics for Biology
+AND
+Math  Pre-requsite
+Complete ANY of the following Courses:
+CME100 - Vector Calculus for Engineers
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+AND
+Economics Pre-requisite
+Complete ANY of the following Courses:
+ECON1 - Principles of Economics
+GEP29 - Economics for Sustainability
+OR
+OPTION 2
+Fulfill ALL of the following requirements:
+Computer Science Pre-requisite
+Complete ALL of the following Courses:
+CS106A - Programming Methodology
+AND
+Economics Pre-requisite
+Complete ALL of the following Courses:
+ECON1 - Principles of Economics
+OR
+GEP29 - Economics for Sustainability
+ECON50 - Economic Analysis I
+AND
+Statistics Pre-requisite
+Complete ALL of the following Courses:
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+ECON102B - Applied Econometrics
+AND
+Math Pre-requisite
+Complete ANY of the following Courses:
+CME100 - Vector Calculus for Engineers
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+OR
+OPTION 3
+Fulfill ALL of the following requirements:
+Math Pre-requisite
+Complete ALL of the following Courses:
+MATH20 - Calculus
+AND
+Computer Science Pre-requisite
+Complete ALL of the following Courses:
+CS106A - Programming Methodology
+AND
+Economics Pre-requisite
+Complete ANY of the following Courses:
+ECON1 - Principles of Economics
+GEP29 - Economics for Sustainability
+AND
+Natural and Environmental Science Pre-requisite
+Complete ANY of the following Courses:
+BIO81 - Introduction to Ecology
+CEE70 - Environmental Science and Technology
+CEE107A - Understand Energy
+EPS1 - Introduction to Geology
+EPS2 - Chemistry of the Earth and Planets
+EPS4 - Coevolution of Earth and Life
+EARTHSYS101 - Energy and the Environment
+EARTHSYS105A - Ecology and Natural History of Jasper Ridge Biological Preserve
+AND
+EARTHSYS105B - Ecology and Natural History of Jasper Ridge Biological Preserve
+EARTHSYS123A - Biosphere-Atmosphere Interactions
+EARTHSYS127A - The Sixth Extinction (and the Other Five)
+EARTHSYS128 - Evolution of Terrestrial Ecosystems
+EARTHSYS150 - Wildfires in the Anthropocene
+EARTHSYS155 - Science of Soils
+OCEANS125H - Environmental Change and Marine Biodiversity
+OSPAUSTL28 - Terrestrial Ecology and Conservation
+OSPSANTG58 - Global Change in Chile
+SUSTAIN101C - Climate 101
+SUSTAIN103 - Human and Planetary Health
+AND
+Psychology Pre-requisite
+Complete ANY of the following Courses:
+PSYCH1 - Introduction to Psychology
+PSYCH70 - Self and Society: Introduction to Social Psychology
+AND
+Statistics Pre-requisite
+Complete ANY of the following Courses:
+BIO131 - Environmental Data Analysis
+CME106 - Introduction to Probability and Statistics for Engineers
+EARTHSYS100A - Introduction to Data Science for Geoscience
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS117 - Introduction to Probability Theory
+OR
+STATS118 - Probability Theory for Statistical Inference
+STATS141 - Introduction to Statistics for Biology
+AND
+Qualitative Methods Pre-requisite
+Complete ANY of the following Courses:
+ANTHRO91 - Method and Evidence in Anthropology
+CHPR247 - Pragmatic Skills for Mixed Methods Community Research
+CSRE146A - Designing Research for Social Justice: Creating a Community Engaged Research Project
+HUMBIO82A - Qualitative Research Methodology
+PEDS202C - Qualitative Research Methods and Study Design
+SOC180A - Foundations of Social Research
+URBANST123B - Community Engaged Research - Principles, Ethics, and Design
+AND
+Quantitative Methods Pre-requisite
+Complete ANY of the following Courses:
+CEE226 - Life Cycle Assessment for Complex Systems
+CS106B - Programming Abstractions
+DATASCI112 - Principles of Data Science
+EARTHSYS100A - Introduction to Data Science for Geoscience
+EARTHSYS141 - Remote Sensing of the Oceans
+EARTHSYS142 - Remote Sensing of Land
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS145 - Advanced Concepts in Geographic Information Science
+EARTHSYS153 - Data Science for Social Impact
+EARTHSYS213 - Innovation for Climate and Sustainability
+EARTHSYS240 - Data Science for Geoscience
+ECON102B - Applied Econometrics
+GEOPHYS115 - Taking the Pulse of the Planet
+OCEANS140H - Statistical Modeling
+POLISCI150A - Data Science for Politics
+POLISCI150B - Machine Learning for Social Scientists
+POLISCI150C - Causal Inference for Social Science
+Program Requirements
+Completion requirement
+Master's Seminar
+Complete ALL of the following Courses:
+EARTHSYS290 - Master's Seminar
+Master's Thesis (Optional)
+Students who choose to prepare an M.S. thesis, which is not required for the degree, may take up to 8 units of EARTHSYS 299 with their master's advisor and must complete 1 unit of EARTHSYS 299A.
+Complete ALL of the following Courses:
+EARTHSYS299 - M.S. Thesis
+EARTHSYS299A - Earth Systems Thesis Workshop
+M.S. Thesis Resources
+Application Process and Deadlines
+M.S. Thesis Guidelines
+Unit Requirement
+The Master of Science degree in Earth Systems allows specialization through graduate-level coursework.
+The following are required of all M.S. students:
+A minimum of 45 units of coursework and/or research credit (upon approval).
+At least 34 units of the student’s coursework for the master’s program must be at the 200-level or above. All remaining coursework must be at the 100-level or above.
+Up to nine units of research (Earthsys 297 and/or Earthsys 250) may be completed with their Master’s Advisor. This will enrich building mastery in the field through regular communication with their Master's Advisor.
+Students may use 8 units of Earthsys 323: Stanford at Sea towards the required 45 units. Please note- Although the entire 16 unit course must be in your graduate career, only 8 units will be applied towards the required 45 units.

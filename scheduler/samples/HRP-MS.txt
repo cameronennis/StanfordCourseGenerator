@@ -1,0 +1,148 @@
+HRP-MS - Health Policy (MS)
+Download as PDF
+Health Policy
+Health Policy
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Health Policy investigates how social factors, financing systems, organizational structures and processes, health technologies, and personal behaviors affect the accessibility, quality, and cost of health care and, ultimately, our health and well-being. The Master’s Degree in Health Policy gives students the skills to conduct and interpret research in health policy and clinical decision-making.
+The MS program is typically completed in two years.
+All candidates must satisfactorily complete 45 units of graduate coursework. Students must maintain an overall 3.0 (B) grade average or higher in graded courses, as well as a master’s thesis representing original health policy research. In addition to satisfying the core course requirements, students must take additional courses in one of three concentration areas - clinical decision-making, health economics, or implementation science.
+The Health Policy Master's Program’s core faculty interests include outcomes research, health economics, health care organization, health care access, implementation science, quality of care, decision analysis, clinical guidelines, and patient preferences and quality of life assessment.
+See the
+program website
+for additional program information, including (but not limited to) faculty lists, admissions information, and deadlines. Please address admission inquiries to the Health Policy Admissions Team at
+hrpadmissions@stanford.edu
+.
+Graduate Degrees
+summarizes university requirements for the Master of Science (MS) degree.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+To receive the MS degree, students are expected to demonstrate knowledge of issues in health policy and the quantitative skills necessary for research in this area.
+List of MS Requirements:
+Submission of
+Course Plan
+(also known as Master's Program Proposal), approved by the primary advisor and program director, by the end of the autumn quarter of the first year
+Submission of
+Thesis Proposal
+, approved by the primary advisor and program director, by the end of the spring quarter of the first year
+Submission of
+Collaborative Master's Plan
+, after consultation with and approval of primary advisor, by November of the second year
+Successful completion of
+all course requirements
+, with
+45 units of health-policy-related coursework
+(minimum)
+Successful completion of
+Master's Thesis
+, with approval of the student’s thesis committee
+Note: If a required course is not offered during a student’s time in the program, alternate plans for replacement courses can be made with the student’s advisor(s) and program director(s).
+Course Requirements
+Fulfill ALL of the following requirements:
+Required Courses
+NOTE:
+All courses must be taken for a letter grade.
+Complete ALL of the following Courses:
+EPI259 - Introduction to Probability and Statistics for Epidemiology
+EPI261 - Intermediate Biostatistics: Analysis of Discrete Data
+HRP201A - Health Policy Graduate Student Tutorial I
+HRP201B - Health Policy Graduate Student Tutorial II
+HRP201C - Health Policy Graduate Student Tutorial III
+HRP203 - Methods for Reproducible Population Health and Clinical Research
+HRP252 - Outcomes Analysis
+HRP391 - Health Law: Finance and Insurance
+HRP392 - Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions
+AND
+NIH Requirement
+Required only for students funded by NIH (or similar) training grants.
+Complete ALL of the following Courses:
+MED255 - The Responsible Conduct of Research
+AND
+Concentration Requirements
+Complete 1 course from 1 of the following concentrations.
+Fulfill ANY of the following requirements:
+Clinical Decision-Making
+Complete ALL of the following Courses:
+HRP263 - Advanced Decision Science Methods and Modeling in Health
+OR
+Implementation Science
+Complete ALL of the following Courses:
+HRP218 - Methods for Health Care Delivery Innovation, Implementation and Evaluation
+OR
+Health Economics
+Complete at least 1 of the following Courses:
+ECON122 - Economics of Health Equity
+PUBLPOL156 - Health Care Policy and Reform
+HUMBIO123G - Health Care Systems around the World
+HRP 249 can be used for this concentration, but only if approved by an advisor.
+AND
+Thesis Units
+Earn at least 12 credits from the following:
+HRP399 - Graduate Research
+A minimum of 12 units of thesis /research units.
+AND
+Electives
+Additional approved elective courses (at least six units) to complete the program total of at least 45 units.
+Pre-approved Electives
+Complete ANY of the following Courses:
+BMDS215 - Data Science for Medicine
+EASTASN217 - Health and Healthcare Systems in East Asia
+EPI202 - R Fundamentals for Health Research
+EPI206 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+EPI214 - Scientific Writing
+EPI219 - Evaluating Technologies for Diagnosis, Prediction and Screening
+EPI223 - Introduction to Data Management and Analysis in SAS & R
+EPI244 - Developing Measurement Tools for Health Research
+EPI251 - Design and Conduct of Clinical Trials
+EPI262 - Intermediate Biostatistics: Regression, Prediction, Survival Analysis
+EPI264 - Foundations of Statistical and Scientific Inference
+EPI267 - Life Course Epidemiology
+GSBGEN551 - Innovation and Management in Health Care
+HRP218 - Methods for Health Care Delivery Innovation, Implementation and Evaluation
+HRP224 - Social Entrepreneurship and Innovation Lab (SE Lab) - Human & Planetary Health
+HRP237 - Health Law: Improving Public Health
+HRP243A - Health Policy Seminar
+HRP263 - Advanced Decision Science Methods and Modeling in Health
+HRP285 - Global Leaders and Innovators in Human and Planetary Health: Sustainable Societies Lab
+INDE232 - Health Equity Education Seminar
+MED226 - Practical Approaches to Global Health Research
+MED233 - Global Health: Beyond Diseases and International Organizations
+MED238 - Leading and Managing Health Care Organizations: Innovation and Collaboration in High Stakes Settings
+MED273 - Biodesign for Digital Health
+MED286 - Digitally-Enabled Healthcare
+OBGYN216 - Current Issues in Reproductive Health
+PEDS202A - Practical Applications for Qualitative Data Analysis
+PEDS202B - Practical Applications for Qualitative Data Analysis
+PEDS202C - Qualitative Research Methods and Study Design
+SOMGEN207 - Theories of Change in Global Health
+STATS200 - Introduction to Theoretical Statistics
+STATS217 - Introduction to Stochastic Processes I
+Other electives, consistent with the student’s development plan, may be approved by the student’s faculty advisor and the program director.
+Proposal / Plan Requirements
+Master's Program Proposal
+: Students must submit a Course Plan (Master's Program Proposal), approved by the primary advisor and program director, by the end of the autumn quarter of the first year.
+Thesis Proposal:
+Each student will submit a thesis proposal by the end of the first year in the program. The proposal should describe the research project which will fulfill the requirement for the master’s thesis, including identifying the research question and describing the data sources and methods which will be used, and list a second reader. In the proposal, the student should identify the members of their thesis committee. The primary advisor, the second reader, and the program director must approve the proposal.
+Collaborative Master's Plan
+: Each student will submit a Collaborative Master's Plan by November 1st of their second year. This plan will require an initial independent assessment of the student’s goals for the program, their career plans and their readiness to complete the thesis. The student will then meet with their advisor to review the assessment, allowing them to add and adjust steps required to meet the goals and satisfy the requirements for completion of the program.
+Research or Project Requirement
+Completion requirement
+Master's Thesis Requirements
+Thesis:
+The thesis may take one of several forms, such as:
+Original analysis of data, whether collected primarily for the thesis or as secondary data analysis
+A decision model or cost-effectiveness analysis
+A quantitative policy analysis
+The quality of the master’s thesis should be such that it can be converted into a manuscript for publication.
+Thesis Committee:
+Each student will propose a thesis committee, to be approved by the Program Director, comprised of at least two faculty members associated with the master’s degree program, one of whom must be a core faculty member, and the second must be either core or affiliated faculty. All committee members must read and approve the final thesis. Depending on the project topic, additional faculty members may serve as mentors either as committee members or in a less formal arrangement.

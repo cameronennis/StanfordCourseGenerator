@@ -1,0 +1,380 @@
+STATS-MS - Statistics (MS)
+Download as PDF
+Statistics
+Statistics
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Master of Science in Statistics and the Master of Science in Statistics (Data Science track) are terminal degree programs designed to prepare students for careers in statistics, data science, and related fields. These programs are not pathways to the PhD in Statistics; students interested in doctoral study should apply directly to the PhD program.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Prerequisites
+Recommended preparatory courses include advanced undergraduate level courses in linear algebra and probability, and introductory courses in stochastic processes, numerical methods and proficiency in programming (Basic usage of the Python and C/C++ programming languages).
+Course fulfillment equivalency
+Statistics MS prerequisites
+Multivariable calculus and linear algebra at the level of
+course
+Introductory programming at the level of
+course
+Intermediate statistics (multiple regression and ANOVA, possibly without linear
+algebra) at the level of
+course
+Introductory probability at the level of
+course
+Data Science subplan prerequisites
+Multivariable calculus and linear algebra at the level of
+course
+Introductory programming at the level of
+course
+Intermediate statistics (multiple regression and ANOVA, possibly without linear
+algebra) at the level of
+course
+Intermediate probability at the level of
+course
+Prerequisite courses may not be counted towards the 45 units required of the MS.
+Courses below 200 level are not acceptable with the following exceptions: STATS 118; Math 104, Math 113; CS 106B, CS 107, CS140-182, CME 108.
+Statistics MS | Probability core requirement (3 units)
+Complete ANY of the following Courses:
+STATS118 - Probability Theory for Statistical Inference
+OR
+STATS218 - Introduction to Stochastic Processes II
+OR
+STATS310A - Theory of Probability I
+Students must take two advanced courses in probability or stochastic processes when replacing both STATS 118 and STATS 217.
+Students may NOT enroll in STATS 118 AFTER completion of any of the following: STATS 200, 218, 219, 300A, 310A.
+Must be taken for a letter grade.
+Statistics MS | Stochastic Processes core requirement (3 units)
+Complete ANY of the following Courses:
+STATS217 - Introduction to Stochastic Processes I
+STATS219 - Stochastic Processes
+STATS310A - Theory of Probability I
+Must be taken for a letter grade.
+Statistics MS | Theoretical Statistics core requirement (3 units)
+Complete ANY of the following Courses:
+STATS200 - Introduction to Theoretical Statistics
+STATS270 - Bayesian Statistics
+STATS300A - Theory of Statistics I
+Students may NOT enroll in STATS 200 AFTER completion of any course in the STATS 300 series.
+Must be taken for a letter grade.
+Statistics MS | Applied Statistics requirement (3 units)
+Complete ANY of the following Courses:
+STATS203 - Regression Models and Analysis of Variance
+STATS305A - Applied Statistics I
+Must be taken for a letter grade.
+Statistics MS | Linear Algebra core requirement (3-4 units)
+Complete ANY of the following Courses:
+MATH104 - Applied Matrix Theory
+MATH113 - Linear Algebra and Matrix Theory
+CME302 - Numerical Linear Algebra
+CME364A - Convex Optimization I
+Students who enter the program with these foundational skills must select a more advanced course; course substitution may require DGS approval one quarter prior.
+Must be taken for a letter grade.
+Statistics MS | Programming requirement (3 units)
+Complete ANY of the following Courses:
+CS106B - Programming Abstractions
+CS107 - Computer Organization and Systems
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+Students who enter the program with these foundational skills must select a more advanced course; course substitution may require DGS approval one quarter prior.
+Must be taken for a letter grade.
+Depth in Discipline
+Completion requirement
+Statistics MS Depth Requirement
+15 Units
+Five (5) Statistics courses must be taken from graduate offerings in the Statistics department at or above the 200-level*.
+*Statistics workshop (WKS), seminars (SEM), practicum (PRA), and independent research (INS, RES) credit (1-2 unit) may only count towards breadth/general elective credit. See Breadth section below.
+*STATS 200Q is not an allowable course for graduate students.
+Complete at least 5 courses in the following Course Sets:
+Untitled Course Set
+Must be taken for a letter grade, except those offered CR/S only.
+Course substitution may require DGS approval one quarter prior. Courses in the depth requirement must be STATS course or its cross-listing.
+Breadth in Discipline
+Completion requirement
+Breadth Requirement
+Breadth courses are meant to  complement their statistical training with graduate-level courses from a variety of disciplines. Courses develop relevant skills or emphasize applications of statistics and probability and expand their interests in areas such as optimization, scientific computing, economics, quantitative finance, healthcare, operations research, and environmental science.
+Course substitution may require approval from DGS one quarter prior to enrollment.
+Minimum three courses (3 units each).
+Students can customize their academic experience through a wide range of elective courses in statistics and adjacent fields
+(lectures, workshops, training, independent study, practicum, seminars)
+enabling them to develop expertise aligned with their individual interests and professional aspirations.
+With the exception of STATS 118; Math 104, Math 113, Math 151; CS 106B, CS 107, CME 108, classes must be taken at the 200 level or higher.
+May be taken for CR/S.
+Biological Sciences
+Complete ANY of the following Courses:
+BIO244 - Fundamentals of Molecular Evolution
+BIO283 - Theoretical Population Genetics
+BMDS214 - Representations and Algorithms for Computational Molecular Biology
+BMDS241 - Intermediate Biostatistics: Analysis of Discrete Data
+BMDS291A - Data Studio: Consulting Workshop on Biomedical Data Science
+BMDS280A - Workshop in Biomedical Data Science
+BMDS291B - Data Studio: Consulting Workshop on Biomedical Data Science
+BMDS291C - Data Studio: Consulting Workshop on Biomedical Data Science
+BMDS280A - Workshop in Biomedical Data Science
+BMDS280B - Workshop in Biomedical Data Science
+BMDS280C - Workshop in Biomedical Data Science
+GENE211 - Genomics
+Computational and Mathematical Engineering (CME)
+Complete ANY of the following Courses:
+CME200 - Linear Algebra with Application to Engineering Computations
+CME302 - Numerical Linear Algebra
+CME305 - Discrete Mathematics and Algorithms
+CME306 - Computational Methods of Applied Mathematics
+CME307 - Optimization
+CME309 - Randomized Algorithms and Probabilistic Analysis
+CME364A - Convex Optimization I
+CME364B - Convex Optimization II
+Computer Science
+Complete ANY of the following Courses:
+CS140 - Operating Systems and Systems Programming
+CS142 - Web Applications
+CS143 - Compilers
+CS144 - Introduction to Computer Networking
+CS145 - Introduction to Big Data Systems
+CS147 - Introduction to Human-Computer Interaction Design
+CS149 - Parallel Computing
+CS154 - Introduction to the Theory of Computation
+CS155 - Computer and Network Security
+CS157 - Computational Logic
+CS161 - Design and Analysis of Algorithms
+CS182 - Ethics, Public Policy, and Technological Change
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224C - NLP for Computational Social Science
+CS224G - Apps With LLMs Inside
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS224S - Spoken Language Processing
+CS224U - Natural Language Understanding
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS246 - Mining Massive Data Sets
+CS261 - Combinatorial Optimization
+CS273C - Cloud Computing for Biology and Healthcare
+CS288 - Applied Causal Inference with Machine Learning and AI
+CS329X - Human Centered NLP
+CS328 - Foundations of Causal Machine Learning
+Economic Analysis & Policy, GSB, Management Science & Engineering
+Complete ANY of the following Courses:
+ECON202N - Microeconomics I For Non-Economics PhDs students
+ECON210 - Macroeconomics I
+ECON271 - Intermediate Econometrics II
+ECON272 - Intermediate Econometrics III: Methods for Applied Econometrics
+ECON273 - Advanced Econometrics I
+ECON274 - Advanced Econometrics II
+FINANCE620 - Financial Markets I
+FINANCE622 - Dynamic Asset Pricing Theory
+MGTECON634 - Machine Learning and Causal Inference
+MS&E241 - Economic Analysis
+MS&E245A - Investment Science
+MS&E245B - Advanced Investment Science
+MS&E246 - Financial Risk Analytics
+Operations Management
+Complete ANY of the following Courses:
+MS&E221 - Stochastic Modeling
+MS&E223 - Stochastic Simulation and Monte Carlo Methods
+MS&E250A - Reliability and Resilience of Engineered Systems
+MS&E250B - Project Course in Engineering Risk Analysis
+MS&E252 - Foundations of Decision Analysis
+MS&E260 - Introduction to Operations Management
+MS&E311 - Optimization
+MS&E321 - Stochastic Systems
+MS&E346 - Foundations of Reinforcement Learning with Applications in Finance
+MS&E355 - Influence Diagrams and Probabilistics Networks
+Mathematics
+Complete ANY of the following Courses:
+MATH158 - Probability and Stochastic Differential Equations for Applications
+MATH171 - Fundamental Concepts of Analysis
+MATH205A - Real Analysis
+MATH220A - Partial Differential Equations of Applied Mathematics
+MATH236 - Introduction to Stochastic Differential Equations
+Statistics
+Complete ANY of the following Course Sets:
+Untitled Course Set
+With the exception of STATS 118; Math 104, Math 113, Math 151; CS 106B, CS 107, CME 108, classes must be taken at the 200 level or higher.
+STATS workshop, seminar, practicum, independent study & research, and are repeatable up to 6 units.
+STATS 200Q is not an allowable course for graduate students.
+Electrical Engineering
+Complete ANY of the following Courses:
+EE261 - The Fourier Transform and Its Applications
+EE263 - Matrix Methods: Singular Value Decomposition
+EE269 - Signal Processing and Quantization for Machine Learning
+EE278 - Probability and Statistical Inference
+EE363 - Linear Dynamical Systems
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+EE377 - Information Theory and Statistics
+EE378A - Statistical Signal Processing
+EE379A - Data Transmission Design
+Civil & Environmental Engineering
+Complete ANY of the following Courses:
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+CEE241 - Managing Fabrication and Construction
+CEE241A - Infrastructure Project Development
+CEE244 - Accounting, Finance & Valuation for Engineers & Constructors
+CEE289 - Random Vibrations
+Political Science and Public Policy
+Complete ALL of the following Courses:
+POLISCI450A - Political Methodology I: Regression
+POLISCI450B - Political Methodology II: Causal Inference
+POLISCI450C - Political Methodology III: Model-Based Inference
+POLISCI450D - Political Methodology IV: Advanced Topics
+POLISCI451 - Directed Readings on Causal Inference with Panel Data
+POLISCI455 - Topics in Quantitative Political Methodology
+PUBLPOL50 - Intermediate Microeconomics for Public Policy
+Psychology & Social Science
+Complete ANY of the following Courses:
+PSYCH253 - Multivariate Analysis, Measurement, and Study of Change in Social Science Research
+SOC383 - Statistics for an Open Science: Modeling
+PSYCH299 - Individually Supervised Practicum
+Data Science Subplan
+Completion requirement
+Data Science Subplan Theoretical Statistics Core Requirement (3 units)
+The following classes are recommended to be taken in sequence:
+Year 1, Autumn: STATS 200
+Year 1, Winter: STATS 203 and STATS 217
+Complete ANY of the following Courses:
+STATS200 - Introduction to Theoretical Statistics
+STATS300A - Theory of Statistics I
+Must be taken for a letter grade.
+Data Science Subplan Applied Statistics Core Requirement (3 units)
+Complete ANY of the following Courses:
+STATS203 - Regression Models and Analysis of Variance
+STATS305A - Applied Statistics I
+Must be taken for a letter grade.
+Data Science Subplan Causal Inference Core Requirement (3 units)
+Complete ANY of the following Courses:
+CS288 - Applied Causal Inference with Machine Learning and AI
+ECON272 - Intermediate Econometrics III: Methods for Applied Econometrics
+STATS209 - Introduction to Causal Inference
+STATS263 - Design of Experiments
+Must be taken for a letter grade.
+Data Science Subplan Stochastic Processes Core Requirement (3 units)
+Complete ANY of the following Courses:
+STATS217 - Introduction to Stochastic Processes I
+STATS218 - Introduction to Stochastic Processes II
+STATS219 - Stochastic Processes
+Must be taken for a letter grade.
+Data Science Subplan Statistical Learning Core Requirement (3 units)
+Complete ANY of the following Courses:
+STATS202 - Statistical Learning and Data Science
+OR
+STATS202V - Statistical Learning and Data Science [Virtual]
+OR
+STATS202F - Statistical Learning and Data Science [Flipped]
+STATS315A - Modern Applied Statistics: Learning
+Must be taken for a letter grade.
+Data Science Subplan: Computational Methods for Data Science Requirement (6 units)
+Complete at least 2 of the following Courses:
+BMDS276 - Advanced Topics in Computer Vision and Biomedicine
+CME213 - Introduction to parallel computing using MPI, openMP, and CUDA
+CME302 - Numerical Linear Algebra
+CME364A - Convex Optimization I
+CS229S - Systems for Machine Learning
+CS235 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS245 - Principles of Data-Intensive Systems
+CS246 - Mining Massive Data Sets
+CS273C - Cloud Computing for Biology and Healthcare
+MS&E236 - Machine Learning for Discrete Optimization
+Students may also petition to use other classes that are focused on optimization, scientific computing and/or large-scale data analyses for this requirement. Requests must be submitted to the DGS one quarter prior to enrollment.
+Must be taken for a letter grade.
+Data Science Subplan: Applied Machine Learning & AI requirement (9 units)
+Complete at least 3 of the following Courses:
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS224S - Spoken Language Processing
+CS224U - Natural Language Understanding
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+AND
+STATS229 - Machine Learning
+CS231N - Deep Learning for Computer Vision
+CS234 - Reinforcement Learning
+CS235 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS236 - Deep Generative Models
+CS329X - Human Centered NLP
+STATS220 - Machine Learning Methods for Neural Data Analysis
+STATS232 - Machine Learning for Sequence Modeling
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+Students may also petition to use other classes that fulfill ML or AI learning objectives. Requests must be submitted to the DGS one quarter prior to enrollment.
+Must be taken for a letter grade.
+Data Science Elective Courses (9-12 units)
+In consultation with the student's program advisor, the student selects 2-3 graduate level courses within the realm of data science to fulfill the remaining coursework required for the degree. Courses are expected to expand and strengthen the student's skill set.
+May be taken for letter grade or CR/S.
+Data Science Capstone Project (3 units)
+The capstone project should be computational in nature with real-world project-based research and experiential learning using data science and computation skills learned during the course of their program.
+Students should submit a 2-page proposal, supported by the faculty mentor/PI and send to the Data Science program advisor at least one quarter prior to enrolling in any
+research credit course
+.
+Students are required to take
+minimum of 3 units
+of practical component.
+Here are some examples of courses that have been used to meet the Capstone requirement:
+DataSci capstone courses:
+course
+,
+course
+,
+course
+Analysis and Measurement of Impact (
+course
+)
+By application; Non-GSB students must apply for and be accepted into the course to enroll.
+Statistical Consulting Workshop
+(
+course
+) Units: 1. Repeatable up to 3 times.
+This class requires mastery of Statistics at the (graduate) level necessary to provide consultation to fellow members of the university.
+Students attend weekly lectures on Friday to discuss consulting cases and various statistical techniques that arise frequently in consulting.
+Consulting Workshop on Biomedical Data Science
+(
+course
+) Units: 1. Repeatable up to 3 times.
+The Data Studio is a collaboration between Spectrum (The Stanford Center for Clinical and Translational research and Education) and the Department of Biomedical Data Science (DBDS). The educational goal of this workshop is to provide data science consultation training for students.
+Workshop in Biomedical Data Science
+(
+STATS 260ABC/BMDS 280ABC
+) Repeatable up to 3 times.
+Applications of data science techniques to current problems in biology, medicine and healthcare. To receive credit for one or two units, a student must attend every workshop. To receive two units, in addition to attending every workshop, the student is required to write a two page critical summary of one of the workshops, with the choice made by the student.
+Xplore
+(
+course
+)
+Project Based Research Course
+Units: 1 - 6.
+Enrollment by application only - limited enrollment; priority is given to ICME students.
+Research for Credit
+Independent Study
+(
+course
+) Units: 1-3; Repeatable up to 6 units.
+In consultation with your program advisor, and permission of statistics faculty/advisor students may formulate independent study or directed reading in statistics, data science or related field. Students should submit a one-page proposal, supported by the faculty member and sent to the student's program advisor for approval  (one quarter prior to start of the project).
+or equivalent course in statistics adjacent department with program advisor approval.
+Research in
+The Computational Neuroscience Laboratory
+(
+course
+) Units: 3. Repeatable up to 6 units.
+Enrollment by application only.
+Stanford students interested in research at the intersection of artificial intelligence, medical image analysis, and computational neuroscience to collaborate with our group in multiple exciting projects.
+The research can be performed as an independent study at the CNSLab (part of the School of Medicine).
+Industrial Research for Statisticians
+(
+course
+) Units: 1. Repeatable up to 3 units.
+International students (F-1) MUST enroll when employed by a U.S. company (
+CPT
+).
+Students MUST submit one-page summary of the job offer to their advisor prior to enrolling in STATS 298 and applying for CPT.
+Students MUST submit one-page report of their internship to advisor by the end of the quarter.
+Courses for the Capstone requirement may be taken for letter grade or CR/S.

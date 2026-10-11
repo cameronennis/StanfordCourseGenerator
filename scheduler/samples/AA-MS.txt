@@ -1,0 +1,271 @@
+AA-MS - Aeronautics and Astronautics (MS)
+Download as PDF
+Aeronautics and Astronautics
+Aeronautics and Astronautics
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The
+Bulletin
+outlines the university’s basic requirements for the master’s degree. The Master of Science (AA-MS) degree program in Aeronautics and Astronautics is intended for students whose ultimate goal is to pursue a professional career in Aeronautics and Astronautics, or a related field.
+Students with an aeronautical engineering background should be able to complete the master’s degree in five quarters; note that many courses are not taught during the summer. Students with a bachelor’s degree in Physical Science, Mathematics, or other areas of Engineering may find it necessary to take specific prerequisite courses, which may lengthen the time required to obtain the master’s degree.
+The M.S. program is a terminal degree program. It is based on completing lectures focused on a theme within Aeronautics and Astronautics engineering. Research is optional (required to take the qualifying examination).
+Students who ultimately intend to complete a Ph.D. degree are encouraged to apply directly to the Ph.D. program. Applicants will be able to apply directly to the Ph.D. program whether they hold an M.S. degree or a bachelor’s degree.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Course Requirements
+The master’s degree program requires 45 quarter units of coursework, which must be taken at Stanford. All units must be in courses at or above the 100 level.
+Students must also meet the university’s quarterly academic requirements for graduate students as described in this Bulletin and in the Degree Completion section of the Guide to Graduate Studies in Aeronautics and Astronautics. All courses (excluding seminars) used to satisfy the requirements for basic courses, mathematics, and technical electives must be taken for a letter grade. Insufficient grade points on which to base the GPA may delay expected degree conferral or result in the refusal of permission to take the qualifying examinations.
+The coursework is divided into five categories:
+Core Breadth courses
+Advanced A/A courses
+Mathematics  courses
+Technical electives
+Other electives
+Core Breadth Courses
+Fulfill ALL of the following requirements:
+A/A Core Breadth Courses
+Master’s degree candidates must select five courses from the categories as follows:
+Fluids
+Structures
+Controls
+Dynamics
+Propulsion
+Course Waivers
+M.S. waiver requests are due by the end of the first week of classes (Autumn Quarter, year 1). Waivers of the basic courses required for the M.S. degree in Aeronautics and Astronautics can only be granted by the instructor of that course. Waivers are applicable only to core courses, which include: AA 210A, AA 200, AA 256, AA 240, Engr 205, AA 203, AA 242A, AA 279A, AA 204, AA 283. Students who believe that they have had a substantially equivalent graduate-level course at another institution should consult with the course instructor to determine if they are eligible for a waiver, and with their advisor to judge the effect on their overall program plans. Students will complete a google form to submit their requests, which will be due by the end of the first week of classes. Examination rooms will be reserved for the second week of the Autumn Quarter.
+Students must take the final exam* for the course and achieve a grade of A- or higher. Instructors will forward their waiver approvals to the Student Services Office. One additional technical elective must be added for each M.S. course that is waived. The advisor must sign the front of the program proposal acknowledging the waiver and approving the additional technical elective. *Midterm exam may be used as a substitute if there is no final exam.
+Note: This process is distinct from the petition process. Students can still submit petitions for substitutions on the AA-MS program sheet, which will be reviewed by the academic advisor and DGS.
+AND
+A/A Core Breadth Courses
+Fulfill ALL of the following requirements:
+Fluids
+Complete at least 1 of the following Courses:
+AA200 - Applied Aerodynamics
+AA210A - Fundamentals of Compressible Flow
+AND
+Structures
+Complete at least 1 of the following Courses:
+AA240 - Analysis of Structures
+AA256 - Mechanics of Composites
+AND
+Controls
+Complete at least 1 of the following Courses:
+AA203 - Optimal and Learning-based Control
+ENGR205 - Introduction to Control Design Techniques
+AND
+Dynamics
+Complete at least 1 of the following Courses:
+AA242A - Classical Dynamics
+AA279A - Space Mechanics
+AND
+Propulsion
+Complete at least 1 of the following Courses:
+AA204 - Spacecraft Electric Propulsion
+AA283 - Aircraft and Rocket Propulsion
+AND
+(II) Advanced A/A Courses - Three courses of A/A 200+ with 3 or more units each
+These units cannot be counted twice towards the Core Breadth Courses.
+Complete at least 3 of the following Courses:
+AA200 - Applied Aerodynamics
+AA201A - Fundamentals of Acoustics
+AA201B - Topics in Aeroacoustics
+AA203 - Optimal and Learning-based Control
+AA204 - Spacecraft Electric Propulsion
+AA205 - Rarefied and Ionized Gases
+AA210A - Fundamentals of Compressible Flow
+AA212 - Advanced Feedback Control Design
+AA214 - Numerical Methods for Compressible Flows
+AA216 - Projection-Based Model Order Reduction
+AA222 - Engineering Design Optimization
+AA228 - Decision Making under Uncertainty
+AA228V - Validation of Safety Critical Systems
+AA229 - Advanced Topics in Sequential Decision Making
+AA232 - Planetary and Geological Optical Remote Sensing
+AA234 - Planetary Geophysics: Theory, Observational Techniques and Data Analysis
+AA235 - Experimental Earth and Planetary System Analysis
+AA240 - Analysis of Structures
+AA240B - Analysis of Structures
+AA241A - Aircraft Design: Synthesis and Analysis
+AA241B - Aircraft Design: Synthesis and Analysis
+AA242A - Classical Dynamics
+AA242B - Mechanical Vibrations
+AA244A - Fundamentals of Plasmas I
+AA244B - Fundamentals of Plasmas II
+AA245 - Stability of Structures
+AA251 - Introduction to the Space Environment
+AA252 - Techniques of Failure Analysis
+AA254 - Deployable Space Structures
+AA255 - Origami Engineering
+AA256 - Mechanics of Composites
+AA257 - Structural Health Monitoring
+AA260 - Sustainable Aviation
+AA261 - Building an Aerospace Startup from the Ground Up
+AA272 - Global Positioning Systems
+AA273 - State Estimation and Filtering for Robotic Perception
+AA274A - Principles of Robot Autonomy I
+AA274B - Principles of Robot Autonomy II
+AA275 - Navigation for Autonomous Systems
+AA276 - Principles of Safety-Critical Autonomy
+AA277 - Multi-Robot Control and Distributed Optimization
+AA279A - Space Mechanics
+AA279B - Advanced Space Mechanics
+AA279C - Spacecraft Attitude Determination and Control
+AA279D - Control of  Distributed Space Systems
+AA280 - Smart Structures
+AND
+Mathematics Courses
+M.S. candidates are expected to exhibit competence in applied mathematics by
+taking two courses, for a minimum of six units
+, of either advanced mathematics offered by the Mathematics Department or technical electives that strongly emphasize applied mathematics. Students are encouraged to consult their advisors to select the most suitable classes for their specific field, as other advanced courses may also be acceptable. Please refer to the list of pre-approved mathematics courses below. Additionally, 200+ level or higher lecture courses in MATH taken for 3 or more units will fulfill this requirement.
+Complete at least 2 of the following Courses:
+AA201A - Fundamentals of Acoustics
+AA203 - Optimal and Learning-based Control
+AA212 - Advanced Feedback Control Design
+AA214 - Numerical Methods for Compressible Flows
+AA216 - Projection-Based Model Order Reduction
+AA222 - Engineering Design Optimization
+AA228 - Decision Making under Uncertainty
+AA242B - Mechanical Vibrations
+AA273 - State Estimation and Filtering for Robotic Perception
+AA276 - Principles of Safety-Critical Autonomy
+AA277 - Multi-Robot Control and Distributed Optimization
+CEE201E - Nonlinear Dynamics
+CEE281 - Mechanics and Finite Elements
+CEE284 - Finite Element  Methods in Structural Dynamics
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+CME215 - Machine Learning and the Physical Sciences
+CME216 - Machine Learning for Computational Engineering.
+CME241 - Foundations of Reinforcement Learning with Applications in Finance
+CME262 - Imaging with Incomplete Information
+CME270 - Advances in Computing with Uncertainties
+CME298 - Probability and Stochastic Differential Equations for Applications
+CME302 - Numerical Linear Algebra
+CME303 - Partial Differential Equations of Applied Mathematics
+CME306 - Computational Methods of Applied Mathematics
+CME308 - Stochastic Methods in Engineering
+CME330 - Applied Mathematics in the Chemical and Biological Sciences
+CS221 - Artificial Intelligence: Principles and Techniques
+CS229M - Machine Learning Theory
+CS233 - Geometric and Topological Data Analysis
+CS250 - Algebraic Error Correcting Codes
+CS254 - Computational Complexity
+CS261 - Combinatorial Optimization
+CS264 - Beyond Worst-Case Analysis
+CS265 - Randomized Algorithms and Probabilistic Analysis
+EE261 - The Fourier Transform and Its Applications
+EE263 - Matrix Methods: Singular Value Decomposition
+EE264 - Digital Signal Processing
+EE276 - Information Theory
+EE278 - Probability and Statistical Inference
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+ENGR209A - Analysis and Control of Nonlinear Systems
+MS&E211 - Introduction to Optimization
+MS&E220 - Probabilistic Analysis
+MS&E221 - Stochastic Modeling
+MS&E229 - Bayesian Linear Regression
+MS&E232 - Introduction to Game Theory
+MS&E233 - Game Theory, Data Science and AI
+MS&E311 - Optimization
+MS&E312 - Optimization Algorithms
+MATH113 - Linear Algebra and Matrix Theory
+MATH115 - Functions of a Real Variable
+MATH120 - Groups and Rings
+MATH171 - Fundamental Concepts of Analysis
+ME300A - Linear Algebra with Application to Engineering Computations
+ME300B - Partial Differential Equations in Engineering
+ME300C - Introduction to Numerical Methods for Engineering
+ME335A - Finite Element Analysis
+ME338 - Continuum Mechanics
+ME408 - Spectral Methods in Computational Physics
+ME469 - Computational Methods in Fluid Mechanics
+PHYSICS210 - Advanced Mechanics
+PHYSICS212 - Statistical Mechanics
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS117 - Introduction to Probability Theory
+STATS118 - Probability Theory for Statistical Inference
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+STATS203 - Regression Models and Analysis of Variance
+STATS204 - Sampling
+STATS205 - Introduction to Nonparametric Statistics
+STATS206 - Applied Multivariate Analysis
+STATS207 - Time Series Analysis
+STATS208 - Resampling Methods: Bootstrap, Cross Validation and Beyond
+STATS209 - Introduction to Causal Inference
+STATS214 - Machine Learning Theory
+STATS217 - Introduction to Stochastic Processes I
+STATS218 - Introduction to Stochastic Processes II
+STATS219 - Stochastic Processes
+STATS232 - Machine Learning for Sequence Modeling
+STATS263 - Design of Experiments
+STATS270 - Bayesian Statistics
+STATS271 - Applied Bayesian Statistics
+STATS290 - Computing for Data Science
+STATS292 - Statistical Models of Text and Language
+STATS300A - Theory of Statistics I
+STATS300B - Theory of Statistics II
+STATS300C - Theory of Statistics III
+STATS305A - Applied Statistics I
+STATS305B - Applied Statistics II
+STATS305C - Applied Statistics III
+STATS311 - Information Theory and Statistics
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+STATS317 - Stochastic Processes
+STATS325 - Multivariate Analysis and Random Matrices in Statistics
+STATS361 - Causal Inference
+STATS362 - Topic: Monte Carlo
+STATS369 - Methods from Statistical Physics
+AND
+Technical Electives
+In consultation with their advisor, students must choose graduate-level courses* totaling at least 12 units from departments within the School of Engineering and related science departments. With advisor approval, one 100-level course may be included. These courses should be taken for a letter grade.
+*Up to three seminar units can be counted toward the M.S. program and will be considered one technical elective. Seminar courses may be taken for a credit grade.
+AND
+AA290 Option
+Complete ANY of the following Courses:
+AA290 - Problems in Aero/Astro
+A maximum of six units of AA290 (or research/independent study in another department) may be counted toward the M.S. program*. These units can be used to satisfy the technical elective, free elective, and/or experimentation/design requirements. If these units are used to meet the experimentation/design requirement, a signature certifying the experimentation/design content is required.
+*Students pursuing the M.S. with Distinction in Research (AA-MS DiR) may apply a maximum of 12 units to be counted toward the 45 units required for the AA-MS degree.
+AND
+Other Electives
+Choose any course at the 100 level or above to fulfill 3 units. It is recommended that all candidates enroll in a humanities or social sciences course to meet the total 45-unit requirement. Please note that practicing courses in fields such as art, music, and physical education do not qualify. Language courses may be eligible.
+AND
+Experimentation and Design Requirements
+M.S. candidates must complete a minimum of 3 units to fulfill the experimentation/design requirement, please refer to the list of pre-approved courses below. Students should consult their advisors to select the most appropriate classes for their field. Other advanced courses may also be acceptable. If a course is not on the pre-approved list, students may petition for approval.
+Complete at least 1 of the following Courses:
+AA254 - Deployable Space Structures
+AA256 - Mechanics of Composites
+AA274A - Principles of Robot Autonomy I
+AA274B - Principles of Robot Autonomy II
+AA290 - Problems in Aero/Astro
+CS225A - Experimental Robotics
+EE233 - Analog Communications Design Laboratory
+EE251 - High-Frequency Circuit Design Laboratory
+EE312 - Integrated Circuit Fabrication Laboratory
+ME203 - Design and Manufacturing
+ME210 - Introduction to Mechatronics
+ME218A - Smart Product Design Fundamentals
+ME218B - Smart Product Design Applications
+ME218C - Smart Product Design Practice
+ME218D - Smart Product Design: Projects
+ME220 - Introduction to Sensors
+ME324 - Precision Engineering
+ME354 - Experimental Methods in Fluid Mechanics
+ME367 - Optical Diagnostics and Spectroscopy Laboratory
+Master’s Degree with Distinction in Research (AA-MS DiR)
+A student who wishes to pursue the M.S. in Aeronautics and Astronautics with distinction in research (AA-MS DiR) must first identify a faculty member who agrees to serve as the advisor, supervise the research work, and read the research report. The research advisor must be a member of the Academic Council, supervision by faculty outside of Aero/Astro is permitted. When the research advisor is from outside the Aero/Astro Department, the student must also identify a faculty co-advisor from within the department to provide guidance on departmental requirements and opportunities. The co-advisor must also approve the research report. The faculty commitment may be submitted after the completion of at least on quarter of AA 290 (3 units) and must be submitted prior to the quarter in which the student graduates. In addition, the student must complete the following requirements:
+Research Experience
+The program should include significant research designated by at least 9 units, and up to 12 units, of independent study (AA 290) over the course of at least 3 academic quarters. A maximum of 12 units may be counted toward the 45 units required for the AA-MS degree. These units may be used to satisfy the technical elective, free elective and/or the experimentation/design requirements of the AA-MS program. All AA 290 units must be completed for letter grades, with a minimum grade of B+ required in each AA 290 course to continue in the program.
+Research Report
+Students must complete a significant research report detailing their work and its conclusions. The research report represents work that could be publishable in a journal or at a high- quality conference with peer-reviewed proceedings. The student should engage in a discussion with the advisor(s) early in this AA-MS DiR program about the level of contribution and time commitment required to produce the research report. A copy of the research report, with a cover page signed by the advisor (and co-advisor if required) to confirm approval, must be submitted to the AA Student Services Office no later than three weeks before the last day of classes of the quarter in which the student graduates before the distinction-in-research designation can be conferred.
+Certificate of Completion
+Students who successfully complete the AA-MS DiR program will receive a department certificate of completion and will be listed in the Commencement Program. Please be aware that this will not be reflected on your official transcript or diploma.

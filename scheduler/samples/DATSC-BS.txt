@@ -1,0 +1,248 @@
+DATSC-BS - Data Science (BS)
+Download as PDF
+Data ScienceUndergraduate MatriculatedBS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+
+The undergraduate program in Data Science aims to provide students with an analytical and quantitative foundation for tackling data-driven problems in science, industry, and society.
+
+Minimum Units in the Program
+65
+Minimum University Units
+180
+Collapse All
+Core Program Requirements
+Completion requirement
+Data Science Core
+Fulfill ALL of the following requirements:
+Computation
+Complete ALL of the following Courses:
+CS106A - Programming Methodology
+
+CS106B - Programming Abstractions
+
+Most students should take CS 106A. However, students with prior programming experience in a language other than Python may instead take course.
+
+AND
+Math
+Complete ALL of the following Courses:
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+OR MATH61CM - Modern Mathematics: Continuous Methods
+OR MATH61DM - Modern Mathematics: Discrete Methods
+
+AND
+Data
+Complete ALL of the following Courses:
+DATASCI112 - Principles of Data Science
+
+AND
+Mathematical Modeling
+Complete ALL of the following Courses:
+MATH104 - Applied Matrix Theory
+OR MATH113 - Linear Algebra and Matrix Theory
+
+AND
+Probability
+Complete ALL of the following Courses:
+STATS117 - Introduction to Probability Theory
+
+AND
+Statistics
+Complete ALL of the following Courses:
+STATS191 - Introduction to Applied Statistics
+OR STATS203 - Regression Models and Analysis of Variance
+
+AND
+Optimization
+Complete ALL of the following Courses:
+MS&E111 - Introduction to Optimization
+OR MS&E111DS - Introduction to Optimization: Data Science
+OR MS&E111X - Introduction to Optimization (Accelerated)
+OR EE364A - Convex Optimization I
+
+Extended Core
+
+The Extended Core is specific to each version of the data science major (BS or BA) and offers additional coursework in the methods and frameworks used in each program's theoretical and applied areas of study.
+
+Fulfill ALL of the following requirements:
+Multivariable Integration
+Complete ALL of the following Courses:
+MATH52 - Integral Calculus of Several Variables
+OR MATH62CM - Modern Mathematics: Continuous Methods
+
+AND
+Proof Writing
+Complete at least 1 of the following Courses:
+CS103 - Mathematical Foundations of Computing
+OR CS154 - Introduction to the Theory of Computation
+
+MATH56 - Proofs and Modern Mathematics
+
+MATH113 - Linear Algebra and Matrix Theory
+
+AND
+Theoretical Statistics
+Complete ALL of the following Courses:
+STATS118 - Probability Theory for Statistical Inference
+
+STATS200 - Introduction to Theoretical Statistics
+OR STATS200Q - Philosophical Foundations of Statistics
+
+AND
+Stochastic Modeling
+Complete at least 1 of the following Courses:
+MS&E221 - Stochastic Modeling
+
+STATS217 - Introduction to Stochastic Processes I
+
+AND
+Ethics
+Complete at least 1 of the following Courses:
+BIOE131 - Ethics in Bioengineering
+
+COMM154 - The Politics of Algorithms
+
+CS120 - Introduction to AI Safety
+
+CS139 - Human-Centered AI
+
+CS181 - Computers, Ethics, and Public Policy
+
+CS182 - Ethics, Public Policy, and Technological Change
+
+NBIO101 - Social and Ethical Issues in the Neurosciences
+
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+Complete at least 1 of the following Courses:
+DATASCI120 - Data Narratives
+
+DATASCI199W - Honors Capstone Thesis
+
+Capstone
+Completion requirement
+Capstone Experience
+
+Fulfill ANY of the following requirements:
+The Data Science Experience
+Complete ALL of the following Courses:
+DATASCI120 - Data Narratives
+
+DATASCI190 - The Data Science Experience
+
+OR
+Data Science Practicum
+Complete ALL of the following Courses:
+DATASCI192A - Data Science Practicum I
+
+DATASCI192B - Data Science Practicum II
+
+OR
+Honors Capstone Thesis
+Complete ALL of the following Courses:
+DATASCI199W - Honors Capstone Thesis
+
+Honors
+Completion requirement
+Data Science Honors Program
+
+In addition to meeting all requirements for the BS, the student must maintain a GPA of at least 3.5 in all major coursework and complete 15 units of upper-level coursework.
+
+Mathematics and Computation Subplan
+Completion requirement
+Additional Math Course
+Fulfill ANY of the following requirements:
+Additional Math Course
+Complete ALL of the following Courses:
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+OR MATH63CM - Modern Mathematics: Continuous Methods
+OR MATH62DM - Modern Mathematics: Discrete Methods
+
+OR
+Complete 1 MATH course numbered 100 or above.
+Complete ANY of the following Course Sets:
+MATH Courses Numbered 100 and Above
+Additional Computation Courses
+Complete at least 2 of the following Courses:
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+
+CS107 - Computer Organization and Systems
+
+CS145 - Introduction to Big Data Systems
+
+CS154 - Introduction to the Theory of Computation
+
+CS161 - Design and Analysis of Algorithms
+
+Additional Statistical Learning or Causality Course
+Complete at least 1 of the following Courses:
+STATS202 - Statistical Learning and Data Science
+OR STATS202F - Statistical Learning and Data Science [Flipped]
+OR STATS315A - Modern Applied Statistics: Learning
+
+STATS209 - Introduction to Causal Inference
+OR STATS361 - Causal Inference
+
+STATS263 - Design of Experiments
+
+Technical Electives
+
+Complete 2 additional technical electives from the list below for a total of at least 6 units.
+
+Fulfill ANY of the following requirements:
+Standard course sets
+Complete ANY of the following Course Sets:
+CME Courses Numbered 200 and Above
+CS Courses Numbered 110 and Above
+DATASCI Courses Numbered 100 and Above
+EE Courses Numbered 200 and Above
+MATH Courses Numbered 100 and Above
+MS&E Courses Numbered 200 and Above
+STATS Courses Numbered 200 and Above
+OR
+Other Pre-Approved Courses
+Complete ANY of the following Courses:
+ECON135 - Foundations of Finance
+
+ECON140 - (FIN I) Introduction to Corporate Finance
+
+MS&E135 - Networks
+
+PHIL151 - Metalogic
+
+PHIL152 - Computability and Logic
+
+STATS100 - Mathematics of Sports
+
+Quantitative Finance Subplan
+Completion requirement
+Economics Preparation
+Complete ALL of the following Courses:
+ECON50 - Economic Analysis I
+OR ECON50Q - Economic Analysis I (Quantitative)
+
+Time Series
+Complete at least 1 of the following Courses:
+STATS207 - Time Series Analysis
+
+STATS218 - Introduction to Stochastic Processes II
+
+MS&E349 - Financial Statistics
+
+Finance Electives
+Complete at least 2 of the following Courses:
+CS251 - Cryptocurrencies and blockchain technologies
+
+ECON135 - Foundations of Finance
+
+ECON141 - Investments in Financial Markets
+
+MATH238 - Mathematical Finance
+
+MS&E145 - Introduction to Finance and Investment
+OR MS&E245A - Investment Science
+OR MS&E245B - Advanced Investment Science

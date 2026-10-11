@@ -1,0 +1,85 @@
+ESS-MS - Earth System Science (MS)
+Download as PDF
+Earth System Science
+Earth System Science
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The master's degree in Earth System Science at Stanford University prepares the next generation of scientists to tackle the world's most pressing environmental challenges through rigorous interdisciplinary training and cutting-edge research.
+Earth System Science is the study of the world's air, water, land, and life as an integrated system. Our program unites basic and purpose-driven research to understand how the Earth functions, the many ways it is changing, and what the consequences of these changes will be for people and other species. We train students to understand, predict, and respond to human-caused and natural environmental change at local to global scales.
+Master's degree students engage with fundamental Earth system science, from ocean circulation and biogeochemical cycles to climate dynamics, while also addressing critical sustainability challenges related to food, water, energy, biodiversity, climate change, and environmental justice. Our students study the food we eat, the water we drink, the air we breathe, and the plants and animals with which we share the planet, all while developing as independent researchers capable of making significant scientific contributions.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirement Overview
+Fulfill ALL of the following requirements:
+Required Core Courses
+Students are required to take three 2-unit courses during the first year
+Complete at least 3 of the following Courses:
+ESS305 - Earth System Perspectives I
+ESS306 - Earth System Perspectives II
+ESS307 - Research Proposal Development and Delivery
+AND
+Distribution Requirements
+Students must take one class from each of the following three areas within the first or second year.
+Fulfill ALL of the following requirements:
+Area A: Analysis of the Earth System
+Students must take one course to fulfill the Area A requirement. Alternative courses may be approved by petition.
+Complete ANY of the following Courses:
+BIO231 - Environmental Data Analysis
+CS229 - Machine Learning
+CS230 - Deep Learning
+CEE362A - Uncertainty Quantification
+CME204 - Partial Differential Equations in Engineering
+CME215 - Machine Learning and the Physical Sciences
+DATASCI294B - Data Science for Computational Molecular Biology
+ENERGY260 - Uncertainty Quantification in Data-Centric Simulations
+EPS240 - Data Science for Geoscience
+GEP268 - Topics and Methods in Global Environmental Policy I
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+STATS202F - Statistical Learning and Data Science [Flipped]
+STATS206 - Applied Multivariate Analysis
+STATS207 - Time Series Analysis
+OCEANS243H - Quantitative Methods for Marine Ecology and Conservation
+AND
+Area B: Measurement of the Earth System
+Students must take one course to fulfill the Area B requirement. Alternative courses may be approved by petition.
+Complete ANY of the following Courses:
+ESS210 - Techniques in Environmental Microbiology
+ESS224 - Remote Sensing of Hydrology
+ESS241 - Remote Sensing of the Oceans
+ESS259 - Environmental Microbial Genomics
+ESS262 - Remote Sensing of Land
+EDUC450C - Qualitative Interviewing
+GEOPHYS250 - Fiber Sensing for a Sustainable Planet
+OCEANS306 - Observational Methods in Coastal Oceanography
+AND
+Area C: Earth System Processes, Models, and Human-Environmental Interactions
+Students must take one course to fulfill the Area C requirement. Alternative courses may be approved via petition.
+Complete ANY of the following Courses:
+ESS205 - Fundamentals of Geobiology
+ESS206 - World Food Economy
+ESS220 - Physical Hydrogeology
+ESS223 - Biosphere-Atmosphere Interactions
+ESS227 - Decision Science for Environmental Threats
+ESS230 - Pursuing Sustainability: Managing Complex Social Environmental Systems
+ESS244 - Marine Ecosystem Modeling
+ESS246A - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+ESS246B - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+ESS247 - Tropical Meteorology
+ESS258 - Geomicrobiology
+ESS267 - Climate Change & Extreme Weather
+Research Requirement
+Completion requirement
+Report Requirement
+The student submits a proposal for a research plan, to be approved by the DGS, by the end of winter quarter of their first year.
+The proposal should describe, in about a page, what research activities you will compete for your research thesis requirement. This description should include a statement of what specific questions or project you will investigate, and a short description of milestones along the way and what quarters you will complete specific sub-tasks of the project (i.e. major fieldwork or experiments, literature review, analysis). We understand that this may change somewhat because research is not fully predictable, but you should have a clear initial plan to make sure you can stay on track even when changes are needed.
+In their second year, each student must complete a thesis describing their research. Thesis research should begin during the first year of study at Stanford and should be completed before the end of the second year of residence. Early during the thesis research period, and after consultation with the student, the thesis advisor appoints a second reader for the thesis (with preference for this to be a department faculty member). The thesis advisor is the first reader. The two readers jointly determine whether the thesis is acceptable for the MS degree in the department.

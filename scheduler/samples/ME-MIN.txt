@@ -1,0 +1,100 @@
+ME-MIN - Mechanical Engineering (Minor)
+Download as PDF
+Mechanical EngineeringUndergraduate Matriculated
+General
+Program Policies
+Program Overview
+
+There are three options for students interested in a minor in Mechanical Engineering: A general minor that exposes students to the breadth of the field and two specialized minors -- Thermosciences and Mechanical Design -- that allow students to pursue a particular area in more depth.
+
+Students interested in adding the minor should submit a minor program sheet to Mechanical Engineering Student Services.
+
+Minimum Units in the Program
+21
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Mechanical Engineering Minors
+Fulfill ANY of the following requirements:
+General Minor in Mechanical Engineering
+
+Students interested in this minor must take the following courses as prerequisites: MATH19/MATH20/MATH21 or equivalent and PHYSICS41.
+
+Fulfill ALL of the following requirements:
+Required Courses
+Complete ALL of the following Courses:
+ENGR14 - Intro to Solid Mechanics
+
+ENGR15 - Dynamics
+
+ME30 - Engineering Thermodynamics
+
+ME70 - Introductory Fluids Engineering
+
+ME102 - Foundations of Product Realization
+
+AND
+Elective Courses
+Complete at least 2 of the following Courses:
+ME80 - Mechanics of Materials
+
+ME103 - Product Realization: Design and Making
+
+ME131 - Heat Transfer
+
+ME161 - Dynamic Systems, Vibrations and Control
+
+OR
+Thermosciences Minor in Mechanical Engineering
+
+Students interested in this minor must take the following courses as prerequisites: MATH19/MATH20/MATH21 or equivalent, MATH51 (or CME100), and PHYSICS41.
+
+Complete ALL of the following Courses:
+ENGR14 - Intro to Solid Mechanics
+
+ME30 - Engineering Thermodynamics
+
+ME70 - Introductory Fluids Engineering
+
+ME131 - Heat Transfer
+
+ME132 - Intermediate Thermodynamics
+
+ME133 - Intermediate Fluid Mechanics
+
+ME149 - Mechanical Measurements
+
+OR
+Mechanical Design Minor in Mechanical Engineering
+
+This minor includes design activities supported by analysis and has the following courses as prerequisites: MATH19/MATH20/MATH21 or equivalent, and PHYSICS41.
+
+Due to the number of overlapping core courses, Design (BS) majors may not add the Mechanical Design Minor in Mechanical Engineering.
+
+Fulfill ALL of the following requirements:
+Required Courses
+Complete ALL of the following Courses:
+ENGR14 - Intro to Solid Mechanics
+
+ME80 - Mechanics of Materials
+
+ME102 - Foundations of Product Realization
+
+ME103 - Product Realization: Design and Making
+
+ME104 - Mechanical Systems Design
+
+AND
+Elective Courses
+Complete at least 2 of the following Courses:
+ME127 - Design for Additive Manufacturing
+
+ME128 - Computer-Aided Product Realization
+
+ME129 - Manufacturing Processes and Design
+
+ME210 - Introduction to Mechatronics
+
+ME220 - Introduction to Sensors

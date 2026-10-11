@@ -1,0 +1,501 @@
+CME-MS - Computational and Mathematical Engineering (MS)
+Download as PDF
+Institute for Computational and Mathematical Engr
+Comput & Math Engineering
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+ICME is a degree-granting (MS/PhD) interdisciplinary institute at the intersection of mathematics, computing, engineering, and applied sciences. ICME was founded in 2004, building upon the Scientific Computing and Computational Mathematics Program (est. 1989).
+At ICME, we design state-of-the-art mathematical and computational models, methods, and algorithms for engineering and science applications. The program collaborates closely with engineers and scientists in academia and industry to develop improved computational approaches and advance disciplinary fields. In particular, it leverages Stanford’s strength in engineering applications in the physical, biological, mathematical, and information sciences and has established connections with nearly 20 departments across five schools at Stanford.
+The program identifies research areas that would benefit from a multidisciplinary approach in which computational mathematics is critical. This multidisciplinary intellectual environment is a core strength of ICME, with interaction among students and faculty with diverse backgrounds and expertise. Students and faculty are active in many research areas: aerodynamics and space applications, fluid dynamics, protein folding, data science, including machine learning and recommender systems, ocean dynamics, climate modeling, reservoir engineering, computer graphics, financial mathematics, and many more.
+The program trains students and scholars from across Stanford in mathematical modeling, scientific computing, and advanced computational algorithms at the undergraduate and graduate levels. Courses typically provide strong theoretical foundations for solving real-world problems and numerical computations to facilitate the application of mathematical techniques and theories. Training offered includes matrix computations, computational probability and combinatorial optimization, optimization, stochastics, numerical solution of partial differential equations, parallel computer algorithms, and new computing paradigms.
+ICME offers service courses for undergraduates and graduate students to fulfill departmental requirements, core courses for master’s and doctoral students in Computational and Mathematical Engineering, and specialized electives in various application areas.
+The ICME master’s program offers a general Computational and Mathematical Engineering track as well as three specialized tracks: Data Science, Imaging Science, and Mathematical and Computational Finance.
+Prerequisites
+Fundamental courses in mathematics and computing may be needed as prerequisites for other courses in the program. Check the prerequisites of each required course. Recommended preparatory courses include advanced undergraduate-level courses in linear algebra, probability, differential equations, stochastics, and numerical methods and proficiency in programming.
+Financial Assistance
+The department awards a limited number of fellowships, course assistantships, and research assistantships to incoming graduate students. Most course and research assistantships are awarded to students in the doctoral program in ICME. If there are insufficient PhD students to staff all course and research assistantships, these positions may be open to master’s students. However, master’s students are not guaranteed financial assistance.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+The master’s program consists of 45 units of coursework taken at Stanford. No thesis is required; however, students may participate in research projects during the master’s program. Although there is no specific background requirement, significant exposure to mathematics and engineering coursework is necessary to complete the program successfully.
+There are four tracks in the master’s program:
+General CME
+Data Science
+Imaging Science
+Mathematical and Computational Finance
+Requirements
+Unless specified in the Bulletin, a candidate must complete a program of 45 units of courses numbered 200 or above. Courses below the 200 level require special approval from the program office. At least 36 of these must be graded units, and all letter-graded units must be passed with a C- or better and have a grade point average (GPA) of 3.0 (B) or better. A course cannot be used to satisfy more than one requirement for the MS degree unless it can be repeated for credit.
+Coterminal Master’s Program
+University Coterminal Requirements
+Coterminal master’s degree candidates are expected to complete all master’s degree requirements as described in this Bulletin. University requirements for the coterminal master’s degree are described in the
+Coterminal Master's Degrees
+section. University requirements for the master’s degree are described in the
+Graduate Degrees
+section of this Bulletin.
+After accepting admission to this coterminal master’s degree program, students may request transfer of courses from the undergraduate to the graduate career to satisfy requirements for the master’s degree. Transferring courses to the graduate career requires review and approval of both the undergraduate and graduate programs on a case-by-case basis.
+The university requires that the graduate advisor be assigned in the student’s first graduate quarter even though the undergraduate career may still be open. The university also requires that the Master’s Degree Program Proposal be completed by the student and approved by the department by the end of the student’s first graduate quarter.
+Depth in Discipline
+Completion requirement
+General CME Track
+This track is designed for students interested in studying and developing computational tools in those aspects of applied mathematics central to modeling in the physical and engineering sciences. The curriculum consists of core computational and mathematical engineering courses, programming coursework, extensive breadth and depth electives, and seminars. Core courses provide instruction in mathematical and computational tools applicable to a wide range of scientific, industrial, and engineering disciplines and augment the breadth and depth electives of one’s choosing. The programming requirement ensures proficiency in scientific computing and professional computing skills. Seminars highlight emerging research in engineering and sciences.
+Fulfill ALL of the following requirements:
+Requirement 1: Foundational (12 units)
+Students must demonstrate foundational knowledge in the field by completing four of the six core courses. Courses in this area must be taken for letter grades.
+Earn at least 12 credits from the following:
+CME302 - Numerical Linear Algebra
+CME303 - Partial Differential Equations of Applied Mathematics
+CME306 - Computational Methods of Applied Mathematics
+CME307 - Optimization
+OR
+CME364A - Convex Optimization I
+CME310 - Combinatorial Optimization
+MATH236 - Introduction to Stochastic Differential Equations
+OR
+CME298 - Probability and Stochastic Differential Equations for Applications
+OR
+CME308 - Stochastic Methods in Engineering
+AND
+Requirement 2: Computing and Programming (6 units)
+To ensure that students have a strong foundation in programming, six units of computing and programming taken for a letter grade are required.
+For the CME track, it is strongly recommended to take
+CME213
+.
+Fulfill ALL of the following requirements:
+Requirement 2a: Basic Programming and Computing Algorithms (3 units)
+Earn at least 3 credits from the following:
+CME212 - Programming for performance
+CME310 - Combinatorial Optimization
+CS106B - Programming Abstractions
+CS161 - Design and Analysis of Algorithms
+CS166 - Advanced Data Structures
+CS168 - The Modern Algorithmic Toolbox
+CS190 - Software Design Studio
+AND
+Requirement 2b: Advanced Programming and Computing Algorithms  (3 units)
+Earn at least 3 credits from the following:
+CME213 - Introduction to parallel computing using MPI, openMP, and CUDA
+CS149 - Parallel Computing
+CS194 - Software Project
+CS246 - Mining Massive Data Sets
+CS295 - Software Engineering
+CS315B - Parallel Computing Research Project
+AND
+Requirement 3: Breadth Electives (15 units)
+Fifteen units of general electives to demonstrate breadth of knowledge in technical areas. The elective course list represents automatically accepted electives within the program. However, electives are not limited to the list below, which is expanded regularly. The elective part of the ICME program is meant to be broad and inclusive of relevant courses of comparable rigor to ICME courses. The selected courses are recommended to include offerings from (at least) two engineering departments and CME coursework. Courses outside this list can be accepted as electives subject to approval by the student’s program advisor. Six units of independent research (
+course
+) can be used to fulfill this requirement with prior approval.
+Earn at least 15 credits from the following:
+BMDS222 - Cloud Computing for Biology and Healthcare
+CEE260G - Imaging with Incomplete Information
+CEE281 - Mechanics and Finite Elements
+CME218 - Applied Data Science
+CME241 - Foundations of Reinforcement Learning with Applications in Finance
+CME262 - Imaging with Incomplete Information
+CME263 - Matrix Methods: Singular Value Decomposition
+CME279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CME290 - Xplore: Impactful Research
+CME291 - Master's Research
+CME295 - Transformers and Large Language Models
+CME309 - Randomized Algorithms and Probabilistic Analysis
+CME364A - Convex Optimization I
+CS204 - Computational Law
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224N - Natural Language Processing with Deep Learning
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS231N - Deep Learning for Computer Vision
+CS233 - Geometric and Topological Data Analysis
+CS234 - Reinforcement Learning
+CS236 - Deep Generative Models
+CS238 - Decision Making under Uncertainty
+CS239 - Advanced Topics in Sequential Decision Making
+CS244B - Distributed Systems
+CS246 - Mining Massive Data Sets
+CS255 - Introduction to Cryptography
+CS261 - Combinatorial Optimization
+ECON293 - Machine Learning and Causal Inference
+EE223 - Applied Quantum Mechanics II
+ENGR209A - Analysis and Control of Nonlinear Systems
+MATH136 - Stochastic Processes
+MATH171 - Fundamental Concepts of Analysis
+MATH235 - Modern Markov Chains
+MATH236 - Introduction to Stochastic Differential Equations
+MATH238 - Mathematical Finance
+MATH275A - Topics in Applied Math: Quantum Algorithms for Scientific Computation
+ME335A - Finite Element Analysis
+ME408 - Spectral Methods in Computational Physics
+ME469 - Computational Methods in Fluid Mechanics
+MS&E220 - Probabilistic Analysis
+MS&E221 - Stochastic Modeling
+MS&E223 - Stochastic Simulation and Monte Carlo Methods
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E228 - Applied Causal Inference with Machine Learning and AI
+MS&E232H - Introduction to Game Theory (Accelerated)
+MS&E235B - Reinforcement Learning: Behaviors and Applications
+MS&E236 - Machine Learning for Discrete Optimization
+MS&E310 - Linear Programming
+MS&E321 - Stochastic Systems
+MS&E322 - Stochastic Calculus and Control
+MS&E323 - Stochastic Simulation
+MS&E328 - Foundations of Causal Machine Learning
+STATS202 - Statistical Learning and Data Science
+STATS207 - Time Series Analysis
+STATS208 - Resampling Methods: Bootstrap, Cross Validation and Beyond
+STATS217 - Introduction to Stochastic Processes I
+STATS218 - Introduction to Stochastic Processes II
+STATS219 - Stochastic Processes
+STATS250 - Mathematical Finance
+STATS300A - Theory of Statistics I
+STATS300B - Theory of Statistics II
+STATS300C - Theory of Statistics III
+STATS305A - Applied Statistics I
+STATS310A - Theory of Probability I
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+STATS362 - Topic: Monte Carlo
+AND
+Requirement 4: Specialized Electives (9 units)
+Nine units of focused graduate application electives, approved by the program advisor, in engineering, mathematics, physical, biological, information, and other quantitative sciences. These courses should be foundational depth courses relevant to the student’s professional development and research interests.
+AND
+Requirement 5: Seminar (3 units)
+Students must complete a total of 3 Seminar units.
+1 seminar unit must come from
+course
+2 units are up to the student’s choice of ICME graduate seminars or other approved seminars.
+course
+is strongly recommended.
+Additional seminar units may not be counted toward the 45-unit requirement.
+Complete ALL of the following Courses:
+CME500 - Departmental Seminar
+Data Science Track
+The Data Science track develops strong mathematical, statistical, computational, and programming skills through the foundational and programming requirements. In addition, it provides a fundamental data science education through general and focused electives requirements from courses in data sciences and related areas. DS track covers both computational data science and machine learning but can be tailored to be more focused on one of the two areas by taking more credits in that concentration (requirement 2 or 4). Course choices are limited to predefined courses from the data sciences and related courses group for requirements 1-5.
+Fulfill ALL of the following requirements:
+Requirement 1: Mathematical and Statistical Foundations (15 units)
+Students must demonstrate foundational knowledge in the field by completing the following courses. Courses in this area must be taken for letter grades.
+Earn at least 15 credits from the following:
+CME298 - Probability and Stochastic Differential Equations for Applications
+OR
+MATH236 - Introduction to Stochastic Differential Equations
+CME302 - Numerical Linear Algebra
+STATS200 - Introduction to Theoretical Statistics
+OR
+STATS300A - Theory of Statistics I
+STATS203 - Regression Models and Analysis of Variance
+OR
+STATS305A - Applied Statistics I
+STATS315A - Modern Applied Statistics: Learning
+OR
+STATS229 - Machine Learning
+course
+is strongly recommended.
+AND
+Requirement 2: Computing and Programming (9 units)
+To ensure that students have a strong foundation in programming, three units of basic programming and computing algorithms and three units of advanced programming and computing algorithms.
+Students must take nine units from Requirement 2 for a letter grade and nine units from Requirement 4 for a letter grade, with an additional six units from either Requirement 2 or 4, for a total of 24 units in the two areas. The other six units may be taken for a non-letter grade.
+For the DS track, it is strongly recommended to take
+CME213
+,
+course
+,
+CS246
+.
+Fulfill ALL of the following requirements:
+Requirement 2a: Basic Programming and Computing Algorithms (3 units)
+Earn at least 3 credits from the following:
+CME212 - Programming for performance
+CME310 - Combinatorial Optimization
+AND
+Requirement 2b: Advanced Programming and Computing Algorithms  (6 units)
+Earn at least 6 credits from the following:
+CME213 - Introduction to parallel computing using MPI, openMP, and CUDA
+CS246 - Mining Massive Data Sets
+CS295 - Software Engineering
+CS315B - Parallel Computing Research Project
+AND
+Requirement 3: Experimentation (3 units)
+Experimental method and causal considerations are fundamental to data science. The course chosen from this area must be taken for letter grades.
+Earn at least 3 credits from the following:
+ECON271 - Intermediate Econometrics II
+ECON293 - Machine Learning and Causal Inference
+MS&E228 - Applied Causal Inference with Machine Learning and AI
+STATS209 - Introduction to Causal Inference
+STATS263 - Design of Experiments
+*The additional three units can count toward the “Machine Learning Methods and Applications” requirement below if two courses are taken.
+AND
+Requirement 4: Machine Learning Methods and Applications (9 units)
+Nine units of coursework from this area are required for a letter grade.
+Students must take nine units from Requirement 2 for a letter grade and nine units from Requirement 4 for a letter grade, with an additional six units from either Requirement 2 or 4, for a total of 24 units in the two areas. The other six units may be taken for a non-letter grade.
+Earn at least 9 credits from the following:
+CME364A - Convex Optimization I
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224N - Natural Language Processing with Deep Learning
+CS224W - Machine Learning with Graphs
+CS229M - Machine Learning Theory
+CS230 - Deep Learning
+CS231N - Deep Learning for Computer Vision
+CS234 - Reinforcement Learning
+CS236 - Deep Generative Models
+CS330 - Deep Multi-task and Meta Learning
+STATS315B - Modern Applied Statistics: Learning II
+AND
+Requirement 5: Practical component (3 units)
+Students are required to take three units of practical component that may include any combination of:
+Earn at least 3 credits from the following:
+CME218 - Applied Data Science
+CME290 - Xplore: Impactful Research
+CME291 - Master's Research
+CME299 - Engineering Your Career Path - Career Readiness Workshops
+STATS390 - Consulting Workshop
+*
+course
+- Consulting Workshop may only be taken for up to 1 unit.
+*
+course
+is strongly recommended.
+AND
+Additional Units (6 units)
+Students must take nine units from Requirement 2 for a letter grade and nine units from Requirement 4 for a letter grade, with an additional six units from either Requirement 2 or 4, for a total of 24 units in the two areas. The other six units may be taken for a non-letter grade.
+Imaging Science Track
+The Imaging Science track is designed for students interested in the skills and knowledge required to develop efficient and robust computational tools for imaging science. The curriculum is based on four fundamental areas: mathematical models and analysis for imaging sciences and inverse problems, tools and techniques from modern imaging sciences from medicine, biology, physics/chemistry, and earth science, algorithms in numerical methods and scientific computing, and high-performance computing skills and architecture oriented toward imaging sciences.
+The coursework follows the requirements of the general master’s degree in the core course requirement. The general and focused elective requirements (requirements 3 and 4 below) are limited to approved courses listed below. The programming requirement (requirement 2) is extended to six units and includes advanced scientific programming and high-performance computing coursework.
+Fulfill ALL of the following requirements:
+Requirement 1: Foundational (12 units)
+Students must demonstrate foundational knowledge in the field by completing four of the six core courses. Courses in this area must be taken for letter grades.
+Earn at least 12 credits in residence from the following:
+CME302 - Numerical Linear Algebra
+CME303 - Partial Differential Equations of Applied Mathematics
+CME306 - Computational Methods of Applied Mathematics
+CME307 - Optimization
+OR
+CME364A - Convex Optimization I
+CME308 - Stochastic Methods in Engineering
+OR
+CME298 - Probability and Stochastic Differential Equations for Applications
+CME310 - Combinatorial Optimization
+AND
+Requirement 2: Computing and Programming (6 units)
+To ensure that students have a strong foundation in programming, three units of basic programming and computing algorithms and three units of advanced programming and computing algorithms for letter grades are required.
+For the IS track, it is strongly recommended to take
+CME213
+,
+CME323
+, or
+GEOPHYS257
+.
+Fulfill ALL of the following requirements:
+Requirement 2a: Basic Programming and Computing Algorithms (3 units)
+Earn at least 3 credits in residence from the following:
+CME212 - Programming for performance
+CME310 - Combinatorial Optimization
+CS106B - Programming Abstractions
+CS161 - Design and Analysis of Algorithms
+CS166 - Advanced Data Structures
+CS168 - The Modern Algorithmic Toolbox
+CS190 - Software Design Studio
+AND
+Requirement 2b: Advanced Programming and Computing Algorithms  (3 units)
+Earn at least 3 credits in residence from the following:
+CME213 - Introduction to parallel computing using MPI, openMP, and CUDA
+CS149 - Parallel Computing
+CS194 - Software Project
+CS246 - Mining Massive Data Sets
+CS295 - Software Engineering
+CS315B - Parallel Computing Research Project
+AND
+Requirement 3: Imaging Sciences electives (18 units)
+Imaging Sciences electives should demonstrate breadth of knowledge in the technical area. The elective course list is defined. Courses outside this list can be accepted as electives subject to approval by the student’s program advisor. Six units of independent research can be used to fulfill this requirement with prior approval.
+Earn at least 18 credits from the following:
+APPPHYS232 - Advanced Imaging Lab in Biophysics
+BIOE220 - Introduction to Imaging and Image-based Human Anatomy
+CEE260G - Imaging with Incomplete Information
+CME279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CS231N - Deep Learning for Computer Vision
+CS237A - Principles of Robot Autonomy I
+EARTHSYS242 - Remote Sensing of Land
+EE236A - Modern Optics
+EE355 - Imaging Radar and Applications
+EE367 - Computational Imaging
+EE369A - Medical Imaging Systems I
+EE369B - Medical Imaging Systems II
+EE369C - Medical Image Reconstruction
+GEOPHYS211 - Environmental Soundings Image Estimation
+GEOPHYS280 - 3-D Seismic Imaging
+PSYCH204A - Human Neuroimaging Methods
+AND
+Requirement 4: Specialized electives (6 units)
+Six units of focused graduate application electives, approved by the ICME graduate advisor, in engineering, mathematics, physical, biological, information, and other quantitative sciences. These courses should be foundational depth courses relevant to the student’s professional development and research interests.
+AND
+Requirement 5: Seminar (3 units)
+Students must complete a total of 3 Seminar units.
+1 seminar unit must come from
+course
+2 units are up to the student’s choice of ICME graduate seminars or other approved seminars.
+course
+is strongly recommended.
+Additional seminar units may not be counted toward the 45-unit requirement.
+Complete ALL of the following Courses:
+CME500 - Departmental Seminar
+Mathematical and Computational Finance Track
+The Mathematical & Computational Finance (MCF) track is an interdisciplinary program that provides education in applied and computational mathematics, statistics, and financial applications for individuals with strong mathematical skills. Upon successful completion of the MCF track in the ICME master’s program, students will be prepared to assume positions in the financial industry as data and information scientists, quantitative strategists, risk managers, regulators, and financial technologists or to continue to advanced graduate work in applied mathematics, statistics, finance, and other disciplines.
+The Institute for Computational and Mathematical Engineering, in close cooperation with Mathematics, Management Science and Engineering, and Statistics, provides many basic courses.
+Fulfill ALL of the following requirements:
+Requirement 1: Foundational (9 units)
+Students must demonstrate foundational knowledge in the field by completing the following core courses. Courses in this area must be taken for letter grades. Additional courses taken from this list beyond 9 units may be applied to Requirements 3 and 4.
+Fulfill ALL of the following requirements:
+Numerics (3 units)
+Earn at least 3 credits from the following:
+CME302 - Numerical Linear Algebra
+CME303 - Partial Differential Equations of Applied Mathematics
+CME310 - Combinatorial Optimization
+AND
+Optimization (3 units)
+Earn at least 3 credits from the following:
+CME307 - Optimization
+CME364A - Convex Optimization I
+AND
+Stochastics (3 units)
+Earn at least 3 credits from the following:
+CME308 - Stochastic Methods in Engineering
+MATH236 - Introduction to Stochastic Differential Equations
+AND
+Requirement 2: Computing and Programming (6 units)
+To ensure that students have a strong foundation in programming, three units of basic programming and computing algorithms for a letter grade and three units of advanced programming and computing algorithms for a letter grade are required. Students can take an additional course from this list for a letter grade or credit to fulfill Requirement 4.
+For the MCF track, it is strongly recommended to take
+CME213
+,
+CME323
+,
+CS149
+,
+CS315B
+, or
+CS316
+.
+Fulfill ALL of the following requirements:
+Requirement 2a: Basic Programming and Computing Algorithms (3 units)
+Earn at least 3 credits from the following:
+CME212 - Programming for performance
+CS106B - Programming Abstractions
+CS161 - Design and Analysis of Algorithms
+CS166 - Advanced Data Structures
+CS168 - The Modern Algorithmic Toolbox
+CS190 - Software Design Studio
+AND
+Requirement 2b: Advanced Programming and Computing Algorithms  (3 units)
+Earn at least 3 credits from the following:
+CME213 - Introduction to parallel computing using MPI, openMP, and CUDA
+CS149 - Parallel Computing
+CS194 - Software Project
+CS246 - Mining Massive Data Sets
+CS295 - Software Engineering
+CS315B - Parallel Computing Research Project
+AND
+Requirement 3: Finance electives (12 units)
+Choose three courses from the following list. Courses outside this list can be accepted as electives subject to approval by the student’s program adviser.
+Earn at least 12 credits from the following:
+CME229 - Applications of machine learning to electronic markets
+CS251 - Cryptocurrencies and blockchain technologies
+FINANCE320 - Debt Markets
+FINANCE620 - Financial Markets I
+FINANCE622 - Dynamic Asset Pricing Theory
+MATH238 - Mathematical Finance
+MS&E232H - Introduction to Game Theory (Accelerated)
+MS&E242 - Machine Learning for Algorithmic Trading
+MS&E244 - Statistical Arbitrage
+MS&E245A - Investment Science
+MS&E245B - Advanced Investment Science
+MS&E247 - Decentralized Finance & Blockchain: Innovation, Applications, and Entrepreneurship
+MS&E339 - Algorithms for Decentralized Finance
+MS&E342 - Stochastic Systems and Learning Theory with Applications in Finance
+MS&E348 - Optimization of Uncertainty and Applications in Finance
+MS&E349 - Financial Statistics
+AND
+Requirement 4: Data Science electives (12 units)
+Data Science electives should demonstrate breadth of knowledge in the technical area. Courses outside this list can be accepted as electives subject to approval by the student’s program advisor.
+Earn at least 12 credits from the following:
+CME241 - Foundations of Reinforcement Learning with Applications in Finance
+CS224N - Natural Language Processing with Deep Learning
+CS230 - Deep Learning
+CS236 - Deep Generative Models
+CS246 - Mining Massive Data Sets
+MS&E223 - Stochastic Simulation and Monte Carlo Methods
+MS&E338 - Aligning Superintelligence
+MS&E342 - Stochastic Systems and Learning Theory with Applications in Finance
+MS&E347 - Advanced Topics in Blockchain & DeFi: Research, Market Design, and Microstructure
+MS&E349 - Financial Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS203 - Regression Models and Analysis of Variance
+STATS205 - Introduction to Nonparametric Statistics
+STATS206 - Applied Multivariate Analysis
+STATS207 - Time Series Analysis
+STATS219 - Stochastic Processes
+STATS270 - Bayesian Statistics
+STATS285 - Massive Computational Experiments, Painlessly
+STATS305A - Applied Statistics I
+STATS305B - Applied Statistics II
+STATS305C - Applied Statistics III
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+STATS361 - Causal Inference
+AND
+Requirement 5: Practical component (6 units)
+Students are required to take six units of practical and project courses ONLY from the courses listed below.
+Earn at least 6 credits from the following:
+CME229 - Applications of machine learning to electronic markets
+CME241 - Foundations of Reinforcement Learning with Applications in Finance
+CME290 - Xplore: Impactful Research
+CME291 - Master's Research
+CME299 - Engineering Your Career Path - Career Readiness Workshops
+CS349F - Fabric Architectures For AI Systems
+MS&E242 - Machine Learning for Algorithmic Trading
+MS&E244 - Statistical Arbitrage
+MS&E246 - Financial Risk Analytics
+MS&E247 - Decentralized Finance & Blockchain: Innovation, Applications, and Entrepreneurship
+MS&E339 - Algorithms for Decentralized Finance
+MS&E348 - Optimization of Uncertainty and Applications in Finance
+MS&E446 - Artificial Intelligence in Financial Technology
+*
+course
+is strongly recommended.
+ICME Master of Science with Distinction in Research  (Optional)
+Completion requirement
+Program Overview and Eligibility
+The ICME Master of Science with Distinction in Research program is designed for students interested in pursuing in-depth research or preparing for a PhD. This selective program allows students to engage in an extended, original research project for a minimum of three quarters, culminating in a written thesis. The work is conducted under the guidance of a faculty advisor and is associated with the CME 291 research course.
+To be eligible, students must be enrolled in the ICME M.S. program, be in good academic standing with a cumulative GPA of 3.6 or higher, and secure a faculty advisor. The advisor must be a member of Stanford’s Academic Council or an ICME Affiliated Faculty member who agrees to supervise the thesis.
+Students are encouraged to consult with the ICME Faculty Director and ICME Student Services officers for guidance on identifying a suitable research project and faculty supervisor.
+Application Process
+To apply for the program, students must submit the following materials:
+A brief research proposal (3–5 pages) describing the planned project and relevant background.
+A letter of endorsement from the proposed faculty advisor.
+A current unofficial transcript.
+Admission to the program is selective. Applications will be reviewed by an ICME faculty committee. Meeting the eligibility criteria does not guarantee acceptance.
+Students may submit their application by May 1 or August 31 of each year. Successful applicants will be notified by late September.
+Requirements
+Students admitted to the Master of Science with Distinction in Research are expected to:
+Enroll in and complete a minimum of 9 research units (
+course
+) under their thesis advisor’s supervision.
+Produce a thesis or substantial research report to be reviewed and approved by their advisor and ICME faculty director as second faculty reader. Submit the final, approved thesis to ICME Student Services by the university's degree conferral deadline.
+Present their thesis work at the ICME symposium either as a poster or oral presentation. Posters must be reviewed and approved by their advisor before presenting.
+Maintain a cumulative GPA of 3.6 or higher in courses counted towards the ICME major during their time in the program. The GPA will be reviewed at the end of each quarter.
+Enroll in the CME
+course
+or
+course
+seminar series.
+Complete ALL of the following Courses:
+CME291 - Master's Research
+CME300 - First Year Seminar Series
+OR
+CME500 - Departmental Seminar

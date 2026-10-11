@@ -1,0 +1,204 @@
+[
+  {
+    "course_key": "ARCHLGY145",
+    "field": "terms_offered",
+    "value": [
+      "Winter"
+    ],
+    "note": "Test: offered Winter 2022-23, 2024-25, 2025-26 (every other year); just not 2026-2027 per ExploreCourses history check."
+  },
+  {
+    "course_key": "LATINAM398",
+    "field": "terms_offered",
+    "value": [
+      "Autumn",
+      "Winter",
+      "Spring"
+    ],
+    "note": "Offered every quarter (Autumn/Winter/Spring, plus Summer) in every year checked via ExploreCourses history: 2022-23, 2023-24, 2024-25, 2025-26. terms_offered was empty in the 2026-2027 snapshot -- likely an arranged/by-petition research course not yet posted for next year at fetch time."
+  },
+  {
+    "course_key": "MCP256",
+    "field": "terms_offered",
+    "value": [
+      "Winter",
+      "Spring"
+    ],
+    "note": "Rotates irregularly but offered most years per ExploreCourses history: Winter 2022-23, Winter+Spring 2023-24, not offered 2024-25, Spring 2025-26. terms_offered was empty in the 2026-2027 snapshot."
+  },
+  {
+    "course_key": "PHIL60",
+    "field": "terms_offered",
+    "value": [
+      "Autumn"
+    ],
+    "note": "Offered Autumn in 2022-23, 2023-24, 2024-25 per ExploreCourses history; not offered 2025-26. terms_offered was empty in the 2026-2027 snapshot -- satisfies PHILO-MA Introductory Philosophy of Science requirement (PHIL60 OR PHIL160)."
+  },
+  {
+    "course_key": "ENGR21",
+    "field": "terms_offered",
+    "value": [
+      "Spring"
+    ],
+    "note": "Offered every Spring 2022-23 through 2025-26 (4 straight years, confirmed via explorecourses); just not scheduled for 2026-2027 snapshot year."
+  },
+  {
+    "course_key": "ARTHIST5",
+    "field": "terms_offered",
+    "value": [
+      "Spring"
+    ],
+    "note": "Offered Spring 2023-24 and Spring 2025-26 (skips alternate years); confirmed via explorecourses history. Just not offered 2024-25 or scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "CSRE100",
+    "field": "terms_offered",
+    "value": [
+      "Autumn",
+      "Winter",
+      "Spring"
+    ],
+    "note": "Regularly taught every single year (Winter 2023-24, Spring 2024-25, Autumn 2025-26 -- confirmed via explorecourses), but term varies year to year; just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "MCP156",
+    "field": "terms_offered",
+    "value": [
+      "Spring"
+    ],
+    "note": "Offered Spring 2023-24 and Spring 2025-26 (skips alternate years, cross-listed as MCP256); confirmed via explorecourses history. Not offered 2024-25 or scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "CHEMENG450",
+    "field": "terms_offered",
+    "value": [
+      "Spring"
+    ],
+    "note": "Cross-listed with BIOE450 ('Advances in Biotechnology'); offered every Spring 2021-22 through 2024-25 (4 straight years, confirmed via explorecourses). Absent 2025-26 and not yet scheduled 2026-2027 -- likely a pause/restructuring rather than discontinuation given the long prior run; flag for re-check in a future snapshot."
+  },
+  {
+    "course_key": "CIM203",
+    "field": "terms_offered",
+    "value": [
+      "Summer"
+    ],
+    "note": "Offered every Summer 2023-24 through 2025-26 (title changed from 'Quality & Safety in U.S. Healthcare' to 'Beyond the Dashboard: Foundations in Healthcare Statistics' but same course number/slot each year); confirmed via explorecourses. Just not scheduled yet for 2026-2027 (Summer terms generally lag in snapshot)."
+  },
+  {
+    "course_key": "CIM205",
+    "field": "terms_offered",
+    "value": [
+      "Summer"
+    ],
+    "note": "Offered every Summer 2023-24 through 2025-26 (3 straight years, confirmed via explorecourses); just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "CIM216",
+    "field": "terms_offered",
+    "value": [
+      "Summer"
+    ],
+    "note": "New course, offered Summer 2025-26 (its first offering, confirmed via explorecourses; did not exist as a course number before then); just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "ARTSINST200C",
+    "field": "terms_offered",
+    "value": [
+      "Spring"
+    ],
+    "note": "Offered Spring every year 2022-23 through 2024-25, and Autumn/Winter/Spring in 2025-26 (confirmed via explorecourses); just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "ARTSINST201C",
+    "field": "terms_offered",
+    "value": [
+      "Spring"
+    ],
+    "note": "Offered Spring every year 2023-24 through 2025-26 (confirmed via explorecourses, formerly titled 'Honors in the Arts Capstone Workshop'); just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "JEWISHST115",
+    "field": "terms_offered",
+    "value": [
+      "Autumn",
+      "Winter"
+    ],
+    "note": "Offered Autumn 2025-26, Winter 2024-25, Autumn 2023-24 (confirmed via explorecourses history, also cross-listed AMSTUD215); rotates term but taught every year. Just not scheduled 2026-2027."
+  },
+  {
+    "course_key": "FEMGEN104X",
+    "field": "terms_offered",
+    "value": [
+      "Spring"
+    ],
+    "note": "Offered Spring 2025-26 and Spring 2024-25 (confirmed via explorecourses history); just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "GENE279",
+    "field": "terms_offered",
+    "value": [
+      "Autumn",
+      "Winter",
+      "Spring"
+    ],
+    "note": "Offered every single quarter (Autumn/Winter/Spring) in every year checked 2022-23 through 2025-26 via explorecourses; just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "ITALIAN128",
+    "field": "terms_offered",
+    "value": [
+      "Winter"
+    ],
+    "note": "Offered Winter 2024-25, 2023-24, 2022-23 (3 straight years, confirmed via explorecourses); just not scheduled 2026-2027."
+  },
+  {
+    "course_key": "COMPMED114",
+    "field": "terms_offered",
+    "value": [
+      "Winter"
+    ],
+    "note": "Offered Winter every year 2022-23 through 2025-26 (4 straight years, confirmed via explorecourses); just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "COMPMED185",
+    "field": "terms_offered",
+    "value": [
+      "Spring"
+    ],
+    "note": "Offered Spring 2023-24 (confirmed via explorecourses); no sections found 2022-23, 2024-25, or 2025-26, but this one confirmed real offering satisfies the MLASC-MS Electives 'at least 1 of 2' requirement alongside COMPMED182."
+  },
+  {
+    "course_key": "SOC2",
+    "field": "terms_offered",
+    "value": [
+      "Spring"
+    ],
+    "note": "Offered every Spring 2022-23 through 2025-26 (4 straight years, confirmed via explorecourses, cross-listed PSYCH70); just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "SOC10",
+    "field": "terms_offered",
+    "value": [
+      "Spring",
+      "Autumn"
+    ],
+    "note": "Offered Spring 2025-26, Spring 2024-25, Autumn 2022-23 (confirmed via explorecourses; no sections 2023-24); just not scheduled yet for 2026-2027."
+  },
+  {
+    "course_key": "SOC3",
+    "field": "terms_offered",
+    "value": [
+      "Autumn",
+      "Spring"
+    ],
+    "note": "Offered Autumn 2023-24 and Spring 2022-23 (confirmed via explorecourses, cross-listed CSRE3P/PUBLPOL113); rotates but real, satisfies SOCIO-BA's 'MS&E135 - Networks' 2-of-4 elective requirement alongside SOC8."
+  },
+  {
+    "course_key": "HRP391",
+    "field": "terms_offered",
+    "value": [
+      "Winter"
+    ],
+    "note": "Offered Winter in odd academic years per ExploreCourses history: Winter 2023-24, Winter 2025-26; not offered 2022-23, 2024-25, or 2026-2027 (a real every-other-year Winter course; 2026-2027 is an expected skip year in the pattern, not a discontinuation)."
+  }
+]

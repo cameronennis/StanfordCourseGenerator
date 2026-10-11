@@ -1,0 +1,224 @@
+CE-BS - Civil Engineering (BS)
+Download as PDF
+Civil and Environmental EngineeringUndergraduate MatriculatedBS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+
+Stanford's Civil Engineering major prepares students to plan, design, construct, and sustain the built environment.
+
+Minimum Units in the Program
+113
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+Mathematics & Science
+
+Students must complete a minimum of 45 units of Math and Science coursework.
+
+Fulfill ALL of the following requirements:
+Calculus
+Complete ALL of the following Courses:
+MATH19 - Calculus
+
+MATH20 - Calculus
+
+MATH21 - Calculus
+
+AND
+Vector Calculus/Linear Algebra
+Complete at least 1 of the following Courses:
+CME100 - Vector Calculus for Engineers
+
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+
+AND
+Differential Equations
+Complete at least 1 of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+
+AND
+Statistical Methods
+Complete at least 1 of the following Courses:
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+
+CME106 - Introduction to Probability and Statistics for Engineers
+
+AND
+Physics - Mechanics
+Complete at least 1 of the following Courses:
+PHYSICS41 - Mechanics
+
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+
+AND
+Additional Required Physics
+Complete at least 1 of the following Courses:
+PHYSICS43 - Electricity and Magnetism
+
+PHYSICS45 - Light and Heat
+
+AND
+Chemistry
+Complete at least 1 of the following Courses:
+CHEM31A - Chemical Principles I
+
+CHEM31E - Chemical Foundations and 21st Century Problems
+
+AND
+Additional Required Science Coursework
+Complete at least 1 of the following Courses:
+CEE177 - Aquatic Chemistry and Biology
+
+EARTHSYS11 - Introduction to Geology
+
+Technology in Society (TiS)
+Complete ALL of the following Courses:
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+
+Engineering Fundamentals
+Complete ALL of the following Courses:
+ENGR14 - Intro to Solid Mechanics
+
+ENGR90 - Environmental Science and Technology
+
+Depth in Discipline
+Completion requirement
+Engineering Depth
+
+Fulfill ALL of the following requirements:
+Required Core Courses
+Complete ALL of the following Courses:
+CEE100 - Managing Sustainable Building Projects
+
+CEE146S - Engineering Economics and Sustainability
+
+CEE183 - Integrated Civil Engineering Design Project
+
+AND
+Programming Methodology
+Complete at least 1 of the following Courses:
+CEE101D - Computations in Civil and Environmental Engineering
+
+CS106A - Programming Methodology
+
+CS106B - Programming Abstractions
+
+AND
+Engineering Thermodynamics
+Complete at least 1 of the following Courses:
+CHEMENG110A - Introduction to Chemical Engineering Thermodynamics
+
+ME30 - Engineering Thermodynamics
+
+AND
+Focus Areas
+
+Complete a minimum of 30 units of Focus Area coursework.
+
+Fulfill ANY of the following requirements:
+Construction Engineering Focus
+Complete ANY of the following Courses:
+CEE101C - Geotechnical Engineering
+
+CEE120A - Building Modeling for Design & Construction
+
+CEE141A - Infrastructure Project Development
+
+OR
+Engineering & Climate Focus
+Complete ANY of the following Courses:
+CEE63 - Weather and Storms
+
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+
+CEE107A - Understand Energy
+OR CEE107S - Understand Energy - Essentials
+
+OR
+Environmental Fluid Mechanics & Hydrology Focus
+Complete ANY of the following Courses:
+CEE101B - Mechanics of Fluids
+
+CEE162D - Introduction to Physical Oceanography
+
+OR
+Environmental Quality Engineering Focus
+Complete ANY of the following Courses:
+CEE172 - Air Quality Management
+
+CEE173 - Urban Water
+
+OR
+Sensing, Analytics, and Control Focus
+Complete ANY of the following Courses:
+CEE101D - Computations in Civil and Environmental Engineering
+
+CEE154 - Data Analytics for Physical Systems
+
+OR
+Structural Engineering & Mechanics Focus
+Complete ANY of the following Courses:
+CEE101A - Mechanics of Materials
+
+CEE180 - Structural Analysis
+
+CEE182 - Structural Design
+
+OR
+Urban Systems Focus
+Complete ANY of the following Courses:
+CEE120A - Building Modeling for Design & Construction
+
+CEE156 - Building Systems Design & Analysis
+
+AND
+Engineering Electives
+
+At least 68 units of engineering science and design courses must be completed.
+
+Complete ANY of the following Courses:
+CEE41Q - Clean Water Now! Urban Water Conflicts
+
+CEE199 - Undergraduate Research in Civil and Environmental Engineering
+
+ENGR10 - Introduction to Engineering Analysis
+
+ENGR21 - Engineering of Systems
+
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+Complete ALL of the following Courses:
+CEE100 - Managing Sustainable Building Projects
+
+Capstone
+Completion requirement
+Senior Capstone Design
+
+The capstone course must be at least 3 units.
+
+Complete ALL of the following Courses:
+CEE183 - Integrated Civil Engineering Design Project
+
+Honors
+Completion requirement
+Honors Program Overview
+
+Complete ALL of the following Courses:
+ENGR202S - Directed Writing Projects
+
+OPTIONAL Thesis Research Support Course
+
+Up to 10 units of CEE 199H Undergraduate Honors Thesis may be taken to support the research and writing.
+
+Complete ANY of the following Courses:
+CEE199H - Undergraduate Honors Thesis

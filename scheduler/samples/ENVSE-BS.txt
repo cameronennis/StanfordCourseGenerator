@@ -1,0 +1,548 @@
+ENVSE-BS - Environmental Systems Engineering (BS)
+Download as PDF
+Civil and Environmental Engineering
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Environmental Systems Engineering major prepares students to apply sustainable design, strategies, and practices into natural and built systems including infrastructure, ranging from buildings and energy systems to water resources and coastal regions.
+Students in the Environmental Systems Engineering major learn about environmental systems through coursework that is multidisciplinary in nature, combining math, science, and engineering fundamentals with tools and skills that are essential for an engineer. The program equips students to take on the complex challenges of the 21st century using sustainable approaches involving natural and built environments in the private, public, and non-profit sectors. Students choose one of four focus areas for in-depth study of sustainable design and management:
+Sustainable Coastal Systems
+: Focuses on the impacts of urban areas on coastal waters, and vice versa. Study areas include coastal engineering, biological and chemical processes and contaminants in the marine environment, and issues in coastal planning and policy.
+Sustainable Energy Systems
+:  Focuses on designing renewable energy systems to address urban area challenges. Courses range from optimization of renewable energy systems to the impacts of energy use on climate and urban air pollutants.
+Sustainable Freshwater System
+s: Focuses on incorporating sustainability into the design, management, and protection of water supply systems. Areas include water resources, water treatment processes, aquatic chemistry/biology, and design principles for urban waterways.
+Sustainable Urban Systems
+:  Focuses on sustainability in the constructed urban environment, ranging from building-scale to urban-scale issues.  Considerations include sustainable design and construction practices, building energy, urban infrastructure, and sustainable cities.
+A Comparison: Environmental Systems Engineering vs. Civil Engineering
+Students interested in civil and environmental engineering should be aware of the following differences between choosing this Environmental Systems Engineering major versus the Civil Engineering major.
+Professional Considerations:
+The Civil Engineering degree is ABET-accredited, while the Environmental Systems Engineering major is not. A degree accredited by ABET (Accreditation Board for Engineering and Technology) is a first step toward a professional engineering license. In California, you must accrue 6 years of work experience under the supervision of a licensed professional engineer before being allowed to take the licensing exam. An ABET-accredited B.S. degree counts as 4 years of this required work experience. Earning an MS degree from a department that offers an ABET-accredited B.S. degree will give you credit for a total of 5 years of work experience in California, regardless of whether or not your B.S. degree is ABET-accredited.
+If you envision a career providing, supervising or managing professional engineering services (e.g. engineering investigations, design) , you will likely need to become a licensed professional engineer and should aim, via your chosen BS and/or MS (coterm) degrees, to earn ABET credit for 4-5 years of work experience.
+Pragmatic Considerations:
+The Civil Engineering major provides a structured curriculum that ensures breadth across different areas specified by ABET.   The Environmental Systems Engineering major requires fewer units, offers more flexibility in choosing courses, and provides greater ability to focus on a specific topic area.
+Minimum Units in the Program
+93
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+School of Engineering Required Coursework
+School of Engineering requirements vary for each subplan. Please navigate to the Subplans page for additional requirements information.
+Electives
+Completion requirement
+Focus Breadth Electives
+Students in the Sustainable Coastal Systems subplan must complete at least 1 Focus Breadth Elective.
+Students in the Sustainable Energy Systems, Sustainable Freshwater Systems, and Sustainable Urban Systems subplans must complete at least 2 Focus Breadth Electives.
+Complete ALL of the following Courses:
+CEE101B - Mechanics of Fluids
+CEE101D - Computations in Civil and Environmental Engineering
+CEE107R - E^3: Extreme Energy Efficiency
+CEE155 - Introduction to Sensing Networks for CEE
+CEE156 - Building Systems Design & Analysis
+CEE161I - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+CEE162D - Introduction to Physical Oceanography
+CEE162E - Rivers, Streams, and Canals
+CEE162F - Coastal Processes
+CEE162I - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+CEE164H - Quantitative Methods for Marine Ecology and Conservation
+CEE170 - Aquatic and Organic Chemistry for Environmental Engineering
+CEE172 - Air Quality Management
+CEE175A - California Coast: Science, Policy, and Law
+CEE176C - Energy Storage Integration - Vehicles, Renewables, and the Grid
+CEE176M - Spatial Planning for Gigascale Renewables & Transmission
+CEE177 - Aquatic Chemistry and Biology
+CEE226E - Techniques and Methods for Decarbonized and Energy Efficient Building Design
+CEE260A - Physical Hydrogeology
+CEE260D - Remote Sensing of Hydrology
+CEE262B - Transport and Mixing in Surface Water Flows
+CEE272 - Coastal Contaminants
+CEE272R - Engineering Future Electricity Systems
+CEE273B - The Business of Water
+CEE275D - Environmental Policy Analysis
+CHEMENG175X - Electrochemical Water Treatment: Materials and Processes
+EARTHSYS142 - Remote Sensing of Land
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS151 - Biological Oceanography
+EARTHSYS152 - Marine Chemistry
+EE116 - Semiconductor Devices for Energy and Electronics
+EE218 - Power Semiconductor Devices and Technology
+ENERGY121 - Fundamentals of Multiphase Flow
+ENERGY153 - Carbon Capture and Sequestration
+ENERGY191 - Optimization of Energy Systems
+ENERGY201B - Fundamentals of Energy Processes
+ESS141 - Remote Sensing of the Oceans
+ESS162 - Remote Sensing of Land
+ESS164 - Fundamentals of Geographic Information Science (GIS)
+ESS227 - Decision Science for Environmental Threats
+MATSCI156 - Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution
+OCEANS125H - Environmental Change and Marine Biodiversity
+OSPAUSTL10 - Coral Reef Ecosystems
+OSPAUSTL32 - Coastal Ecosystems
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+The following choices of WIM courses are the same for all four subplans.   Note that CEE100 is required for the Urban subplan, and can count as Breadth for the other subplans.
+Complete at least 1 of the following Courses:
+CEE100 - Managing Sustainable Building Projects
+CEE102W - Technical and Professional Communication
+Capstone
+Completion requirement
+Capstone Experience
+Complete ALL of the following Courses:
+CEE183 - Integrated Civil Engineering Design Project
+Honors
+Completion requirement
+Honors Program Overview
+The Environmental Systems Engineering Honors Program involves an in-depth research study in an area proposed to and agreed to by a Department of Civil and Environmental Engineering faculty adviser and completion of a thesis of high quality.
+A written proposal for the research to be undertaken must be submitted and approved by the faculty advisor in the fourth quarter prior to graduation. At the time of application, the student must have an overall grade point average (GPA) of at least 3.3 for course work at Stanford; this GPA must be maintained to graduation.
+The written thesis must be approved by the thesis adviser.
+Students are encouraged to present their results in a seminar for faculty and students.
+Directed Writing Projects
+The thesis is supervised by a CEE faculty adviser and must involve input from the School of Engineering’s Technical Communication Program (Huang 049) by means of ENGR 202S: Directed Writing Projects or its equivalent.
+Complete ALL of the following Courses:
+ENGR202S - Directed Writing Projects
+OPTIONAL Thesis Research Support Course
+Up to 10 units of CEE 199H Undergraduate Honors Thesis may be taken to support the research and writing (not to duplicate ENGR 202S).
+These units are beyond the normal Environmental Systems Engineering major program requirements.
+Sustainable Coastal Systems Subplan
+Completion requirement
+Mathematics & Science
+Students must complete a minimum of 36 units of Mathematics & Science coursework.
+Fulfill ALL of the following requirements:
+Calculus
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Ordinary Differential Equations
+Complete at least 1 of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+ENGR155A - Ordinary Differential Equations for Engineers
+AND
+Vector Calculus/Linear Algebra
+Complete at least 1 of the following Courses:
+CME100 - Vector Calculus for Engineers
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+AND
+Intro to Probability & Stats
+Complete at least 1 of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+ENGR155C - Introduction to Probability and Statistics for Engineers
+AND
+Mechanics
+Complete at least 1 of the following Courses:
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Chemistry
+Students must complete (CHEM 31A and CHEM 31B) or CHEM 31E (previously CHEM 31M).
+Complete at least 1 of the following Courses:
+CHEM31A - Chemical Principles I
+AND
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Additional Math & Science Coursework
+Complete additional courses from the following to reach the 36 unit minimum of Math & Science coursework.
+Complete ANY of the following Courses:
+CHEMENG55 - Foundational Biology for Engineers
+CME107 - Introduction to Machine Learning
+EE65 - Modern Physics for Engineers
+ENGR55 - Foundational Biology for Engineers
+PHYSICS43 - Electricity and Magnetism
+PHYSICS45 - Light and Heat
+Technology in Society (TiS)
+Complete ALL of the following Courses:
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+Engineering Fundamentals
+Complete at least 2 of the following Courses:
+CEE70 - Environmental Science and Technology
+CHEMENG55 - Foundational Biology for Engineers
+ENGR14 - Intro to Solid Mechanics
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR55 - Foundational Biology for Engineers
+ENGR60 - Engineering Economics and Sustainability
+ENGR90 - Environmental Science and Technology
+ME30 - Engineering Thermodynamics
+Sustainable Coastal Systems Depth
+Complete a minimum of 40 units of Depth coursework.
+Fulfill ALL of the following requirements:
+Required Core Courses
+Complete ALL of the following Courses:
+CEE162F - Coastal Processes
+CEE101B - Mechanics of Fluids
+OR
+CEE101E - Introduction to Mechanics of Fluids
+OCEANS71 - Planet Ocean
+AND
+Focus Electives
+Complete at least 5 courses in total: at least 2 courses from one of the following areas below, and 1 course from each of the remaining areas
+Fulfill ALL of the following requirements:
+Physical Processes
+Complete ANY of the following Courses:
+CEE162D - Introduction to Physical Oceanography
+CEE162I - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+CEE262B - Transport and Mixing in Surface Water Flows
+ESS141 - Remote Sensing of the Oceans
+AND
+Marine Biology/Ecology
+Complete ANY of the following Courses:
+EARTHSYS151 - Biological Oceanography
+OCEANS125H - Environmental Change and Marine Biodiversity
+OSPAUSTL10 - Coral Reef Ecosystems
+AND
+Chemical Processes
+Complete ANY of the following Courses:
+CEE170 - Aquatic and Organic Chemistry for Environmental Engineering
+OR
+CEE177 - Aquatic Chemistry and Biology
+EARTHSYS152 - Marine Chemistry
+AND
+Coastal Issues
+Complete ANY of the following Courses:
+CEE162E - Rivers, Streams, and Canals
+CEE175A - California Coast: Science, Policy, and Law
+CEE272 - Coastal Contaminants
+ESS164 - Fundamentals of Geographic Information Science (GIS)
+ESS227 - Decision Science for Environmental Threats
+OSPAUSTL32 - Coastal Ecosystems
+AND
+Additional Coursework
+Complete at least 2 additional courses from the list of Focus Breadth Electives found in the Electives section.
+Sustainable Energy Systems Subplan
+Completion requirement
+Mathematics & Science
+Students must complete a minimum of 36 units of Math & Science coursework.
+Fulfill ALL of the following requirements:
+Calculus
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+Students may also use AP credit to fulfill this requirement. Please consult with your department and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Ordinary Differential Equations
+Complete at least 1 of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+ENGR155A - Ordinary Differential Equations for Engineers
+AND
+Vector Calculus/Linear Algebra
+Complete at least 1 of the following Courses:
+CME100 - Vector Calculus for Engineers
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+AND
+Intro to Probability & Statistics
+Complete at least 1 of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+ENGR155C - Introduction to Probability and Statistics for Engineers
+AND
+Mechanics
+Complete at least 1 of the following Courses:
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Electricity & Magnetism
+Complete at least 1 of the following Courses:
+PHYSICS43 - Electricity and Magnetism
+EE65 - Modern Physics for Engineers
+AND
+Chemistry
+Complete ALL of the following Courses:
+CHEM31A - Chemical Principles I
+CHEM31E - Chemical Foundations and 21st Century Problems
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Additional Math & Science Coursework
+Complete additional courses from the following to reach the 36 unit minimum of Math & Science coursework.
+Complete ANY of the following Courses:
+CHEM31B - Chemical Principles II
+CME107 - Introduction to Machine Learning
+PHYSICS45 - Light and Heat
+Technology in Society (TiS)
+Complete ALL of the following Courses:
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+Engineering Fundamentals
+Students must complete ME 30 as the required Engineering Fundamentals course, plus one additional course from the list.
+Complete at least 2 of the following Courses:
+ME30 - Engineering Thermodynamics
+CEE70 - Environmental Science and Technology
+CHEMENG55 - Foundational Biology for Engineers
+ENGR14 - Intro to Solid Mechanics
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR60 - Engineering Economics and Sustainability
+ENGR90 - Environmental Science and Technology
+Environmental Systems Engineering Depth
+Complete a minimum of 40 units of ENVSE Depth coursework.
+Fulfill ALL of the following requirements:
+Required Core Courses
+Complete ALL of the following Courses:
+CEE173S - Electricity Economics
+CEE176A - Energy Efficient Buildings
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE107A - Understand Energy
+OR
+CEE107S - Understand Energy - Essentials
+AND
+Focus Electives
+Complete at least 5 of the following Courses:
+CEE101B - Mechanics of Fluids
+CEE107R - E^3: Extreme Energy Efficiency
+CEE155 - Introduction to Sensing Networks for CEE
+CEE156 - Building Systems Design & Analysis
+CEE161I - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+OR
+ENERGY121 - Fundamentals of Multiphase Flow
+CEE172 - Air Quality Management
+CEE176C - Energy Storage Integration - Vehicles, Renewables, and the Grid
+CEE176M - Spatial Planning for Gigascale Renewables & Transmission
+CEE226E - Techniques and Methods for Decarbonized and Energy Efficient Building Design
+CEE272R - Engineering Future Electricity Systems
+EARTHSYS142 - Remote Sensing of Land
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EE116 - Semiconductor Devices for Energy and Electronics
+EE218 - Power Semiconductor Devices and Technology
+ENERGY153 - Carbon Capture and Sequestration
+ENERGY191 - Optimization of Energy Systems
+ENERGY201B - Fundamentals of Energy Processes
+MATSCI156 - Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution
+AND
+Focus Breadth Elective
+Complete at least 2 additional courses from the list of Focus Breadth Electives found in the Electives section.
+Sustainable Freshwater Systems Subplan
+Completion requirement
+Mathematics & Science
+Complete a minimum of 36 units of Math and Science coursework.
+Fulfill ALL of the following requirements:
+Calculus
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+Students may also use AP credit to fulfill this requirement. Please consult with your department and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Ordinary Differential Equations
+Complete at least 1 of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+ENGR155A - Ordinary Differential Equations for Engineers
+AND
+Vector Calculus/Linear Algebra
+Complete at least 1 of the following Courses:
+CME100 - Vector Calculus for Engineers
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+AND
+Intro to Probability & Statistics
+Complete at least 1 of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+ENGR155C - Introduction to Probability and Statistics for Engineers
+AND
+Mechanics
+Complete at least 1 of the following Courses:
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Chemistry
+Complete at least 1 of the following Courses:
+CHEM31A - Chemical Principles I
+AND
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Foundational Biology of Engineers
+Complete at least 1 of the following Courses:
+CHEMENG55 - Foundational Biology for Engineers
+ENGR55 - Foundational Biology for Engineers
+AND
+Unnamed Rule
+Complete additional coursework from the SoE pre-approved Math & Stats and/or Science course lists found at:
+https://ughb.stanford.edu/approvedcourses
+to reach the 36 unit minimum of Math & Science coursework.
+Technology in Society (TiS)
+Complete ALL of the following Courses:
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+Engineering Fundamentals
+Complete at least 2 of the following Courses:
+CEE70 - Environmental Science and Technology
+ENGR14 - Intro to Solid Mechanics
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR60 - Engineering Economics and Sustainability
+ENGR90 - Environmental Science and Technology
+ME30 - Engineering Thermodynamics
+Environmental Systems Engineering Depth
+Complete at least 40 units of ENVSE Depth coursework.
+Fulfill ALL of the following requirements:
+Required Core Courses
+Complete ALL of the following Courses:
+CEE101B - Mechanics of Fluids
+CEE166A - Introduction to Hydrology
+CEE170 - Aquatic and Organic Chemistry for Environmental Engineering
+AND
+Core Electives
+Complete at least 1 of the following Courses:
+CEE179D - Providing Safe Water for the Developing and Developed World
+CEE179E - Wastewater Treatment: From Disposal to Resource Recovery
+AND
+Focus Electives
+Complete at least 2 of the following Courses:
+CEE101D - Computations in Civil and Environmental Engineering
+CEE162E - Rivers, Streams, and Canals
+CEE162F - Coastal Processes
+CEE260A - Physical Hydrogeology
+CEE260D - Remote Sensing of Hydrology
+CEE273B - The Business of Water
+CEE275D - Environmental Policy Analysis
+CHEMENG175X - Electrochemical Water Treatment: Materials and Processes
+ESS162 - Remote Sensing of Land
+AND
+Focus Breadth Electives
+Complete at least 2 additional courses from the list of Focus Breadth Electives found in the Electives section.
+Sustainable Urban Systems Subplan
+Completion requirement
+Unnamed Rule
+Fulfill ALL of the following requirements:
+Mathematics & Science
+Complete at least 36 units of Math & Science coursework.
+Fulfill ALL of the following requirements:
+Calculus
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+Students may also use AP credit to fulfill this requirement. Please consult with your department and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Ordinary Differential Equations
+Complete at least 1 of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+ENGR155A - Ordinary Differential Equations for Engineers
+AND
+Vector Calculus/Linear Algebra
+Complete at least 1 of the following Courses:
+CME100 - Vector Calculus for Engineers
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+AND
+Intro to Probability & Statistics
+Complete at least 1 of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+ENGR155C - Introduction to Probability and Statistics for Engineers
+AND
+Unnamed Rule
+Complete at least 1 of the following Courses:
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+Students may also use AP credit to fulfill this requirement. Please consult with your department and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Chemistry
+Complete either CHEM 31A & B, or CHEM 31E.
+Complete at least 1 of the following Courses:
+CHEM31A - Chemical Principles I
+AND
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+Students may also use AP credit to fulfill this requirement. Please consult with your department and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Additional Math & Science Coursework
+Complete additional coursework from the following to reach the 36-unit minimum of Math & Science coursework.
+Complete ANY of the following Courses:
+CME107 - Introduction to Machine Learning
+EE65 - Modern Physics for Engineers
+PHYSICS43 - Electricity and Magnetism
+PHYSICS45 - Light and Heat
+AND
+Technology in Society (TiS)
+Complete at least 1 of the following Courses:
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+AND
+Engineering Fundamentals
+Complete at least 2 of the following Courses:
+CEE70 - Environmental Science and Technology
+CHEMENG55 - Foundational Biology for Engineers
+ENGR14 - Intro to Solid Mechanics
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR55 - Foundational Biology for Engineers
+ENGR60 - Engineering Economics and Sustainability
+ENGR90 - Environmental Science and Technology
+ME30 - Engineering Thermodynamics
+AND
+Environmental Systems Engineering Depth
+Complete at least 40 units of Depth coursework.
+Fulfill ALL of the following requirements:
+Required Core Courses
+Complete ALL of the following Courses:
+CEE173S - Electricity Economics
+CEE176A - Energy Efficient Buildings
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE107A - Understand Energy
+OR
+CEE107S - Understand Energy - Essentials
+AND
+Focus Depth
+Complete at least 2 courses in either the Building Systems Pathway, or Urban Planning, Design, and Analysis Pathway.
+Fulfill ANY of the following requirements:
+Building Systems Pathway
+Complete at least 2 of the following Courses:
+CEE120B - Advanced Building Modeling Workshop
+CEE124 - Sustainable Development Studio
+CEE131F - Building Envelope Design & Construction
+CEE133A - Studio 1: Architecture - Space, Light, and Movement
+CEE156 - Building Systems Design & Analysis
+OR
+Urban Planning, Design, & Analysis Pathway
+Complete at least 2 of the following Courses:
+CEE131E - Team Urban Design Studio
+CEE141A - Infrastructure Project Development
+CEE243 - Intro to Urban Sys Engrg
+CEE273B - The Business of Water
+URBANST113 - Introduction to Urban Design: Contemporary Urban Design in Theory and Practice
+URBANST164 - Sustainable Cities
+AND
+Pathway Electives
+Complete one course from each of the remaining subplans; one course from either Building Systems, or Urban Planning, Design and Analysis (whichever you didn't complete the 3 required courses in from above), plus one course in Energy Systems, and one course in Water Systems.
+Fulfill ANY of the following requirements:
+Building Systems
+Complete ANY of the following Courses:
+CEE120B - Advanced Building Modeling Workshop
+CEE124 - Sustainable Development Studio
+CEE131F - Building Envelope Design & Construction
+CEE133A - Studio 1: Architecture - Space, Light, and Movement
+CEE156 - Building Systems Design & Analysis
+OR
+Urban Planning, Design & Analysis
+Complete ANY of the following Courses:
+CEE131E - Team Urban Design Studio
+CEE141A - Infrastructure Project Development
+CEE243 - Intro to Urban Sys Engrg
+CEE273B - The Business of Water
+URBANST113 - Introduction to Urban Design: Contemporary Urban Design in Theory and Practice
+URBANST164 - Sustainable Cities
+OR
+Energy Systems
+Complete ALL of the following Courses:
+CEE107A - Understand Energy
+CEE107R - E^3: Extreme Energy Efficiency
+CEE173S - Electricity Economics
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE226E - Techniques and Methods for Decarbonized and Energy Efficient Building Design
+ENERGY191 - Optimization of Energy Systems
+OR
+Water Systems
+Complete ALL of the following Courses:
+CEE162E - Rivers, Streams, and Canals
+CEE166B - Hydrologic Processes, Water Resources and Hazards
+CEE179D - Providing Safe Water for the Developing and Developed World
+CEE179E - Wastewater Treatment: From Disposal to Resource Recovery
+CEE273B - The Business of Water
+AND
+Focus Breadth Electives
+Complete at least 2 additional courses from the list of Focus Breadth Electives found in the Electives section.

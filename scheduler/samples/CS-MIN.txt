@@ -1,0 +1,100 @@
+CS-MIN - Computer Science (Minor)
+Computer ScienceUndergraduate Matriculated
+General
+Program Policies
+Program Overview
+
+The Department of Computer Science (CS) operates and supports computing facilities for departmental education, research, and administration needs. Current CS students have access to a departmental student machine for general use and computer labs in the Gates Building. In addition, most students have access to systems in their research areas.
+
+Each research group in Computer Science has systems specific to its research needs. These systems include workstations, computer clusters, GPU clusters, and local file servers. Servers and workstations running Linux, MacOS, or various versions of Windows are commonplace. Support for coursework and instruction is provided on systems available through University IT (UIT) and the School of Engineering (SoE).
+
+Minimum Units in the Program
+26
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+
+The following core courses fulfill the minor requirements. Prerequisites include the standard mathematics sequence through MATH21.
+
+Note: The minor consists of seven courses for students with no programming background and who begin with CS106A.
+
+Introductory Programming
+Complete ALL of the following Courses:
+CS106B - Programming Abstractions
+
+Core
+Complete ALL of the following Courses:
+CS103 - Mathematical Foundations of Computing
+
+CS107 - Computer Organization and Systems
+OR CS107E - Computer Systems from the Ground Up
+
+CS109 - Introduction to Probability for Computer Scientists
+
+Electives (choose two courses from different areas, but no more than one course per area):
+Fulfill ANY of the following requirements:
+Artificial Intelligence
+Complete ANY of the following Courses:
+CS129 - Applied Machine Learning
+
+CS131 - Computer Vision: Foundations and Applications
+
+CS221 - Artificial Intelligence: Principles and Techniques
+
+CS229 - Machine Learning
+
+OR
+Human-Computer Interaction
+Complete ANY of the following Courses:
+CS147 - Introduction to Human-Computer Interaction Design
+
+CS177 - Introduction to Product Management with AI
+
+CS247A - Design for Artificial Intelligence
+
+CS247B - Design for Behavior Change
+
+CS247E - Design for Earth
+
+CS247G - Design for Play
+
+CS247I - Design for Understanding
+
+CS247S - Service Design with AI
+
+OR
+Systems
+Complete ANY of the following Courses:
+CS111 - Operating Systems Principles
+
+CS145 - Introduction to Big Data Systems
+
+CS155 - Computer and Network Security
+
+OR
+Theory
+Complete ANY of the following Courses:
+CS154 - Introduction to the Theory of Computation
+
+CS157 - Computational Logic
+
+CS161 - Design and Analysis of Algorithms
+
+OR
+Visual Computing
+Complete ANY of the following Courses:
+CS148 - Introduction to Computer Graphics and Imaging
+
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+
+OR
+Computational Biology
+Complete ANY of the following Courses:
+CS173A - Foundations of Computational Human Genomics
+
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells

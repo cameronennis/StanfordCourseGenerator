@@ -1,0 +1,104 @@
+ENGR-MS - Engineering (MS)
+Download as PDF
+Engineering Dean
+Engineering
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Master of Science in Engineering is designed for students who have already been admitted to a graduate program in the School of Engineering and have become interested in a specific study area not covered by one of the existing degree programs. The School of Engineering offers masters degrees through its nine academic departments - Aeronautics and Astronautics, Bioengineering, Chemical Engineering, Civil and Environmental Engineering, Computer Science, Electrical Engineering, Management Science and Engineering, Materials Science and Engineering, and Mechanical Engineering - and two interdisciplinary programs - Hasso Plattner Institute of Design (d.school) and the Institute for Computational and Mathematical Engineering (ICME).
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Core Program Requirements
+Completion requirement
+Requirements Overview
+The MS in Engineering is available to current School of Engineering graduate students who develop specialized, interdisciplinary objectives that cannot conform to any graduate program offered at Stanford. In these rare cases, the student and an advising department within Engineering can propose a structured curriculum that will provide master’s level breadth and depth related to that objective.
+Each student’s program is administered by a specific Engineering department in which it is located and must meet the standard of quality of that department. Transfer into this program is possible from any School of Engineering graduate program by application through the proposed advising department; the advising department reviews the application and submits it to the Office of Student Affairs in the School of Engineering with their recommendations.
+The application should be submitted before completing 18 units of the proposed program. It should include a statement describing the program’s objectives, the coherence of the proposed coursework, and why this course of study cannot conform to existing graduate programs. Usually, it would include the approval of at least one faculty member willing to serve as an advisor. (A co-advising team may be appropriate for interdisciplinary programs.) The actual transfer is accomplished through the Graduate Authorization Petition process.
+There are three school requirements for the MS degree in Engineering:
+The student’s program must be coherent with a well-defined objective. It must be approved by a department within the school with experience with graduate-level teaching and advising in the program area.
+The student’s program must include at least 21 units of courses within the School of Engineering with catalog numbers of 200 or above, in which the student receives letter grades.
+The program must include a total of at least 45 units.
+Departments may have additional requirements or expectations for programs of study that they would recommend for this degree; further information may be found in departmental listings or handbooks.
+The MS in Engineering is rarely pursued as a coterminal program, and potential coterms are encouraged to explore the range of master’s options in the departments and interdisciplinary programs. In the unusual circumstance of a coterminal application to the MS in Engineering, the application process should be the same as described above, using either the Graduate Authorization Petition in Axess. The policy for transferring courses taken as an undergraduate before coterm admission to the MS in Engineering corresponds to the policy of the particular department where the student’s program is lodged and administered. A clear statement of the department’s coterminal policy and how it applies to the applicant within the Master of Science in Engineering program should be added to the application materials.
+Biomechanical Engineering (Subplan)
+Completion requirement
+Proposal Requirements
+The Master of Science in Engineering: Biomechanical Engineering (MSE:BME) promotes the integration of engineering mechanics and design with the life sciences. The eligibility requirements for this degree program are the same as for the Master of Science in Mechanical Engineering. Students planning for subsequent medical school studies are advised to contact Stanford’s Premedical Advising Office for guidance.
+In addition to the above eligibility requirements, students wishing to pursue this program must get approval from the ME Student Services Office and then complete the online Graduate Authorization Petition.
+Fulfill ALL of the following requirements:
+Mathematical Fundamentals
+Two math courses covering
+two different areas
+from Linear Algebra, Partial Differential Equations, Numerical Analysis, and Statistics.
+Courses may be drawn from the list of courses satisfying the Mathematical Fundamentals requirement of the
+program
+or the following additional courses.
+Complete at least 2 of the following:
+Linear Algebra
+Complete ANY of the following Courses:
+MATH113 - Linear Algebra and Matrix Theory
+OR
+Partial Differential Equations
+Complete ANY of the following Courses:
+MATH131P - Partial Differential Equations
+OR
+Numerical Analysis
+Complete ANY of the following Courses:
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+CME209 - Mathematical Modeling of Biological Systems
+OR
+BIOE209 - Mathematical Modeling of Biological Systems
+OR
+Statistics
+Complete ANY of the following Courses:
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS141 - Introduction to Statistics for Biology
+AND
+Approved Electives
+In either Life Sciences or Engineering, depending on the undergraduate education and approval of the advisor (minimum 6 units, 2 courses).
+Fulfill ANY of the following requirements:
+Life Science Approved Electives
+Undergraduate or graduate courses in biology/medical science/chemistry courses that contribute to a cohesive program. Intended for students with minimal undergraduate biology but strong foundations for graduate-level engineering courses.
+OR
+Engineering Approved Electives
+Undergraduate or graduate engineering courses (generally Mechanical Engineering, Aeronautics/Astronautics or Materials Science) that strengthen the foundation for graduate-level engineering courses. Intended for students with strong undergraduate biology but little mechanical engineering coursework. These courses should be selected to prepare for the Graduate-Level Engineering Courses and should be taken early in the program.
+AND
+Graduate-Level Engineering Courses
+Fulfill ALL of the following requirements:
+Biomechanical Engineering Electives
+Complete at least 3 of the following Courses:
+ME234 - Introduction to Neuromechanics
+ME235 - Biotransport Phenomena
+ME244 - Mechanotransduction in Cells and Tissues
+ME281 - Biomechanics of Movement
+ME283 - Introduction to Biomechanics and Mechanobiology
+ME285 - Computational Modeling in the Cardiovascular System
+ME287 - Mechanics of Biological Tissues
+ME305 - Dynamics and Feedback Control of Living Systems
+ME381 - Orthopaedic Bioengineering
+ME485 - Modeling and Simulation of Human Movement
+AND
+Specialty in Engineering
+A set of three or four graduate level courses in engineering mechanics, materials, controls, or design (excluding bioengineering courses) selected to provide depth in one area. Comparable specialty sets composed of graduate engineering courses outside the Mechanical Engineering Department can be used with the approval of the student’s advisor.
+AND
+Graduate Engineering Electives
+Additional courses to bring the total number of graduate-level engineering units to at least 21. These electives must contribute to a cohesive degree program and be approved by the student’s advisor. No units may come from bioengineering courses, mathematics courses, or seminars.
+AND
+Biomechanical Research Symposium
+Complete ALL of the following Courses:
+ME389 - Biomechanical Research Symposium
+AND
+General Approved Electives
+Additional courses to bring the total number of units to 39. These courses must be approved by the student’s advisor. Graduate-level engineering, math, physical science courses, and upper-division undergraduate or graduate life science courses are normally approved.
+AND
+Unrestricted Electives
+Additional courses to bring the total number of units to 45. Students are encouraged to use some of these unrestricted units to strengthen their biology or engineering background if necessary. Students should consult their advisor for recommendations on course loads and on ways to use the unrestricted electives to create a manageable program.
+All courses except unrestricted electives
+must be taken for a letter grade
+unless letter grades are not an option, with the following exception for COVID-19: the Department will count courses taken in Academic Year 2020-21 with a grade of 'CR' (credit) or 'S' (satisfactory) that satisfy the Mathematical Competence, Graduate Engineering Electives, Life Science Approved Electives, and General Approved Electives requirements. In addition, courses taken in Spring 2020 with an 'S' (satisfactory) are counted towards satisfaction of all graduate degree requirements (including Biomechanical Engineering Restricted Electives and Specialty in Engineering) that otherwise require a letter grade.

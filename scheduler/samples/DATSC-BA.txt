@@ -1,0 +1,899 @@
+DATSC-BA - Data Science (BA)
+Download as PDF
+Data Science
+Undergraduate Matriculated
+BA - Bachelor of Arts
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Mission of the Undergraduate Program in Data Science
+The undergraduate program in Data Science aims to provide students with an analytical and quantitative foundation for tackling data-driven problems in science, industry, and society. Data science is an interdisciplinary field combining computational and inferential reasoning to extract knowledge or insights from data for use in various applications. It synthesizes the most relevant parts of foundational disciplines to solve particular problems or applications. As more data and new ways of analyzing data become available, our economy, society, and daily life will become even more dependent on our ability to learn from data systematically.
+Students pursuing a BA in Data Science with the Social Systems subplan will develop a rigorous understanding of methods and approaches from computer science, statistics, and the social sciences. They will learn to apply technical tools to address substantive problems in that domain. They will develop multiple fluencies in computational methods, broad domain knowledge and applications of social science, and the moral and political frameworks shaping social systems. The BA in Data Science with the Social Systems subplan is an ideal major to prepare students for work in the technology sector and a range of industries that require integrating quantitative thinking with an understanding of human behavior or public policy or for careers in the public and social sectors where data-intensive approaches are prized.
+Students pursuing a BA in Data Science with the Artistic and Cultural Analysis subplan will learn to integrate a comprehensive knowledge of Data Science methods and theories alongside core critical thinking and creative skills from humanistic study and artistic practice. They will learn how to apply quantitative and statistical methods to the study of cultural and aesthetic objects; discover how data can change our understanding of history; practice the integration of computation into the creative process; and think critically and philosophically about the role of data in society, culture, and the arts.  Students will gain fluency in a broad range of computational and statistical methods and will learn how to apply these skills to a variety of disciplinary domains including philosophy, history, literature, art, and cultural studies. The BA in Data Science with the Artistic and Cultural Analysis subplan will prepare students to work in industries and sectors where a deep knowledge of data science, creative thinking, and critical problem-solving skills are prized.
+Minimum Units in the Program
+67
+Minimum University Units
+180
+Collapse All
+Core Program Requirements
+Completion requirement
+Data Science Core
+Fulfill ALL of the following requirements:
+Computation
+Complete ALL of the following Courses:
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+Most students should take CS 106A. However, students who have experience with programming but not Python can take
+course
+instead. Note that
+course
+(the required gateway course) uses Python.
+For students with prior experience in Python who successfully complete DATASCI 112 without taking CS 106A, CS 106A can be waived.
+AND
+Math
+Complete ALL of the following Courses:
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+AND
+Data
+Complete ALL of the following Courses:
+DATASCI112 - Principles of Data Science
+AND
+Mathematical Modeling
+Complete ALL of the following Courses:
+MATH104 - Applied Matrix Theory
+AND
+Probability
+Complete ALL of the following Courses:
+STATS117 - Introduction to Probability Theory
+AND
+Statistics
+Complete ALL of the following Courses:
+STATS191 - Introduction to Applied Statistics
+AND
+Optimization
+Complete ALL of the following Courses:
+MS&E111 - Introduction to Optimization
+OR
+MS&E111DS - Introduction to Optimization: Data Science
+OR
+MS&E111X - Introduction to Optimization (Accelerated)
+Pre-Approved Substitutions:
+We recommend all students take the standard courses shown above. However, to provide flexibility, students may use
+up to two
+of the following pre-approved substitutions within the Data Science Core without additional approval. Students requesting more than two substitutions must submit the
+Data Science Requirement Inquiry Form
+and obtain approval from the program directors.
+Required course:
+course
+| Approved substitution:
+course
+Required course:
+course
+|  Approved substitutions:
+course
+,
+course
+, or
+course
+Required course:
+course
+| Approved substitutions:
+course
+or
+course
+Advanced Alternatives:
+Students interested in more advanced alternatives to the standard courses may also choose from the following. Students may take any number of advanced alternatives:
+Required course:
+course
+| Advanced alternatives:
+course
+or
+course
+Required course:
+course
+| Advanced alternative:
+course
+Required course:
+course
+| Advanced alternative:
+course
+Required course:
+course
+,
+course
+, or
+course
+| Advanced alternative:
+course
+Extended Core
+The Extended Core is specific to each version of the data science major and offers additional coursework in the methods and frameworks used in each program's theoretical and applied areas of study.
+Students must fulfill the Extended Core that aligns with their subplan.
+Fulfill ANY of the following requirements:
+Extended Core for Social Systems
+Fulfill ALL of the following requirements:
+Data Science for Social Impact
+Complete ALL of the following Courses:
+DATASCI154 - Data Science for Social Impact
+AND
+Causal Inference
+Complete at least 1 of the following Courses:
+DATASCI161 - Causality, Decision Making and Data Science
+ECON102C - Advanced Topics in Econometrics
+POLISCI150C - Causal Inference for Social Science
+SOC258B - Quasi-Experimental Research Design & Analysis
+AND
+Machine Learning
+Complete at least 1 of the following Courses:
+CS124 - From Languages to Information
+CS129 - Applied Machine Learning
+CS161 - Design and Analysis of Algorithms
+CS221 - Artificial Intelligence: Principles and Techniques
+STATS202 - Statistical Learning and Data Science
+AND
+Ethics
+Complete at least 1 of the following Courses:
+COMM154 - The Politics of Algorithms
+CS120 - Introduction to AI Safety
+CS139 - Human-Centered AI
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+ETHICSOC20 - Introduction to Moral Philosophy
+POLISCI103 - Justice
+Students who identify another course that explores the intersection between data, technology, and ethics may submit the
+Data Science Requirement Inquiry Form t
+o obtain approval from the program.
+OR
+Extended Core for Artistic and Cultural Analysis
+Fulfill ALL of the following requirements:
+Thinking and Making with Data
+Complete ALL of the following Courses:
+DATASCI156 - Thinking and Making with Data
+AND
+Machine Learning
+Complete at least 1 of the following Courses:
+CS124 - From Languages to Information
+CS129 - Applied Machine Learning
+CS161 - Design and Analysis of Algorithms
+CS221 - Artificial Intelligence: Principles and Techniques
+STATS202 - Statistical Learning and Data Science
+AND
+Moral Philosophy
+Complete ALL of the following Courses:
+ETHICSOC20 - Introduction to Moral Philosophy
+AND
+Additional Ethics Course
+Complete at least 1 of the following Courses:
+COMM154 - The Politics of Algorithms
+CS120 - Introduction to AI Safety
+CS139 - Human-Centered AI
+CS181 - Computers, Ethics, and Public Policy
+CS182 - Ethics, Public Policy, and Technological Change
+POLISCI103 - Justice
+Students who identify another course that explores the intersection between data, technology, and ethics may submit the
+Data Science Requirement Inquiry Form
+to obtain approval from the Program Director.
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+Students must fulfill the WIM requirement that aligns with their subplan.
+Fulfill ANY of the following requirements:
+WIM for Students in Social Systems Subplan
+Most students pursuing the Data Science B.A. with the social systems subplan will complete the Data Science Practicum (DATASCI 192A/B), which double-counts to satisfy both the capstone and WIM requirements.
+In special instances, students can apply to fulfill the capstone requirement through conducting an independent data science research project under the supervision of a professor (see capstone requirement for more details), in which case they must take DATASCI 120 to satisfy the WIM requirement.
+Complete ANY of the following Courses:
+DATASCI120 - Data Narratives
+DATASCI192A - Data Science Practicum I
+AND
+DATASCI192B - Data Science Practicum II
+OR
+WIM for Students in Artistic and Cultural Analysis Subplan
+All students pursuing the Artistic and Cultural Analysis subplan must complete the following as their WIM.
+Complete ALL of the following Courses:
+DATASCI120 - Data Narratives
+Capstone
+Completion requirement
+Capstone
+The capstone is a culminating experience completed during senior year. Students must fulfill the capstone requirement that aligns with their subplan. In addition, each student must participate in the final Capstone Showcase in spring of their senior year.
+Fulfill ANY of the following requirements:
+Capstone for Students in Social Systems Subplan
+Fulfill ANY of the following requirements:
+Data Science Practicum
+Most students pursuing the Data Science & Social Systems B.A. will complete the Data Science Practicum (DATASCI 192A/B) for their capstone, which double-counts to satisfy both the capstone and WIM requirements.
+Complete ALL of the following Courses:
+DATASCI192A - Data Science Practicum I
+DATASCI192B - Data Science Practicum II
+OR
+Independent Research Project
+In special instances, completing DATASCI 120 and an independent research project in data science could also be considered for the capstone requirement; the project must be pre-approved by the program directors, substantially use techniques from upper-division Data Science coursework, connect to a social issue (typically related to the student’s pathway), and be completed during senior year.
+By the final study list deadline of autumn quarter during senior year, students should join the Canvas page for Independent Research Projects.
+During autumn quarter of senior year, students should find a professor who agrees to supervise the research project.
+By the last day of classes of autumn quarter, students must complete the Proposal to Use Independent Research for Data Science & Social Systems B.A. Capstone form, have it approved by the research advisor, and submit it to the Canvas page for Independent Research Projects. Approval must be obtained from the program directors through this process.
+Students should enroll in
+course
+(independent study) for a letter grade with the supervising professor in every quarter until they finish conducting the research and creating the report/poster.
+To complete the capstone, the student must submit a final report and approval form signed by their research advisor.
+Students who use an independent research project to fulfill the capstone requirement will need to take DATASCI 120 (Data Narratives) to fulfill the WIM requirement. DATASCI 120 complements independent research, and it can be taken before or concurrently with working on the project.
+Complete ALL of the following Courses:
+DATASCI120 - Data Narratives
+DATASCI199 - Independent Study
+OR
+Capstone for Students in Artistic and Cultural Analysis Subplan
+All students pursuing the Artistic and Cultural Analysis subplan must complete the following as their capstone.
+Complete ALL of the following Courses:
+O60UPq5klpdL0Dfu2zFR
+Social Systems Subplan
+Completion requirement
+Pathway
+The pathway is an opportunity for students to develop specific expertise on a topic they are passionate about and where data science methods and approaches have something compelling to offer. Students must choose one of the following pathways or develop their own, with guidance and approval from the program.
+Fulfill ANY of the following requirements:
+Brains & Behavior
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To support students in selecting balanced pathway coursework, students will be required to meet with the data science team to discuss their planned pathway courses and receive final program approval.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+Complete at least 2 of the following Courses:
+ECON1 - Principles of Economics
+ECON40 - Introduction to Experimental and Behavioral Economics
+POLISCI1 - The Science of Politics
+PSYCH1 - Introduction to Psychology
+PSYCH30 - Introduction to Perception
+PSYCH35 - Minds and Machines
+PSYCH45 - Introduction to Learning and Memory
+SOC1 - Introduction to Sociology
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic.
+Complete at least 2 of the following Courses:
+DATASCI120 - Data Narratives
+DATASCI194L - Data Science and the Science of Learning
+DATASCI194N - Data Science for Neuroscience
+DATASCI199 - Independent Study
+PSYCH154 - Judgment and Decision-Making
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses from the following areas:
+Neuroscience
+Cognitive Science.
+For recommended courses within each area, please see our website.
+Complete at least 2 of the following Courses:
+NBIO101 - Social and Ethical Issues in the Neurosciences
+PHIL167D - Philosophy of Neuroscience
+PSYCH50 - Introduction to Cognitive Neuroscience
+PSYCH90 - Introduction to Clinical Psychology: A Neuroscience Perspective
+PSYCH134 - Brain and Decision Making
+PSYCH164 - Brain decoding
+PSYCH169 - Advanced Seminar on Memory
+OR
+Climate & the Environment
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To encourage students to pick a coherent set of courses, the set of courses will be approved by the data science program.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+Complete at least 2 of the following Courses:
+EARTHSYS10 - Introduction to Earth Systems
+EARTHSYS101 - Energy and the Environment
+ECON1 - Principles of Economics
+ECON50 - Economic Analysis I
+INTNLREL15N - Earth at a Crossroads: Negotiating the Politics of Global Environmental Governance
+POLISCI1 - The Science of Politics
+POLISCI101 - Introduction to International Relations
+POLISCI102 - American Politics and Policy: In Defense of Democracy
+PSYCH1 - Introduction to Psychology
+SOC1 - Introduction to Sociology
+SOC103 - Human and Planetary Health
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic.
+Complete at least 2 of the following Courses:
+BIO143H - Quantitative Methods for Marine Ecology and Conservation
+DATASCI120 - Data Narratives
+DATASCI199 - Independent Study
+EARTHSYS106 - World Food Economy
+EARTHSYS115 - Science for Sustainable Solutions
+EARTHSYS141 - Remote Sensing of the Oceans
+EARTHSYS185 - Feeding Nine Billion
+ECON177 - Environmental Economics: Models, Data, and Policy Design
+ECON185 - Data Science for Environmental Business
+ESS136 - Modeling Human-Environment Systems
+ESS171 - Climate Models and Data
+INTNLREL165 - Global Environmental Governance: Politics, Institutions, and Change
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+EARTHSYS 106 must be taken for 5 units to count toward the pathway.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses from the following areas: Energy, Climate, Oceans, Food, Policy. For recommended courses within each area, please see our website.
+Complete at least 2 of the following Courses:
+BIO125 - Environmental Change and Marine Biodiversity
+EARTHSYS103 - Understand Energy
+EARTHSYS112 - Human Society and Environmental Change
+EARTHSYS134 - Environmental Justice: Reflection
+EARTHSYS146A - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+EARTHSYS155 - Science of Soils
+ECON133 - Energy Market Design and Regulation
+ECON155 - Climate change and global inequality
+ECON156 - Energy Markets and Policy
+EARTHSYS102 - Fundamentals of Renewable Energy Processes
+ENERGY110 - Engineering Economics
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+ENERGY177B - Engineering and Sustainable Development: Implementation
+ESS102 - Scientific Basis of Climate Change
+HUMRTS224 - Climate Displacement, Migration, and Mobility
+POLISCI111 - The Politics of Climate Change
+PUBLPOL153 - Energy, Clean Innovation & Sustainability
+URBANST132 - Concepts and Analytic Skills for the Social Sector
+URBANST164 - Sustainable Cities
+URBANST181 - Urban Agroecology
+Students who take ENERGY 177A/B must enroll for three units each quarter to use these classes toward the pathway.
+OR
+Economic Opportunity & Inequality
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To support students in selecting balanced pathway coursework, students will be required to meet with the data science team to discuss their planned pathway courses and receive final program approval.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+Complete at least 2 of the following Courses:
+ECON1 - Principles of Economics
+ECON11N - Understanding the Welfare System
+ECON30 - Progress and Inequality
+ECON40 - Introduction to Experimental and Behavioral Economics
+ECON50 - Economic Analysis I
+POLISCI1 - The Science of Politics
+POLISCI21Q - The Politics of Status, Symbols, and Inequality
+POLISCI101 - Introduction to International Relations
+POLISCI102 - American Politics and Policy: In Defense of Democracy
+POLISCI114D - Democracy, Development, and the Rule of Law
+PSYCH1 - Introduction to Psychology
+SOC1 - Introduction to Sociology
+SOC3 - America: Unequal
+SOC19N - The Immigrant Experience in Everyday Life
+SOC100 - Introduction to Urban Studies
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic.
+Complete at least 2 of the following Courses:
+DATASCI120 - Data Narratives
+DATASCI199 - Independent Study
+EARTHSYS162 - Data for Sustainable Development
+EARTHSYS185 - Feeding Nine Billion
+ECON125 - Economic Development, Microfinance, and Social Networks
+ECON127 - Economics of Health Improvement in Developing Countries
+ETHICSOC151C - Ethical STEM: Race, Justice, and Embodied Practice
+SOC156A - The Changing American City
+SOC12N - Just Data: Re-Imagining Inequality Research
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses from the following areas:
+Labor Markets, Human Capital & Inequality
+Race, Gender, Immigration & Inequality
+Policy Options & Inequality Movements
+Development Economics & Political Economy
+Sustainable Development
+For recommended courses within each area, please see our website.
+Complete at least 2 of the following Courses:
+CSRE112X - Urban Education
+CSRE181 - Diversity and Equity Issues in Higher Education
+CSRE149A - The Urban Underclass
+ECON118 - Development Economics
+ECON134 - Wealth of Nations
+ECON166 - International Trade
+ECON144 - Family and Society
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+ENERGY177B - Engineering and Sustainable Development: Implementation
+ETHICSOC232T - Philanthropy for Sustainable Development
+FEMGEN173 - Gender and Higher Education: National and Global Perspectives
+POLISCI141 - Political Economy of Development
+POLISCI147 - Comparative Democratic Development
+POLISCI243 - Political Economy of Latin America
+POLISCI247G - Governance and Poverty
+SOC175 - China's Political Economy
+Students who take ENERGY 177A/B must enroll for three units each quarter to use these classes toward the pathway.
+OR
+Education
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To support students in selecting balanced pathway coursework, students will be required to meet with the data science team to discuss their planned pathway courses and receive final program approval.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+Complete at least 2 of the following Courses:
+ECON1 - Principles of Economics
+ECON50 - Economic Analysis I
+EDUC101 - Introduction to Teaching and Learning
+POLISCI1 - The Science of Politics
+POLISCI102 - American Politics and Policy: In Defense of Democracy
+PSYCH1 - Introduction to Psychology
+PSYCH35 - Minds and Machines
+PSYCH45 - Introduction to Learning and Memory
+SOC1 - Introduction to Sociology
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic.
+Complete at least 2 of the following Courses:
+DATASCI120 - Data Narratives
+DATASCI194L - Data Science and the Science of Learning
+DATASCI199 - Independent Study
+EDUC281 - Technology for Learners
+EDUC473 - Empowering Educators via Language Technology
+SOC302A - Introduction to Education Data Science: Data Processing
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses from the following areas:
+Policy & Context
+Race, Ethnicity, Diversity & Inequality
+Educational Research Methods
+For recommended courses within each area, please see our website.
+Complete at least 2 of the following Courses:
+CSRE112X - Urban Education
+CSRE181 - Diversity and Equity Issues in Higher Education
+ECON146 - Economics of Education
+EDUC103B - Race, Ethnicity, and Linguistic Diversity in Classrooms: Sociocultural Theory and Practices
+EDUC115N - How to Learn Mathematics
+EDUC117 - Research and Policy on Postsecondary Access
+EDUC142 - Foundational Course in Testing
+EDUC144 - Re(positioning) Disability: Historical, Cultural, and Social Lenses
+ETHICSOC204 - Introduction to Philosophy of Education
+FEMGEN173 - Gender and Higher Education: National and Global Perspectives
+HISTORY158C - History of Higher Education in the U.S.
+SOC130 - Education and Society
+OR
+Health Policy
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To support students in selecting balanced pathway coursework, students will be required to meet with the data science team to discuss their planned pathway courses and receive final program approval.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+Complete at least 2 of the following Courses:
+ECON1 - Principles of Economics
+ECON28N - The Future of America's Healthcare Policies
+ECON39 - Economics and Science of Drug Discovery
+ECON48 - Law and Economics of Biomedical Innovation
+ECON50 - Economic Analysis I
+POLISCI1 - The Science of Politics
+POLISCI102 - American Politics and Policy: In Defense of Democracy
+PSYCH1 - Introduction to Psychology
+SOC1 - Introduction to Sociology
+SOC103 - Human and Planetary Health
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic
+Complete at least 2 of the following Courses:
+DATASCI120 - Data Narratives
+DATASCI194B - Data Science for Computational Molecular Biology
+DATASCI199 - Independent Study
+ECON127 - Economics of Health Improvement in Developing Countries
+HRP252 - Outcomes Analysis
+MED232 - Global Health:  Scaling Health Technology Innovations in Low Resource Settings
+MS&E292 - Health Policy Modeling
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses from the following areas:
+U.S. Healthcare System
+Health Disparities & Social Determinants of Health
+Global Health
+For recommended courses within each area, please see our website.
+Complete at least 2 of the following Courses:
+ECON122 - Economics of Health Equity
+ECON126 - Economics of Health and Medical Care
+EPI263 - Social Epidemiology
+HUMBIO29 - Introduction to Global Health
+HUMBIO114 - Global Change and Emerging Infectious Disease
+HUMBIO122 - Beyond Health Care: the effects of social policies on health
+HUMBIO123G - Health Care Systems around the World
+HUMBIO124C - Global Child Health
+PEDS150 - Advancing Health Equity: Exploring Social Determinants of Health and Multi-sector Solutions
+PUBLPOL122 - BioSecurity and Pandemic Resilience
+PUBLPOL156 - Health Care Policy and Reform
+OR
+Language
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To support students in selecting balanced pathway coursework, students will be required to meet with the data science team to discuss their planned pathway courses and receive final program approval.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+CS 124 is
+required
+for all students in this pathway.
+Complete at least 2 of the following Courses:
+CS124 - From Languages to Information
+ECON1 - Principles of Economics
+ECON47 - Media Markets and Social Good
+POLISCI1 - The Science of Politics
+PSYCH1 - Introduction to Psychology
+PSYCH35 - Minds and Machines
+SOC1 - Introduction to Sociology
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic.
+Complete at least 2 of the following Courses:
+DATASCI120 - Data Narratives
+DATASCI194N - Data Science for Neuroscience
+DATASCI199 - Independent Study
+LINGUIST150 - Language and Society
+SYMSYS195N - Natural Language Processing with Deep Learning
+SYMSYS195T - Natural Language Processing in the Social Sciences
+SYMSYS195L - Methods in Psycholinguistics
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses from the following areas:
+Processing & Learning Language
+Language & Digital Media
+For recommended courses within each area, please see our website.
+Complete at least 2 of the following Courses:
+COMM120W - The Rise of Digital Culture
+COMM124 - Truth, Trust, and Tech
+COMM145 - Personality and Digital Media
+COMM154 - The Politics of Algorithms
+COMM166 - Virtual People
+COMM186W - Media, Technology, and the Body
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST145 - Introduction to Psycholinguistics
+LINGUIST156 - Language, Gender, & Sexuality
+PSYCH80 - Introduction to Personality and Affective Science
+PSYCH122 - Language Neuroscience Seminar
+PSYCH175 - Developmental Science of Social Cognition
+OR
+Law & Governance
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To support students in selecting balanced pathway coursework, students will be required to meet with the data science team to discuss their planned pathway courses and receive final program approval.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+Complete at least 2 of the following Courses:
+ECON1 - Principles of Economics
+ECON40 - Introduction to Experimental and Behavioral Economics
+ECON42 - Economics of Voting
+ECON50 - Economic Analysis I
+POLISCI1 - The Science of Politics
+POLISCI29N - Is Privacy Dead? Privacy, Surveillance, and Freedom in the Digital Age
+POLISCI102 - American Politics and Policy: In Defense of Democracy
+POLISCI114D - Democracy, Development, and the Rule of Law
+PSYCH1 - Introduction to Psychology
+SOC1 - Introduction to Sociology
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic.
+Complete at least 2 of the following Courses:
+COMM138 - Deliberative Democracy Practicum: Applying Deliberative Polling
+DATASCI120 - Data Narratives
+DATASCI199 - Independent Study
+CS182 - Ethics, Public Policy, and Technological Change
+DDRL191 - DDRL Independent Study-Work with Adviser
+POLISCI120B - Campaigns, Voting, Media, and Elections
+POLISCI145B - Governing Artificial Intelligence: Law, Policy, and Institutions
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses from the following areas:
+Constitutional Law
+Justice & Inequality
+Law & Economics
+Law & Technology
+Political Institutions
+Political Economy
+Political Behavior
+Democratization & Political Change
+For recommended courses within each area, please see our website.
+Complete at least 2 of the following Courses:
+AMSTUD155 - American Constitutional History from the Civil War to the War on Poverty
+ECON154 - Law and Economics
+ETHICSOC175W - Philosophy of Law: Protest, Punishment, and Racial Justice
+HISTORY57 - American Constitutional History
+HISTORY153 - Creation of the Constitution
+LAWGEN112N - Law and Inequality
+POLISCI115 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+POLISCI120C - American Political Institutions in Uncertain Times
+POLISCI121L - Racial-Ethnic Politics in US
+POLISCI123D - The Politics of American Courts
+POLISCI124L - The Psychology of Communication About Politics in America
+POLISCI125P - The First Amendment:  Freedom of Speech and Press
+POLISCI140P - The Erosion of Democracy
+POLISCI141 - Political Economy of Development
+POLISCI147 - Comparative Democratic Development
+POLISCI220R - The Presidency
+POLISCI225 - Gender and Politics
+POLISCI238T - Designing Democracy: Constitutional Crises, Change, and Continuity
+POLISCI243 - Political Economy of Latin America
+POLISCI244A - Authoritarian Politics
+POLISCI244C - Wealth of Nations
+POLISCI244U - Political Culture
+POLISCI247G - Governance and Poverty
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+SOC136 - Sociology of Law
+SOC149 - The Urban Underclass
+SOC175 - China's Political Economy
+SOC179A - Crime and Punishment in America
+OR
+Media & Democracy
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To support students in selecting balanced pathway coursework, students will be required to meet with the data science team to discuss their planned pathway courses and receive final program approval.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+Complete at least 2 of the following Courses:
+ECON1 - Principles of Economics
+ECON47 - Media Markets and Social Good
+POLISCI1 - The Science of Politics
+POLISCI102 - American Politics and Policy: In Defense of Democracy
+POLISCI124L - The Psychology of Communication About Politics in America
+PSYCH1 - Introduction to Psychology
+PSYCH35 - Minds and Machines
+SOC1 - Introduction to Sociology
+SOC126 - Introduction to Social Networks
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic.
+Complete at least 2 of the following Courses:
+COMM122 - Trust and Safety
+COMM138 - Deliberative Democracy Practicum: Applying Deliberative Polling
+COMM177A - News Frontiers
+COMM177B - Big Local Journalism: a project-based class
+COMM177I - Investigative Watchdog Reporting
+COMM177T - Building News Applications
+DATASCI120 - Data Narratives
+DATASCI199 - Independent Study
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses in Content Production.
+Complete at least 2 of the following Courses:
+COMM104W - Reporting, Writing, and Understanding the News
+COMM176 - Advanced Digital Journalism Production
+COMM177C - Science and Environmental Journalism
+COMM177D - Specialized Writing and Reporting: Narrative Journalism
+COMM177SW - Specialized Writing and Reporting: Sports Journalism
+COMM177Y - Specialized Writing and Reporting: Foreign Correspondence
+ECON132 - Persuasive Economic Storytelling
+OR
+Technology & Society
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To support students in selecting balanced pathway coursework, students will be required to meet with the data science team to discuss their planned pathway courses and receive final program approval.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+Complete at least 2 of the following Courses:
+ECON1 - Principles of Economics
+ECON40 - Introduction to Experimental and Behavioral Economics
+ECON47 - Media Markets and Social Good
+ECON50 - Economic Analysis I
+POLISCI1 - The Science of Politics
+POLISCI29N - Is Privacy Dead? Privacy, Surveillance, and Freedom in the Digital Age
+POLISCI102 - American Politics and Policy: In Defense of Democracy
+PSYCH1 - Introduction to Psychology
+PSYCH35 - Minds and Machines
+SOC1 - Introduction to Sociology
+SOC126 - Introduction to Social Networks
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic.
+Complete at least 2 of the following Courses:
+COMM122 - Trust and Safety
+COMM177T - Building News Applications
+CS120 - Introduction to AI Safety
+CS139 - Human-Centered AI
+CS182 - Ethics, Public Policy, and Technological Change
+DATASCI120 - Data Narratives
+DATASCI199 - Independent Study
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+MS&E284 - Managing Data Science Organizations for Innovation and Impact
+POLISCI145B - Governing Artificial Intelligence: Law, Policy, and Institutions
+POLISCI294 - AI Policy Development: Leveraging Social Science to Ensure Responsible Generative AI
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses from the following areas:
+Governance & Politics
+Data & Society
+Markets & Incentives
+Building Better Technologies
+For recommended courses within each area, please see our website.
+Complete at least 2 of the following Courses:
+AMSTUD1B - Media, Culture, and Society
+CS147 - Introduction to Human-Computer Interaction Design
+COMM124 - Truth, Trust, and Tech
+COMM154 - The Politics of Algorithms
+COMM158 - Censorship and Propaganda
+DESIGN1 - Introduction to Design
+DESIGN121 - Introduction to Human Values in Design
+ECON136 - Market Design
+ENGR145 - Technology Entrepreneurship
+MS&E165 - Introduction to Product Management
+MS&E176 - Social Entrepreneurship
+MS&E180 - Organizations: Theory and Management
+MS&E230 - Market Design for Engineers
+OR
+Urban Systems
+Complete seven total courses, at least two from each category (Foundation, Intersection, Context).
+Courses must span at least two social science disciplines.
+To support students in selecting balanced pathway coursework, students will be required to meet with the data science team to discuss their planned pathway courses and receive final program approval.
+Fulfill ALL of the following requirements:
+Foundation Courses
+Foundation Courses introduce students to the social sciences through survey or introductory courses relevant to the pathway.
+Complete at least 2 of the following Courses:
+ECON1 - Principles of Economics
+ECON30 - Progress and Inequality
+ECON50 - Economic Analysis I
+POLISCI1 - The Science of Politics
+POLISCI102 - American Politics and Policy: In Defense of Democracy
+PSYCH1 - Introduction to Psychology
+SOC1 - Introduction to Sociology
+SOC3 - America: Unequal
+SOC100 - Introduction to Urban Studies
+SOC126 - Introduction to Social Networks
+AND
+Intersection Courses
+Intersection Courses give students the opportunity to work with data or apply computational methods within their pathway topic.
+Complete at least 2 of the following Courses:
+DATASCI120 - Data Narratives
+DATASCI199 - Independent Study
+ECON177 - Environmental Economics: Models, Data, and Policy Design
+SOC12N - Just Data: Re-Imagining Inequality Research
+SOC156A - The Changing American City
+To use DATASCI 120 toward the pathway, students must submit the Request to use DATASCI 120 for Pathway form and receive program approval.
+To use DATASCI 199 toward the pathway, students must enroll for at least 2 units and conduct research relevant to the pathway under supervision of a faculty advisor.
+AND
+Context Courses
+Context Courses provide additional knowledge on topics or methods used in this area of study. This pathway covers courses from the following areas:
+Cities
+Inequality
+Contemporary Urban Issues
+Environmental Planning
+For recommended courses within each area, please see our website.
+Complete at least 2 of the following Courses:
+EARTHSYS112 - Human Society and Environmental Change
+EARTHSYS160 - Sustainable Cities
+ECON144 - Family and Society
+EDUC112 - Urban Education
+POLISCI226 - Superpower California: The Indispensable State
+PUBLPOL108H - Housing Affordability Crisis in California:  Causes, Impacts, and Solutions
+PUBLPOL154 - Politics and Policy in California
+PUBLPOL174 - The Urban Economy
+SOC149 - The Urban Underclass
+URBANST141 - Gentrification
+URBANST169 - Race, Ethnicity, and Water  in Urban California
+Artistic and Cultural Analysis Subplan
+Completion requirement
+Foundation Classes
+Upon declaring, students in this subplan will select one of the following four pathways as their primary concentration:
+Analysis (applying methods of data science to the study of cultural or artistic objects);
+Archive (understanding new data driven methods for storing and accessing the cultural record);
+Creation (making and designing artistic objects or visualizations using data);
+Critique (applying humanistic methods to critique computational or quantitative objects or processes).
+Students must complete a total of at least 4 foundation classes for a total of 15-20 units. This must include 2 classes from their chosen pathway and 2 classes that cover 2 of the remaining 3 pathways.
+Complete at least 3 of the following:
+Analysis
+Students must complete a total of at least 4 foundation classes for a total of 15-20 units. This must include 2 classes from their chosen pathway and 2 classes that cover 2 of the remaining 3 pathways.
+Complete 1 - 2 course(s) and earn  credit(s) from the following:
+ANTHRO91 - Method and Evidence in Anthropology
+COMM106 - Communication Research Methods
+COMPLIT101 - What Is Comparative Literature?
+ENGLISH160 - Poetry and Poetics
+ENGLISH161 - Narrative and Narrative Theory
+ILAC130 - Introduction to Iberia: Cultural Perspectives
+ILAC131 - Introduction to Latin America: Cultural Perspectives
+JAPAN123 - Critical Translation Studies
+PHIL49 - Survey of Formal Methods
+RELIGST1 - Religion Around the Globe
+OR
+Archive
+Students must complete a total of at least 4 foundation classes for a total of 15-20 units. This must include 2 classes from their chosen pathway and 2 classes that cover 2 of the remaining 3 pathways.
+Complete 1 - 2 course(s) and earn  credit(s) from the following:
+AFRICAAM139 - Black Geographies
+ANTHRO134D - Introduction to Museum Practice
+CHILATST130 - Latinx Geographies
+CLASSICS30 - Greek Archaeology: The Worlds the Greeks Made
+CLASSICS59 - The Archaeological Imagination
+HISTORY95N - Maps in the Modern World
+HISTORY99S - Nine Chinese Things: Global Technological Encounters in the Modern Age
+HISTORY200A - Doing Legal History
+HISTORY200B - Doing Environmental History: Water Justice
+HISTORY200BG - Doing History: Biography as History
+HISTORY200D - Doing the History of Science and Technology
+HISTORY200DE - Doing the History of Death and Disease
+HISTORY200F - Doing Microhistory
+HISTORY200GH - Doing Gender History
+HISTORY200MM - Doing Historical Memory
+HISTORY200Y - Doing Colonial History
+PHIL60 - Introduction to Philosophy of Science
+Note that any of the Doing History (HISTORY 200) seminars count towards this requirement.
+OR
+Creation
+Students must complete a total of at least 4 foundation classes for a total of 15-20 units. This must include 2 classes from their chosen pathway and 2 classes that cover 2 of the remaining 3 pathways.
+Complete 1 - 2 course(s) and earn  credit(s) from the following:
+ARTSTUDI101 - Art Practice Foundation 2D
+ARTSTUDI102 - Art Practice Foundation 3D/4D
+DESIGN1 - Introduction to Design
+ENGLISH90 - Fiction Writing
+ENGLISH91 - Creative Nonfiction
+MUSIC21 - Introduction to Tonal Theory
+MUSIC113 - Introduction to Instrumental Composition
+TAPS34 - Stage Management Techniques
+TAPS120A - Acting I: Fundamentals of Acting
+OR
+Critique
+Students must complete a total of at least 4 foundation classes for a total of 15-20 units. This must include 2 classes from their chosen pathway and 2 classes that cover 2 of the remaining 3 pathways.
+Complete 1 - 2 course(s) and earn  credit(s) from the following:
+AFRICAAM176 - Introduction to Themes in Black Studies I
+ANTHRO90B - Theory of Cultural and Social Anthropology
+ARTHIST5 - Art and Power
+CLASSICS83 - The Greeks
+COMM108 - Media Processes and Effects
+CSRE100 - Introduction to Comparative Studies in Race and Ethnicity
+FEMGEN103 - Feminist and Sexuality Studies Theories Across the Disciplines
+FILMEDIA6 - Media and Mediums
+KOREA151 - The Nature of Knowledge: Science and Literature in East Asia
+RELIGST19Q - Does Religion Divide Us? Legal, Political, and Cultural Perspectives from Across the World
+Advanced Classes in Pathway
+Students will work with their advisor and the program administration to select 12-16 units of advanced coursework within their chosen pathway:
+Analysis (applying methods of data science to the study of cultural or artistic objects);
+Archive (understanding new data driven methods for storing and accessing the cultural record).
+Creation (making and designing artistic objects or visualizations using data);
+Critique (applying humanistic methods to critique computational or quantitative objects or processes);
+Given the interdisciplinary nature of the program, students may submit the
+Data Science Requirement Inquiry Form
+to include additional courses not in the lists below towards their advanced class requirements.
+Fulfill ANY of the following requirements:
+Analysis
+Earn at least 12 credits from the following:
+ANTHRO98C - Digital Methods in Anthropology
+DLCL122Q - Technologies of Handwriting: History, Theory, Practice
+DLCL153 - Digitally Disadvantaged Languages Workshop
+DLCL201 - Digital Humanities Practicum
+ENGLISH184E - Literary Text Mining
+ENGLISH184F - Literary Text Mining 2: Studies in Cultural Analytics
+LINGUIST180 - From Languages to Information
+PHIL20N - Philosophy of Artificial Intelligence
+SLAVIC70N - Socialism vs. Capitalism: Russian and American Writers' Responses
+OR
+Archive
+Earn at least 12 credits from the following:
+ANTHRO198B - Digital Traces
+ARCHLGY117 - Virtual Italy
+CLASSICS21N - Did Women Travel? A Digital History
+HISTORY201B - Spatial History: Concepts, Methods, Problems
+HISTORY207F - Capstone: Crafting Digital Stories
+OR
+Creation
+Earn at least 12 credits from the following:
+ARTHIST206B - Audiovision in the Medieval Cult of Saints
+ARTSTUDI209 - Moving Image II
+ARTSTUDI261 - Individual Work: Experimental Media Arts
+ARTSTUDI163 - Drawing with Code
+COMM153D - Ensemble Sonification of Temporal Data
+ENGLISH9CFS - Fire Stories: Narrative in the Digital Age
+MUSIC101 - Introduction to Creating Electronic Sounds
+MUSIC220D - Research in Computer-Generated Music
+OR
+Critique
+Earn at least 12 credits from the following:
+AFRICAAM80Q - Race and Gender in Silicon Valley
+AMSTUD120 - The Rise of Digital Culture
+ARTSTUDI192 - AI Art & Aesthetics
+CSRE154T - The Politics of Algorithms
+ENGLISH106A - What's Critical to Know about AI
+ENGLISH182 - Critical Game Studies: What Video Games Tell Us About Us

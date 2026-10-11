@@ -1,0 +1,1575 @@
+ENGR-BS - Engineering (BS)
+Download as PDF
+Engineering Dean
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Students pursuing a Bachelor of Science degree in Engineering can specialize in one of five major areas: Biomedical Computation, Engineering Physics, Atmosphere & Energy, Sustainable Architecture & Engineering or Biomechanics Engineering.
+Mission of the Undergraduate Subplan in Atmosphere/Energy
+The Atmosphere/Energy subplan combines atmospheric and energy sciences with engineering to prepare students to understand and mitigate atmospheric problems through optimal use of natural energy resources, energy efficiency, and energy technologies.
+The Atmosphere/Energy subplan bridges a gap within the disciplines of civil and environmental engineering. Atmosphere and energy are strongly linked: fossil-fuel energy use contributes to air pollution, global warming, and weather modification; and changes in the atmosphere are fed back to affect renewable energy resources, including wind, solar, hydroelectric, and wave resources. The study of atmosphere and energy in this subplan prepares students to find the best ways to mitigate atmospheric problems, such as global warming and air pollution, by optimizing the use of natural energy resources, increasing the efficiency with which energy is used‚ and understanding the effects of energy technologies on the atmosphere.
+Mission of the Undergraduate Subplan in Biomedical Computation
+Quantitative and computational methods are central to advancing biology and medicine in the 21st century. These methods span analyzing biomedical data, constructing computational models for biological systems, and designing computer systems that help biologists and physicians create and administer treatments to patients. The Biomedical Computation subplan prepares students to work at the cutting edge of this interface between computer science, biology, and medicine. Students begin their journey by acquiring foundational knowledge of biological and computational disciplines. They learn techniques in informatics and simulation and their numerous applications in understanding and analyzing biology at all levels, from individual molecules in cells to entire organs, organisms, and populations. Students then focus on a depth area of their choosing and participate in a substantial research project with a Stanford faculty member. Upon graduation, students are prepared to enter a range of disciplines in either academia or industry.
+Mission of the Undergraduate Subplan in Biomechanical Engineering
+The undergraduate subplan in Biomechanical Engineering aims to help students address health science challenges by applying engineering mechanics and design to the fields of biology and medicine. The subplan is interdisciplinary, integrating engineering coursework with biology and clinical medicine. Research and teaching in this discipline focus primarily on neuromuscular, musculoskeletal, cardiovascular, and cell and tissue biomechanics. This subplan prepares students for graduate studies in bioengineering, biomechanics, medicine, or related areas.
+Mission of the Undergraduate Subplan in Engineering Physics
+The undergraduate subplan in Engineering Physics aims to provide students with a strong foundation in physics and mathematics, together with engineering and problem-solving skills. All students in this subplan take high-level math and physics courses as well as engineering courses. This background prepares them to tackle complex problems in multidisciplinary areas that are at the forefront of 21st-century technology, such as aerospace physics, biophysics, computational science & AI, quantum science & engineering, materials science, nanotechnology, electromechanical systems (robotics), renewable energy, and any other engineering field that requires a solid background in physics. Because the subplan emphasizes science, mathematics, and engineering, students are well prepared to pursue graduate studies in engineering, physics, or applied physics.
+Mission of the Undergraduate Subplan in Sustainable Architecture and Engineering
+Rapid urbanization is one of the defining sustainability challenges of our time. Meeting the demand for new architecture and infrastructure at an unprecedented pace and scale requires new approaches to sustainable design and construction.
+The undergraduate Sustainable Architecture and Engineering major provides students with a strong foundation in sustainable architecture and engineering. The major emphasizes the integration of both disciplines, which is essential to advancing more sustainable, resilient, and resource-efficient built environments.
+This major is not an ABET-accredited engineering degree. For an ABET-accredited degree, please explore the Civil Engineering major.
+Minimum Units in the Program
+95
+Minimum University Units
+180
+Collapse All
+The "School Requirements" found below detail the lists of School of Engineering (SoE)
+approved courses
+that satisfy their requirements.
+Required or applicable courses may vary depending on major and/or subplan.
+Please see the major and/or subplan Bulletin program page for detailed information about your program's approved SoE requirements.
+School Requirements
+Completion requirement
+Engineering Fundamentals
+This is the list of SoE-approved Engineering Fundamentals courses that can be found at
+https://ughb.stanford.edu/courses/engineering-fundamentals
+.
+Required or applicable courses may vary depending on major and/or subplan.
+Please see your major and/or subplan for detailed information about your program's Engineering Fundamentals requirements.
+Complete ANY of the following Courses:
+ENGR10 - Introduction to Engineering Analysis
+ENGR14 - Intro to Solid Mechanics
+ENGR15 - Dynamics
+ENGR20 - Introduction to Chemical Engineering
+ENGR21 - Engineering of Systems
+ENGR40M - An Intro to Making: What is EE
+ENGR42 - Introduction to Electromagnetics and Its Applications
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+OR
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+OR
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+ENGR55 - Foundational Biology for Engineers
+ENGR60 - Engineering Economics and Sustainability
+ENGR76 - Information Science and Engineering
+EE65 - Modern Physics for Engineers
+MS&E111 - Introduction to Optimization
+OR
+MS&E111DS - Introduction to Optimization: Data Science
+CS106A - Programming Methodology
+OR
+CS106AX - Programming Methodologies in JavaScript and Python (Accelerated)
+OR
+CS106B - Programming Abstractions
+CS106M - Enrichment Adventures in Programming Abstractions
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+OR
+BIOE80 - Introduction to Bioengineering (Engineering Living Matter)
+ENGR90 - Environmental Science and Technology
+OR
+CEE70 - Environmental Science and Technology
+Only one CS 106 course is allowed to count toward Fundamentals requirement.
+Mathematics and Statistics
+This is the list of SoE-approved Mathematics & Statistics courses that can be found at
+https://ughb.stanford.edu/courses/math-and-statistics.
+Required or applicable courses may vary depending on major and/or subplan.
+Please see your major and/or subplan for detailed information about your program's Mathematics requirements.
+Fulfill ALL of the following requirements:
+Approved Mathematics and Statistics
+Complete ANY of the following Courses:
+MATH19 - Calculus
+AND
+MATH20 - Calculus
+AND
+MATH21 - Calculus
+CEE101D - Computations in Civil and Environmental Engineering
+OR
+CEE201D - Computations in Civil and Environmental Engineering
+CME100 - Vector Calculus for Engineers
+CME102 - Ordinary Differential Equations for Engineers
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+CME192 - MATLAB for Scientific Computing and Engineering
+CS103 - Mathematical Foundations of Computing
+ENGR108 - Introduction to Matrix Methods
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+MATH52 - Integral Calculus of Several Variables
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+MATH61CM - Modern Mathematics: Continuous Methods
+OR
+MATH61DM - Modern Mathematics: Discrete Methods
+OR
+MATH63CM - Modern Mathematics: Continuous Methods
+OR
+MATH63DM - Modern Mathematics: Discrete Methods
+MATH104 - Applied Matrix Theory
+MATH106 - Functions of a Complex Variable
+MATH109 - Groups and Symmetry
+MATH110 - Number Theory for Cryptography
+MATH113 - Linear Algebra and Matrix Theory
+MATH115 - Functions of a Real Variable
+MATH120 - Groups and Rings
+MATH121 - Galois Theory
+MATH131P - Partial Differential Equations
+MS&E111 - Introduction to Optimization
+MS&E111X - Introduction to Optimization (Accelerated)
+MS&E121 - Introduction to Stochastic Modeling
+Or more advanced Mathematics courses via approval of petition to deviate
+If MATH 51 and CME 100 are both taken, only 8 units of credit will be allowed toward the SoE major program due to overlapping material.
+Many majors need MATLAB. CME 192 is a 4-week, 1-unit MATLAB course
+AND
+Statistics and Probability
+Complete ANY of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+STATS60 - Introduction to Statistical Methods: Precalculus
+OR
+STATS160 - Introduction to Statistical Methods: Precalculus
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+CS109 - Introduction to Probability for Computer Scientists
+EE178 - Probabilistic Systems Analysis
+MATH151 - Introduction to Probability Theory
+MS&E120 - Introduction to Probability
+MS&E125 - Introduction to Applied Statistics
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+Or more advanced Statistics courses numbered over 100 via approval of petition to deviate
+Some major programs allow only specific courses or allow/require courses in addition to those listed above; check your major program sheet footnotes to see what specific courses can be applied toward each major.
+Science
+This is the list of SoE-approved Science courses that can be found at
+https://ughb.stanford.edu/courses/science.
+Required or applicable courses may vary depending on major and/or subplan.
+Please see your major and/or subplan for detailed information about your program's Science requirements.
+Complete ANY of the following Courses:
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO85 - Evolution
+BIO86 - Cell Biology
+BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
+BIO47 - Introduction to Research in Ecology and Evolutionary Biology
+BIO150 - Human Behavioral Biology
+CEE63 - Weather and Storms
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+CEE70 - Environmental Science and Technology
+CHEM31A - Chemical Principles I
+AND
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+CHEM123 - Organic Polyfunctional Compounds
+EARTHSYS2 - Chemistry of the Earth and Planets
+EARTHSYS10 - Introduction to Earth Systems
+EARTHSYS11 - Introduction to Geology
+EARTHSYS110 - Introduction to the Foundations of Contemporary Geophysics
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+HUMBIO3A - Cell and Developmental Biology
+HUMBIO4A - The Human Organism
+PHYSICS21 - Mechanics and Fluids
+AND
+PHYSICS23 - Electricity, Magnetism, and Optics
+AND
+PHYSICS25 - Modern Physics
+AND
+PHYSICS22 - Mechanics, Fluids, and Heat Laboratory
+AND
+PHYSICS24 - Electricity, Magnetism, and Optics Laboratory
+AND
+PHYSICS26 - Modern Physics Laboratory
+PHYSICS41 - Mechanics
+AND
+PHYSICS42 - Classical Mechanics Laboratory
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+AND
+PHYSICS42 - Classical Mechanics Laboratory
+PHYSICS43 - Electricity and Magnetism
+AND
+PHYSICS44 - Electricity and Magnetism Lab
+PHYSICS45 - Light and Heat
+AND
+PHYSICS46 - Light and Heat Laboratory
+PHYSICS61 - Mechanics and Special Relativity
+AND
+PHYSICS61L - Mechanics Laboratory
+PHYSICS71 - Quantum and Thermal Physics
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+Technology in Society
+This is the list of SoE-approved Technology in Society (TiS) courses that can be found at
+https://ughb.stanford.edu/courses/tech-in-society.
+Required or applicable courses may vary depending on major and/or subplan.
+Please see your major and/or subplan for detailed information about your program's TiS requirements.
+Complete ANY of the following Courses:
+AA252 - Techniques of Failure Analysis
+ARCHLGY151 - Ten Things: An Archaeology of Design
+BIOE131 - Ethics in Bioengineering
+BIOE177 - Inventing the Future
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+CEE145E - Equitable Infrastructure Solutions
+CLASSICS168 - Engineering the Roman Empire
+COMM154 - The Politics of Algorithms
+COMM166 - Virtual People
+CS120 - Introduction to AI Safety
+CS121 - Equity and Governance for Artificial Intelligence
+CS139 - Human-Centered AI
+CS152 - Trust and Safety
+CS182 - Ethics, Public Policy, and Technological Change
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+CS222 - AI Agents and Simulations
+CS256 - Algorithmic Fairness
+CS278 - Social Computing
+CS329X - Human Centered NLP
+DATASCI154 - Data Science for Social Impact
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+AND
+ENERGY177B - Engineering and Sustainable Development: Implementation
+EPS194 - Technology, International Security, and Sustainability
+FEMGEN144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+FEMGEN147 - Feminism and Technology
+HUMBIO174 - Foundations of Bioethics
+MS&E179 - Entrepreneurship for Everyone
+NBIO101 - Social and Ethical Issues in the Neurosciences
+POLISCI114S - International Security in a Changing World
+PUBLPOL114 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+STS1 - Introduction to Science, Technology & Society
+STS115 - The Ethics of Developing Life-Saving Technologies for Children
+STS200J - Technometabolism: Technology, Society, and the Anthropocene
+ENERGY 177A & B must both be taken, and taken for 3 units each, in order to satisfy the TiS requirement.
+Some courses may also fulfill the following WAYS areas: A-II = Aesthetic/Interpretive Inquiry; CE=Creative Expression; ED=Engaging Diversity; ER=Ethical Reasoning; SI= Social Inquiry
+Atmosphere/Energy Subplan
+Completion requirement
+Overview
+Subplan Overview
+The A/E degree is NOT an ABET-accredited degree, as ABET accreditation is advantageous only for obtaining specific jobs that do not overlap with those that students obtaining the A/E degree would generally consider. The degree is accredited as part of Stanford’s accreditation through the Western Association of Schools and Colleges (WASC). The study of atmosphere and energy in this subplan prepares students to find the best ways to mitigate atmospheric problems, such as global warming and air pollution, by optimizing the use of natural energy resources (e.g., wind, solar, hydro, geothermal, and marine resources); learning about the electrification of transportation, buildings, and industry; increasing the efficiency with which energy is used; and understanding the effects of energy technologies on the atmosphere.
+Objectives and Outcomes
+The objective of the A/E major is for students to:
+understand the complexities of large-scale air pollution and climate problems as well as clean, renewable, and efficient energy solutions to address the problems.
+gain skills and understanding of tools to create and assess new solutions that avoid exacerbating problems and avoid addressing one problem while exacerbating another.
+The Curriculum
+A/E students take classes in atmospheric sciences, energy sciences and engineering as well as classes that integrate the two fields. The curriculum is flexible in that students interested more in energy or more in atmosphere can take most of their engineering depth classes in their area of choice. Similarly, students desiring to focus more on technology or more on science can select the appropriate depth classes to suit their interests.
+Careers
+The Atmosphere/Energy undergraduate curriculum prepares undergraduates for careers in industry, research, consulting, government, non-governmental organizations, and academia. Through these careers students influence public policy, guide engineering design decisions, and support the implementation of equitable energy solutions.
+Graduate Study
+Students with a degree in Atmosphere/Energy are well prepared for graduate studies in our A/E and other CEE coterm (MS) programs as well as in sustainability science and practice, and programs in public policy, business, and law.
+Exploring the Atmosphere/ Energy Major
+Try one of these recommended introductory courses:
+APPPHYS 79N - Energy Options for the 21st Century
+CEE 34N - Wind Energy Explained
+CEE 63 - Weather and Storms
+CEE 64 - Air Pollution & Global Warming: History, Science & Solutions
+CEE 70 - Environmental Science and Technology (same as ENGR 90)
+ENGR 50E - Introduction to Materials Science, Energy Emphasis
+ENERGY 30N: Busting Energy Myths
+In addition, the Math, Science, Technology in Society, and Engineering Fundamentals courses required by the A/E major will also count toward most of the other School of Engineering majors (see course lists below; other major programs and their specific requirements are listed elsewhere on this site).
+Instructions For Declaring Major in Engineering: Atmosphere/Energy (ENGR-BS)
+Enter your major declaration for Atmosphere/Energy in Axess. Select ENGR-BS as your major and A/E as your subplan.
+For instructions and guidelines, please go here:
+https://cee.stanford.edu/academics-admissions/undergraduate-degrees/how-declare-cee-your-major
+If you have any questions, email the Assistant Director of Undergraduate Degree Progress and Curriculum Management, Rachel Stringari at rstring@stanford.edu
+Total Units
+A total of 96 units are required, comprised of courses from the requirements below.
+Mathematics and Science (45 Units)
+Fulfill ALL of the following requirements:
+Mathematics
+Complete 23 units minimum between Groups A and B, completing at least one course from each Group.
+Fulfill ALL of the following requirements:
+Group A
+Complete at least 1 of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+AND
+Group B
+Complete at least 1 of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+DATASCI112 - Principles of Data Science
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+AND
+Math Electives
+Complete additional courses from the list of SoE pre-approved Math & Stats course list found at
+https://ughb.stanford.edu/courses/math-and-statistics
+to reach the 23-unit minimum of Mathematics coursework.
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+AND
+Science
+Complete 20 units minimum of science coursework, including all of the following Science courses.
+Complete ALL of the following Courses:
+CHEM31B - Chemical Principles II
+OR
+CHEM31E - Chemical Foundations and 21st Century Problems
+CEE70 - Environmental Science and Technology
+PHYSICS41 - Mechanics
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+OR
+PHYSICS61 - Mechanics and Special Relativity
+PHYSICS43 - Electricity and Magnetism
+OR
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+CEE 70 can count as science or as ENGR Fundamental, but not both.
+AND
+Science Electives
+Complete additional courses from the SoE pre-approved Science course list found at
+https://ughb.stanford.edu/courses/science
+in order to reach the 20-unit minimum of Science coursework.
+Technology in Society
+Complete one course from the SoE-approved TiS list at
+https://ughb.stanford.edu/courses/tech-in-society
+. The course the student uses to satisfy the TiS Requirement must be on this list the academic year in which the student took the course.
+BIO 131 can satisfy both the Writing in the Major (WIM) and Technology in Society requirement.
+Writing in the Major (WIM)
+Complete exactly 1 course(s) and earn 3 - 5 credit(s) from the following:
+BIOE131 - Ethics in Bioengineering
+CEE102W - Technical and Professional Communication
+CEE100 - Managing Sustainable Building Projects
+EARTHSYS191 - Concepts in Environmental Communication
+BIO 131 can satisfy both the Writing in the Major (WIM) and Technology in Society requirement.
+CEE 102W, CEE 100, or EARTHSYS 191 can count for both WIM and Skills Course requirement.
+Engineering Fundamentals
+Complete at least 2 of the following Courses:
+CS106A - Programming Methodology
+OR
+CS106B - Programming Abstractions
+ENGR15 - Dynamics
+ENGR20 - Introduction to Chemical Engineering
+ENGR21 - Engineering of Systems
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR60 - Engineering Economics and Sustainability
+ENGR 50E may be used as an Engineering Fundamentals course, or toward Depth requirements, but cannot be used in both areas.
+Engineering Depth
+Of the 42 units required below, 30 units minimum must be School of Engineering coursework. One of CEE 176A, 176B, 162I, or 199 must be taken to satisfy the Capstone requirement.
+Fulfill ALL of the following requirements:
+Required Courses
+Complete a total of 2 courses, one from each set below (one from CEE 63, CEE 64, or CEE 172, and one from CEE 107A or CEE 107S) for a total of 6-8 units.
+Complete exactly 2 course(s) and earn 6 - 8 credit(s) from the following:
+CEE63 - Weather and Storms
+OR
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+OR
+CEE172 - Air Quality Management
+CEE107A - Understand Energy
+OR
+CEE107S - Understand Energy - Essentials
+AND
+Skills Courses
+No more than 5 units from the list below may count toward the 42 units of Depth. Complete 0-5 units from the following:
+Complete ANY of the following Courses:
+CEE102W - Technical and Professional Communication
+CEE100 - Managing Sustainable Building Projects
+CEE199 - Undergraduate Research in Civil and Environmental Engineering
+EARTHSYS191 - Concepts in Environmental Communication
+EARTHSYS194A - Environmental Justice Colloquium
+Courses outside the School of Engineering do not count toward the 30-unit engineering minimum in Fundamentals and Depth categories but can count toward the 42-unit Depth total.
+Students may count no units from the list to the 42 units of Depth. However, students would still separately need a WIM class.
+AND
+Elective Courses
+Complete at least 29-36 units from Groups A and B, with at least 4 courses of 3 or more units from each group.
+Fulfill ALL of the following requirements:
+Group A: Atmosphere
+Complete at least 4 courses of 3 units or more.
+Complete at least 4 of the following Courses:
+AA100 - Introduction to Aeronautics and Astronautics
+ANTHRO103 - The Archaeology of Climate
+CEE63 - Weather and Storms
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+CEE101B - Mechanics of Fluids
+OR
+CEE101E - Introduction to Mechanics of Fluids
+OR
+ME70 - Introductory Fluids Engineering
+CEE162I - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+CEE172 - Air Quality Management
+EARTHSYS2 - Chemistry of the Earth and Planets
+EARTHSYS116A - Climate Perspectives: Climate Science, Impacts, Carbon Markets, Decarbonization Models and Projects
+EARTHSYS123A - Biosphere-Atmosphere Interactions
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+ECON155 - Climate change and global inequality
+ESS102 - Scientific Basis of Climate Change
+GEOPHYS115 - Taking the Pulse of the Planet
+ME133 - Intermediate Fluid Mechanics
+SUSTAIN101C - Climate 101
+Courses outside the School of Engineering do not count toward the 30-unit engineering minimum in Fundamentals and Depth categories but can count toward the 42-unit Depth total.
+AND
+Group B: Energy
+Complete at least 4 courses of 3 units or more.
+Complete at least 4 of the following Courses:
+CEE107R - E^3: Extreme Energy Efficiency
+CEE108X - Explore Energy Seminar: Propel
+CEE130B - Quest for an Inclusive Clean Energy Economy
+CEE130R - Racial Equity in Energy
+CEE156 - Building Systems Design & Analysis
+CEE173S - Electricity Economics
+CEE176A - Energy Efficient Buildings
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE176C - Energy Storage Integration - Vehicles, Renewables, and the Grid
+CEE176M - Spatial Planning for Gigascale Renewables & Transmission
+CEE263G - Energy Policy in California and the West
+EARTHSYS101 - Energy and the Environment
+EARTHSYS102 - Fundamentals of Renewable Energy Processes
+ECON156 - Energy Markets and Policy
+EE116 - Semiconductor Devices for Energy and Electronics
+EE153 - Power Electronics
+ENERGY134 - Sustainable Energy for 9 Billion
+ENERGY153 - Carbon Capture and Sequestration
+ENERGY191 - Optimization of Energy Systems
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+GEP130 - Environmental Economics: Models, Data, and Policy Design
+MATSCI144 - Thermodynamic Evaluation of Green Energy Technologies
+Courses outside the School of Engineering do not count toward the 30-unit engineering minimum in Fundamentals and Depth categories but can count toward the 42-unit Depth total.
+Capstone Requirement
+To fulfill the Capstone, 3 units of one of the following courses must be taken.
+CEE 161I is an Atmosphere-focused course.
+CEE 176A and 176B are Energy-focused courses.
+CEE 199 is a Skills-focused course.
+Complete exactly 1 course(s) and earn exactly 3 credit(s) from the following:
+CEE161I - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+CEE176A - Energy Efficient Buildings
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE199 - Undergraduate Research in Civil and Environmental Engineering
+Atmosphere/ Energy Honors Program
+Fulfill ALL of the following requirements:
+Honors Program Overview
+The A/E honors program allows eligible students to engage in guided original research or project design over an academic year. Interested students must adhere to the following requirements:
+Prospective honors students write up and submit a 1-2 page letter applying to the honors program in A/E describing the problem to be investigated. The student, the current primary advisor, and the proposed honors advisor, if different, must sign the letter. The student must submit the letter to the Department of Civil and Environmental Engineering (CEE) student services office. The application must include an unofficial Stanford transcript. Applications must be received in the fourth quarter before graduation. It is strongly suggested that prospective honors students meet with the proposed advisor well before applying.
+Students must maintain a GPA of at least 3.5.
+Students must complete an honors thesis or project over three quarters. The typical length of the written report is 15-20 pages. The deadline for submission of the report is to be decided by the honors advisor but should be no later than the end of the third week in May.
+The student’s honors advisor and another reader must read and evaluate the report. The student’s responsible for finding and obtaining both the advisor and the reader. At least one of the two must be a member of the Academic Council in the School of Engineering.
+Students must present the completed work in an appropriate forum, e.g., in the same session as honors theses are presented in the advisor’s department. All honors programs require some public presentation of the thesis or project.
+Two copies of the signed thesis must be provided to the CEE student services office no later than two weeks before the student’s graduation quarter ends. A pdf of the thesis, including the signature page signed by both readers, should be submitted to the student services officer by May 15. Students will be emailed instructions on archiving a permanent electronic copy in Terman Engineering Library.
+AND
+REQUIRED Directed Writing Projects Courses
+Students must take Directed Writing Projects or its equivalent.
+Units for the writing class are beyond those required for the A/E major.
+Complete ALL of the following Courses:
+ENGR202S - Directed Writing Projects
+AND
+OPTIONAL Thesis Research Support Course
+Up to 10 units of CEE 199H - Undergraduate Honors Thesis may be taken to support the research and writing (not to duplicate ENGR 202S).
+Units for this course are beyond those required for the A/E major.
+Earn at least 10 credits from the following:
+CEE199H - Undergraduate Honors Thesis
+Suggested Course Concentration and Sequences
+Subject to the requirements outlined above, students have flexibility in selecting their depth electives and other courses to best suit their interests. If you would like to see two suggested programs outlined, one with an emphasis on energy studies and the other on atmospheric studies, go to the 4-Year Plans page and open the A/E plans. Either approach provides the necessary preparation for the master’s degree program in Atmosphere/Energy.
+Biomedical Computation Subplan
+Completion requirement
+School of Engineering Requirements
+Fulfill ALL of the following requirements:
+Mathematics
+MATH 19/20/21 (or equivalent with placement via SU exam) are required and prerequisite to the CME 100/102 and MATH 50/53 series.
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+*
+Up to 10 units of AP credit (with placement into MATH 51/CME 100) may be used as long as at least 20 math units are taken. SoE Dean’s Office (in 135 Huang) must approve AP credit.
+AND
+Additional Required Math Coursework
+Complete ALL of the following Courses:
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+OR
+CME100 - Vector Calculus for Engineers
+CS103 - Mathematical Foundations of Computing
+CS109 - Introduction to Probability for Computer Scientists
+OR
+STATS141 - Introduction to Statistics for Biology
+OR
+MS&E120 - Introduction to Probability
+OR
+MS&E220 - Probabilistic Analysis
+OR
+EE178 - Probabilistic Systems Analysis
+OR
+MATH151 - Introduction to Probability Theory
+OR
+CME106 - Introduction to Probability and Statistics for Engineers
+AND
+Science
+17 units minimum
+Complete ALL of the following Courses:
+PHYSICS41 - Mechanics
+OR
+PHYSICS43 - Electricity and Magnetism
+OR
+PHYSICS45 - Light and Heat
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+OR
+PHYSICS61 - Mechanics and Special Relativity
+OR
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+CHEM31A - Chemical Principles I
+OR
+CHEM31B - Chemical Principles II
+OR
+CHEM31E - Chemical Foundations and 21st Century Problems
+OR
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+BIO81 - Introduction to Ecology
+OR
+BIO82 - Genetics
+OR
+BIO83 - Biochemistry & Molecular Biology
+OR
+BIO84 - Physiology
+OR
+BIO85 - Evolution
+OR
+BIO86 - Cell Biology
+OR
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+OR
+HUMBIO3A - Cell and Developmental Biology
+OR
+HUMBIO4A - The Human Organism
+Plus one additional biology, chemistry, or physics course from those listed in the Science section.
+AND
+Technology in Society
+Complete one course from the SoE-approved TiS list at
+https://ughb.stanford.edu/courses/tech-in-society
+. The course the student uses to satisfy the TiS Requirement must be on this list the academic year in which the student took the course.
+AND
+Engineering Fundamentals
+Fulfill ALL of the following requirements:
+Programming Methodology
+Classes may not be double-counted within the program. Therefore, CS 106B may not be counted toward both the Engineering Fundamentals and BMC Core requirements. If student wishes to count CS 106B toward the Engineering Fundamentals requirement, another course must be petitioned and pre-approved to be substituted in its place in the BMC Core.
+Complete ALL of the following Courses:
+CS106A - Programming Methodology
+*Students may use AP/IB credit in place of CS 106A. Please consult the SoE UGHB for more information.
+AND
+Engineering Fundamentals Elective
+Complete 1 or more course(s) and earn 3 - 5 credit(s) from the following:
+ENGR10 - Introduction to Engineering Analysis
+ENGR14 - Intro to Solid Mechanics
+ENGR15 - Dynamics
+ENGR20 - Introduction to Chemical Engineering
+ENGR21 - Engineering of Systems
+ENGR40M - An Intro to Making: What is EE
+ENGR42 - Introduction to Electromagnetics and Its Applications
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+OR
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+OR
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+ENGR55 - Foundational Biology for Engineers
+ENGR60 - Engineering Economics and Sustainability
+MS&E111X - Introduction to Optimization (Accelerated)
+ENGR65 - Modern Physics for Engineers
+ENGR76 - Information Science and Engineering
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+ENGR90 - Environmental Science and Technology
+BMC Informatics Depth
+Complete a minimum of 42 units, with at least 30 units of Engineering coursework.
+Fulfill ALL of the following requirements:
+Engineering
+Complete ALL of the following Courses:
+CS106B - Programming Abstractions
+CS107 - Computer Organization and Systems
+CS161 - Design and Analysis of Algorithms
+AND
+Capstone Course
+Complete at least 1 of the following Courses:
+CS270 - Modeling Biomedical Systems
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275 - Translational Bioinformatics
+CS278 - Social Computing
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CME209 - Mathematical Modeling of Biological Systems
+AND
+Research
+Research projects require pre-approval of BMC Coordinators
+Every BMC student must complete 6 units of directed research under a Stanford faculty member. This requirement is fairly unique to BMC among majors at Stanford. It allows our students to work on cutting-edge projects as a part of their undergraduate curriculum. This research typically occurs during the junior or senior year. The main requirement is that students must be doing actual, hands-on biomedical computation as a part of the research project (>50% computational).
+Students must have their research approved by the BMC Program Directors before undertaking their research project, and previous research credit cannot be retroactively applied. Please submit your project proposal at least 2 weeks prior to the start of the quarter during which you are starting your research. Visit our
+BMC Research Requirement page
+for more information, including our Project Request Form and applicable deadlines.
+AND
+Writing in the Major (WIM)
+Complete at least 1 of the following Courses:
+BIOE131 - Ethics in Bioengineering
+CS191W - Writing Intensive Senior Research Project
+CS272 - Introduction to Biomedical Informatics Research Methodology
+ENGR199W - Writing of Original Research for Engineers
+BMC students may satisfy their WIM requirement independently of research (CS 272, BIOE 131) or concurrently with research (CS 191W, ENGR 199W). Some of the above options may require additional steps (e.g., class application, project proposal), so please review our
+BioE Intranet
+for all relevant information and deadlines.
+Engineering Depth Concentration
+Select one of the following concentrations:
+Fulfill ANY of the following requirements:
+Cellular/Molecular Concentration
+Complete 3 courses total: one BIO course, one CHEM course, and one additional from the list.
+Complete at least 3 of the following Courses:
+BIO111 - Microbiology
+OR
+BIO113 - Fundamentals of Molecular Evolution
+OR
+BIO126 - Introduction to Biophysics
+OR
+BIO154 - Advanced Neurobiology: Food, Sex, and Gaming
+OR
+BIO160 - Developmental Biology
+OR
+BIO230 - Cellular and Molecular Immunology: An Introductory Course
+CHEM141 - The Chemical Principles of Life I
+OR
+CHEM143 - The Chemical Principles of Life II
+OR
+CHEM171 - Linking the Molecular to the Macroscopic: Foundations of Physical Chemistry
+OR
+Informatics Concentration
+Complete 3 courses total: one of CS 145 or 147, one of CS 121, 221, 228, or 229, plus one additional course from the list.
+Complete at least 3 of the following Courses:
+CS145 - Introduction to Big Data Systems
+OR
+CS147 - Introduction to Human-Computer Interaction Design
+CS121 - Equity and Governance for Artificial Intelligence
+OR
+CS221 - Artificial Intelligence: Principles and Techniques
+OR
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+OR
+CS229 - Machine Learning
+OR
+Organs/Organ Systems Concentration
+Complete ALL of the following Courses:
+BIOE101 - Systems Biology
+BIOE103 - Systems Physiology and Design
+OR
+BIO112 - Human Physiology
+BIOE51 - Anatomy for Bioengineers
+OR
+RAD220 - Introduction to Imaging and Image-based Human Anatomy
+OR
+Simulation Concentration
+Complete ALL of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+AND
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+BIOE101 - Systems Biology
+BIOE103 - Systems Physiology and Design
+Concentration Electives
+Complete at least 5 unique courses total - at least two courses from each of the concentrations electives lists below, plus one additional course from either list.
+Fulfill ALL of the following requirements:
+Organs/Organ Systems or Cellular/Molecular Electives
+Complete at least 2 of the following Courses:
+APPPHYS294 - Cellular Biophysics
+BIO112 - Human Physiology
+BIO160 - Developmental Biology
+BIO183 - Theoretical Population Genetics
+BIO214 - Advanced Cell Biology
+BIO230 - Cellular and Molecular Immunology: An Introductory Course
+BIOC241 - Biological Macromolecules
+BIOE51 - Anatomy for Bioengineers
+BIOE209 - Mathematical Modeling of Biological Systems
+BIOE222 - Physics and Engineering Principles of Multi-modality Molecular Imaging of Living Subjects
+BIOE285 - Computational Modeling in the Cardiovascular System
+CHEM141 - The Chemical Principles of Life I
+CHEM143 - The Chemical Principles of Life II
+CHEM171 - Linking the Molecular to the Macroscopic: Foundations of Physical Chemistry
+CHEMENG150 - Biochemical Engineering
+CHEMENG174 - Environmental Microbiology I
+CS272 - Introduction to Biomedical Informatics Research Methodology
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+DBIO210 - Developmental Biology
+GENE211 - Genomics
+ME281 - Biomechanics of Movement
+SURG101 - Regional Study of Human Structure
+AND
+Informatics/Simulations Electives
+Complete at least 2 of the following Courses:
+APPPHYS205 - Introduction to Biophysics
+APPPHYS294 - Cellular Biophysics
+BIOE101 - Systems Biology
+BIOE103 - Systems Physiology and Design
+BIOE123 - Bioengineering Systems Prototyping Lab
+BIOE209 - Mathematical Modeling of Biological Systems
+BIOE222 - Physics and Engineering Principles of Multi-modality Molecular Imaging of Living Subjects
+BIOE285 - Computational Modeling in the Cardiovascular System
+BMDS215 - Data Science for Medicine
+BMDS260 - Computational Methods for Biomedical Image Analysis and Interpretation
+CHEM171 - Linking the Molecular to the Macroscopic: Foundations of Physical Chemistry
+CME364A - Convex Optimization I
+CS145 - Introduction to Big Data Systems
+CS147 - Introduction to Human-Computer Interaction Design
+CS148 - Introduction to Computer Graphics and Imaging
+CS221 - Artificial Intelligence: Principles and Techniques
+CS223A - Introduction to Robotics
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS270 - Modeling Biomedical Systems
+CS272 - Introduction to Biomedical Informatics Research Methodology
+CS273B - Deep Learning in Genomics and Biomedicine
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275 - Translational Bioinformatics
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CS348C - Computer Graphics: Animation and Simulation
+EE263 - Matrix Methods: Singular Value Decomposition
+GENE211 - Genomics
+ME281 - Biomechanics of Movement
+MS&E152 - Introduction to Decision Analysis
+MS&E252 - Foundations of Decision Analysis
+STATS202 - Statistical Learning and Data Science
+STATS206 - Applied Multivariate Analysis
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+Honors Program
+The Biomedical Computation program offers an honors option for qualified students, resulting in a BS with Honors degree in Engineering (ENGR-BSH, Biomedical Computation). An honors project is meant to be a substantial research project during the later part of a student’s undergraduate career, culminating in a final written and oral presentation describing the student’s project and its significance. There is no limit to the number of majors who can graduate with honors; any BMC major who is interested and meets the qualifications is considered.
+Students apply by submitting the Honors Program Application Webform found on the BMC website and should be prepared to upload a 1-2 page proposal describing the problem the student has chosen to investigate, its significance, and the student’s research plan. This plan must be endorsed by the student’s research and academic advisors, one of whom must be a member of the Academic Council. In making its decision, the department evaluates the overall scope and significance of the student’s proposed work.
+Students must maintain a 3.5 GPA.
+Students must complete three quarters of the research. All three quarters must be on the same project with the same advisor. A summer quarter counts as one quarter of research.
+Ideally, funding should not be obtained through summer research college sources but rather through the
+UAR’s Student Grants Program
+. In no case can the same work be double-paid by two sources.
+Students must complete a substantial write-up of the research in a publishable research paper format. This research paper is expected to be approximately 20-30 pages and must be approved by the student’s research advisor and a second reader.
+Students submit an electronic pdf of their thesis, including the signature page signed by both readers, to Bioengineering student services. Students should review deadlines on the
+BMC website
+.
+Students are emailed instructions on archiving a permanent electronic copy in Terman Engineering Library.
+As the culmination of the honors project, each student presents their results in the Bioengineering Honors Poster Fair in spring quarter of their senior year.
+See the
+Handbook for Undergraduate Engineering Programs (UGHB)
+for additional information and sample programs
+.
+Biomechanical Engineering Subplan
+Completion requirement
+Biomechanical Engineering Subplan Overview
+The Biomechanical Engineering major integrates biology and clinical medicine with engineering mechanics and design.
+Research and teaching in the Biomechanical Engineering Group are primarily focused on neuromuscular, musculoskeletal and cardiovascular biomechanics, and cell and tissue mechanics. Research in other areas such as hearing, vision, ocean and plant biomechanics, biomaterials, biosensors, and imaging informatics are also conducted in collaboration with associated faculty in medicine, biology, and engineering.
+The Biomechanical Engineering major provides a fundamental understanding of mechanics in the fields of biology and medicine. However, it is not normally recommended as a terminal degree. This major is well-suited for those interested in future graduate studies in bioengineering, medicine, or related areas. The course of study allows students to satisfy many pre-medical, pre-dental, or pre-paramedical fields.
+General Major Requirements:
+All courses taken for the major must be taken for a letter grade if that option is offered by the instructor.
+All courses taken for the major must be included under one category.
+Minimum required grade for each course taken for the major is a C, and the minimum weighted GPA is 2.5 for courses taken for the major.
+Please see the
+Handbook for Undergraduate Engineering Programs (UGHB)
+for additional information and materials.
+Mathematics
+A minimum of
+24 mathematics units
+are required. The CME offerings of mathematics courses are strongly preferred for the BME major. Students who take the MATH sequence are strongly encouraged to take
+course
+before encountering courses that expect MATLAB experience.
+Fulfill ALL of the following requirements:
+Calculus
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+10 units of AP Calculus BC, with placement into
+course
+/
+course
+, is equivalent to
+course
+/
+course
+/
+course
+and acceptable in any engineering major. If 6-8 units of AP or IB credit are given, must be taken regardless of the Math Diagnostic Placement results. If 6-8 units of AP or IB credit are given,
+MATH21
+must be taken regardless of the Math Diagnostic Placement results.
+AND
+Vector Calculus and Differential Equations
+Fulfill ANY of the following requirements:
+CME Sequence
+Complete ALL of the following Courses:
+CME100 - Vector Calculus for Engineers
+CME102 - Ordinary Differential Equations for Engineers
+OR
+MATH Sequence
+Complete ALL of the following Courses:
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+AND
+Statistics
+Complete ANY of the following Courses:
+CME106 - Introduction to Probability and Statistics for Engineers
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS117 - Introduction to Probability Theory
+STATS141 - Introduction to Statistics for Biology
+Science
+A minimum of
+22 science units
+is required. Must include 2 quarters of Bio or HumBio Side A Core. AP Credit may be used if placed into Chemistry or Physics courses via the Diagnostic Placements.
+Fulfill ALL of the following requirements:
+Chemistry
+Complete at least 1 of the following Courses:
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM31A - Chemical Principles I
+AND
+CHEM31B - Chemical Principles II
+AP Credit may be used for Chemistry if placed into higher-level Chemistry courses via the Diagnostic Placements.
+AND
+Biology or Human Biology
+Complete at least 1 of the following:
+Biology Sequence
+Complete at least 2 of the following Courses:
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO86 - Cell Biology
+BIO83
+is recommended before
+BIO82
+and
+BIO86
+.
+OR
+Human Biology Sequence
+Complete at least 2 of the following Courses:
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+HUMBIO3A - Cell and Developmental Biology
+HUMBIO4A - The Human Organism
+AND
+Physics
+Complete at least 1 of the following Courses:
+PHYSICS41 - Mechanics
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+OR
+PHYSICS61 - Mechanics and Special Relativity
+AP Credit may be used for Physics if placed into higher-level Physics courses via the Diagnostic Placements.
+AND
+Additional Science Coursework
+Additional courses from the list of SoE pre-approved Science course list to reach the 22 unit minimum.
+Technology in Society
+Complete ANY of the following Courses:
+AA252 - Techniques of Failure Analysis
+ARCHLGY151 - Ten Things: An Archaeology of Design
+BIOE131 - Ethics in Bioengineering
+BIOE177 - Inventing the Future
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+CEE145E - Equitable Infrastructure Solutions
+CLASSICS168 - Engineering the Roman Empire
+COMM154 - The Politics of Algorithms
+COMM166 - Virtual People
+CS120 - Introduction to AI Safety
+CS121 - Equity and Governance for Artificial Intelligence
+CS139 - Human-Centered AI
+CS152 - Trust and Safety
+CS182 - Ethics, Public Policy, and Technological Change
+OR
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+CS222 - AI Agents and Simulations
+CS256 - Algorithmic Fairness
+CS278 - Social Computing
+CS329X - Human Centered NLP
+DATASCI154 - Data Science for Social Impact
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+OR
+ENERGY177B - Engineering and Sustainable Development: Implementation
+EPS194 - Technology, International Security, and Sustainability
+FEMGEN144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+FEMGEN147 - Feminism and Technology
+HUMBIO174 - Foundations of Bioethics
+MS&E179 - Entrepreneurship for Everyone
+NBIO101 - Social and Ethical Issues in the Neurosciences
+POLISCI114S - International Security in a Changing World
+PUBLPOL114 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+STS1 - Introduction to Science, Technology & Society
+STS115 - The Ethics of Developing Life-Saving Technologies for Children
+ENERGY 177A and ENERGY 177B  are a 2-course series that should be taken for a total of 3 units.
+Students choosing the research capstone should take BIOE131 to satisfy both TiS and WIM requirements. Students choosing the Biomechanical Engineering capstone may use any TiS course listed above.
+Engineering Fundamentals
+Complete ALL of the following Courses:
+ENGR14 - Intro to Solid Mechanics
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+OR
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+Engineering Depth
+The Engineering Depth requirements for the BME major include a core set of introductory mechanical engineering courses, a set of more advanced mechanical engineering courses selected from a prescribed list, and a set of BME depth courses (generally taken during the senior year).
+BME course offerings vary somewhat from year to year. As most BME depth courses are intended for advanced undergraduates and first-year graduate students, some courses have implicit expectations for prerequisite knowledge. Students should be aware of expected prerequisites and plan their schedules accordingly. Note that more advanced (300-level) BME courses may be used with the permission of the instructor and the student’s advisor.
+Fulfill ALL of the following requirements:
+Mechanical Engineering Core
+Complete ALL of the following Courses:
+ENGR15 - Dynamics
+ME30 - Engineering Thermodynamics
+ME70 - Introductory Fluids Engineering
+ME80 - Mechanics of Materials
+AND
+Mechanical Engineering Depth
+Complete at least 4 of the following Courses:
+ENGR105 - Feedback Control Design
+ME102 - Foundations of Product Realization
+ME103 - Product Realization: Design and Making
+ME104 - Mechanical Systems Design
+ME123 - Computational Engineering
+OR
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+ME131 - Heat Transfer
+ME133 - Intermediate Fluid Mechanics
+ME152 - Material Behaviors and Failure Prediction
+ME161 - Dynamic Systems, Vibrations and Control
+AND
+Biomechanical Engineering Depth
+Complete at least 2 of the following Courses:
+BIOE260 - Tissue Engineering
+CME209 - Mathematical Modeling of Biological Systems
+ME234 - Introduction to Neuromechanics
+ME249 - Designing Biomaterials
+ME281 - Biomechanics of Movement
+ME283 - Introduction to Biomechanics and Mechanobiology
+ME285 - Computational Modeling in the Cardiovascular System
+ME287 - Mechanics of Biological Tissues
+AND
+Capstone Experience
+Fulfill ANY of the following requirements:
+Biomechanical Engineering Capstone
+Complete ALL of the following Courses:
+ME172A - Biomechanical Engineering Capstone I
+ME172B - Biomechanical Engineering Capstone II
+Enforced prerequisites for ME172A are ME70, ME80, ME102, ME103 and either ME281 or ME283.
+OR
+Research Capstone
+The research capstone is fulfilled by taking 8 units of ME191 over 3 quarters under the supervision of a Biomechanical Engineering faculty member. Completion of the research capstone requires submission of a thesis, which will be evaluated by BME faculty. Students choosing the research capstone should take BIOE131 to satisfy both TiS and WIM requirements. Note that research for the capstone cannot overlap with research for the honors thesis.
+Complete ALL of the following Courses:
+ME191 - Engineering Problems and Experimental Investigation
+Additional Math, Science, or Engineering Courses
+Take additional math, science, or engineering courses at or above the level of listed courses (e.g., excluding lower-level physics courses, statistics courses not based on calculus, IntroSems, seminar courses, etc.) only as needed to bring the unit total to 99 units. Math or Science courses must be on the SoE-approved list.
+Honors Program
+The School of Engineering offers a program leading to a Bachelor of Science in Engineering: Biomechanical Engineering with Honors. This program allows qualified BME majors to conduct independent study and research related to biomechanical engineering at an advanced level with a faculty mentor.
+Honors Criteria:
+GPA of 3.5 or higher in the major
+Arrangement with an ME faculty member (or a faculty member from another department who the BME Undergraduate Program Director approves) who agrees to serve as the honors advisor, plus a second faculty member who reads and approves the thesis. The honors adviser must be a member of the Academic Council in the School of Engineering.
+Apply to the ME student services office no later than the second week of the term two quarters before the anticipated conferral (e.g., Autumn for Spring conferral, Spring for Autumn conferral). An application consists of:
+A one-page written statement describing the research topic, with signatures indicating approval of both the thesis advisor and thesis reader on a cover page
+An unofficial Stanford transcript;
+Applications are subject to review and final approval by the BME Undergraduate Program Director. Applicants and thesis advisors receive written notification when a decision has been made.
+To graduate with honors:
+Declare ENGR-BSH (honors) program in Axess
+Maintain 3.5 GPA
+Submit a completed thesis draft to the advisor by the third week of the quarter the student intends to confer. Further revisions and final endorsement by the advisor and reader are to be finished by week six when two bound copies are to be submitted to the Mechanical Engineering student services office. A pdf of the thesis, including the signature page signed by both readers, should also be submitted to the student services officer. Students are emailed instructions on archiving a permanent electronic copy in the Terman Engineering Library.
+Present the thesis at the Mechanical Engineering Poster Session held in mid-April. If the poster session is not not offered or the student does not confer in the spring, an alternative presentation will be approved on a case-by-case basis with the advisor and BME Program Director’s approval.
+Note: Students may not use work completed toward an honors degree to satisfy BME course requirements
+Engineering Physics Subplan
+Completion requirement
+Program Core and Depth
+In addition to completing the set of required courses described immediately below, each Engineering Physics major completes a course satisfying the Writing in the Major requirement, the Capstone requirement, and an additional three courses in one of seven defined specialties described below: Aerospace Physics, Biophysics, Computational Science, Electromechanical System Design, Materials Science, Quantum Science & Engineering, Renewable Energy.
+See the Engineering Physics section of the Handbook for
+Undergraduate Engineering Programs (UGHB) major section
+for the Engineering Physics course plan and other information relevant to the major.
+At least 35 of the units in Engineering Fundamentals, Required Depth Classes, Required Depth Electives, and other electives must be School of Engineering units. Up to 3 research units (e.g.,
+ENGR 199
+or a departmental research course such as
+ME 191
+) may be counted toward the 35-unit requirement.  The following courses cannot be used to satisfy the 35-unit requirement: ENGR 1, Introductory Seminar and Sophomore College courses, Technology in Society (TiS) courses, and student-initiated courses.   Unless otherwise noted, a course may only be counted toward one requirement; units may not be double-counted.
+All courses taken for the major must be taken for a letter grade (if that option is offered) and must be completed for a grade of C- or better. (CR or S grades are acceptable for classes completed in the six quarters between spring 2020 and summer 2021).
+The minimum combined GPA for all Engineering Fundamentals and Depth courses is 2.0.
+Fulfill ALL of the following requirements:
+Mathematics
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+MATH52 - Integral Calculus of Several Variables
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+PHYSICS111 - Partial Differential Equations of Mathematical Physics
+OR
+CME204 - Partial Differential Equations in Engineering
+OR
+MATH131P - Partial Differential Equations
+OR
+MATH173 - Theory of Partial Differential Equations
+MATH 21 is an enforced prerequisite for MATH 51. Credit for MATH 21 can also be obtained via a score of 5 on the BC-level AP calculus exam, earning a suitable score on certain international exams, or transferring credit from a suitable course at another post-secondary institution. See this website for more information:
+Why must MATH 21 be taken before MATH 51?
+Either the Math 50 or 60CM series is allowed and are enforced co-requisites for PHYSICS 61, 71, 81.
+AND
+Science
+Complete ALL of the following Courses:
+PHYSICS41 - Mechanics
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS43 - Electricity and Magnetism
+PHYSICS61 - Mechanics and Special Relativity
+AND
+PHYSICS61L - Mechanics Laboratory
+PHYSICS71 - Quantum and Thermal Physics
+AND
+PHYSICS79L - Introduction to Data Analysis, with Python and Jupyter
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+AND
+PHYSICS81L - Introduction to Experimental Practice
+Students may be able to place out of Physics 41 and/or 43 based on advice from the Physics Placement Diagnostic.
+Students may replace PHYSICS 79L with PHYSICS 89L.
+Students may replace PHYSICS 81L with PHYSICS 71L.
+AND
+Technology in Society
+Complete one course from the SoE-approved TiS list at
+https://ughb.stanford.edu/courses/tech-in-society
+. The course the student uses to satisfy the TiS Requirement must be on this list the academic year in which the student took the course.
+AND
+Engineering Fundamentals
+Two courses minimum (
+course
+or CS106B recommended; PHYSICS104 may be used in place of ENGR 40M).
+The Engineering Fundamental courses must be selected from the School of Engineering
+approved list
+. Fundamentals courses acceptable for the core program may also be used to satisfy the fundamentals requirement as long as 35 unduplicated units of Engineering are taken.
+Complete at least 2 of the following Courses:
+ENGR10 - Introduction to Engineering Analysis
+ENGR14 - Intro to Solid Mechanics
+ENGR15 - Dynamics
+ENGR20 - Introduction to Chemical Engineering
+OR
+CHEMENG20 - Introduction to Chemical Engineering
+ENGR21 - Engineering of Systems
+ENGR40M - An Intro to Making: What is EE
+ENGR42 - Introduction to Electromagnetics and Its Applications
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+ENGR55 - Foundational Biology for Engineers
+ENGR60 - Engineering Economics and Sustainability
+MS&E111X - Introduction to Optimization (Accelerated)
+OR
+MS&E111DS - Introduction to Optimization: Data Science
+ENGR65 - Modern Physics for Engineers
+ENGR76 - Information Science and Engineering
+CS106A - Programming Methodology
+CS106AX - Programming Methodologies in JavaScript and Python (Accelerated)
+CS106B - Programming Abstractions
+CS106M - Enrichment Adventures in Programming Abstractions
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+OR
+BIOE80 - Introduction to Bioengineering (Engineering Living Matter)
+ENGR90 - Environmental Science and Technology
+OR
+CEE70 - Environmental Science and Technology
+Engineering Physics Depth (core)
+Fulfill ALL of the following requirements:
+Advanced Mathematics:
+Complete at least 1 of the following Courses:
+EE261 - The Fourier Transform and Its Applications
+PHYSICS112 - Mathematical Methods for Physics
+CS109 - Introduction to Probability for Computer Scientists
+CME106 - Introduction to Probability and Statistics for Engineers
+Also qualified are EE263, any Math or Statistics course numbered 100 or above, and any CME course numbered 200 or above, except CME206.
+AND
+Intermediate Electricity and Magnetism
+Take one course sequence.
+Complete at least 2 of the following Courses:
+EE142 - Engineering Electromagnetics
+AND
+EE242 - Electromagnetic Waves
+PHYSICS120 - Electromagnetism
+AND
+PHYSICS121 - Electrodynamics
+EE 142 and EE 242 may not be offered every year.
+AND
+Numerical Methods
+Complete at least 1 of the following Courses:
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+CME206 - Introduction to Numerical Methods for Engineering
+MATH118 - Mathematics of Computation
+PHYSICS113 - Computational Physics
+AND
+Electronics Lab
+Complete at least 1 of the following Courses:
+EE101A - Circuits I
+EE101B - Circuits II
+ENGR40M - An Intro to Making: What is EE
+PHYSICS104 - Introduction to Electronic Techniques for Physics Research Instrumentation
+APPPHYS207 - Laboratory Electronics
+Quantum Mechanics
+Complete at least 1 of the following Courses:
+EE222 - Applied Quantum Mechanics I
+PHYSICS130 - Quantum Mechanics I
+Statistical Mechanics
+Complete at least 1 of the following Courses:
+MATSCI310 - Statistical Mechanics for Materials & Materials Chemistry
+PHYSICS170 - Thermodynamics, Kinetic Theory, and Statistical Mechanics I
+ME346A - Introduction to Statistical Mechanics
+MATSCI 310 and ME 346A may not be offered every year.
+Design Course
+One course required
+Complete at least 1 of the following Courses:
+AA136A - Spacecraft Design
+CS108 - Object-Oriented Systems Design
+EE133 - Analog Communications Design Laboratory
+EE134 - Introduction to Photonics
+ME103 - Product Realization: Design and Making
+ME210 - Introduction to Mechatronics
+PHYSICS106 - Experimental Methods in Quantum Physics
+PHYSICS108 - Advanced Physics Laboratory: Project
+CS107E - Computer Systems from the Ground Up
+CS140E - Operating systems design and implementation
+CS230 - Deep Learning
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+See the recommended Design course for each Specialty Area listed below.
+Specialty Areas
+Complete three courses from one of the following seven specialties or work with an advisor to create an Individually Designed Specialty to be reviewed by the Engineering Physics Co-Directors.
+Fulfill ANY of the following requirements:
+Aerospace Physics Specialty Area
+In Aerospace Physics, students develop a deep background in physics and mathematics and apply it to understanding the space environment and the dynamics, design, and control of space vehicles.
+Complete at least 3 of the following Courses:
+AA203 - Optimal and Learning-based Control
+AA242A - Classical Dynamics
+OR
+PHYSICS110 - Advanced Mechanics
+AA244A - Fundamentals of Plasmas I
+AA244B - Fundamentals of Plasmas II
+AA251 - Introduction to the Space Environment
+AA279A - Space Mechanics
+ME161 - Dynamic Systems, Vibrations and Control
+Additional recommended courses: AA 100; AA 190 for WIM; AA 236A for Design.
+OR
+Biophysics Specialty
+Biophysics prepares students to employ methods in physics to the study of biological systems.  Students have the opportunity to learn about the physical biology of systems on a broad range of scales, techniques developed in biophysics for imaging, measuring, and manipulating biological systems, and the application of quantitative analysis techniques to topics in biology and genomics.
+Complete at least 3 of the following Courses:
+APPPHYS205 - Introduction to Biophysics
+BIO132 - Advanced Imaging Lab in Biophysics
+BIOE102 - Physical Biology
+BIOE44 - Fundamentals for Engineering Biology Lab
+BIOE101 - Systems Biology
+BIOE103 - Systems Physiology and Design
+BIOE123 - Bioengineering Systems Prototyping Lab
+BIOE214 - Representations and Algorithms for Computational Molecular Biology
+BIOE221 - Physics and Engineering of Radionuclide-based Medical Imaging
+BIOE222 - Physics and Engineering Principles of Multi-modality Molecular Imaging of Living Subjects
+BMP251 - Medical Physics and Dosimetry
+EE369B - Medical Imaging Systems II
+Additional recommended courses: BIOE 131 for WIM/TiS; EE 261 for Advanced Math; BIOE 123 for Design or Electronics Lab (may not also be used as an elective if used for one of these); BIOE 80 for Engineering Fundamental.
+OR
+Computational Science, Machine Learning and AI Specialty
+Computational Science prepares students to apply modern computational techniques to problems in engineering and applied science, and to the analysis of data. Students have the opportunity to study computational theory and algorithms, as well as applications in modeling, data analysis, data science, AI and machine learning.
+Complete at least 3 of the following Courses:
+CS103 - Mathematical Foundations of Computing
+CS154 - Introduction to the Theory of Computation
+CS161 - Design and Analysis of Algorithms
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224R - Deep Reinforcement Learning
+OR
+CS234 - Reinforcement Learning
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS231N - Deep Learning for Computer Vision
+STATS202 - Statistical Learning and Data Science
+May also use any CME course greater than CME 300 and less than 390.
+Additional recommended courses: CS 182W for WIM/TiS; CS 109 for Advanced Math; CS  107E, 108, 140E, 230, or 248A for Design; CS 106A or B for Engineering Fundamental.
+OR
+Electromechanical Systems Design Specialty
+Electromechanical Systems Design provides the opportunity for students to explore the process of design, analysis, and realization of modern electromechanical systems, including “smart products” and robotic systems with embedded sensing and actuation.
+Fulfill ALL of the following requirements:
+Required Course
+Complete at least 1 of the following Courses:
+ENGR240 - Introduction to Micro and Nano Electromechanical Systems
+ME210 - Introduction to Mechatronics
+AND
+Electives
+Complete at least 2 of the following Courses:
+AA242A - Classical Dynamics
+OR
+PHYSICS110 - Advanced Mechanics
+CS223A - Introduction to Robotics
+ME104 - Mechanical Systems Design
+ME220 - Introduction to Sensors
+AA174A - Principles of Robot Autonomy I
+Additional recommended courses: ENGR 102W or PHYSICS 191 for WIM (or ENGR 199W for students pursuing an independent research project); ME 103 for Design; ENGR 40M or PHYSICS 104, and CS 106A or B for Engineering Fundamentals.
+OR
+Materials Science Specialty
+In Materials Science, students learn how to design and synthesize materials with particular structures at the nanometer and micrometer scale that provide special electrical, optical, magnetic, or mechanical properties. Students can learn to use these materials to make integrated circuits, light-emitting diodes, solar cells, fuel cells, microelectromechanical systems, and other advanced devices.
+Fulfill ALL of the following requirements:
+Required Course
+Complete at least 1 of the following Courses:
+PHYSICS171 - Thermodynamics, Kinetic Theory, and Statistical Mechanics II
+PHYSICS172 - Solid State Physics
+AND
+Electives
+Complete at least 2 of the following Courses:
+MATSCI142 - Quantum Mechanics of Nanoscale Materials
+MATSCI143 - Materials Structure and Characterization
+MATSCI144 - Thermodynamic Evaluation of Green Energy Technologies
+MATSCI145 - Kinetics of Materials Synthesis
+MATSCI151 - Microstructure and Mechanical Properties
+MATSCI152 - Electronic Materials Engineering
+MATSCI156 - Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution
+MATSCI160 - Nanomaterials Design
+MATSCI161 - Energy Materials Laboratory
+MATSCI162 - X-Ray Diffraction Laboratory
+MATSCI163 - Mechanical Behavior Laboratory
+MATSCI164 - Electronic and Photonic Materials and Devices Laboratory
+MATSCI165 - Nanoscale Materials Physics Computation Laboratory
+MATSCI166 - Data Science and Machine Learning Approaches in Chemical and Materials Engineering
+MATSCI170 - Nanomaterials Design
+MATSCI171 - Energy Materials Laboratory
+MATSCI172 - X-Ray Diffraction Laboratory
+MATSCI173 - Mechanical Behavior Laboratory
+MATSCI174 - Electronic and Photonic Materials and Devices Laboratory
+MATSCI175 - Nanoscale Materials Physics Computation Laboratory
+MATSCI176 - Data Science and Machine Learning Approaches in Chemical and Materials Engineering
+MATSCI181 - Thermodynamics and Phase Equilibria
+MATSCI182 - Rate Processes in Materials
+MATSCI183 - Defects and Disorder in Materials
+MATSCI184 - Structure and Symmetry
+MATSCI185 - Quantum Mechanics for Materials Science
+MATSCI190 - Organic and Biological Materials
+MATSCI195 - Waves and Diffraction in Solids
+MATSCI198 - Mechanical Properties of Materials
+MATSCI199 - Electronic and Optical Properties of Solids
+PHYSICS172 - Solid State Physics
+Additional recommended courses: MATSCI 161 or 164 for WIM; ENGR 50/50E/50M for Engineering Fundamental; CHEM 31A/B or 31M.
+OR
+Quantum Science & Engineering Specialty
+Quantum Science & Engineering provides opportunities for students to develop an understanding of quantum systems – including atoms, lasers, and quantum devices – and investigate potential applications, such as timing and navigation, quantum computing, quantum communication, quantum cryptography, and tests of fundamental physics.
+Fulfill ALL of the following requirements:
+Required Course
+Complete at least 1 of the following Courses:
+EE223 - Applied Quantum Mechanics II
+PHYSICS131 - Quantum Mechanics II
+AND
+Advanced Quantum Mechanics
+Complete at least 1 of the following Courses:
+PHYSICS134 - Advanced Topics in Quantum Mechanics
+PHYSICS230 - Graduate Quantum Mechanics I
+PHYSICS231 - Graduate Quantum Mechanics II
+AND
+Electives
+Complete at least 1 of the following Courses:
+APPPHYS203 - Atoms, Fields and Photons
+APPPHYS228 - Quantum Hardware
+CS254 - Computational Complexity
+CS259Q - Quantum Computing
+EE236C - Lasers
+PHYSICS106 - Experimental Methods in Quantum Physics
+PHYSICS182 - ULTRACOLD QUANTUM PHYSICS
+Additional recommended courses: EE 134, ENGR 102W, or PHYSIS 191 for WIM; EE 134 or PHYSICS 106 for Design.
+OR
+Renewable Energy Specialty
+In Renewable Energy, students explore energy conversion and storage technologies that are relevant in renewable energy systems, such as solar cells, wind turbines, batteries, fuel cells, and hydrogen production and storage.
+Complete at least 3 of the following Courses:
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE161I - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+EE153 - Power Electronics
+EE157 - Electric Motors for Renewable Energy, Robotics, and Electric Vehicles
+EE218 - Power Semiconductor Devices and Technology
+EE293B - Fundamentals of Energy Processes
+MATSCI156 - Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution
+MATSCI303 - Principles, Materials and Devices of Batteries
+Additional recommended course: EE 153 or MATSCI 161 for WIM.
+OR
+Individually Designed Specialty Area
+Choose set of three courses in one area of concentration with the approval of the advisor and program Co-Directors.
+Capstone
+To satisfy the capstone requirement, students must complete the capstone requirement in Physics or in a department closely aligned with the specialty the student is pursuing. See lists of eligible courses below.
+Students should choose one option from one of the lists below. Note that some options require one course, and while others require two courses to complete.
+An Honors Thesis can satisfy the Capstone requirement with approval from the student's advisor and the program Co-Directors.
+Fulfill ANY of the following requirements:
+AA Course Options
+Complete ANY of the following Courses:
+AA136A - Spacecraft Design
+AND
+AA136B - Spacecraft Design Laboratory
+AA146A - Aircraft Design
+AND
+AA146B - Aircraft Design Laboratory
+OR
+BIOE Course Options
+Complete ANY of the following Courses:
+BIOE141A - Senior Capstone Design I
+AND
+BIOE141B - Senior Capstone Design II
+OR
+CEE Course Options
+Complete ANY of the following Courses:
+CEE161I - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+CEE176A - Energy Efficient Buildings
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE199 - Undergraduate Research in Civil and Environmental Engineering
+OR
+CME Course Options
+Complete ANY of the following Courses:
+CME209 - Mathematical Modeling of Biological Systems
+OR
+CS Course Options
+Complete ANY of the following Courses:
+CS173A - Foundations of Computational Human Genomics
+CS191 - Senior Project
+OR
+CS191W - Writing Intensive Senior Research Project
+CS194 - Software Project
+OR
+CS194W - Software Project (WIM)
+CS194H - User Interface Design Project
+CS210B - Industry Innovation Lab
+CS270 - Modeling Biomedical Systems
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275 - Translational Bioinformatics
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+OR
+EE Course Options
+Complete ANY of the following Courses:
+EE109 - Digital Systems Design Lab
+EE133 - Analog Communications Design Laboratory
+EE134 - Introduction to Photonics
+EE153 - Power Electronics
+EE168 - Introduction to Digital Image Processing
+EE191W - Special Studies and Reports in Electrical Engineering (WIM)
+EE264W - Digital Signal Processing (WIM)
+EE267W - Virtual Reality (WIM)
+OR
+ENGR Course Options
+Complete ALL of the following Courses:
+ENGR199W - Writing of Original Research for Engineers
+Complete a research project and document it in a capstone paper for ENGR 199W. ENGR 199W requires approval from the student's advisor and the UG Directors.
+OR
+MATSCI Course Options
+Complete at least 2 of the following Courses:
+MATSCI161 - Energy Materials Laboratory
+MATSCI163 - Mechanical Behavior Laboratory
+MATSCI165 - Nanoscale Materials Physics Computation Laboratory
+OR
+ME Course Options
+Complete ALL of the following Courses:
+ME170A - Mechanical Engineering Design- Integrating Context with Engineering
+ME170B - Mechanical Engineering Design: Integrating Context with Engineering
+OR
+Physics Course Options
+Choose one of the following 3 Physics Course Capstone options.
+Fulfill ANY of the following requirements:
+Course-Only Option
+Note that PHYSICS 100 and PHYSICS 108 may have limited enrollment, so students planning to use one to fulfill their Capstone requirement should have a backup plan in case they cannot enroll in one of these courses.
+Complete ANY of the following Courses:
+PHYSICS100 - Introduction to Observational Astrophysics
+PHYSICS108 - Advanced Physics Laboratory: Project
+PHYSICS171 - Thermodynamics, Kinetic Theory, and Statistical Mechanics II
+OR
+Senior Thesis + Course Option
+Complete a Senior thesis and at least 3 units in PHYSICS 205; see Honors section of
+program
+for Senior thesis requirements. To fulfill the Capstone requirement using this option, it is not necessary to meet the other requirements for Honors (e.g., GPA requirements). Thus, a student can complete the Capstone requirement with this option even if they are not graduating with Honors.
+Complete ALL of the following Courses:
+PHYSICS205 - Senior Thesis Research
+OR
+Research Project + Course Option
+Students carry out a physics-related research project, which can be pursued at Stanford or another institution during the summer quarter or the academic year. During their junior or senior year, the student submits a proposal describing the topic of their Capstone paper based on their research project and identifying their research advisor. The Director must approve the proposal for Undergraduate Studies. After this approval, the student writes a Capstone paper. This paper can be written for either
+course
+(WIM) or
+course
+. If the student chooses to write the paper in Physics 191, it will be written for one of the assignments in the style of a journal article (e.g., Physics Review Letters). If the student chooses instead to write the paper in Physics 192, then the student enrolls in that course with the official research advisor as the instructor.   If the project is carried out with an advisor at another institution, the student must identify an official advisor who is a faculty member in the Physics Department at Stanford to write their Capstone paper. If the project is carried out with a faculty member at Stanford who is not in the Physics department, then that advisor can serve as the instructor for Physics 192.
+Complete ANY of the following Courses:
+PHYSICS191 - Scientific Communication in Physics
+PHYSICS192 - Physics Capstone Paper
+Honors Program
+The School of Engineering offers a program leading to a Bachelor of Science in Engineering: Engineering Physics with Honors.
+Honors Criteria
+Minimum GPA of at least 3.5 in courses that count toward the major.
+Independent research conducted at an advanced level with a faculty research advisor and documented in an honors thesis. The honors candidate must identify a faculty member who will serve as their honors research advisor and a second reader who will also be asked to read the thesis and give feedback before endorsing it. One of the two must be a member of the Academic Council and the School of Engineering.
+Application:
+The application deadline is November 1 in autumn quarter of the senior year. The application documents should be submitted to the Student Services Officer. A subcommittee of the faculty advisors for Engineering Physics majors reviews applications. Applicants and thesis advisors receive written notification when the application is approved. An application consists of three items:
+A one-page description of the research topic
+The Honors Application form, which is available on the
+Engineering Physics
+page of the Undergraduate handbook. The Honors thesis advisor must sign the form.
+Unofficial Stanford transcript
+Requirements and Timeline for Honors in Engineering Physics:
+Declare the honors program in Axess (ENGR-BSH, Subplan: Engineering Physics)
+Download the
+application form
+Apply to the honors program by November 1 in autumn quarter of the senior year
+Maintain a GPA of at least 3.5 in courses that count toward the major
+Optional: Under the direction of the thesis advisor, students may enroll for research units in
+ENGR 199W
+Writing of Original Research for Engineers or in departmental courses such as
+AA 190
+Directed Research and Writing in Aero/Astro or
+ME 191H
+Honors Research
+Submit a completed thesis draft to the research advisor and second reader by April 15
+Present the thesis work in an oral presentation or poster session in an appropriate forum (e.g., an event that showcases undergraduate research and is organized by the Physics department, the department of the advisor, the school of the advisor, or the university)
+Incorporate feedback, which the advisor and second reader should provide by April 30, and obtain final endorsement signatures from the thesis advisor and second reader by May 15
+Submit a PDF of the thesis, including the signature page signed by both readers, to the student services officer by May 15; students are emailed instructions on archiving a permanent electronic copy in the Terman Engineering Library
+Sustainable Architecture and Engineering Subplan
+Completion requirement
+Subplan Overview
+General completion requirements:
+General information on the subplan is outlined on the
+Sustainable Architecture + Engineering dedicated page
+. This page outlines the degree requirements.
+Students must complete a minimum of 62 units required from Engineering Fundamentals, Core, Breadth Focus Options & Other Electives
+A course may only be counted toward one elective or core requirement; it may not be double-counted.
+All courses taken for the major must be taken for a letter grade if that option is offered by the instructor, and a grade of ‘C-‘ or better must be received.
+The minimum combined GPA for all courses in Engineering Fundamentals, Core, Breadth Focus Options & Other Electives is 2.0.
+Mathematics and Science (32 units minimum)
+Fulfill ALL of the following requirements:
+Required Math and Science Courses
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+CME100 - Vector Calculus for Engineers
+OR
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+CME106 - Introduction to Probability and Statistics for Engineers
+OR
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+PHYSICS41 - Mechanics
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+OR
+PHYSICS61 - Mechanics and Special Relativity
+PHYSICS43 - Electricity and Magnetism
+OR
+PHYSICS45 - Light and Heat
+Students may also use AP credit to fulfill this requirement. Please consult with the School of Engineering and see the Stanford External Test Credit Equivalency Charts for additional information.
+PHYSICS 41/41E is needed as a prerequisite for ENGR 14. If you want to take PHYSICS 21 instead, see SA+E major advisor before enrolling.
+AND
+Additional Math/Science Coursework
+Complete additional courses from the following to reach the 32-unit minimum of Math/Science coursework.
+Complete ANY of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+OR
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+ENGR108 - Introduction to Matrix Methods
+OR
+MATH104 - Applied Matrix Theory
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+CME107 - Introduction to Machine Learning
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+MATH52 - Integral Calculus of Several Variables
+Technology in Society
+Complete ALL of the following Courses:
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+Engineering Fundamentals (2 courses minimum)
+Fulfill ALL of the following requirements:
+Solid Mechanics
+Required Solid Mechanics course
+Complete ALL of the following Courses:
+ENGR14 - Intro to Solid Mechanics
+AND
+Engineering Fundamentals Elective
+Complete at least one course from the SoE pre-approved Engineering Fundamentals course list found at
+https://ughb.stanford.edu/courses/engineering-fundamentals
+.
+Core Requirements
+Fulfill ALL of the following requirements:
+Required Core Courses
+Complete ALL of the following Courses:
+CEE133A - Studio 1: Architecture - Space, Light, and Movement
+OR
+CEE33Q - Studio 1: Architecture - Space, Light, and Movement
+CEE133B - Studio 2: Architecture - Architectonics and Urbanism
+CEE133C - Studio 3: Integrated Architecture and Engineering
+CEE133F - Studio 6: Integrated Design Capstone
+CEE31B - Making and Modeling Fundamentals
+CEE33E - A Global History of Architecture and Engineering
+CEE100 - Managing Sustainable Building Projects
+CEE120A - Building Modeling for Design & Construction
+CEE134A - Sustainable Design Practice
+CEE176A - Energy Efficient Buildings
+AND
+Required Core Courses
+Complete at least 3 of the following Courses:
+CEE132A - SA+E Colloquium A
+CEE132B - SA+E Colloquium B
+CEE132C - SA+E Colloquium C
+132A, B, or C can be repeated to satisfy requirement.
+Focus Options
+Choose at least two courses each from two Focus areas. Courses taken for Core Requirements cannot be counted toward a Focus area. Some courses are offered in alternating years.
+Fulfill ANY of the following requirements:
+Building Performance & Energy
+Complete ANY of the following Courses:
+CEE131F - Building Envelope Design & Construction
+CEE156 - Building Systems Design & Analysis
+CEE161C - WindWise: CFD for civil engineers and architects
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE226E - Techniques and Methods for Decarbonized and Energy Efficient Building Design
+OR
+Studio/Design/Build
+Complete ANY of the following Courses:
+CEE133E - Studio 5: Integrated Design Capstone Predesign
+CEE132H - Responsive Structures
+CEE134F - Making Buckminster Fuller
+CEE139B - Graphic Design and Visual Communication
+ME103 - Product Realization: Design and Making
+OR
+Design History & Theory
+Complete ANY of the following Courses:
+CEE32B - Design Theory
+CEE32D - Construction: The Writing of Architecture
+CEE32G - Architecture Since 1900
+CEE32R - American Architecture
+CEE33B - Japanese Modern Architecture
+CEE33H - Critical Analysis of Architecture
+CEE134E - Architectural Theory of the American City
+OR
+Structures and Construction
+Complete ANY of the following Courses:
+CEE101A - Mechanics of Materials
+CEE131F - Building Envelope Design & Construction
+CEE141A - Infrastructure Project Development
+CEE141B - Infrastructure Project Delivery
+CEE180 - Structural Analysis
+CEE182 - Structural Design
+CEE241 - Managing Fabrication and Construction
+OR
+Sustainable Cities
+Complete ANY of the following Courses:
+CEE33C - Housing Visions
+CEE131D - Urban Design Studio
+CEE131E - Team Urban Design Studio
+CEE134E - Architectural Theory of the American City
+CEE177L - Smart Cities & Communities: Sustainability Design Thinking
+CEE243 - Intro to Urban Sys Engrg
+Other Electives
+Students must take at least 62 units of Engineering Fundamentals, Core Requirements, Focus Options, and Other Electives to satisfy the degree program requirements and graduate.
+To reach a total of 62 units, students may choose from the following elective options:
+Additional electives may be selected from the Engineering Fundamentals and Focus areas above.  Note that a course may only be counted towards one core, focus, or elective requirement; it may not be double counted.
+Additional Elective courses (listed below)
+Up to 4 units of non-engineering Elective courses (listed below)
+Up to 4 units of CEE 199/199L (listed below)
+Courses counted toward other requirements cannot also be counted as electives.
+Fulfill ANY of the following requirements:
+Additional Engineering Elective Courses
+Complete ANY of the following Courses:
+CEE31C - Computation & Generative Design
+CEE32V - Architectural Design Lecture Series Course
+CEE101B - Mechanics of Fluids
+CEE101C - Geotechnical Engineering
+CEE101D - Computations in Civil and Environmental Engineering
+CEE120B - Advanced Building Modeling Workshop
+CEE120C - Parametric Design and Optimization
+CEE132E - SA+E Externship
+ME102 - Foundations of Product Realization
+ME103 - Product Realization: Design and Making
+ME127 - Design for Additive Manufacturing
+OR
+ME203 - Design and Manufacturing
+OR
+Non-Engineering Elective Courses
+The following additional non-engineering Elective courses may count up to 4 units:
+Complete ANY of the following Courses:
+ARTSTUDI140 - Drawing I
+ARTSTUDI145 - Painting I
+ARTSTUDI151A - Sculpture I
+ARTSTUDI153 - Ecology of Materials
+ARTSTUDI161 - Constructing Color
+ARTSTUDI165A - Intro to Art & Technology
+URBANST110 - Introduction to Urban Studies
+URBANST113 - Introduction to Urban Design: Contemporary Urban Design in Theory and Practice
+URBANST163 - Introduction to Land Use Policy and Planning
+Verify other related electives with your major advisor.
+OR
+CEE Research and Independent Project Courses
+May count up to 4 units of the following:
+Complete ANY of the following Courses:
+CEE199 - Undergraduate Research in Civil and Environmental Engineering
+CEE199L - Independent Project in Civil and Environmental Engineering
+Sustainable Architecture+Engineering Honors
+The Sustainable Architecture+Engineering Honors program offers eligible students the opportunity to engage in guided original research, or project design, over the course of an academic year. For interested students, the process and requirements are:
+The student must submit a letter applying for the Honors option endorsed by the student's major advisor and honors advisor and submitted to the student services office in CEE. Applications must be received in the fourth quarter prior to graduation. It is strongly suggested that students meet with their degree program advisor well in advance of submitting an application.
+The student must maintain a GPA of at least 3.5.
+The student must complete an honors thesis or project. The timing and deadlines are to be decided by the major or honors advisor. At least one member of the evaluation committee must be a member of the Academic Council in the School of Engineering.
+The student must present the work in an appropriate forum, e.g., in the same session as honors theses are presented in the department of the advisor. All honors programs require some public presentation of the thesis or project.

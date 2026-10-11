@@ -1,0 +1,161 @@
+GEOPH-BS - Geophysics (BS)
+Download as PDF
+Geophysics
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The undergraduate program in Geophysics exposes students to a broad spectrum of geophysics, including resource exploration, environmental geophysics, seismology, and tectonics. Students in the major obtain a solid foundation in mathematics, physics, and geology. They build upon that foundation with advanced coursework in geophysics to develop the in-depth knowledge they need to pursue advanced graduate study and professional careers in government or the private sector.
+A primary focus of the Geophysics major, both as a primary and secondary major, is the senior research project. Students work closely with a faculty mentor to complete an original research paper that can result in published literature. For students pursuing Geophysics as a secondary major, the department encourages a multidisciplinary approach involving applying broad knowledge to better understand the Earth and its future.
+Minimum Units in the Program
+62
+Minimum University Units
+180
+Collapse All
+Core Program Requirements
+Completion requirement
+Department Research Overview
+Complete ALL of the following Courses:
+GEOPHYS101 - Frontiers of Geophysical Research at Stanford
+An Introductory Course on Geophysical Observations
+Complete ANY of the following Courses:
+GEOPHYS110 - Introduction to the Foundations of Contemporary Geophysics
+OR
+GEOPHYS115 - Taking the Pulse of the Planet
+OR
+GEOPHYS190 - Near-Surface Geophysics: Imaging Groundwater Systems
+OR
+GEOPHYS130 - Introductory Seismology
+An Introductory Course on Geophysical Mecahnics and Dynamics
+Complete ANY of the following Courses:
+GEOPHYS120 - Geophysical Mechanics and Dynamics
+OR
+GEOPHYS128 - Modeling Earth
+OR
+GEOPHYS148 - Machine Learning and the Physical Sciences
+An Introductory Course on Geophysical Laboratory Methods
+Complete ANY of the following Courses:
+GEOPHYS162 - Laboratory Characterization of Properties of Rocks and Geomaterials
+OR
+GEOPHYS139 - Paleomagnetism
+OR
+PHYSICS104 - Introduction to Electronic Techniques for Physics Research Instrumentation
+Geophysics Research Requirement
+Complete 6 units of Geophysics 196.
+Complete ALL of the following Courses:
+GEOPHYS196 - Undergraduate Research in Geophysics
+Supporting Math and Computational Courses
+Fulfill ALL of the following requirements:
+Unnamed Rule
+Complete ANY of the following Courses:
+CME100 - Vector Calculus for Engineers
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+AND
+MATH52 - Integral Calculus of Several Variables
+AND
+Unnamed Rule
+Complete ALL of the following Courses:
+CME102 - Ordinary Differential Equations for Engineers
+OR
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+OR
+MATH131P - Partial Differential Equations
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+OR
+PHYSICS113 - Computational Physics
+OR
+GEOPHYS112 - Exploring Geosciences with MATLAB
+Supporting Science Courses
+Complete ALL of the following Courses:
+PHYSICS41 - Mechanics
+OR
+PHYSICS61 - Mechanics and Special Relativity
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS43 - Electricity and Magnetism
+OR
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+PHYSICS45 - Light and Heat
+OR
+PHYSICS71 - Quantum and Thermal Physics
+EPS1 - Introduction to Geology
+Electives
+Completion requirement
+Supporting Electives
+Fifteen units of geophysics-relevant upper-level electives from the list below.
+Earn at least 15 credits from the following:
+GEOPHYS104 - The Water Course
+GEOPHYS108 - Tectonics Field Trip
+GEOPHYS110 - Introduction to the Foundations of Contemporary Geophysics
+GEOPHYS112 - Exploring Geosciences with MATLAB
+GEOPHYS115 - Taking the Pulse of the Planet
+GEOPHYS119 - Planetary Surface Processes: Shaping the Landscape of the Solar System
+GEOPHYS120 - Geophysical Mechanics and Dynamics
+GEOPHYS124 - Introduction to Planetary Science
+GEOPHYS127 - Fundamentals of Atmospheric and Climate Dynamics
+GEOPHYS128 - Modeling Earth
+GEOPHYS130 - Introductory Seismology
+GEOPHYS133 - Physics of Ice
+GEOPHYS139 - Paleomagnetism
+GEOPHYS141 - Remote Sensing of the Oceans
+GEOPHYS162 - Laboratory Characterization of Properties of Rocks and Geomaterials
+GEOPHYS165 - Ice Penetrating Radar
+GEOPHYS181 - Fluids and Flow in the Earth: Computational Methods
+GEOPHYS190 - Near-Surface Geophysics: Imaging Groundwater Systems
+GEOPHYS205 - Stand up: Impactful Presentation and Public Speaking
+GEOPHYS214 - Tectonics Field Trip
+GEOPHYS234 - Tropical Atmosphere and Climate
+GEOPHYS236 - An Introduction to Quantitative X-ray Microanalysis
+GEOPHYS238 - Waves in Solids and Fluids
+GEOPHYS243 - Planetary Geophysics: Theory, Observational Techniques and Data Analysis
+GEOPHYS245 - Computational Earth System Analysis
+GEOPHYS256 - Experimental Earth and Planetary System Analysis
+GEOPHYS250 - Fiber Sensing for a Sustainable Planet
+GEOPHYS258J - Introduction to Radar Remote Sensing
+GEOPHYS260G - Imaging with Incomplete Information
+GEOPHYS262 - Rock Physics
+GEOPHYS265 - Imaging Radar and Applications
+GEOPHYS280 - 3-D Seismic Imaging
+GEOPHYS281 - Geophysical Inverse Problems
+GEOPHYS287 - Earthquake Seismology
+GEOPHYS288 - Crustal Deformation
+EPS3 - Earth and Planetary Processes and Mechanics
+EPS6 - Introduction to Data Science for Geoscience
+EPS101 - Earth Materials: Introduction to Mineralogy
+EPS102 - Introduction to Sedimentology and Stratigraphy
+EPS164 - Geochemical Thermodynamics
+ESS246B - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+ESS220 - Physical Hydrogeology
+ESS221 - Contaminant Hydrogeology and Reactive Transport
+ESS224 - Remote Sensing of Hydrology
+ESS246A - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+ESS363F - Geophysical Fluid Dynamics
+ENERGY141 - Seismic Reservoir Characterization
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+Complete ALL of the following Courses:
+GEOPHYS199 - Senior Seminar: Issues in Earth Sciences
+Capstone
+Completion requirement
+Unnamed Rule
+Complete ANY of the following Courses:
+GEOPHYS197 - Senior Thesis in Geophysics
+GEOPHYS198 - Honors Program
+Honors
+Completion requirement
+Geophysics Honors Program
+The department offers a program leading to a BS degree in Geophysics with honors. The honors program is open to students with a grade point average (GPA) of at least 3.5 in all courses required for the Geophysics major and a minimum of 3.0 in all university coursework. The guidelines are:
+Select a research project, either theoretical, field, or experimental, that has the approval of an advisor.
+Submit a proposal to the department, which decides on its suitability as an honors project. Qualified students intending to pursue honors are encouraged to apply to the program during winter quarter of their junior year.
+The advisor assigns course credit for the project within the framework of the
+course
+Honors Program.
+Whether a given independent study project merits an award of honors is made jointly by the department and the student’s advisor. This decision is based on the quality of the honors work and the student’s other work in Earth Sciences.
+The work done in the honors program cannot be used as a substitute for regularly required courses.
+Complete ALL of the following Courses:
+GEOPHYS198 - Honors Program

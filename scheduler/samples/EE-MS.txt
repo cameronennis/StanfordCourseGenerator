@@ -1,0 +1,254 @@
+EE-MS - Electrical Engineering (MS)
+Download as PDF
+Electrical Engineering
+Electrical Engineering
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Students with undergraduate degrees in electrical engineering, other branches of engineering, physics, mathematics, or related sciences are invited to apply for admission. Capable students without such undergraduate preparation may also be considered for admission. Students may hold either a BS or BA degree. Graduate study in electrical engineering requires that students be adequately prepared in circuits, digital systems, fields, lab work, mathematics, and physics. Students should typically be able to complete the master’s degree in five quarters; note that most courses are not offered during the Summer.
+In planning a course of study, it is the student’s responsibility, in consultation with an advisor, to determine whether the prerequisites for advanced courses have been met. Prerequisite courses ordinarily taken by undergraduates may be included as part of the graduate program of study. However, if the number of these is large, the proposed program may contain more than the minimum 45 units, and the time required to meet the degree requirements may be increased.
+The master’s degree program provides advanced preparation for professional practice or junior college-level teaching. Faculty are assigned as program advisors to guide course selection and exploration of academic opportunities and professional pathways. Each student, with the help of a program advisor, prepares an individual program and submits it to the Department for approval. The program proposal must be submitted to the Degree Progress Officer before the end of the first quarter of graduate study (second quarter for Honors Cooperative Program students); a final revised version is due at the beginning of the last quarter of study, before degree conferral. Detailed requirements and instructions are in the
+Electrical Engineering Department Graduate Handbook
+. All requirements for a master’s degree must be completed within three years after the student’s first term of enrollment in the master’s program (five years for Honors Cooperative Program students).
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Depth Requirement
+Complete 12 units from only one of the five (5) area lists. All depth courses must be 200-level and above. At least six units must be at the 300-level or above.
+Fulfill ALL of the following requirements:
+Depth Area 1: Circuits
+Complete at least 4 of the following Courses:
+EE207 - Neuromorphics: Brains in Silicon
+EE214A - Fundamentals of Analog Integrated Circuit Design
+EE214B - Advanced Integrated Circuit Design
+EE216 - Principles and Models of Semiconductor Devices
+EE233 - Analog Communications Design Laboratory
+EE251 - High-Frequency Circuit Design Laboratory
+EE253 - Power Electronics
+EE254 - Advanced Topics in Power Electronics
+EE256 - Board Level Design
+EE271 - Introduction to VLSI Systems
+EE272 - Design Projects in VLSI Systems I
+EE273 - Digital Systems Engineering
+EE303 - Autonomous Implantable Systems
+EE308 - Advanced Circuit Techniques
+EE309A - Semiconductor Memory Devices and Circuit Design
+EE314A - RF Integrated Circuit Design
+EE315 - Analog-Digital Interface Circuits
+EE356A - Resonant Converters
+EE356B - Magnetics Design in Power Electronics
+EE372 - Design Projects in VLSI Systems II
+AND
+Depth Area 2: Software and Hardware Systems
+Complete at least 4 of the following Courses:
+BMDS270 - Algorithmic Foundations for Artificial Intelligence in Healthcare
+CS221 - Artificial Intelligence: Principles and Techniques
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+CS236 - Deep Generative Models
+CS240 - Advanced Topics in Operating Systems
+CS243 - Program Analysis and Optimizations
+CS244 - Advanced Topics in Networking
+CS245 - Principles of Data-Intensive Systems
+CS246 - Mining Massive Data Sets
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+CS255 - Introduction to Cryptography
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CS348B - Computer Graphics: Image Synthesis Techniques
+CS348K - Visual Computing Systems
+CS354 - Topics in Intractability: Unfulfilled Algorithmic Fantasies
+CS357S - Formal Methods for Computer Systems
+EE217 - Understanding the Sensors in your Smartphone
+EE272 - Design Projects in VLSI Systems I
+EE273 - Digital Systems Engineering
+EE282 - Computer Systems Architecture
+EE284 - Introduction to Computer Networks
+EE284A - Introduction to Internet of Things
+EE285 - Embedded Systems Workshop
+EE292D - Machine Learning on Embedded Systems
+EE349 - Software Techniques for Emerging Hardware Platforms
+EE372 - Design Projects in VLSI Systems II
+EE382A - Parallel Processors Beyond Multicore Processing
+EE382C - Interconnection Networks
+ME218A - Smart Product Design Fundamentals
+ME218B - Smart Product Design Applications
+ME218C - Smart Product Design Practice
+AND
+Depth Area 3: Communications and Networking
+Complete at least 4 of the following Courses:
+CS244 - Advanced Topics in Networking
+EE247 - Introduction to Optical Fiber Communications
+EE274 - Data Compression: Theory and Applications
+EE276 - Information Theory
+EE279 - Introduction to Digital Communication
+EE284 - Introduction to Computer Networks
+EE284A - Introduction to Internet of Things
+EE348 - Advanced Optical Fiber Communications
+EE358 - Wireless System Design
+EE359 - Wireless Communications
+EE374 - Fundamentals of Blockchain Infrastructure
+EE376C - Universal Information Processing
+EE379 - Digital Communication
+EE379A - Data Transmission Design
+EE379B - Advanced Data Transmission Design
+EE392AA - Multi-User Data Transmission
+EE382C - Interconnection Networks
+EE384A - Internet Switching and Routing Protocols
+EE384S - Performance Engineering of Computer Systems & Networks
+EE387 - Algebraic Error Correcting Codes
+MS&E335 - Queueing and Scheduling in Processing Networks
+AND
+Depth Area 4: Physical Technology and Science
+Complete at least 4 of the following Courses:
+BIOE300B - Quantitative Physiology
+EE212 - Integrated Circuit Fabrication Processes
+EE216 - Principles and Models of Semiconductor Devices
+EE218 - Power Semiconductor Devices and Technology
+EE219 - 3D+ Imaging Sensors
+EE222 - Applied Quantum Mechanics I
+EE223 - Applied Quantum Mechanics II
+EE224 - Quantum Control and Engineering
+EE225 - Biochips and Medical Imaging
+EE234 - Photonics Laboratory
+EE235A - Analytical Methods in Biotechnology I
+EE236A - Modern Optics
+EE236B - Guided Waves
+EE236C - Lasers
+EE237 - Solar Energy Conversion
+EE238 - Introduction to Fourier Optics
+EE242 - Electromagnetic Waves
+EE247 - Introduction to Optical Fiber Communications
+EE258 - Introduction to Radar Remote Sensing
+EE259 - Principles of Sensing for Autonomy
+EE292L - Computational Electromagnetics
+EE293B - Fundamentals of Energy Processes
+EE303 - Autonomous Implantable Systems
+EE309A - Semiconductor Memory Devices and Circuit Design
+EE309B - Emerging Non-Volatile Memory Devices and Circuit Design
+EE311 - Advanced Integrated Circuits Technology
+EE312 - Integrated Circuit Fabrication Laboratory
+EE316 - Advanced VLSI Devices
+EE317 - Special Topics on Wide Bandgap Materials and Devices
+EE323 - Energy in Electronics
+EE329 - The Electronic Structure of Surfaces and Interfaces
+EE332 - Laser Dynamics
+EE336 - Nanophotonics
+EE340 - Quantum Photonics
+EE346 - Introduction to Nonlinear Optics
+EE347 - Optical Methods in Engineering Science
+EE348 - Advanced Optical Fiber Communications
+ENERGY201C - Energy storage and conversion systems: Solar Cells, Fuel Cells, Batteries
+ENGR240 - Introduction to Micro and Nano Electromechanical Systems
+ENGR241 - Advanced Micro and Nano Fabrication Laboratory
+MATSCI209 - Electronic and Optical Properties of Solids
+ME220 - Introduction to Sensors
+OPHT207 - Introduction to Electro-neural Interfaces
+RAD235 - Advanced Ultrasound Imaging
+BIOE 300B: This course can only be used as a 200-level course.
+AND
+Depth Area 5: Signal Processing, Control and Optimization
+Complete at least 4 of the following Courses:
+AA203 - Optimal and Learning-based Control
+AA212 - Advanced Feedback Control Design
+CEE272R - Engineering Future Electricity Systems
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+CS326 - Topics in Advanced Robotic Manipulation
+EE227 - Robot Perception
+EE258 - Introduction to Radar Remote Sensing
+EE259 - Principles of Sensing for Autonomy
+EE260A - Principles of Robot Autonomy I
+EE260B - Principles of Robot Autonomy II
+EE261 - The Fourier Transform and Its Applications
+EE263 - Matrix Methods: Singular Value Decomposition
+EE264 - Digital Signal Processing
+EE267 - Virtual Reality
+EE268 - The Engineering Economics of Electricity Markets
+EE269 - Signal Processing and Quantization for Machine Learning
+EE278 - Probability and Statistical Inference
+EE219 - 3D+ Imaging Sensors
+EE230 - Ice Penetrating Radar
+EE355 - Imaging Radar and Applications
+EE363 - Linear Dynamical Systems
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+EE367 - Computational Imaging
+EE368 - Digital Image Processing
+EE369A - Medical Imaging Systems I
+EE369B - Medical Imaging Systems II
+EE369C - Medical Image Reconstruction
+EE383 - Reinforcement Learning: Behaviors and Applications
+EE377 - Information Theory and Statistics
+EE378A - Statistical Signal Processing
+EE381 - Sensorimotor Learning for Embodied Agents
+EE469B - RF Pulse Design for Magnetic Resonance Imaging
+ENGR205 - Introduction to Control Design Techniques
+ENGR209A - Analysis and Control of Nonlinear Systems
+MS&E310 - Linear Programming
+MS&E311 - Optimization
+MS&E321 - Stochastic Systems
+MS&E322 - Stochastic Calculus and Control
+MUSIC422 - Perceptual Audio Coding
+OIT604 - Data, Learning, and Decision-Making
+PSYCH221 - Image Systems Engineering
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+All depth units must be letter graded.
+Breadth Requirements
+Completing nine additional units from any area list other than the chosen depth area
+All breadth units must be letter graded and at the 200-level or above
+If a course is listed in the chosen depth area, it cannot be used to count in the breadth area
+Technical Course Requirement
+Completion of 15 units of courses in engineering, natural sciences, mathematics, or statistics
+At least nine of the 15 units must be lecture courses at the 200-level or above
+EE courses must be 200-level or above
+A maximum of six units can be graduate-level independent study and/or 100-level courses; all units must be letter-graded
+All technical units must be letter-graded
+Independent study units may not be taken in place of the nine units of 200-level or above letter-graded lecture courses.
+Mathematics, natural sciences, or engineering courses are acceptable, provided they use quantitative or scientific methods to analyze, design, or optimize artificial or natural systems. Courses primarily addressing entrepreneurship, management, economics, collaboration, design philosophy, language, or public speaking are typically unacceptable. Consult with your advisor or the Degree Progress Officer before selecting courses in Economics, GSB, d.school, MS&E, Psychology, or other departments offering semi-technical or non-technical courses.
+Other Courses
+Completion of at least nine additional units. These units must be at the 100-level or above and letter-graded or CR/NC in EE or other departments relevant to the EE MS degree and at the graduate level.
+Suggested courses include:
+•      Depth/breadth courses
+•      Additional technical courses
+•      Independent study (e.g., EE 390, EE 391)
+•      Curricular Practical Training (e.g., EE 290A)
+•      Seminars
+•      Entrepreneurial or design courses
+Please note: Athletics courses do not count toward the 45 units. EFSLANG (English for Foreign Students) courses do not count toward the 45 units. If the university requires you to take any of these classes, they are additional units above the required 45 units.
+All units must be at the 100 level or higher. No courses numbered below the 100 level can count toward a graduate degree. Note: Athletics courses do not count toward the 45 units. EFSLANG (English for Foreign Students) courses do not count toward the 45 units. If the university requires you to take any of these classes, they are additional units above the required 45 units.
+All units must be at the 100 level or higher. No courses numbered below the 100 level can count toward a graduate degree.
+Master of Science with Distinction in Research
+Completion requirement
+Requirement Overview
+A graduate student enrolled in 8-10 units who wishes to pursue the MS in Electrical Engineering (EE) with distinction in research must first identify a faculty advisor who agrees to supervise and support the research work. The research advisor must be a member of the Academic Council and must hold an appointment in Electrical Engineering. The student and principal advisor must also identify another faculty member who need not be in the Department of Electrical Engineering to serve as a secondary advisor and reader for the research report. In addition, the student must complete the following requirements beyond those for the regular MS in EE degree:
+Research Experience – The program must include significant research experience at the level of a half-time commitment over the three academic quarters. In any given quarter, the half-time research commitment may be satisfied by:
+a.  50 percent appointment to a departmentally supported research assistantship
+b.  Six (6) units of independent study (EE 300 or EE 391)
+c.  A prorated combination of the two (such as a 25 percent research assistantship supplemented by three (3) units of independent
+study)
+d.  An equivalent research experience while fully supported on a Stanford-funded or externally funded fellowship. Students and research advisors must document the planned research experience before the quarter starts and its completion at the end. Note: Fellowship must provide full support at the 10-unit tuition level and allow the student to pursue degree-related research in addition to their full-time course enrollment. This research must be carried out under the direction of the primary or secondary advisor.
+Supervised Writing and Research – In addition to the research experience outlined in the previous requirement, students must enroll in at least three (3) units of independent research (EE 300 or EE 391) under the direction of their primary or secondary advisor. These units should be closely related to the research described in the first requirement but focused more on preparing the research report described in the next section. The writing and research units described in parts (1) and (2) may be counted toward the 45 units required for the degree.
+All independent study units (EE 300 or EE 391) must be taken for letter grades, and a GPA of 3.0 (B) or better must be maintained.
+Research Report – Students must complete a significant report describing their research and its conclusions. The research report represents work publishable in a journal or at a high-quality conference, although it is presumably longer and more expansive in scope than a typical conference paper. A copy of the research report must be submitted to the student services office in the department three weeks before the beginning of the examination period in the student’s final quarter. The primary and secondary advisors must approve the research report before the distinction-in-research designation can be conferred.
+Joint Degree Program: MS/MBA
+Completion requirement
+Overview and Admissions
+The
+Joint MS in Electrical Engineering /MBA Degree Program (EE/MBA)
+enables students to pursue simultaneously a Master of Business Administration at the Graduate School of Business (GSB) and a Master of Science in Electrical Engineering at the Stanford School of Engineering. Joint MS/MBA degree students will be interested in technology and leadership and want to become managers or entrepreneurs in technologically-inclined businesses. The Joint MS/MBA Degree Program requires an
+application
+to, and acceptance for admission by, the Electrical Engineering Department (EE) and the GSB. MS/MBA students typically apply to and gain approval for admission to both programs within the same year. However, it is possible for current EE (or MBA) students who previously did not apply for the joint degree option to apply for and pursue the Joint MS/MBA Degree Program. EE students in the second year and MBA students in the second year may not apply for the Joint MS/MBA Degree Program.
+Additional information on the MS in Electrical Engineering/MBA Joint Degree Program and its requirements is available on the
+Electrical Engineering Department’s website.

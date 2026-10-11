@@ -1,0 +1,337 @@
+SUSTSCI-MA - Sustainability Science and Practice (MA)
+Download as PDF
+Sustainability Science and Practice
+Sustainability Sci & Practice
+MA - Master of Arts
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Sustainability Science and Practice program (SUST) is an interdisciplinary coterminal master’s program hosted by the Stanford Doerr School of Sustainability. The program prepares leaders to radically accelerate the transition to a sustainable and just society. As the global human population climbs toward 10 billion, consumption demands increase, and disparities in wealth and opportunity persist, humanity must learn to equitably meet existing needs in ways that do not forgo possibilities for future generations. Sustainability challenges are marked by extreme complexity, urgency, conflicting demands, and often a lack of resources or political will to address them. Transforming these challenges into powerful opportunities requires a new type of leader who can envision a prosperous future for all and design practices and cultivate partnerships essential to building that future. The SUST program equips students with the theoretical and conceptual knowledge, mindsets, and practical skills needed to advance sustainability, securing human well-being worldwide and across generations.
+Given the inherent interdisciplinary nature of sustainability challenges, SUST draws on diverse disciplines and pedagogical methods to prepare students as sustainability leaders. The curriculum encompasses and integrates: a) natural sciences, social sciences, and arts; b) theory and practice; and c) quantitative and qualitative methods. Through this integration, the program prepares students with a technical understanding of planetary functions, human-environment interactions, and global change, as well as the capacity to strategize and lead change in support of human and planetary well-being.
+Courses in the natural sciences enable students to understand Earth and the planetary changes occurring, while courses in the social sciences and arts develop students’ understanding of the social, economic, and policy factors that influence human capacity to drive transformative change. Theoretical frameworks prepare students to analyze complex social-environmental systems and conceptualize the nature of human-environment interactions. To learn how sustainability works (or does not work) in practice, students examine case studies, hear from expert practitioners, and apply tools and frameworks to real-world projects. Students learn quantitative methods to evaluate the status of social-ecological systems, monitor changes and impacts happening within them, track progress toward sustainability goals, and inform policy or intervention decisions with evidence. They learn qualitative methods to prepare them to understand human behavior, decision-making processes, cultural context, the values of diverse interest-holders, and system dynamics that cannot be fully captured with quantitative data. Together these approaches develop students’ identity, agency, capabilities and perspectives as sustainability leaders.
+The SUST curriculum covers three main elements:
+Element 1: Understanding Complex Social-Environmental Systems
+Students develop a “systems perspective,” deepening their awareness of the dynamic and interrelated nature of social-environmental systems. They explore frameworks and tools to understand, measure, and map complex social-environmental systems and their interactions to recognize potential feedbacks, thresholds, and unintended consequences, as well as to identify leverage points and opportunities for interventions that advance sustainability.
+Element 2: Understanding Decision-Making and Developing Strategies for Change
+Students examine the roles of diverse actors influencing change in social-environmental systems and explore strategies to align decision-making and behavior with sustainability. They explore the mindsets and approaches of transformative leaders and examine effective strategies for advancing sustainability across sectors. Students develop decision-making skills in complex and uncertain contexts, use metrics and evaluation approaches aligned with sustainability goals, cultivate leadership orientations, and practice effective communications and storytelling approaches.
+Element 3: Designing Innovations with Impact at Scale
+Students develop an understanding of how to intervene in complex systems for transformative impact by exploring frameworks and tools from systems thinking, design thinking, social cognitive theory, behavioral economics, and partnership strategies. They develop practical skills to understand complexity, analyze root causes, and design high-leverage intervention pathways that realign systems with the goal of intergenerational well-being.
+Sustainability Leadership Practicum
+To integrate and internalize core lessons from the SUST curriculum, each student completes a 120-hour practicum project of their design, collaborating on a complex sustainability challenge with an outside partner and working through the constraints often faced by decision-makers and leaders. Students apply the curriculum’s leadership mindsets, knowledge, and skills to this practical experience and present their final analysis and reflections to faculty and peers.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+SUST Program Academic Policies
+The following are required of all MA students:
+A minimum of 45 units of coursework.
+At least 34 units of coursework must be at the 200 level or above.
+All coursework must be at the 100 level or above.
+At least 25 of the 45 units must be designated as “arts” units.
+All courses must be taken for a letter grade if a letter grade is offered.
+At least three elective courses must be taken for three or more units.
+A cumulative GPA of 3.4 or higher must be maintained throughout the program.
+A minimum GPA of 3.4 is required to graduate.
+SUST Core
+Complete ALL of the following Courses:
+SUST210 - Pursuing Sustainability: Managing Complex Social Environmental Systems
+SUST220 - Case Studies in Leading Change for Sustainability
+SUST240 - Sustainability Leadership Practicum
+SUST297 - Introduction to Systems Transformation
+Understanding Earth Systems: Social Interactions
+Complete ANY of the following Courses:
+EARTHSYS212 - Human Society and Environmental Change
+EBS223 - The Social Science of Sustainability
+Understanding Earth Systems: Biophysical Interactions Path 1 or Path 2
+Fulfill ANY of the following requirements:
+Path 1
+Complete ANY of the following Courses:
+EARTHSYS217 - Biology and Global Change
+SUST215 - Science for Sustainable Solutions
+Path 1
+is required for all students who have not completed EARTHSYS 10.
+OR
+Path 2
+Complete ANY of the following Courses:
+CEE262D - Introduction to Physical Oceanography
+CEE266A - Introduction to Hydrology
+CEE266B - Hydrologic Processes, Water Resources and Hazards
+ESS202 - Scientific Basis of Climate Change
+ESS223 - Biosphere-Atmosphere Interactions
+ESS233 - Mitigating Climate Change through Soil Management
+ESS246A - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+ESS246B - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+ESS251 - Biological Oceanography
+ESS267 - Climate Change & Extreme Weather
+OCEANS252 - Marine Chemistry
+Path 2:
+Students who have completed EARTHSYS 10 may take one of these biophysical science courses as an alternative to SUST 215 or EARTHSYS 217. The courses must be taken at the 200+ level. Some courses have prerequisites.
+Students who have
+not
+completed EARTHSYS 10: Introduction to Earth Systems must take a Path 1 course. Students who have completed EARTHSYS 10 may choose between Path 1 or Path 2.
+Decision Making and Behavior
+Complete at least 2 of the following Courses:
+CEE266G - Water Resources Systems Analysis
+DATASCI154 - Data Science for Social Impact
+EARTHSYS227 - Decision Science for Environmental Threats
+EARTHSYS295C - Study of the Commons, Commoning, and Cooperative Approaches to Self-Governance and Sustainability
+EBS220 - The Psychological Foundations of Climate Solutions
+EBS238 - Equitable Global Partnerships in Health and Beyond
+EBS240 - Becoming a Sustainability Leader
+EDUC312 - Relational Sociology
+ENERGY260 - Uncertainty Quantification in Data-Centric Simulations
+GEP215 - Modeling Human-Environment Systems
+GSBGEN367 - Problem Solving for Social Change
+LAW7508 - Problem Solving and Decision Making for Public Policy and Social Change
+MS&E252 - Foundations of Decision Analysis
+PSYCH215 - Mind, Culture, and Society
+PSYCH238 - Wise Interventions
+PSYCH265 - Social Psychology and Social Change
+PUBLPOL234 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+SOC260 - Formal Organizations
+Choose two. Courses must be taken for at least three units to fulfill this requirement.
+Design and Innovation
+Complete at least 2 of the following Courses:
+CEE207R - E^3: Extreme Energy Efficiency
+CHPR275 - Prevention Medicine and Entrepreneurship for Societal Health
+DESIGN231 - Graduate Design Research Techniques
+DESIGN245 - Redesigning Finance
+DESIGN255 - The Design of Data
+DESIGN259 - Inventing the Future
+DESIGN264 - Design for Health Equity
+DESIGN276 - Designing Organizational Culture
+DESIGN289 - Redress: Biomaterials and the Future of Fashion
+DESIGN368 - Leadership Lab
+EARTHSYS213 - Innovation for Climate and Sustainability
+ENERGY203 - Stanford Climate Ventures
+HISTORY344F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
+LAW809E - Policy Practicum: AI For Legal Help
+ME206A - Design for Extreme Affordability
+ME206B - Design for Extreme Affordability
+PSYCH249B - Topics in Neurodiversity: Design Thinking Approaches
+SUST234 - Integrative Design and Entrepreneurship for Sustainability
+Choose two. Courses must be taken for at least three units to fulfill this requirement. Design and Innovation course list is  subject to change quarterly.
+Elective Courses
+Fulfill ALL of the following requirements:
+Arts Designated Elective Courses (100%)
+These course units count 100% in the arts.
+Complete ANY of the following Courses:
+AFRICAAM207 - Emergent Thinking: Abolition and Climate Change
+ANTHRO224B - Environmental Justice and Anthropology
+BIOE273 - Biodesign for Digital Health
+BUSGEN100 - Triple Bottom Line: Managing Sustainable Value Creation
+BUSGEN143 - Finance, Corporations, and Society
+CEE251 - Negotiation
+CEE257 - Sustainable Finance and Investment Seminar
+CEE263G - Energy Policy in California and the West
+CEE265D - Water and Sanitation in Developing Countries
+CEE273B - The Business of Water
+CEE275D - Environmental Policy Analysis
+CEE276G - Sustainability Design Thinking
+CEE323A - Infrastructure Finance and Governance
+CEE330 - Racial Equity in Energy
+CEE330B - Quest for an Inclusive Clean Energy Economy
+CLASSICS293 - Archaeology and Environmental Aesthetics
+COMPLIT107 - Why is Climate Change Un-believable? Interdisciplinary Approaches to Environmental Action
+COMPLIT207B - Emergent Thinking: Abolition and Climate Change
+CSRE100 - Introduction to Comparative Studies in Race and Ethnicity
+CSRE161P - Entrepreneurship for Sustainability and Social Impact
+EARTHSYS119 - Just Transitions Policy Lab
+EARTHSYS194A - Environmental Justice Colloquium
+EARTHSYS196A - Environmental Justice and Human Rights Lab
+EARTHSYS225 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+EARTHSYS254 - Environmental Governance
+EARTHSYS277C - Science and Environmental Journalism
+EARTHSYS291 - Concepts in Environmental Communication
+EARTHSYS292 - Multimedia Environmental Communication
+EARTHSYS295C - Study of the Commons, Commoning, and Cooperative Approaches to Self-Governance and Sustainability
+EBS222 - Philanthropy for Sustainable Development
+EBS234 - Climate Displacement, Migration, and Mobility
+EBS236 - The Quest for Sustainable Community-Based Livelihoods
+EBS237 - Sustainable Human Behavior
+EBS238 - Equitable Global Partnerships in Health and Beyond
+EBS249 - Influencing Policy
+EBS306 - Global Social Change, Sustainable Development, and Education
+EBS325 - Foundations of Political Ecology
+ECON155 - Climate change and global inequality
+EDUC335 - Designing Research-Based Interventions to Solve Global Health Problems
+EDUC377B - Impact: Strategic Leadership of Social Ventures and Nonprofit Organizations
+ENERGY203A - Big Ideas & Open Opportunities in Climate-Tech Entrepreneurship
+ENGR248 - Principled Entrepreneurial Decisions
+ENVRES221 - New Frontiers and Opportunities in Sustainability
+ENVRES223 - Introduction to Environmental Justice: Race, Class, Gender and Place
+ENVRES260 - Implementing & Financing a Decarbonized Economy
+ESS166 - Will Technology Save the World?: Environmental Ethics and Techno-Optimism
+ESS306 - Earth System Perspectives II
+GEP229 - Economics for Sustainability
+GEP233 - Public Policy and Sustainability Challenges: Israel and the Middle East
+GEP382 - Public Policy for Climate Innovation
+GSBGEN315 - Strategic Communication
+GSBGEN515 - Essentials of Strategic Communication
+GSBGEN559 - The Technology, Politics, and Finance for Solving Global Warming
+GSBGEN565 - Political Communication: How Leaders Become Leaders
+GSBGEN581 - Philanthropy, Inclusivity and Leadership
+GSBGID305 - Climate Policy and Markets: Navigating Transition in a Divided Landscape
+HISTORY200B - Doing Environmental History: Water Justice
+HRP285 - Global Leaders and Innovators in Human and Planetary Health: Sustainable Societies Lab
+HUMRTS224 - Climate Displacement, Migration, and Mobility
+INTNLREL142 - Challenging the Status Quo: Innovation in the Public Sector
+LAW241X - Discussion (1L):  Rebuilding Civil Society from the Local to the National
+LAW808B - Policy Practicum:  Systems Thinking for Law and Public Policy
+LAW809T - Policy Practicum: Building A Sustainable, Transparent, and Humane Food System
+LAW809V - Policy Practicum:  Assessing Whether Fossil Fuel Companies Have Disseminated Disinformation
+LAW1047 - Business, Social Responsibility, and Human Rights
+LAW2504 - Environmental Law and Policy
+LAW2506 - Natural Resources Law and Policy
+LAW2513 - Climate: Politics, Finance, and Infrastructure
+LAW2519 - Water Law and Policy
+LAW7115 - Thinking in Systems
+MS&E175 - Innovation, Creativity, and Change
+MS&E180 - Organizations: Theory and Management
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+MS&E188 - Organizing for Good
+MS&E254 - The Ethical Analyst
+MS&E272 - Entrepreneurship without Borders
+MS&E280 - Organizational Behavior: Evidence in Action
+MS&E384 - Groups and Teams
+MS&E472 - Entrepreneurial Thought Leaders' Seminar
+PHIL278M - Introduction to Environmental Ethics
+PUBLPOL135 - Regional Politics and Decision Making in Silicon Valley and the Greater Bay Area
+PUBLPOL183 - Human and Planetary Health
+PUBLPOL224 - Social Entrepreneurship and Innovation Lab (SE Lab) - Human & Planetary Health
+PUBLPOL234 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+PUBLPOL306 - Writing and Rhetoric for Policy Audiences
+SOC256A - The Changing American City
+SUSTAIN120 - Leading Organizational Change for Sustainability
+SUSTAIN123 - Human and Planetary Health Action Labs: Turning Ideas Into Impact
+SUSTAIN132 - SUSTAINABLE SOCIETIES LAB: MODELS OF ISRAELI-ARAB COOPERATION & PATHWAYS TO PEACE
+SUSTAIN210 - Energy Equity Policy Lab
+SUSTAIN213 - Policy Practicum:  Assessing Whether Fossil Fuel Companies Have Disseminated Disinformation
+SUSTAIN221 - Blue Foods for Indonesia: A Human & Planetary Health Action Lab
+SUSTAIN231 - Imagining Adaptive Societies
+URBANST132 - Concepts and Analytic Skills for the Social Sector
+URBANST163 - Introduction to Land Use Policy and Planning
+URBANST164 - Sustainable Cities
+URBANST173 - The Urban Economy
+At least 25 of the student’s 45 units must be designated as “arts” units. 100% of the units for these courses are designated as "arts".
+Elective courses for the master’s program must be selected from the program’s pre-approved list.
+Students must take most (and ideally all) of their elective courses during their time in the SUST coterm.
+AND
+Sciences Designated Elective Courses (100%)
+These course units count 100% in the sciences.
+Complete ANY of the following Courses:
+BIO243H - Quantitative Methods for Marine Ecology and Conservation
+BIO245 - Behavioral Ecology
+CEE176A - Energy Efficient Buildings
+CEE177E - Water & the Environment: Current Challenges and Solutions
+CEE207A - Understand Energy
+CEE224A - Sustainable Development Studio
+CEE226 - Life Cycle Assessment for Complex Systems
+CEE226E - Techniques and Methods for Decarbonized and Energy Efficient Building Design
+CEE262D - Introduction to Physical Oceanography
+CEE262E - Rivers, Streams, and Canals
+CEE263S - Atmosphere/Energy Seminar
+CEE265I - Poverty, Infrastructure and Climate
+CEE266B - Hydrologic Processes, Water Resources and Hazards
+CEE266G - Water Resources Systems Analysis
+CEE272 - Coastal Contaminants
+CEE272R - Engineering Future Electricity Systems
+CEE272T - SmartGrids and Advanced Power Systems Seminar
+CEE276 - Introduction to Human Exposure Analysis
+CEE276B - 100% Clean, Renewable Energy and Storage for Everything
+CEE277F - Advanced Field Methods in Water, Health and Development
+CEE278A - Air Pollution Fundamentals
+CEE279D - Providing Safe Water for the Developing and Developed World
+CEE279E - Wastewater Treatment: From Disposal to Resource Recovery
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS183 - Adaptation
+EARTHSYS185 - Feeding Nine Billion
+EARTHSYS214 - Global Change and Emerging Infectious Disease
+EARTHSYS242 - Remote Sensing of Land
+EARTHSYS245 - Advanced Concepts in Geographic Information Science
+EARTHSYS280 - Agroecology
+EARTHSYS308 - Carbon Dioxide and Methane Removal, Utilization, and Sequestration
+EBS282 - Agent-based modeling
+EBS308 - Qualitative Inquiry: Theory and Practice of Qualitative Environmental Social Sciences
+EBS321 - Organizations and Sustainability
+ECON163 - Data Science for Social Impact
+ECON177 - Environmental Economics: Models, Data, and Policy Design
+EE293B - Fundamentals of Energy Processes
+ENERGY204 - Sustainable Energy for 9 Billion
+ENERGY205 - Hydrogen Economy
+ENERGY253 - Carbon Capture and Sequestration
+ENERGY263 - Sustainable Energy Decisions
+ENERGY285 - Sustainability of AI and Advanced Computing
+ENERGY291 - Optimization of Energy Systems
+EPS228 - Evolution of Terrestrial Ecosystems
+ESS202 - Scientific Basis of Climate Change
+ESS223 - Biosphere-Atmosphere Interactions
+ESS233 - Mitigating Climate Change through Soil Management
+ESS246A - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+ESS246B - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+ESS251 - Biological Oceanography
+ESS252 - Marine Chemistry
+ESS267 - Climate Change & Extreme Weather
+ESS305 - Earth System Perspectives I
+ESS333 - Counting Carbon for Climate Action
+GEOPHYS190 - Near-Surface Geophysics: Imaging Groundwater Systems
+GEP235 - Data Science for Environmental Business
+GEP349 - The Financial Economics of Climate and Sustainability
+MATSCI256 - Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution
+MS&E243 - Energy and Environmental Policy Analysis
+MS&E394 - Advanced Methods in Modeling for Climate and Energy Policy
+OCEANS225H - Environmental Change and Marine Biodiversity
+PHYSICS240 - Introduction to the Physics of Energy
+PHYSICS241 - Introduction to Nuclear Energy
+SOC226 - Introduction to Social Networks
+Elective courses for the master’s program must be selected from the program’s pre-approved list.
+AND
+Blended Arts and Sciences Elective Courses  (50% / 50%)
+These course units are designated 50% in the arts and 50% in the sciences.
+Complete ANY of the following Courses:
+BIO234 - Conservation Biology: A Latin American Perspective
+BIO279 - The Science & Practice of Valuing Nature for a Better World
+CEE173 - Urban Water
+CEE227 - Global Project Finance
+CEE243 - Intro to Urban Sys Engrg
+CEE265F - Environmental Governance and Climate Resilience
+CEE265H - Big Earth Hackathon Wildland Fire Challenge
+CEE273S - Electricity Economics
+CEE275A - California Coast: Science, Policy, and Law
+CEE277L - Smart Cities & Communities: Sustainability Design Thinking
+EARTHSYS206 - World Food Economy
+EARTHSYS209 - Rethinking Meat: An Introduction to Alternative Proteins
+EARTHSYS281 - Urban Agroecology
+EBS235 - Sustainability Changemakers: UK
+EBS291 - Renewable Energy Transition in Rural America, a Human & Planetary Health Action Lab
+EBS332 - Climate Tech for Rapid Decarbonization
+ECON118 - Development Economics
+EDUC324 - The New Ecology of Early Childhood: Real World Implications for Policy, Research, and Practice
+ENERGY277A - Engineering and Sustainable Development: Toolkit
+ENERGY277B - Engineering and Sustainable Development: Implementation
+ESS314 - Regenerative Coffee: Biochar, Climate, and Health, A Human and Planetary Health Action Lab
+GEP160 - Environmental Economic Theory
+LAW808D - Policy Practicum: Smoke: Wildfire Science and Policy Lab
+ME297 - Forecasting for Innovators: Exponential Technologies, Tools and Social Transformation
+MS&E494 - The Stanford Energy Seminar
+OCEANS273H - Marine Conservation Biology
+POLISCI141 - Political Economy of Development
+PUBLPOL353A - Science and Technology Policy
+SUSTAIN210M - Spatial Planning for Gigascale Renewables & Transmission
+SUSTAIN212 - Nature-Based Climate Solutions Policy Lab
+SUSTAIN370A - Scaling Sustainability Solutions: From Breakthrough to Planetary Scale
+SUSTAIN370B - Scaling Sustainability Solutions: Financing Sustainability Solutions
+At least 25 of the student’s 45 units must be designated as “arts” units. For each of these courses, 50% of the units are designated as “arts” and 50% are designated as "sciences".
+Elective courses for the master’s program must be selected from the program’s pre-approved list.
+SUST Program Policies for Elective Courses
+At least three elective courses for the master’s program must be taken for three or more units.
+Elective courses must be selected from the SUST program’s pre-approved list.
+Students who would like to take an elective course not on the program’s approved electives list may request approval for other elective courses via the program’s
+course petition
+process. Petitions must be submitted no later than Week 2 of the quarter in which the student wishes to take the course.
+Students must take most (and ideally all) of their elective courses during their time in the SUST coterm. At the program’s discretion, a limited number of elective units may be considered for transfer from the undergraduate career to the SUST graduate career.

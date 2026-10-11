@@ -1,0 +1,45 @@
+ENERGY-MIN - Energy Science and Engineering (Minor)
+Download as PDF
+Energy Science and Engineering
+Undergraduate Matriculated
+General
+Program Policies
+Program Overview
+The minor in Energy Science and Engineering enables a deeper understanding of energy fundamentals and applications to allow students to engage solutions to real-world energy applications and problems. The minor is intended to allow substantial work in Energy Science and Engineering.
+Minimum Units in the Program
+18
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+The minor in Energy Science and Engineering requires the following three courses plus three additional electives. Courses must be planned in consultation with an ESE advisor. Appropriate substitutions are allowed with the consent of the advisor.
+Core Course Requirements
+Complete ALL of the following Courses:
+ENERGY131 - Energy and the Environment
+ENERGY132 - Fundamentals of Renewable Energy Processes
+ENERGY133 - Economic and Policy Analysis for Sustainable Energy Decisions
+Electives
+Complete at least 3 of the following Courses:
+ENERGY110 - Engineering Economics
+ENERGY112 - Exploring Geosciences with MATLAB
+ENERGY121 - Fundamentals of Multiphase Flow
+ENERGY134 - Sustainable Energy for 9 Billion
+ENERGY140 - Mass and Energy Transport in Porous Media
+ENERGY141 - Seismic Reservoir Characterization
+ENERGY142 - Electrochemical Energy Conversion
+ENERGY153 - Carbon Capture and Sequestration
+ENERGY160 - Uncertainty Quantification in Data-Centric Simulations
+ENERGY167 - Engineering Appraisal and Economic Valuation of Energy Assets and Projects
+ENERGY175 - Well Test Analysis
+ENERGY176 - Electric System Planning with Emerging Generation Technologies and Large Load
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+ENERGY177B - Engineering and Sustainable Development: Implementation
+ENERGY185 - Sustainability of AI and Advanced Computing
+ENERGY191 - Optimization of Energy Systems
+ENERGY201A - Energy Systems Fundamentals
+ENERGY201B - Fundamentals of Energy Processes
+ENERGY201C - Energy storage and conversion systems: Solar Cells, Fuel Cells, Batteries
+ENERGY269 - Geothermal Reservoir Engineering
+EPS1 - Introduction to Geology
+EPS20 - The Geoscience of Environmental Justice

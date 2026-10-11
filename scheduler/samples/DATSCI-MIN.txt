@@ -1,0 +1,108 @@
+DATSCI-MIN - Data Science (Minor)
+Download as PDF
+Data Science
+Undergraduate Matriculated
+General
+Program Policies
+Program Overview
+The undergraduate minor in Data Science is designed to complement major degree programs primarily in the humanities and social sciences. Students with an undergraduate Data Science minor gain practical knowledge of statistical data analysis methods related to their field of interest. The minor:
+Equips students with exploratory and confirmatory data analysis tools, applied to diverse data types such as text, numbers, images, graphs, trees, and binary input.
+Strengthens research in related fields by teaching students how to correctly apply these techniques to convey their conclusions.
+(No previous programming or statistical background is assumed.)
+Learning Outcomes
+Students are expected to:
+Connect data to underlying phenomena and think critically about conclusions drawn from data analysis
+Be knowledgeable about programming abstractions so they can later design their own computational inferential procedures
+Minimum Units in the Program
+22
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Linear Algebra
+Complete ANY of the following Courses:
+ENGR108 - Introduction to Matrix Methods
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+MATH104 - Applied Matrix Theory
+Students who have taken CME 100 are recommended to take ENGR 108 to satisfy this requirement.
+Programming
+Complete ANY of the following Courses:
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+Probability
+Complete ANY of the following Courses:
+STATS117 - Introduction to Probability Theory
+OR
+CS109 - Introduction to Probability for Computer Scientists
+OR
+EE178 - Probabilistic Systems Analysis
+OR
+MS&E120 - Introduction to Probability
+STATS118 - Probability Theory for Statistical Inference
+OR
+MATH151 - Introduction to Probability Theory
+OR
+STATS116X - Theory of Probability (accelerated)
+Students who take STATS 117, CS 109, EE 178 , or MS&E 120 for their major or another minor are required to take STATS 118 or MATH 151 to satisfy this requirement.
+STATS 116X is only recommended for advanced undergraduate students with strong mathematical preparation, no prior background in probability, and preference for an accelerated pace.
+Statistics
+Complete ANY of the following Courses:
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+HUMBIO88 - Introduction to Statistics for the Health Sciences
+HUMBIO89 - Introduction to Health Sciences Statistics
+MS&E125 - Introduction to Applied Statistics
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS141 - Introduction to Statistics for Biology
+STATS191 - Introduction to Applied Statistics
+STATS200 - Introduction to Theoretical Statistics
+STATS200Q - Philosophical Foundations of Statistics
+STATS203 - Regression Models and Analysis of Variance
+Data Mining and Machine Learning
+Complete ANY of the following Courses:
+DATASCI112 - Principles of Data Science
+POLISCI150B - Machine Learning for Social Scientists
+STATS202 - Statistical Learning and Data Science
+STATS202F - Statistical Learning and Data Science [Flipped]
+STATS202V - Statistical Learning and Data Science [Virtual]
+Data Science Methodology
+Students must complete one course fulfilling Data Science methodology from a cognate field of interest. Suggested courses are included here. The Data Science Program must approve other courses via
+requirement inquiry form
+.
+Complete ANY of the following Courses:
+BIOMEDIN202 - An overview of Biomedical Data Science
+COMM177I - Investigative Watchdog Reporting
+CS224N - Natural Language Processing with Deep Learning
+CS224W - Machine Learning with Graphs
+CS246 - Mining Massive Data Sets
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+DATASCI154 - Data Science for Social Impact
+DATASCI156 - Thinking and Making with Data
+EARTHSYS141 - Remote Sensing of the Oceans
+EARTHSYS240 - Data Science for Geoscience
+ECON102B - Applied Econometrics
+ECON102C - Advanced Topics in Econometrics
+ECON137 - Decision Modeling and Information
+ECON151 - Tackling Big Questions Using Social Data Science
+ECON291 - Social and Economic Networks
+ENGLISH184E - Literary Text Mining
+ESS171 - Climate Models and Data
+ESS367 - AI for Biodiversity Science and Conservation
+GEOPHYS115 - Taking the Pulse of the Planet
+HUMBIO151R - Biology, Health and Big Data
+MS&E125 - Introduction to Applied Statistics
+MS&E135 - Networks
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E245A - Investment Science
+POLISCI150B - Machine Learning for Social Scientists
+POLISCI150C - Causal Inference for Social Science
+PUBLPOL185 - Data Science for Environmental Business
+SOC10 - Introduction to Computational Social Science
+SOC126 - Introduction to Social Networks
+SOC180A - Foundations of Social Research
+SOC180B - Introduction to Data Analysis
+SUSTAIN101C - Climate 101
+SYMSYS1 - Minds and Machines
+For any questions about program requirements, please reach out to the Student Services Specialist via
+datasciencemajor-inquiries@lists.stanford.edu
+.

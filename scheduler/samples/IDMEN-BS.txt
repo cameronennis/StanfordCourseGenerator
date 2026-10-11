@@ -1,0 +1,441 @@
+IDMEN-BS - Individually Designed Major in Engineering (BS)
+Download as PDF
+Engineering Dean
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Individually Designed Major in Engineering (IDMEN) provides another option for undergraduate students interested in a specific study area not covered by one of the numerous engineering programs offered as departmental majors or Engineering subplan majors. Each IDMEN curriculum is designed by the student in consultation with at least two faculty advisors. The primary academic advisor must be in the School of Engineering and a member of the Stanford Academic Council.
+Minimum Units in the Program
+90
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+School of Engineering Core
+Fulfill ALL of the following requirements:
+Mathematics and Statistics Courses
+Engineering students need a solid foundation in the calculus of continuous functions, linear algebra, differential equations, an introduction to discrete mathematics, and an understanding of statistics and probability theory. Students are encouraged to select courses on these topics.
+Fulfill ALL of the following requirements:
+Calculus
+MATH 19/20/21 (or equivalent with placement via SU exam) are required and prerequisite to the CME 100/102 and MATH 50/53 series.
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+*Up to 10 units of AP credit (with placement into MATH 51/CME 100) may be used as long as at least 20 math units are taken. SoE Dean’s Office (in 135 Huang) must approve AP credit.
+AND
+Math Electives
+Complete additional courses from the following to reach the 21-unit minimum of Math coursework.
+Complete ANY of the following Courses:
+CEE101D - Computations in Civil and Environmental Engineering
+CEE203 - Probabilistic Models in Civil and Environmental Engineering
+CME100 - Vector Calculus for Engineers
+CME102 - Ordinary Differential Equations for Engineers
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+CME106 - Introduction to Probability and Statistics for Engineers
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+CME192 - MATLAB for Scientific Computing and Engineering
+CS103 - Mathematical Foundations of Computing
+CS109 - Introduction to Probability for Computer Scientists
+EE178 - Probabilistic Systems Analysis
+ENGR108 - Introduction to Matrix Methods
+ENGR62 - Introduction to Optimization
+OR
+ENGR62X - Introduction to Optimization (Accelerated)
+MATH104 - Applied Matrix Theory
+MATH106 - Functions of a Complex Variable
+MATH109 - Groups and Symmetry
+MATH110 - Number Theory for Cryptography
+MATH113 - Linear Algebra and Matrix Theory
+MATH115 - Functions of a Real Variable
+MATH120 - Groups and Rings
+MATH121 - Galois Theory
+MATH131P - Partial Differential Equations
+MATH151 - Introduction to Probability Theory
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+MATH52 - Integral Calculus of Several Variables
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+MATH61CM - Modern Mathematics: Continuous Methods
+MATH61DM - Modern Mathematics: Discrete Methods
+MATH62CM - Modern Mathematics: Continuous Methods
+MATH62DM - Modern Mathematics: Discrete Methods
+MATH63CM - Modern Mathematics: Continuous Methods
+MATH63DM - Modern Mathematics: Discrete Methods
+MS&E120 - Introduction to Probability
+MS&E121 - Introduction to Stochastic Modeling
+MS&E125 - Introduction to Applied Statistics
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS117 - Introduction to Probability Theory
+STATS60 - Introduction to Statistical Methods: Precalculus
+OR
+STATS160 - Introduction to Statistical Methods: Precalculus
+More advanced Mathematics courses may be substituted via approval of petition to deviate.
+AND
+Science Courses
+A strong background in the basic concepts and principles of natural science in such fields as physics, chemistry, geology, and biology is essential for engineering. Most students include the study of physics and chemistry in their programs. Only one social/behavioral sciences course, and one earth sciences course, may be used for the major and must be above the level of an intro course.  Both Physics 20 series courses may not be used if the corresponding course (mechanics, E&M) in the Physics 40 series is counted.
+Earn at least 17 credits from the following:
+BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
+BIO47 - Introduction to Research in Ecology and Evolutionary Biology
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO85 - Evolution
+BIO86 - Cell Biology
+BIO150 - Human Behavioral Biology
+CEE63 - Weather and Storms
+OR
+CEE70 - Environmental Science and Technology
+CHEM31A - Chemical Principles I
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+CHEM123 - Organic Polyfunctional Compounds
+EARTHSYS2 - Chemistry of the Earth and Planets
+EARTHSYS10 - Introduction to Earth Systems
+EARTHSYS11 - Introduction to Geology
+PHYSICS21 - Mechanics and Fluids
+PHYSICS22 - Mechanics, Fluids, and Heat Laboratory
+PHYSICS23 - Electricity, Magnetism, and Optics
+PHYSICS24 - Electricity, Magnetism, and Optics Laboratory
+PHYSICS25 - Modern Physics
+PHYSICS26 - Modern Physics Laboratory
+PHYSICS41 - Mechanics
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+OR
+PHYSICS42 - Classical Mechanics Laboratory
+PHYSICS43 - Electricity and Magnetism
+PHYSICS44 - Electricity and Magnetism Lab
+PHYSICS45 - Light and Heat
+PHYSICS46 - Light and Heat Laboratory
+PHYSICS61 - Mechanics and Special Relativity
+AND
+PHYSICS61L - Mechanics Laboratory
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+PHYSICS 22, 24, and 26 are Laboratory courses associated with PHYSICS 21, 23, and 25, and must be taken at the same time as, or following completion of the associated Lecture courses.
+That is:
+PHYSICS 22 should be taken in the same quarter or following completion of PHYSICS 21
+PHYSICS 24 should be taken in the same quarter or following completion of PHYSICS 23
+PHYSICS 26 should be taken in the same quarter or following completion of PHYSICS 25
+AND
+Technology in Society
+It is essential for the student to obtain a broad understanding of engineering as a social activity. To foster this aspect of intellectual and professional development, all engineering majors must take one course devoted to exploring issues arising from the interplay of engineering, technology, and society.
+Complete at least 1 of the following Courses:
+AA252 - Techniques of Failure Analysis
+ARCHLGY151 - Ten Things: An Archaeology of Design
+BIOE131 - Ethics in Bioengineering
+BIOE177 - Inventing the Future
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+CEE145E - Equitable Infrastructure Solutions
+CLASSICS168 - Engineering the Roman Empire
+COMM166 - Virtual People
+CS120 - Introduction to AI Safety
+CS121 - Equity and Governance for Artificial Intelligence
+CS139 - Human-Centered AI
+CS152 - Trust and Safety
+CS182 - Ethics, Public Policy, and Technological Change
+CS222 - AI Agents and Simulations
+CS256 - Algorithmic Fairness
+CS278 - Social Computing
+CS329X - Human Centered NLP
+DATASCI154 - Data Science for Social Impact
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+AND
+ENERGY177B - Engineering and Sustainable Development: Implementation
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+EPS194 - Technology, International Security, and Sustainability
+FEMGEN144 - Gendered Innovations in Science, Medicine, Engineering, and Environment
+FEMGEN147 - Feminism and Technology
+HUMBIO174 - Foundations of Bioethics
+MS&E179 - Entrepreneurship for Everyone
+NBIO101 - Social and Ethical Issues in the Neurosciences
+POLISCI114S - International Security in a Changing World
+PUBLPOL114 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+STS1 - Introduction to Science, Technology & Society
+STS115 - The Ethics of Developing Life-Saving Technologies for Children
+NBIO101 by application only; must take for 3 units and a letter grade.
+Course chosen must be on the list the year it is taken.
+ENERGY 177A+B must both be taken for 3 units each to count toward TiS requirement.
+AND
+Engineering Fundamentals
+The Engineering Fundamentals requirement is satisfied by a set of technically rigorous introductory courses from various engineering disciplines, as shown in the table below. These courses serve several purposes:
+They provide a breadth of knowledge about some of the major fields within engineering.
+They allow students to explore several engineering topics before starting a specific engineering major.
+The individual classes offer a reasonably deep insight into a contemporary technological subject for the interested non-engineer. Engineering  (and IDMEN) majors must complete at least two courses from the list below.
+Complete at least 2 of the following Courses:
+CS106A - Programming Methodology
+OR
+CS106AX - Programming Methodologies in JavaScript and Python (Accelerated)
+OR
+CS106B - Programming Abstractions
+CS106M - Enrichment Adventures in Programming Abstractions
+ENGR10 - Introduction to Engineering Analysis
+ENGR14 - Intro to Solid Mechanics
+ENGR15 - Dynamics
+ENGR20 - Introduction to Chemical Engineering
+ENGR21 - Engineering of Systems
+ENGR40M - An Intro to Making: What is EE
+OR
+ENGR40A - Introductory Electronics
+ENGR42 - Introduction to Electromagnetics and Its Applications
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+ENGR55 - Foundational Biology for Engineers
+ENGR60 - Engineering Economics and Sustainability
+ENGR62 - Introduction to Optimization
+OR
+ENGR62X - Introduction to Optimization (Accelerated)
+ENGR65 - Modern Physics for Engineers
+ENGR76 - Information Science and Engineering
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+ENGR90 - Environmental Science and Technology
+Students must receive a C- or better grade in each Engineering Fundamentals course.
+Only one course from each numbered series is allowed (for example, CS 106A or 106B, but not both).
+CS 106M is a 1-unit enrichment supplement for CS 106B. Students must be enrolled in CS 106B to enroll in CS 106M.
+ENGR 40M and 50M are offered via video at some BOSP overseas program locations and will count as fulfilling the requirement.
+Core Program Requirements
+Completion requirement
+Program Core
+Fulfill ANY of the following requirements:
+Engineering Depth
+Thirty-four units of engineering depth courses must be drawn from Engineering coursework accepted by other majors within the SoE at the core/depth level, including a capstone depth course with content relevant to proposed goals.
+Students must receive a C- or better grade in all engineering depth courses, maintaining an overall GPA of at least 2.5  in engineering courses.
+OR
+Additional Coursework
+Sufficient relevant additional coursework to bring the total number of units in the major to at least 90.
+Introductory Seminar courses (IntroSems), 1- or 2-unit survey/professional/personal interest courses (such as MS&E 475, ENGR 103, or ME 104B), ENGR 1 or 2, Student Initiated Courses (SIC), or Sophomore College (SC) courses may not be used to satisfy unit requirements in the IDMEN program.
+Students are responsible for completing the prerequisites for all courses included in their majors.
+Writing in the Major (WIM)
+Completion requirement
+WIM Course Options
+Students must take one course related to their focus area designated as a Writing in the Major course by the SoE department offering the course (the course must be certified as fulfilling WIM by the university).
+Fulfill ANY of the following requirements:
+Aeronautics and Astronautics
+Complete ANY of the following Courses:
+AA136A - Spacecraft Design
+AND
+AA136B - Spacecraft Design Laboratory
+AA146A - Aircraft Design
+AND
+AA146B - Aircraft Design Laboratory
+AA190 - Directed Research and Writing in Aero/Astro
+OR
+Architectural Design
+Complete at least 1 of the following Courses:
+CEE32D - Construction: The Writing of Architecture
+CEE100 - Managing Sustainable Building Projects
+OR
+Atmosphere and Energy
+Complete ALL of the following Courses:
+EARTHSYS191 - Concepts in Environmental Communication
+OR
+Bioengineering
+Complete ALL of the following Courses:
+BIOE131 - Ethics in Bioengineering
+OR
+Biomechanical Engineering
+Complete at least 1 of the following Courses:
+BIOE131 - Ethics in Bioengineering
+ENGR199W - Writing of Original Research for Engineers
+OR
+Biomedical Computation
+Complete at least 1 of the following Courses:
+BIOE212 - Introduction to Biomedical Informatics Research Methodology
+BIOE131 - Ethics in Bioengineering
+CS191W - Writing Intensive Senior Research Project
+ENGR199W - Writing of Original Research for Engineers
+NOTE: BIOE 212 is crosslisted with BIOMEDIN 212, CS 272, and GENE 212. Any of these offerings will count.
+OR
+Computer Science
+Complete at least 1 of the following Courses:
+CS181W - Computers, Ethics, and Public Policy (WIM)
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+CS191W - Writing Intensive Senior Research Project
+CS194W - Software Project (WIM)
+CS210B - Industry Innovation Lab
+OR
+Chemical Engineering
+Complete ALL of the following Courses:
+CHEMENG185A - Chemical Engineering Laboratory A
+OR
+Design/Product Design
+Complete at least 1 of the following Courses:
+DESIGN161A - Advanced Design: Open Build Capstone
+DESIGN161B - Advanced Design: Open Build Capstone
+DESIGN162A - Advanced Design: Partnered Build Capstone
+DESIGN162B - Advanced Design: Partnered Build Capstone
+OR
+Electrical Engineering
+Complete at least 1 of the following Courses:
+CS194W - Software Project (WIM)
+EE109 - Digital Systems Design Lab
+EE133 - Analog Communications Design Laboratory
+EE134 - Introduction to Photonics
+EE153 - Power Electronics
+EE168 - Introduction to Digital Image Processing
+EE191W - Special Studies and Reports in Electrical Engineering (WIM)
+EE264W - Digital Signal Processing (WIM)
+EE267W - Virtual Reality (WIM)
+OR
+Engineering Physics
+Complete at least 1 of the following Courses:
+AA190 - Directed Research and Writing in Aero/Astro
+BIOE131 - Ethics in Bioengineering
+CS181W - Computers, Ethics, and Public Policy (WIM)
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+EE134 - Introduction to Photonics
+EE153 - Power Electronics
+ENGR102W - Technical and Professional Communication
+ENGR199W - Writing of Original Research for Engineers
+MATSCI161 - Energy Materials Laboratory
+MATSCI164 - Electronic and Photonic Materials and Devices Laboratory
+PHYSICS191 - Scientific Communication in Physics
+OR
+Environmental Systems Engineering
+Complete at least 1 of the following Courses:
+BIOE131 - Ethics in Bioengineering
+CEE100 - Managing Sustainable Building Projects
+CEE102W - Technical and Professional Communication
+COMM120W - The Rise of Digital Culture
+EARTHSYS191 - Concepts in Environmental Communication
+OR
+Management Science and Engineering
+The WIM course for MS&E is the same as the capstone course, MS&E 108. This course is not available to IDMEN students because they lack the background to take this project course.
+OR
+Material Science and Engineering
+Complete at least 1 of the following Courses:
+MATSCI160 - Nanomaterials Design
+MATSCI161 - Energy Materials Laboratory
+MATSCI164 - Electronic and Photonic Materials and Devices Laboratory
+OR
+Mechanical Engineering
+Complete ALL of the following Courses:
+ME170A - Mechanical Engineering Design- Integrating Context with Engineering
+ME170B - Mechanical Engineering Design: Integrating Context with Engineering
+OR
+Sustainable Architecture and Engineering
+Complete at least 1 of the following Courses:
+CEE32D - Construction: The Writing of Architecture
+CEE100 - Managing Sustainable Building Projects
+Capstone
+Completion requirement
+Unnamed Rule
+At least one of the Engineering courses must be identified as a “capstone/senior project” course in an SoE major, with content and activities that are relevant to your proposed goals.
+Examples include:
+ME 216B+C [DESIGN 161A+B] are the capstone courses for the Design major
+CS 191, 194, etc., are the capstone options for CS.
+ENVSE has a list of 5-9 capstone offerings, depending upon the specialty area chosen.
+Your capstone should fit into your SoE topic focus; an Honors thesis or project may not be used for the capstone unless a detailed proposal and plan are approved at least a full year before graduation by the participating faculty member and the IDMEN Review Committee. Also, it is important to confirm that you will be allowed to enroll in your proposed capstone.  Since some departments reserve space in these courses for their own majors, you should not assume that you will be allowed to enroll.  Please check with the department hosting the course and the instructors teaching the course to be sure you’ll be allowed to enroll at the time you are planning to take this course.
+[NOTE for those with an MS&E-centric program: The MS&E capstone/WIM course (MS&E 108) is available only to declared MS&E majors, so you must find an alternative option from one of the other SoE programs.]
+Students should choose one option from one of the lists below.
+Please note that some options consist of one course, and others require two courses to complete. An Honors Thesis may also meet this requirement, with approval from advisors and the IDMEN committee.
+Fulfill ANY of the following requirements:
+AA Course Options
+Complete ANY of the following Courses:
+AA136A - Spacecraft Design
+AND
+AA136B - Spacecraft Design Laboratory
+AA146A - Aircraft Design
+AND
+AA146B - Aircraft Design Laboratory
+OR
+BIOE Course Options
+Complete ALL of the following Courses:
+BIOE141A - Senior Capstone Design I
+BIOE141B - Senior Capstone Design II
+OR
+CEE Course Options
+Complete ANY of the following Courses:
+CEE118Y - Shaping the Future of the Bay Area
+CEE118Z - Shaping the Future of the Bay Area
+CEE133F - Studio 6: Integrated Design Capstone
+CEE141A - Infrastructure Project Development
+AND
+CEE141B - Infrastructure Project Delivery
+CEE145E - Equitable Infrastructure Solutions
+CEE161I - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+CEE165H - Big Earth Hackathon Wildland Fire Challenge
+CEE176A - Energy Efficient Buildings
+AND
+CEE176B - 100% Clean, Renewable Energy and Storage for Everything
+CEE183 - Integrated Civil Engineering Design Project
+CEE199 - Undergraduate Research in Civil and Environmental Engineering
+CEE272 - Coastal Contaminants
+CEE274D - Pathogens and Disinfection
+OR
+CME Course Options
+Complete ALL of the following Courses:
+CME209 - Mathematical Modeling of Biological Systems
+OR
+CS Course Options
+Complete ANY of the following Courses:
+CS173A - Foundations of Computational Human Genomics
+CS191 - Senior Project
+OR
+CS191W - Writing Intensive Senior Research Project
+CS194 - Software Project
+OR
+CS194W - Software Project (WIM)
+CS194H - User Interface Design Project
+CS210B - Industry Innovation Lab
+CS270 - Modeling Biomedical Systems
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275 - Translational Bioinformatics
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+OR
+DESIGN Course Options
+Complete ANY of the following Courses:
+DESIGN161A - Advanced Design: Open Build Capstone
+AND
+DESIGN161B - Advanced Design: Open Build Capstone
+DESIGN162A - Advanced Design: Partnered Build Capstone
+AND
+DESIGN162B - Advanced Design: Partnered Build Capstone
+OR
+EE Course Options
+Complete ANY of the following Courses:
+EE191W - Special Studies and Reports in Electrical Engineering (WIM)
+EE264W - Digital Signal Processing (WIM)
+EE267W - Virtual Reality (WIM)
+OR
+ENGR Course Options
+Students wanting to count ENGR 199 or 199W must get approval from advisors and IDMEN committee.
+Complete ANY of the following Courses:
+ENGR199 - Special Studies in Engineering
+ENGR199W - Writing of Original Research for Engineers
+Applicable only for students approved for Honors and enrolled in applicable research.
+OR
+ME Course Options
+Complete ALL of the following Courses:
+ME170A - Mechanical Engineering Design- Integrating Context with Engineering
+ME170B - Mechanical Engineering Design: Integrating Context with Engineering
+OR
+MATSCI Course Options
+Complete at least 2 of the following Courses:
+MATSCI161 - Energy Materials Laboratory
+MATSCI163 - Mechanical Behavior Laboratory
+MATSCI165 - Nanoscale Materials Physics Computation Laboratory
+Students must receive a C- or better grade in the engineering capstone course(s).
+Honors
+Completion requirement
+Honors
+IDMEN majors with a solid academic record and enthusiasm for independent research in a significant project may pursue a Bachelor’s degree with Honors (IDMEN-BSH). This option is particularly valuable for students pursuing a PhD because the research experience helps prepare a student for doctoral-level work. The honors thesis, and any coursework associated with the honors degree, is above and beyond the scope of the major itself and can only be counted as a Capstone project if a detailed proposal and plan are approved at least a full year before graduation by the participating faculty member as well as the IDMEN Review Committee.
+The student must submit a letter applying for the Honors option endorsed by the student’s primary advisor and honors advisor; the letter should be submitted to the Office of Student Affairs in 135 Huang no later than mid-October of the senior year.
+The IDMEN honors advisor may require coursework beyond what is required for the BS without honors.
+The student must maintain a GPA of at least 3.5.
+The student must complete an honors thesis or project. The manner of evaluating the work will be set by the honors advisor and a second reader, one of whom must be a member of the Academic Council in the School of Engineering. The honors or program advisor will decide the deadline to submit the thesis or project, but it should be set by mid-May at latest.
+The student must present the work in an appropriate forum, e.g., in the same session as honors theses are presented in the advisor’s department.
+If the honors project will also serve as the capstone for the major, the project must be sent to the SoE Office of Student Affairs by end of May of the senior year for final evaluation by the IDMEN committee.
+The signature and title page of the approved thesis or project must be submitted to the Office of Student Affairs by the first week in June of the senior year.
+Further information is available from the Office of Student Affairs, Huang 135.

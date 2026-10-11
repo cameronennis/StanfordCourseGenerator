@@ -1,0 +1,137 @@
+ENERGY-BS - Energy Science and Engineering (BS)
+Download as PDF
+Energy Science and Engineering
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The four-year program leading to the BS degree provides a foundation for careers in many facets of the energy industry. The curriculum includes basic science and engineering courses that provide sufficient depth for a broad spectrum of energy, engineering, and environmental careers including sustainability.
+One of the program’s goals is to provide experience integrating the skills developed in individual courses to address a significant design problem. In the Senior Project and Seminar in Energy Science and Engineering, taken in the senior year, student teams identify and propose technical solutions for an energy-resource-related problem of current interest.
+The Energy Science and Engineering undergraduate curriculum is designed to prepare students for participation in the energy industry or for graduate studies while providing requisite skills to evolve as the energy landscape shifts over the next half-century. The program provides a background in mathematics, basic sciences, and engineering fundamentals such as mass and heat transfer in porous media ranging from batteries to geothermal resources. In addition, the curriculum is structured with a flexibility that allows students to explore energy topics of particular individual interest and to study abroad.
+Minimum Units in the Program
+100
+Minimum University Units
+180
+Collapse All
+STEM Requirement
+Completion requirement
+Required Coursework
+Fulfill ALL of the following requirements:
+Mathematics
+Fulfill ALL of the following requirements:
+Calculus
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+AND
+CME Series
+Complete ALL of the following Courses:
+CME100 - Vector Calculus for Engineers
+OR
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+CME102 - Ordinary Differential Equations for Engineers
+OR
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+OR
+MATH52 - Integral Calculus of Several Variables
+CME106 - Introduction to Probability and Statistics for Engineers
+OR
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+AND
+Science
+Fulfill ALL of the following requirements:
+Physics
+Complete ALL of the following Courses:
+PHYSICS41 - Mechanics
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+OR
+PHYSICS61 - Mechanics and Special Relativity
+PHYSICS43 - Electricity and Magnetism
+OR
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+PHYSICS45 - Light and Heat
+AND
+Chemistry
+Complete at least 1 of the following Courses:
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM31A - Chemical Principles I
+AND
+CHEM31B - Chemical Principles II
+EPS2 - Chemistry of the Earth and Planets
+EPS2 is recommended. If
+course
+is selected, then
+course
+must also be completed to satisfy the requirement.
+AND
+Engineering Fundamentals
+Complete ALL of the following Courses:
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+ENGR14 - Intro to Solid Mechanics
+ME30 - Engineering Thermodynamics
+ME70 - Introductory Fluids Engineering
+OR
+CHEMENG120A - Fluid Mechanics
+Core Program Requirements
+Completion requirement
+Required Core
+Complete ALL of the following Courses:
+ENERGY131 - Energy and the Environment
+ENERGY132 - Fundamentals of Renewable Energy Processes
+ENERGY133 - Economic and Policy Analysis for Sustainable Energy Decisions
+ENERGY134 - Sustainable Energy for 9 Billion
+ENERGY140 - Mass and Energy Transport in Porous Media
+ENERGY142 - Electrochemical Energy Conversion
+ENERGY199 - Senior Project and Seminar in Energy Science and Engineering
+Depth in Discipline
+Completion requirement
+Earth and Energy Depth
+Complete at least five courses from the list below. Units must total at least 15 units. Appropriate substitutions are allowed with the consent of the advisor.
+Complete 5 or more course(s) and earn 15 or more credit(s) from the following:
+ENERGY107A - Understand Energy
+ENERGY110 - Engineering Economics
+ENERGY112 - Exploring Geosciences with MATLAB
+ENERGY121 - Fundamentals of Multiphase Flow
+ENERGY141 - Seismic Reservoir Characterization
+ENERGY153 - Carbon Capture and Sequestration
+ENERGY160 - Uncertainty Quantification in Data-Centric Simulations
+ENERGY167 - Engineering Appraisal and Economic Valuation of Energy Assets and Projects
+ENERGY175 - Well Test Analysis
+ENERGY176 - Electric System Planning with Emerging Generation Technologies and Large Load
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+ENERGY177B - Engineering and Sustainable Development: Implementation
+ENERGY185 - Sustainability of AI and Advanced Computing
+ENERGY191 - Optimization of Energy Systems
+ENERGY201A - Energy Systems Fundamentals
+ENERGY201B - Fundamentals of Energy Processes
+ENERGY201C - Energy storage and conversion systems: Solar Cells, Fuel Cells, Batteries
+ENERGY269 - Geothermal Reservoir Engineering
+EPS1 - Introduction to Geology
+EPS20 - The Geoscience of Environmental Justice
+Writing in the Major (WIM)
+Completion requirement
+WIM Requirement
+Complete ALL of the following Courses:
+ENERGY199 - Senior Project and Seminar in Energy Science and Engineering
+Capstone
+Completion requirement
+Capstone Requirement
+Complete ALL of the following Courses:
+ENERGY199 - Senior Project and Seminar in Energy Science and Engineering
+Honors
+Completion requirement
+Honors Requirements
+The Energy Science and Engineering program leading to the Bachelor of Science with Honors provides an opportunity for independent study and research on a topic of particular interest. It culminates in a written report and oral presentation.
+The honors program is open to students with a grade point average (GPA) of at least 3.5 in all courses required for the Energy Science and Engineering major and a minimum of 3.0 in all university coursework. Qualified students intending to pursue honors must submit an Honors Program Application to the undergraduate program director no later than the eighth week of their ninth quarter. Students are encouraged to apply to the program during winter quarter of their junior year. The application includes a short form, an unofficial transcript, and a two to three-page research proposal prepared by the student and endorsed by a faculty member who serves as the research advisor.
+Upon approval, students enroll in the honors program via Axess. Students must enroll in a total of nine units of
+course
+Undergraduate Research Problems; these units may be spread out over the senior year and may include previous enrollment units for the same research project. Research undertaken for the honors program cannot be used as a substitute for regularly required courses. A formal written report must be submitted to the student’s research advisor no later than the fourth week of the student’s final quarter, and the report must be read, approved, and signed by the student’s faculty advisor and a second member of the faculty. Each honors candidate must present their research results orally.
+Earn at least 9 credits from the following:
+ENERGY193 - Undergraduate Research Problems

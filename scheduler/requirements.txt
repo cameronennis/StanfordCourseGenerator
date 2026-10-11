@@ -1,0 +1,9 @@
+streamlit>=1.38
+ortools>=9.10
+pdfplumber>=0.11
+explorecourses>=1.0.6
+# Optional: only needed for the "Small changes (describe them in plain
+# English)" feature in app.py (engine/nl_change.py). The rest of the app
+# works fine without it -- that one feature just reports a clear error
+# instead of a schedule-breaking crash if it's missing.
+anthropic>=0.40

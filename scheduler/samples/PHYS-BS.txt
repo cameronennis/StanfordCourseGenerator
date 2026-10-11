@@ -1,0 +1,207 @@
+PHYS-BS - Physics (BS)
+Download as PDF
+PhysicsUndergraduate MatriculatedBS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+
+The undergraduate program in Physics aims to provide students with a strong foundation in classical and modern physics.
+
+Minimum Units in the Program
+75
+Minimum University Units
+180
+Collapse All
+Core Program Requirements
+Completion requirement
+Degree Requirements Overview
+
+Each Physics major takes a set of required courses common to all pathways (Core Program Requirements and WIM), and an additional six courses in one of eight defined pathways or, in rare cases, an individually designed pathway (Depth in Discipline).
+
+Introductory Physics Courses (23 units)
+Complete ALL of the following Courses:
+PHYSICS41 - Mechanics
+OR PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+
+PHYSICS43 - Electricity and Magnetism
+
+PHYSICS61 - Mechanics and Special Relativity
+
+PHYSICS61L - Mechanics Laboratory
+
+PHYSICS71 - Quantum and Thermal Physics
+
+PHYSICS79L - Introduction to Data Analysis, with Python and Jupyter
+OR PHYSICS89L - Introduction to Data Analysis, with Python and Jupyter
+
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+
+PHYSICS81L - Introduction to Experimental Practice
+OR PHYSICS71L - Modern Physics Laboratory
+
+Note that some students may be able to place out of Physics 41 and/or 43 based on advice from the Physics Placement Diagnostic.
+
+Introductory Math Courses (18-19 units)
+Fulfill ALL of the following requirements:
+Complete Either the MATH 50 or 60CM Series
+Fulfill ANY of the following requirements:
+Math 50 Series
+Complete ALL of the following Courses:
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+
+MATH52 - Integral Calculus of Several Variables
+
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+
+OR
+Math 60CM Series
+Complete ALL of the following Courses:
+MATH61CM - Modern Mathematics: Continuous Methods
+
+MATH62CM - Modern Mathematics: Continuous Methods
+
+MATH63CM - Modern Mathematics: Continuous Methods
+
+AND
+Additional Math Course
+Complete at least 1 of the following Courses:
+MATH131P - Partial Differential Equations
+
+MATH173 - Theory of Partial Differential Equations
+
+MATH220A - Partial Differential Equations of Applied Mathematics
+
+PHYSICS111 - Partial Differential Equations of Mathematical Physics
+
+Intermediate Physics Courses (12 units)
+Complete ALL of the following Courses:
+PHYSICS120 - Electromagnetism
+
+PHYSICS130 - Quantum Mechanics I
+
+PHYSICS170 - Thermodynamics, Kinetic Theory, and Statistical Mechanics I
+
+Depth in Discipline
+Completion requirement
+Pathways Overview
+Students must select one of the pathways defined below and complete six courses for the selected pathway.
+
+CORE PATHWAY (23 units)
+Fulfill ALL of the following requirements:
+Core Pathway Required Courses
+Complete ALL of the following Courses:
+PHYSICS110 - Advanced Mechanics
+
+PHYSICS121 - Electrodynamics
+
+PHYSICS131 - Quantum Mechanics II
+
+PHYSICS171 - Thermodynamics, Kinetic Theory, and Statistical Mechanics II
+
+AND
+Practicum Course
+Complete at least 1 of the following Courses:
+PHYSICS100 - Introduction to Observational Astrophysics
+
+PHYSICS104 - Introduction to Electronic Techniques for Physics Research Instrumentation
+
+PHYSICS106 - Experimental Methods in Quantum Physics
+
+PHYSICS108 - Advanced Physics Laboratory: Project
+
+PHYSICS113 - Computational Physics
+
+PHYSICS166 - Statistical Methods in Experimental Physics
+
+AND
+Physics or Math Elective
+Complete at least 1 of the following Courses:
+CS109 - Introduction to Probability for Computer Scientists
+OR STATS117 - Introduction to Probability Theory
+OR STATS118 - Probability Theory for Statistical Inference
+
+EE261 - The Fourier Transform and Its Applications
+
+PHYSICS112 - Mathematical Methods for Physics
+
+ASTROPHYSICS PATHWAY (19 units)
+Fulfill ALL of the following requirements:
+Astrophysics Pathway Required Courses
+Complete ALL of the following Courses:
+PHYSICS100 - Introduction to Observational Astrophysics
+
+PHYSICS160 - Introduction to Stellar and Galactic Astrophysics
+
+PHYSICS161 - Introduction to Cosmology and Extragalactic Astrophysics
+
+AND
+Astrophysics Pathway Additional Courses 1
+Complete at least 1 of the following Courses:
+PHYSICS113 - Computational Physics
+
+PHYSICS166 - Statistical Methods in Experimental Physics
+
+STATS117 - Introduction to Probability Theory
+OR STATS118 - Probability Theory for Statistical Inference
+OR CS109 - Introduction to Probability for Computer Scientists
+
+AND
+Astrophysics Pathway Additional Courses 2
+Complete at least 2 of the following Courses:
+EPS219 - Formation and Dynamics of Planets
+
+PHYSICS110 - Advanced Mechanics
+
+PHYSICS121 - Electrodynamics
+
+PHYSICS131 - Quantum Mechanics II
+
+PHYSICS171 - Thermodynamics, Kinetic Theory, and Statistical Mechanics II
+
+PHYSICS262 - General Relativity
+
+Writing in the Major (WIM)
+Completion requirement
+WIM Requirement
+Complete ALL of the following Courses:
+PHYSICS191 - Scientific Communication in Physics
+
+Capstone
+Completion requirement
+Capstone Options
+
+Students must complete ONE of the following three options to fulfill the Capstone requirement for the Physics major.
+
+Fulfill ANY of the following requirements:
+1. Complete a Senior Thesis
+
+Earn at least 3 credits from the following:
+PHYSICS205 - Senior Thesis Research
+
+OR
+2. Complete a Research Project Plus a Capstone Paper
+
+Complete ANY of the following Courses:
+PHYSICS191 - Scientific Communication in Physics
+
+PHYSICS192 - Physics Capstone Paper
+
+OR
+3. Course Option
+Complete at least 1 of the following Courses:
+PHYSICS100 - Introduction to Observational Astrophysics
+
+PHYSICS108 - Advanced Physics Laboratory: Project
+
+PHYSICS171 - Thermodynamics, Kinetic Theory, and Statistical Mechanics II
+
+Honors
+Completion requirement
+Honors Program
+
+Physics majors are granted a Bachelor of Science in Physics with Honors if they satisfy these three requirements beyond the general Physics major requirements.
+
+Earn at least 3 credits from the following:
+PHYSICS205 - Senior Thesis Research

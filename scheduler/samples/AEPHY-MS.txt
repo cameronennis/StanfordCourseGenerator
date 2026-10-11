@@ -1,0 +1,63 @@
+AEPHY-MS - Applied and Engineering Physics (MS)
+Download as PDF
+Applied Physics
+Applied Physics
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Regardless of undergraduate major, Stanford undergraduates interested in an MS degree at the intersection of applied physics and engineering may choose to apply for the coterminal Master of Science program in Applied and Engineering Physics. The program is designed to be completed in the fifth year at Stanford. Students with accelerated undergraduate programs may be able to complete their BS and coterminal MS in four years.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+One Laboratory or Methods Course - 3-4 Units
+Complete at least 1 of the following Courses:
+APPPHYS207 - Laboratory Electronics
+APPPHYS208 - Laboratory Electronics
+APPPHYS232 - Advanced Imaging Lab in Biophysics
+EE234 - Photonics Laboratory
+EE251 - High-Frequency Circuit Design Laboratory
+EE312 - Integrated Circuit Fabrication Laboratory
+MATSCI322 - Transmission Electron Microscopy Laboratory
+MATSCI331 - Computational Materials Science at the Atomic Scale
+Seminar
+Fulfill ANY of the following requirements:
+Complete three quarters of formal seminar courses.
+Complete at least 1 of the following Courses:
+APPPHYS470 - Condensed Matter Seminar
+APPPHYS483 - Optics and Electronics Seminar
+BIOPHYS250 - SEMINAR IN BIOPHYSICS
+EE380 - Colloquium on Computer Systems
+MATSCI230 - Materials Science Colloquium
+Other courses may count toward the Seminar requirements, but must be approved by the student's academic advisor.
+OR
+Complete APPPHYS 290 and a minimum of eight informal talks or formal research seminars.
+Complete ALL of the following Courses:
+APPPHYS290 - Directed Studies in Applied Physics
+The seminar requirement can be fulfilled by either;
+(i) taking one formal seminar course for credit each term, and/or
+(ii) enrolling in
+course
+and attending a minimum of eight informal talks or formal research seminars during each of the three terms; students enrolling in
+course
+must submit with their final MS program proposal a list of the eight talks/seminars with a paragraph describing the content, signed by their academic advisor
+Approved Technical Electives - 6-12 Units
+Complete a minimum of 6 units to reach the 45-unit minimum for the program.
+Approved subjects include APPPHYS, CS, CME, EE, ME, BIOE, MATSCI, PHYSICS courses, as well as those courses that are formally approved by the Applied Physics Graduate Studies Committee through petition.
+Breadth Courses
+Complete ALL of the following Courses:
+APPPHYS201 - Electrons and Photons
+APPPHYS203 - Atoms, Fields and Photons
+APPPHYS204 - Quantum Materials
+APPPHYS205 - Introduction to Biophysics
+All Breadth courses must be letter graded.
+Depth Courses
+Complete three Engineering Depth Courses for a total of nine units.
+At least one must be at the 300 level and the other courses must be at the 200 level or above to provide depth in one area. To be approved by the Applied Physics academic advisor.
+All Depth courses must be letter graded.

@@ -1,0 +1,204 @@
+DESIGN-MS - Design (MS)
+Download as PDF
+Hasso Plattner Institute of Design
+Design
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Welcome to Design!  The DESIGN-MS bulletin outlines 2026-2027 degree requirements for students pursuing the Master of Science degree (MS) from the
+School of Engineering
+.  The master's degree is only offered to active students admitted through
+Graduate Admissions
+.  The degree is administered by the
+Hasso Plattner Institute of Design at Stanford
+(The Stanford d.school).  100% completion of all degree requirements within this engineering program, along with meeting
+Graduate Academic Progress
+, can lead to the conferral of the Master of Science in Design (DESIGN-MS).
+Master of Science (MS) Design students (nicknamed Loftees) will develop a strong practice in human-centered design abilities, making, creativity, and applied project work in their chosen domain.  The first year foregrounds a structured design practice that pushes to stretch intellectually and grow their skills as makers across mediums.  Students will advance in focus through choosing one method and identify a domain focus.  A Method will allow students to gain a depth of practice in a select set of mediums.  The Domain area will allow exploring challenges in different disciplines where designers can have an impact, and where there are increasing academic and professional opportunities.
+The degree prepares students for further study in design, design careers in public or private sector institutions, entrepreneurial endeavors, and even careers that may not yet exist.
+Minimum Units in the Program
+51
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Project Based Design Work
+Project Based Design Work courses are taken early in your time with the program.  They focus on project-based learning experiences.
+Complete ALL of the following Courses:
+DESIGN301 - You Are Here: Foundations in Design
+DESIGN341 - Advanced Design Practicum
+DESIGN360R - Advanced Reflective Practice
+A) (DESIGN 301) and (DESIGN 341) are taken in the first quarter of graduate studies.
+B) (DESIGN 341) is taken in spring quarter of your first year of graduate studies.
+C) (DESIGN 231) is a prerequisite for (DESIGN 341).
+Human Factors in Design
+Human Factors will help you explore the differentiation of design from other making professions. Graduate Design Research Techniques will draw from the philosophy of Bob McKim to emphasize the centrality of "need" through hands-on, design research challenges.
+Complete ALL of the following Courses:
+DESIGN231 - Graduate Design Research Techniques
+A) (DESIGN 231) is taken in winter quarter of your first year of graduate studies.  It serves as a prerequisite to (DESIGN 341).
+Design Ethics
+These ethics-centric classes push you to wrestle with the ethical implications of your design work.
+Earn at least 3 credits from the following:
+BIOE313 - Neuromorphics: Brains in Silicon
+CS281 - Ethics of Artificial Intelligence
+DATASCI294D - The Data Science of Disinformation
+EARTHSYS279 - The Science & Practice of Valuing Nature for a Better World
+EDUC381 - Diversity and Equity Issues in Higher Education
+GENE220 - Introduction to Genetics, Ethics, and Society
+GSBGEN208 - Leading with Values
+LAW3009 - Health Law: Improving Public Health
+LAW7039 - Reproductive Rights and Justice
+MS&E289 - Ethics in Global Technology Design
+NBIO201 - Social and Ethical Issues in the Neurosciences
+PUBLPOL203F - Ethics of Truth in a Post-Truth World
+PUBLPOL222 - BioSecurity and Pandemic Resilience
+PUBLPOL234 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+A) (DATASCI 294D) is allowed but only if taken for a minimum of 3 units.
+Leadership
+You will work on design projects in a team-based setting over your time in the program.  Leadership challenges you to level-up from a participant to being an effective, thoughtful leader.
+Earn at least 3 credits from the following:
+CEE251 - Negotiation
+DESIGN235 - View from the Future:  Speaker Series with Industry Pioneers Designing the Future
+DESIGN273 - Negotiation by Design: Crafting Environmental Agreement
+DESIGN368 - Leadership Lab
+GSBGEN515 - Essentials of Strategic Communication
+GSBGID330 - Leading Environmental Sustainability by Design
+EDUC377G - Problem Solving for Social Change
+GSBGEN565 - Political Communication: How Leaders Become Leaders
+ME378 - Tell, Make, Engage: Action Stories for Entrepreneuring
+MS&E280 - Organizational Behavior: Evidence in Action
+OB377 - The Paths to Power
+SUST220 - Case Studies in Leading Change for Sustainability
+Visualization
+Visualization courses push you to represent information visually and spatially in your storytelling.
+Earn at least 3 credits from the following:
+COMM281 - Exploring Computational Journalism
+CS448B - Data Visualization
+DESIGN160 - Visual Expressions
+DESIGN236P - Print on Purpose
+DESIGN255 - The Design of Data
+DESIGN365 - Advanced Creative Studies
+MUSIC255 - Intermedia Workshop
+Applied Design
+For Applied Design, you may take any graduate level, project-based elective design course taught at the d.school in winter or spring of the 2026-2027 academic year with prior permission from your advisor.  Double-check your class selection with your advisor before enrolling. Lecture and panel-based classes do not qualify.
+Courses under three units can not be used for this requirement.  Most (but not all) d.school elective courses are appropriate for graduate students.  Your advisor can be a great resource to talk out your selection and for guidance.
+Earn at least 3 credits from the following:
+BIOE374B - Biodesign Innovation: Concept Development and Implementation
+ENGR231 - Transformative Design
+DESIGN242 - Wild Ways of Making
+DESIGN245 - Redesigning Finance
+DESIGN255 - The Design of Data
+DESIGN262 - Design for Healthy Behaviors
+DESIGN265 - Psychedelic Medicine by Design
+DESIGN266 - Healthcare Acceleration: Artificial Intelligence
+DESIGN268 - Designing for Democracy: Election Administration
+DESIGN273 - Negotiation by Design: Crafting Environmental Agreement
+DESIGN276 - Designing Organizational Culture
+DESIGN284 - Designing for Physical AI
+DESIGN287 - Design for Play
+DESIGN294 - Design to Equip Learners in Under-Resourced Communities
+DESIGN315 - WHY NOW? Exploring your Work, Choices and Creativity (Designer in Society)
+DESIGN368 - Leadership Lab
+DESIGN399 - LaunchPad: Design and Launch your Product or Service
+Thesis
+For your thesis, you will scope and execute design work that integrates and draws upon what you have learned across your methods depth and domain focus area. You will take all three classes within the thesis sequence in their final year of graduate studies.
+Complete ALL of the following Courses:
+DESIGN361A - MS Design Thesis 1
+DESIGN361B - MS Design Thesis 2
+DESIGN361C - MS Design Thesis 3
+Depth in Discipline
+Prerequisite
+Methods Focus Area
+Fulfill ANY of the following requirements:
+Physical Form + Manufacturing
+Fulfill ALL of the following requirements:
+One Course
+Complete ALL of the following Courses:
+ME203 - Design and Manufacturing
+A) (ME 203) must be taken in year one of graduate study.
+B) It is recommended to take this class early, if space/enrollment allows, should it help you decide if Physical Making will be your Methods Depth.
+AND
+Two Additional Courses
+Complete at least 2 of the following Courses:
+ENGR240 - Introduction to Micro and Nano Electromechanical Systems
+ME210 - Introduction to Mechatronics
+ME219 - The Magic of Materials and Manufacturing
+ME263 - The Chair
+ME318 - Computer-Aided Product Creation
+ME324 - Precision Engineering
+ME325 - Making Multiples: Injection Molding
+ME303 - Soft Composites and Soft Robotics
+A) (ME 219), (ME 318), (ME 324), and (ME 325) are courses in high demand with limited capacity.  Admission isn’t guaranteed and students should plan to be flexible and have backup options.
+B) Note: Some of these classes may not be offered in a given academic year.
+OR
+Emerging Technologies + Digital User Experience
+Fulfill ALL of the following requirements:
+One Course
+Complete at least 1 of the following Courses:
+CS106A - Programming Methodology
+CS106B - Programming Abstractions
+A) (CS 106A), (CS 106B), or higher level CS class (by advisor’s permission) must be taken in year one of graduate study.
+AND
+Two Additional Courses
+Complete at least 2 of the following Courses:
+BIOMEDIN220 - Artificial Intelligence in Healthcare
+COMM254 - The Politics of Algorithms
+COMM272 - Media Psychology
+CS129 - Applied Machine Learning
+CS131 - Computer Vision: Foundations and Applications
+CS223A - Introduction to Robotics
+CS247A - Design for Artificial Intelligence
+CS278 - Social Computing
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CS372 - Artificial General Intelligence for Reasoning, Planning, and Decision Making
+CS377Q - Designing for Accessibility
+CS476A - Music, Computing, Design: The Art of Design
+CS259Q - Quantum Computing
+MUSIC356 - Music and AI
+OR
+Human Behavior + Multi-stakeholder Research
+Fulfill ALL of the following requirements:
+One Course
+Complete at least 1 of the following Courses:
+COMM206 - Communication Research Methods
+PSYCH215 - Mind, Culture, and Society
+PSYCH238 - Wise Interventions
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS191 - Introduction to Applied Statistics
+This course should be taken in year one of graduate study.
+AND
+Two Additional Courses
+Complete at least 2 of the following Courses:
+ANTHRO298C - Digital Methods in Anthropology
+COMM224 - Truth, Trust, and Tech
+COMM266 - Virtual People
+COMM281 - Exploring Computational Journalism
+CS278 - Social Computing
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CS377U - Understanding Users
+EDUC450C - Qualitative Interviewing
+ESS227 - Decision Science for Environmental Threats
+FEMGEN344F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+PSYCH290 - Natural Language Processing in the Social Sciences
+SOC226 - Introduction to Social Networks
+A Methods Depth lets you take classes across the university to sharpen making skills, abilities, and gain professional fluency.  Units for each Method should range from 8-10 units.  Within each method you will take three classes with a focus on foundational understanding and application. You should decide on your Method depth no later than Winter quarter of your first year of graduate studies.  You must choose one of three Method Depths tracks listed below.
+[1] Physical Design + Manufacturing
+— Methods range from classes on materials and mechanisms (to understand what is possible with physical design) to manufacturing processes and supply chain logistics (to understand how physical design is implemented).
+[2] Emerging Technologies + Digital User Experience
+— Methods range from foundational programming methodologies and human-computer interaction classes to applied courses on digital prototyping, user experience design, and incorporating AI and data science.
+[3] Human Behavior + Multi-stakeholder Research
+— Methods span qualitative and quantitative approaches to better understand people – who we are, what we do, and why we do it.  Classes focus on communication, data science, and psychology to help understand how to design for the human experience.
+Fulfill ANY of the following requirements:
+Breadth in Discipline
+Completion requirement
+Domain Focus Area
+A Domain Focus Area is a unique opportunity for you to immerse in a field that you are curious about or motivated by.  You can apply their design abilities within a specific context, and emerge having a changed perspective. Domain courses give you a breadth and depth understanding of a context where design work might be applied.
+To fulfill a Domain, you will identify the name of your focus and pursue a rigorous course load that is pre-planned and coordinated with your faculty advisor.  Units are expected to be a minimum of 8 units, and all courses must have alignment with the scope of your Domain.
+Note
+:
+After your Domain is defined and all classes coordinated with your faculty advisor, the Design Student Services Officer will setup your My Academic Path (MAP) page to account for those classes in the Domain section.

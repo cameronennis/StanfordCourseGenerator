@@ -1,0 +1,75 @@
+STATS-MIN - Statistics (Minor)
+Download as PDF
+Statistics
+Undergraduate Matriculated
+General
+Program Policies
+Program Overview
+The undergraduate minor in Statistics is designed to complement major degree programs primarily in the social and natural sciences. Students with an undergraduate Statistics minor gain theoretical and practical training in statistical methods. The minor:
+equips students with foundational knowledge in probability and statistics
+teaches students to correctly choose and apply statistical methods
+Program Learning Outcomes
+Students are expected to be able to:
+Select the appropriate statistical methodology for the problem at hand
+Analyze statistical methodology regarding its appropriateness and limitations critically
+Present and interpret the result of statistical analyses
+Minimum Units in the Program
+20
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Qualifying Courses
+Complete ANY of the following Courses:
+ENGR108 - Introduction to Matrix Methods
+MATH52 - Integral Calculus of Several Variables
+MATH62CM - Modern Mathematics: Continuous Methods
+MATH63DM - Modern Mathematics: Discrete Methods
+MATH104 - Applied Matrix Theory
+Note that CME 102 is not a suitable course to use in place of MATH 52; if a student has taken CME 102, they need to take one of the alternative courses to satisfy the Qualifying Course requirement.
+MATH 52 can be double-counted between the statistics minor and a major or other minor.
+Theoretical Statistics Requirement
+Complete ANY of the following Courses:
+STATS118 - Probability Theory for Statistical Inference
+STATS200 - Introduction to Theoretical Statistics
+OR
+STATS200Q - Philosophical Foundations of Statistics
+Students who take STATS 118 for this Theoretical Statistics Requirement can count STATS 200 or STATS 200Q toward the Elective Course requirement below.
+If a student has taken MATH 151 or STATS 116X (as an Elective Course for the statistics minor or for any other program), they are required to take STATS 200 or STATS 200Q to fulfill the Theoretical Statistics Requirement.
+STATS 118 has a prerequisite of STATS 117, which can count as an Elective Course below. CS 109, EE 178, and MS&E 120 also satisfy the prerequisite for STATS 118, but these classes may NOT count toward the Elective Courses requirement for the minor.
+Applied Statistics Requirement
+Complete ANY of the following Courses:
+STATS191 - Introduction to Applied Statistics
+STATS203 - Regression Models and Analysis of Variance
+Elective Courses
+Students must take 3 elective courses for a total of at least 9 units. (Each course must be taken for a minimum of 3 units.) At least 2 courses must be Advanced Statistics Electives (STATS courses numbered 200 and above), and up to 1 course may be from the lists of Additional Elective Options.
+Fulfill ALL of the following requirements:
+Advanced Statistics Electives
+At least two electives (2 or 3 courses) must be STATS courses numbered 200 or higher.
+Complete at least 2 courses in the following Course Sets:
+Untitled Course Set
+Students who take STATS 118 for the Theoretical Statistics Requirement can count STATS 200 or STATS 200Q toward this Elective Course requirement.
+A list of recommended courses can be found on the
+program website
+.
+AND
+Additional Elective Options
+Students may fulfill up to one elective course (0 or 1 course) from this list of Additional Elective Options.
+Fulfill ANY of the following requirements:
+Unnamed Rule
+Complete at least 1 courses in the following Course Sets:
+Untitled Course Set
+OR
+Unnamed Rule
+Complete ANY of the following Courses:
+MATH151 - Introduction to Probability Theory
+STATS100 - Mathematics of Sports
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS116X - Theory of Probability (accelerated)
+STATS117 - Introduction to Probability Theory
+STATS141 - Introduction to Statistics for Biology
+If a student takes MATH 151 or STATS 116X, they are required to take STATS 200 or STATS 200Q to fulfill the Theoretical Statistics Requirement.
+For any questions about program requirements, please reach out to the Student Services Specialist via email:
+datasciencemajor-inquiries@lists.stanford.edu
+.

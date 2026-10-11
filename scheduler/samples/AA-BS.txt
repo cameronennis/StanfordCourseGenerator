@@ -1,0 +1,218 @@
+AA-BS - Aeronautics and Astronautics (BS)
+Download as PDF
+Aeronautics and AstronauticsUndergraduate MatriculatedBS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+
+The bachelor's degree in Aeronautics and Astronautics Engineering at Stanford University provides a rigorous education necessary for the design and development of aerospace systems.
+
+Minimum Units in the Program
+100
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+Mathematics
+
+Complete a total of 24 units from the courses listed below:
+
+Complete ALL of the following Courses:
+MATH19 - Calculus
+
+MATH20 - Calculus
+
+MATH21 - Calculus
+
+CME100 - Vector Calculus for Engineers
+OR MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+OR ENGR154 - Vector Calculus for Engineers
+
+CME102 - Ordinary Differential Equations for Engineers
+OR MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+OR ENGR155A - Ordinary Differential Equations for Engineers
+
+CME106 - Introduction to Probability and Statistics for Engineers
+OR CS109 - Introduction to Probability for Computer Scientists
+OR ENGR155C - Introduction to Probability and Statistics for Engineers
+OR STATS110 - Introduction to Statistics for Engineering and the Sciences
+OR STATS117 - Introduction to Probability Theory
+
+Additional Math Courses
+
+To reach the 24 unit minimum for math.
+
+Complete ANY of the following Courses:
+CEE101D - Computations in Civil and Environmental Engineering
+
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+OR MATH52 - Integral Calculus of Several Variables
+
+MATH104 - Applied Matrix Theory
+
+MATH113 - Linear Algebra and Matrix Theory
+
+Science
+
+Complete a total of 13 units from the courses listed below:
+
+Complete ALL of the following Courses:
+CHEM31E - Chemical Foundations and 21st Century Problems
+
+PHYSICS41 - Mechanics
+OR PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+
+PHYSICS43 - Electricity and Magnetism
+
+Additional Science Courses
+
+To reach the 13 unit minimum for science.
+
+Complete ANY of the following Courses:
+BIO81 - Introduction to Ecology
+
+BIO82 - Genetics
+
+CHEM31A - Chemical Principles I
+
+CHEM31B - Chemical Principles II
+
+Technology in Society (TiS)
+
+It is recommended that students take AA 252 toward their TiS requirement.
+
+Earn at least 3 credits from the following:
+AA252 - Techniques of Failure Analysis
+
+ARCHLGY151 - Ten Things: An Archaeology of Design
+
+BIOE131 - Ethics in Bioengineering
+
+CS181 - Computers, Ethics, and Public Policy
+OR CS182W - Ethics, Public Policy, and Technological Change (WIM)
+
+STS1 - Introduction to Science, Technology & Society
+
+Engineering Fundamentals
+
+Complete a total of 8 units from the courses listed below:
+
+Complete ALL of the following Courses:
+ENGR21 - Engineering of Systems
+
+CS106A - Programming Methodology
+OR CS106B - Programming Abstractions
+
+Additional Engineering Courses
+
+To reach the 8 units minimum for engineering fundamentals.
+
+Complete ANY of the following Courses:
+ENGR10 - Introduction to Engineering Analysis
+
+ENGR40M - An Intro to Making: What is EE
+
+Core Program Requirements
+Completion requirement
+Aero/Astro Core
+
+Complete a total of 34 units from the courses listed below.
+
+Students choose AA102: Applied Aerodynamics or AA179: Orbital and Attitude Mechanics depending on the capstone focus they select.
+
+Complete ALL of the following Courses:
+ENGR14 - Intro to Solid Mechanics
+
+ENGR15 - Dynamics
+
+ENGR105 - Feedback Control Design
+
+ME30 - Engineering Thermodynamics
+
+ME70 - Introductory Fluids Engineering
+
+AA100 - Introduction to Aeronautics and Astronautics
+
+AA103 - Air and Space Propulsion
+
+AA102 - Introduction to Applied Aerodynamics
+OR AA179 - Orbital and Attitude Mechanics
+
+AA151 - Lightweight Structures
+
+AA174A - Principles of Robot Autonomy I
+
+ME161 - Dynamic Systems, Vibrations and Control
+
+Electives
+Completion requirement
+Technical Electives
+
+Earn at least 9 credits from the courses listed below:
+
+Complete ANY of the following Courses:
+AA101 - High Speed Gasdynamics
+
+AA113 - Aerospace Computational Science
+
+AA124 - Introduction to Planetary Science
+
+AA174B - Principles of Robot Autonomy II
+OR CS237B - Principles of Robot Autonomy II
+OR EE260B - Principles of Robot Autonomy II
+
+AA179 - Orbital and Attitude Mechanics
+
+EE102A - Signals and Systems I
+
+Writing in the Major (WIM)
+Writing in the Major Requirement
+
+The courses listed below fulfill the WIM requirement. Students automatically satisfy the Writing in the Major (WIM) requirement by completing their capstone.
+
+Complete ANY of the following Courses:
+AA136A - Spacecraft Design
+
+AA136B - Spacecraft Design Laboratory
+
+AA146A - Aircraft Design
+
+AA190 - Directed Research and Writing in Aero/Astro
+
+Capstone
+Completion requirement
+Aero/Astro Capstone (9 units minimum)
+
+Select either the Spacecraft or Aircraft course sequence.
+
+Fulfill ANY of the following requirements:
+Spacecraft Sequence
+Complete ALL of the following Courses:
+AA131 - Space Flight
+
+AA136A - Spacecraft Design
+
+AA136B - Spacecraft Design Laboratory
+
+OR
+Aircraft Sequence
+Complete ALL of the following Courses:
+AA141 - Atmospheric Flight
+
+AA146A - Aircraft Design
+
+AA146B - Aircraft Design Laboratory
+
+Honors
+Completion requirement
+Honors Overview
+
+Under the direction of the thesis advisor, complete at least two to three quarters of research with a minimum of eight units of AA190 or AA199.
+
+Complete ANY of the following Courses:
+AA190 - Directed Research and Writing in Aero/Astro
+
+AA199 - Independent Study in Aero/Astro

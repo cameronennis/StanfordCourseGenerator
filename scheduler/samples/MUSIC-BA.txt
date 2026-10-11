@@ -1,0 +1,619 @@
+MUSIC-BA - Music (BA)
+Download as PDF
+Music
+Undergraduate Matriculated
+BA - Bachelor of Arts
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Department of Music at Stanford combines music-making with scholarly research in composition, conducting, performance, music history, ethnomusicology, music theory, cognitive science, intermedia, and computer-based technologies.
+Departmental activities serve a broad and diverse constituency on campus and in local communities, with abundant courses, concerts, performance opportunities, research projects, workshops, and lectures throughout the year. Ensembles from various world cultures are open to all students: orchestras, jazz and chamber ensembles, taiko, guzheng, steelpan, and several choral groups. Many of the faculty have affiliations with other departments, programs, and interdisciplinary centers, such as Computer Science, Electrical Engineering, Art and Art History, German Studies, Neuroscience, Symbolic Systems, Comparative Studies in Race and Ethnicity, and Islamic Studies. Alumni include faculty in universities and conservatories around the world, researchers in the technologies of music and acoustics, members of major orchestras, soloists, chamber musicians, sound artists, composers, and arrangers in contemporary, film, and game music.
+The Department of Music offers a Bachelor of Arts in Music. Students can pursue one of eleven possible subplans associated with the major. Eligible students may also be awarded a Bachelor of Arts with Honors. The department also offers a minor in music.
+Subplans (concentrations) are offered in eleven areas:
+Composition
+Conducting
+Music, Science, and Technology
+Musicology and Ethnomusicology
+Musicology/Ethnomusicology and Performance
+Performance in Keyboard Studies
+Performance in String Studies
+Performance in Vocal Studies
+Performance in Woodwind, Brass, and Percussion Studies
+Theory
+Self-designed concentration
+Minimum Units in the Program
+62
+Minimum University Units
+180
+Collapse All
+Core Program Requirements
+Completion requirement
+Degree Requirements
+The undergraduate music major is based on a course study that combines a breadth of musical experiences across multiple dimensions with depth in a chosen area, allowing students to develop an array of tools as part of their aesthetic and musical formation. Theory, performance, history, cultural contextualization, technology, and science contribute to a curricular foundation for all majors.
+Of the required 62 units, 42 comprise the shared foundation. You can devote the remaining 20 minimum required units to an area of focus, including Composition, Conducting, Performance, Music History, Ethnomusicology, Music Theory, MST (Music, Science, & Technology), or broadly based exploration. Mentorship under the guidance of a faculty advisor is an indispensable component of this 20-unit requirement.
+Lower Division Theory/Ear Training
+Take 6 courses for at least 12 units
+Earn at least 12 credits from the following:
+MUSIC21 - Introduction to Tonal Theory
+MUSIC22 - Intermediate Tonal Theory
+MUSIC23 - Advanced Tonal Theory
+MUSIC24A - Ear Training I
+MUSIC24B - Ear Training II
+MUSIC24C - Ear Training III
+MUSIC 21 - 23 should be completed no later than autumn quarter of the junior year.
+Lower Division History
+Complete ALL of the following Courses:
+MUSIC40 - Music History to 1600
+MUSIC41 - Music History 1600-1830
+MUSIC42 - Music History Since 1830
+Upper Division History & Analysis
+Fulfill ALL of the following requirements:
+Upper Division History & Analysis
+Complete at least 1 of the following Courses:
+MUSIC122A - Counterpoint
+MUSIC122B - Analysis of Tonal Music
+MUSIC122C - Introduction to Post-Tonal Analysis
+AND
+Upper Division Analysis Courses
+Complete at least 1 courses in the following Course Sets:
+Untitled Course Set
+Take 3 courses, one of each Analysis and History, plus one by choice
+Performance
+Earn at least 3 credits from the following:
+MUSIC126A - Thoroughbass Accompaniment
+MUSIC128 - Stanford Laptop Orchestra: Composition, Coding, and Performance
+MUSIC130B - Elementary Instrumental Conducting
+MUSIC130C - Elementary Choral Conducting
+MUSIC156 - "sic": Improvisation Collective
+MUSIC157 - Cardinal Calypso--Steelpan Ensemble
+MUSIC159 - Early Music Singers
+MUSIC160 - Stanford Symphony Orchestra
+MUSIC160A - Stanford Philharmonia
+MUSIC160B - Stanford New Ensemble
+MUSIC160C - Stanford Baroque Soloists
+MUSIC161A - Stanford Wind Symphony
+MUSIC161E - Stanford Afro-Latin Jazz Orchestra
+MUSIC161B - Jazz Orchestra
+MUSIC162 - Symphonic Chorus
+MUSIC163 - Memorial Church Choir
+MUSIC165 - Chamber Chorale
+MUSIC167 - University Singers
+MUSIC170 - Collaborative Piano
+MUSIC171 - Chamber Music
+MUSIC172A - Piano
+MUSIC172B - Organ
+MUSIC172C - Harpsichord
+MUSIC172D - Jazz Piano
+MUSIC173 - Voice
+MUSIC177 - Percussion
+MUSIC172F - Carillon
+MUSIC172G - Gu-Zheng
+MUSIC174A - Violin
+MUSIC174C - Violoncello
+MUSIC174B - Viola
+MUSIC174D - Contrabass
+MUSIC174G - Harp
+MUSIC175A - Flute
+MUSIC175B - Oboe
+MUSIC175C - Clarinet
+MUSIC175D - Bassoon
+MUSIC175F - Saxophone
+MUSIC175G - Baroque Flute
+MUSIC175H - Jazz Saxophone
+MUSIC176A - French Horn
+MUSIC176B - Trumpet
+MUSIC176C - Trombone
+MUSIC176D - Tuba
+MUSIC176E - Jazz Trumpet
+MUSIC177 - Percussion
+MUSIC177A - Drum Set Lessons
+MUSIC183A - German Art Song Interpretation
+MUSIC183B - French Art Song Interpretation
+MUSIC183C - Interpretation of Musical Theater Repertoire
+MUSIC183E - Singing for Musicals
+MUSIC184A - Editing and Performing Early Music
+MUSIC184B - Topics on the Musical Stage
+MUSIC184C - Dramatic Vocal Arts: Songs and Scenes Onstage
+MUSIC272A - Piano for Music Majors/Minors
+MUSIC272B - Organ for Music Majors/Minors
+MUSIC274B - Viola for Music Majors/Minors
+MUSIC272C - Harpsichord for Music Majors/Minors
+MUSIC272F - Carillon for Music Majors/Minors
+MUSIC272G - Gu-Zheng for Music Majors/Minors
+MUSIC273 - Voice for Music Majors/Minors
+MUSIC274A - Violin for Music Majors/Minors
+MUSIC274C - Violoncello for Music Majors/Minors
+MUSIC274D - Contrabass for Music Majors/Minors
+MUSIC274G - Advanced Harp
+MUSIC274I - Jazz Bass for Music Majors/Minors
+MUSIC274J - Jazz & Contemporary Guitar for Music Majors/Minors
+MUSIC275A - Flute for Music Majors/Minors
+MUSIC275B - Oboe for Music Majors/Minors
+MUSIC275C - Clarinet for Music Majors/Minors
+MUSIC275D - Bassoon for Music Majors/Minors
+MUSIC275F - Saxophone for Music Majors/Minors
+MUSIC275G - Baroque Flute for Music Majors/Minors
+MUSIC275H - Jazz Saxophone for Music Majors/Minors
+MUSIC276A - French Horn for Music Majors/Minors
+MUSIC276B - Trumpet for Music Majors/Minors
+MUSIC276C - Trombone for Music Majors/Minors
+MUSIC276D - Tuba for Music Majors/Minors
+MUSIC276E - Jazz Trumpet for Music Majors/Minors
+MUSIC277 - Percussion for Music Majors/Minors
+MUSIC277A - Drum Set for Music Majors/Minors
+Composition/MST/Orchestration
+Earn at least 3 credits from the following:
+MUSIC20C - Jazz Arranging and Composition
+MUSIC101 - Introduction to Creating Electronic Sounds
+MUSIC112 - Film Scoring
+MUSIC113 - Introduction to Instrumental Composition
+MUSIC120E - Advanced Jazz Improvisation
+MUSIC123A - Undergraduate Seminar in Composition: Rhythmic Design
+MUSIC123B - Undergraduate Seminar in Composition: Pitch Design
+MUSIC123C - Undergraduate Seminar in Composition: World Music
+MUSIC124A - Songwriters Workshop
+MUSIC124B - Songwriters Workshop
+MUSIC125 - First Individual Undergraduate Projects in Composition I
+MUSIC127A - Instrumentation and Orchestration
+MUSIC127B - Advanced Orchestration
+MUSIC127C - Band Arranging
+MUSIC128 - Stanford Laptop Orchestra: Composition, Coding, and Performance
+MUSIC155 - Intermedia Workshop
+MUSIC158 - Musical Acoustics
+MUSIC192A - Foundations of Sound-Recording Technology
+MUSIC192B - Advanced Sound Recording Technology
+MUSIC192C - Session Recording
+MUSIC192F - Sound Installation
+MUSIC220A - Fundamentals of Computer-Generated Sound
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+MUSIC220C - Research Seminar in Computer-Generated Music
+MUSIC220D - Research in Computer-Generated Music
+MUSIC223B - Sonic Experiments in Composition
+MUSIC250A - Physical Interaction Design for Music
+MUSIC250C - Interaction - Intermedia - Immersion
+MUSIC256A - Music, Computing, Design: The Art of Design
+Proficiency Exams
+Fulfill ALL of the following requirements:
+Piano Proficiency
+Majors must pass a piano proficiency examination as part of the music theory core (MUSIC 21 Elements of Music I, MUSIC 22 Elements of Music II, MUSIC 23 Elements of Music III). The examination is given in the first two weeks of MUSIC 21. Students who do not pass the piano proficiency examination are required to enroll in either MUSIC 12A Introductory Piano Class, MUSIC 12B Introductory Piano Class, or MUSIC 12C Introductory Piano Class concurrently with the music theory core until they can pass the examination. The examination consists of scales and arpeggios, the performance of a simple tune to be set by the examiner, sight-reading, and the performance of prepared pieces. Download additional information regarding the proficiency examination.
+AND
+Ear Training Exit Exam
+In conjunction with the music theory series, majors must pass an aural skills proficiency examination administered at the end of their junior year. This assesses the ability to transcribe, represent, and reproduce music vocally and on the keyboard, and must be passed before June of the senior year. The exam is scheduled once a year in spring quarter for a date and time in Braun Music Center, announced a few weeks ahead of time by the ear training advisor. Visit the Music website for additional information about ear training.
+Writing in the Major (WIM)
+Completion requirement
+WIM Course
+Upper Division History Courses (MUSIC 141 - 148) taken for at least four units satisfy the Writing In the Major (WIM) requirement).
+Earn at least 4 credits from the following:
+Untitled Course Set
+Capstone
+Completion requirement
+Capstone Experience
+All students will complete a capstone project experience. Most Students will enroll in MUSIC 198, project is determined by subplan field. All composition majors will enroll in MUSIC 198 A/B.
+Fulfill ANY of the following requirements:
+Non-Composition Majors
+Enroll for a minimum of two-three units.
+Complete ALL of the following Courses:
+MUSIC198 - Concentrations Project
+The nature of the capstone project could be research, creativity, or a hybrid of the two. The final format could be the text, presentation, technical demonstration, performance, or a combination.
+Instead of 198, the student could count units from
+MUSIC125
+,
+MUSIC199
+, and
+MUSIC220D
+.
+Recommend taking the 220 series by junior year, having the
+MUSIC220C
+project form the basis of the capstone project, and using senior year to refine, polish, document, and present the work.
+Beginning ideally in the junior year, the student should choose one or two advisors and plan regular meetings to develop a topic. It may be appropriate for the project to be co-advised by two faculty members, including one from outside the Department of Music, depending on expertise.
+The capstone units can be spread over two or three quarters.
+For students graduating in June, the completed project should be presented at least seven days before the grade submission deadline for graduating seniors.
+OR
+Composition Majors
+Enroll for a minimum of 1 unit each.
+Complete ALL of the following Courses:
+MUSIC198A - Capstone Project: Off Stage
+MUSIC198B - Capstone Project: On Stage
+In senior year, during the quarter immediately preceding the capstone concert, Composition concentration students should enroll in at least 1 unit of MUSIC 198A for preparation of the capstone.
+During the the same quarter as the capstone concert, Composition concentration students should enroll in 1 unit of MUSIC 198B .
+Although the capstone project often takes the shape of a senior recital, different outcomes are possible. The capstone project advisor, who must be a Stanford composition faculty member, must approve an abstract or outline of the project. Programmed works may have been created in the context of Stanford music courses or under the supervision of a faculty member. Other works can also be considered, conditional on the approval of the capstone project advisor.
+Honors
+Completion requirement
+Honors Overview
+The faculty awards honors in music to majors who have produced an independent project of exceptional quality through a concentration.  To receive honors, students must also have earned an overall GPA of 3.6 or higher and a GPA of 3.7 or higher in courses required for the Music major. Honors are conferred through faculty adjudication. For students concentrating in multiple areas, a single jury is convened.
+Composition Subplan
+Completion requirement
+Subplan Requirements
+Fulfill ALL of the following requirements:
+Composition Seminar
+Enroll in each course for a minimum of one unit
+Complete ALL of the following Courses:
+MUSIC123A - Undergraduate Seminar in Composition: Rhythmic Design
+MUSIC123B - Undergraduate Seminar in Composition: Pitch Design
+AND
+Orchestration
+Complete at least 1 of the following Courses:
+MUSIC127A - Instrumentation and Orchestration
+MUSIC127B - Advanced Orchestration
+AND
+Individual composition lessons
+Complete ALL of the following Courses:
+MUSIC125 - First Individual Undergraduate Projects in Composition I
+Enroll in
+course
+a minimum of three times. Students complete at least three composition projects within a minimum of three enrollments of one to three units each.
+AND
+Computer Music
+Earn at least 4 credits from the following:
+MUSIC101 - Introduction to Creating Electronic Sounds
+MUSIC128 - Stanford Laptop Orchestra: Composition, Coding, and Performance
+MUSIC155 - Intermedia Workshop
+MUSIC192A - Foundations of Sound-Recording Technology
+MUSIC192C - Session Recording
+MUSIC192F - Sound Installation
+MUSIC220A - Fundamentals of Computer-Generated Sound
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+MUSIC220C - Research Seminar in Computer-Generated Music
+MUSIC250A - Physical Interaction Design for Music
+MUSIC250C - Interaction - Intermedia - Immersion
+MUSIC256A - Music, Computing, Design: The Art of Design
+AND
+Concentration Electives
+Earn at least 6 credits from the following:
+MUSIC20C - Jazz Arranging and Composition
+MUSIC112 - Film Scoring
+MUSIC122A - Counterpoint
+MUSIC122B - Analysis of Tonal Music
+MUSIC122C - Introduction to Post-Tonal Analysis
+MUSIC123C - Undergraduate Seminar in Composition: World Music
+MUSIC124A - Songwriters Workshop
+MUSIC127B - Advanced Orchestration
+MUSIC128 - Stanford Laptop Orchestra: Composition, Coding, and Performance
+MUSIC155 - Intermedia Workshop
+MUSIC156 - "sic": Improvisation Collective
+MUSIC160B - Stanford New Ensemble
+MUSIC161B - Jazz Orchestra
+MUSIC161E - Stanford Afro-Latin Jazz Orchestra
+MUSIC192A - Foundations of Sound-Recording Technology
+MUSIC192C - Session Recording
+MUSIC220A - Fundamentals of Computer-Generated Sound
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+MUSIC220C - Research Seminar in Computer-Generated Music
+MUSIC250A - Physical Interaction Design for Music
+MUSIC250C - Interaction - Intermedia - Immersion
+MUSIC251 - Psychophysics and Music Cognition
+MUSIC256A - Music, Computing, Design: The Art of Design
+Conducting Subplan
+Completion requirement
+Subplan Requirements
+Complete at least ten units from among the two groups.
+Fulfill ALL of the following requirements:
+Conducting Course
+Complete at least 1 of the following Courses:
+MUSIC130B - Elementary Instrumental Conducting
+MUSIC130C - Elementary Choral Conducting
+MUSIC136 - Intermediate Conducting: Music Since 1900
+AND
+Advanced Conducting Course
+Complete ALL of the following Courses:
+MUSIC230 - Advanced Orchestral Conducting
+MUSIC231 - Advanced Choral Conducting
+Conducting concentrators with instrumental focus take
+course
+twice and
+course
+once; those with choral focus take
+course
+twice and
+course
+once. The total unit count for
+course
+/231 is thus six units.
+Concentration Theory/Analysis/Ear-Training Requirement
+Complete at least five units from among these two groups.
+Fulfill ALL of the following requirements:
+Concentration Theory/Analysis/Ear-Training Requirement
+Complete at least 1 of the following Courses:
+MUSIC122A - Counterpoint
+MUSIC122B - Analysis of Tonal Music
+MUSIC122C - Introduction to Post-Tonal Analysis
+Complete any course not taken to fulfill the Core Requirement.
+AND
+Concentration Theory/Analysis/Ear-Training Advanced Requirement
+Complete this course for at least one unit.
+Complete ALL of the following Courses:
+MUSIC129 - Advanced Ear-Training/Musicianship
+course
+is offered for one or two units. Conducting concentrators must take it for one unit to fulfill the Conducting Concentration requirement but are strongly urged to take it for two units, if possible.
+Concentration Performance Requirement
+Complete ALL of the following Courses:
+MUSIC159 - Early Music Singers
+MUSIC160 - Stanford Symphony Orchestra
+MUSIC160A - Stanford Philharmonia
+MUSIC161A - Stanford Wind Symphony
+MUSIC161B - Jazz Orchestra
+MUSIC162 - Symphonic Chorus
+MUSIC163 - Memorial Church Choir
+MUSIC165 - Chamber Chorale
+MUSIC167 - University Singers
+MUSIC171 - Chamber Music
+Or another ensemble (with advisor’s permission).
+Complete three quarters in any combination of these ensembles, one unit per quarter; these Performance units are in addition to the three units that satisfy the Core Breadth Performance requirement.
+Music, Science, and Technology (MST) Subplan
+Completion requirement
+Subplan Requirements
+Fulfill ALL of the following requirements:
+Required Courses
+Complete ALL of the following Courses:
+MUSIC220A - Fundamentals of Computer-Generated Sound
+MUSIC220B - Compositional Algorithms, Psychoacoustics, and Computational Music
+MUSIC220C - Research Seminar in Computer-Generated Music
+MUSIC251 - Psychophysics and Music Cognition
+Enroll in
+course
+,
+course
+,
+course
+for a minimum of three credits per course.
+Enroll in
+course
+for a minimum of four units.
+AND
+Design and Processing Courses
+Complete at least 1 of the following Courses:
+MUSIC250C - Interaction - Intermedia - Immersion
+MUSIC256A - Music, Computing, Design: The Art of Design
+MUSIC264 - Musical Engagement
+MUSIC320 - Introduction to Audio Signal Processing
+Complete one of the previous for a minimum of four units.
+Musicology and Ethnomusicology Subplan
+Completion requirement
+Subplan Requirements
+Fulfill ALL of the following requirements:
+Upper-Level Writing-Intensive Courses
+Earn at least 10 credits from the following:
+Untitled Course Set
+Minimum of 10 units of any upper-level, writing-intensive course, plus relevant courses outside the department, is possible, in consultation with the advisor.
+These courses must cover at least two historical periods. At least one of these courses must be taken in the Department of Music.
+AND
+Concentration Electives
+Complete 6 units of concentration electives in any music-related course.
+In consultation with the advisor, language courses, too, can count toward concentration electives. Students are strongly encouraged to attain proficiency in at least one language relevant to their research interests.
+Musicology and Performance Subplan
+Completion requirement
+Subplan Requirements
+Fulfill ALL of the following requirements:
+Upper-Level Writing Intensive Courses
+Earn at least 10 credits from the following:
+Untitled Course Set
+A minimum of ten units of any upper-level, writing-intensive course, plus relevant courses outside the department, is possible in consultation with the advisor.
+These courses must cover at least two historical periods. At least one of these courses must be taken in the Department of Music.
+AND
+Performance Electives
+Earn at least 6 credits from the following:
+MUSIC156 - "sic": Improvisation Collective
+MUSIC159 - Early Music Singers
+MUSIC160 - Stanford Symphony Orchestra
+MUSIC160A - Stanford Philharmonia
+MUSIC160B - Stanford New Ensemble
+MUSIC160C - Stanford Baroque Soloists
+MUSIC160S - Stanford Summer Symphony
+MUSIC161A - Stanford Wind Symphony
+MUSIC161B - Jazz Orchestra
+MUSIC161D - Stanford Brass Ensemble
+MUSIC161E - Stanford Afro-Latin Jazz Orchestra
+MUSIC162 - Symphonic Chorus
+MUSIC163 - Memorial Church Choir
+MUSIC165 - Chamber Chorale
+MUSIC169 - Stanford Taiko
+MUSIC171 - Chamber Music
+MUSIC172A - Piano
+MUSIC182 - Diction for Singers
+MUSIC183A - German Art Song Interpretation
+MUSIC183B - French Art Song Interpretation
+MUSIC183C - Interpretation of Musical Theater Repertoire
+MUSIC183E - Singing for Musicals
+MUSIC184A - Editing and Performing Early Music
+MUSIC184B - Topics on the Musical Stage
+MUSIC184C - Dramatic Vocal Arts: Songs and Scenes Onstage
+MUSIC272A - Piano for Music Majors/Minors
+In consultation with the advisor, the student can choose any performance course. Students are strongly encouraged to attain proficiency in at least one language relevant to their research interests. From September 2024 going forward, all private music lessons are cataloged with a 100-level number.
+Performance in Keyboard Studies Subplan
+Completion requirement
+Solo and Ensemble Techniques
+Fulfill ALL of the following requirements:
+Private lessons
+Earn at least 6 credits from the following:
+MUSIC172A - Piano
+MUSIC172B - Organ
+MUSIC172C - Harpsichord
+MUSIC272A - Piano for Music Majors/Minors
+MUSIC272B - Organ for Music Majors/Minors
+MUSIC272C - Harpsichord for Music Majors/Minors
+Complete six quarters for at least one unit per quarter. Performance concentrators must earn required private lesson credits through enrollment in private lesson sections taught by Stanford Department of Music faculty members.
+AND
+Small, unconducted ensemble
+Earn at least 3 credits from the following:
+MUSIC171 - Chamber Music
+Enroll a minimum of three times.
+AND
+Thoroughbass
+Complete ALL of the following Courses:
+MUSIC126A - Thoroughbass Accompaniment
+AND
+Solo and Ensemble Techniques
+Complete at least 1 of the following Courses:
+MUSIC160C - Stanford Baroque Soloists
+MUSIC170 - Collaborative Piano
+MUSIC183A - German Art Song Interpretation
+MUSIC183B - French Art Song Interpretation
+AND
+Aural and analytical skills especially pertinent to performance
+Complete ALL of the following Courses:
+MUSIC122D - Analysis for Performance
+MUSIC129K - Advanced Keyboard Musicianship
+AND
+Awareness of repertoire and cultural history
+Earn at least 3 credits from the following:
+MUSIC155A - Piano Literature
+Enroll a minimum of three times.
+Performance in String Studies Subplan
+Completion requirement
+Solo and Ensemble Techniques
+Fulfill ALL of the following requirements:
+Private lessons
+Earn at least 6 credits from the following:
+MUSIC174A - Violin
+MUSIC174B - Viola
+MUSIC174C - Violoncello
+MUSIC174D - Contrabass
+MUSIC174G - Harp
+MUSIC174I - Jazz Bass
+MUSIC174J - Jazz & Contemporary Guitar
+MUSIC274A - Violin for Music Majors/Minors
+MUSIC274B - Viola for Music Majors/Minors
+MUSIC274C - Violoncello for Music Majors/Minors
+MUSIC274D - Contrabass for Music Majors/Minors
+MUSIC274G - Advanced Harp
+MUSIC274I - Jazz Bass for Music Majors/Minors
+MUSIC274J - Jazz & Contemporary Guitar for Music Majors/Minors
+Complete six quarters for at least one unit per quarter. Performance concentrators must earn required private lesson credits through enrollment in private lesson sections taught by Stanford Department of Music faculty members.
+AND
+Chamber Music
+Earn at least 6 credits from the following:
+MUSIC171 - Chamber Music
+Complete six quarters. Chamber Music refers to a small, unconducted ensemble. Up to two units in
+course
+or
+course
+may also apply toward the Chamber Music requirement.
+AND
+Aural and analytical skills especially pertinent to performance
+Complete ALL of the following Courses:
+MUSIC122D - Analysis for Performance
+MUSIC129 - Advanced Ear-Training/Musicianship
+AND
+Large, conducted ensemble
+Earn at least 2 credits from the following:
+MUSIC160 - Stanford Symphony Orchestra
+MUSIC160A - Stanford Philharmonia
+Performance in Vocal Studies Subplan
+Completion requirement
+Solo and Ensemble Techniques
+Fulfill ALL of the following requirements:
+Private Lessons
+Earn at least 12 credits from the following:
+MUSIC173 - Voice
+MUSIC273 - Voice for Music Majors/Minors
+Complete six quarters for at two units per quarter. Performance concentrators must earn required private lesson credits through enrollment in private lesson sections taught by Stanford Department of Music faculty members.
+AND
+Voice Repertoire: Aural and analytical skills especially pertinent to performance
+Earn at least 2 credits from the following:
+MUSIC182 - Diction for Singers
+MUSIC183A - German Art Song Interpretation
+MUSIC183B - French Art Song Interpretation
+MUSIC183C - Interpretation of Musical Theater Repertoire
+Complete two courses for one unit among the previous.
+AND
+Voice Repertoire: Voice Pedagogy
+Complete ALL of the following Courses:
+MUSIC183H - Vocal Pedagogy
+AND
+Voice Repertoire: Vocal Stage Performance
+Earn at least 2 credits from the following:
+MUSIC184A - Editing and Performing Early Music
+MUSIC184B - Topics on the Musical Stage
+MUSIC184C - Dramatic Vocal Arts: Songs and Scenes Onstage
+Complete one course for two units among the previous.
+Performance in Woodwind, Brass, and Percussion Studies Subplan
+Completion requirement
+Solo and Ensemble Techniques
+Fulfill ALL of the following requirements:
+Solo Technique
+Earn at least 6 credits from the following:
+MUSIC175A - Flute
+MUSIC175B - Oboe
+MUSIC175C - Clarinet
+MUSIC175D - Bassoon
+MUSIC175F - Saxophone
+MUSIC175G - Baroque Flute
+MUSIC175H - Jazz Saxophone
+MUSIC176A - French Horn
+MUSIC176B - Trumpet
+MUSIC176D - Tuba
+MUSIC176E - Jazz Trumpet
+MUSIC177 - Percussion
+MUSIC177A - Drum Set Lessons
+MUSIC275A - Flute for Music Majors/Minors
+MUSIC275B - Oboe for Music Majors/Minors
+MUSIC275C - Clarinet for Music Majors/Minors
+MUSIC275D - Bassoon for Music Majors/Minors
+MUSIC275F - Saxophone for Music Majors/Minors
+MUSIC275G - Baroque Flute for Music Majors/Minors
+MUSIC276A - French Horn for Music Majors/Minors
+MUSIC276B - Trumpet for Music Majors/Minors
+MUSIC276C - Trombone for Music Majors/Minors
+MUSIC276D - Tuba for Music Majors/Minors
+MUSIC276E - Jazz Trumpet for Music Majors/Minors
+MUSIC277 - Percussion for Music Majors/Minors
+MUSIC277A - Drum Set for Music Majors/Minors
+Complete six quarters for one unit per quarter. Performance concentrators must earn required private lesson credits through enrollment in private lesson sections taught by Stanford Department of Music faculty members.
+AND
+Ensemble technique
+Earn at least 6 credits from the following:
+MUSIC160 - Stanford Symphony Orchestra
+MUSIC160A - Stanford Philharmonia
+MUSIC160B - Stanford New Ensemble
+MUSIC161A - Stanford Wind Symphony
+MUSIC161B - Jazz Orchestra
+MUSIC161D - Stanford Brass Ensemble
+AND
+Chamber Music
+Earn at least 3 credits from the following:
+MUSIC171 - Chamber Music
+AND
+Analysis Skills for Performance
+Complete ALL of the following Courses:
+MUSIC6F - Professional Development in Music
+OR
+MUSIC6G - Entrepreneurial Development for Classical Musicians
+MUSIC122D - Analysis for Performance
+Theory Subplan
+Completion requirement
+Subplan Requirements
+Fulfill ALL of the following requirements:
+Additional Upper Division Analysis
+Complete at least 1 of the following Courses:
+MUSIC122A - Counterpoint
+MUSIC122B - Analysis of Tonal Music
+MUSIC122C - Introduction to Post-Tonal Analysis
+AND
+Musicanship
+Complete at least 1 of the following Courses:
+MUSIC126A - Thoroughbass Accompaniment
+MUSIC127A - Instrumentation and Orchestration
+MUSIC129 - Advanced Ear-Training/Musicianship
+MUSIC129K - Advanced Keyboard Musicianship
+AND
+Performance Practice
+Complete at least 1 of the following Courses:
+MUSIC184A - Editing and Performing Early Music
+MUSIC251 - Psychophysics and Music Cognition
+MUSIC269 - Research in Performance Practices
+Complete one course for at least three units from among the previous.
+AND
+Jazz History
+Complete at least 1 of the following Courses:
+MUSIC18A - Introduction to Jazz History and Appreciation
+MUSIC18B - Jazz History and Appreciation: Advanced Level
+AND
+Concentration Electives
+Choose any two units in a music-related course.
+Self-Designed Subplan
+Completion requirement
+Focus Area Courses
+Take 16 units in a focal area in consultation with the Program Advisor.
+The self-designed music major allows students to choose courses beyond the shared 42-unit core. They develop a focus area in consultation with the Program Advisor. They are allocated 16 units toward courses in this focus area; the remaining four units are reserved for the capstone project (see below). If necessary for the focus area, three of the 16 units may be taken outside the Music Department, with the permission of the advisor. Focus areas may center on courses in established areas of the department for which there is no existing subplan (e.g., jazz, musical theater), or they may delineate a path that moves across different programs within the department. Focal areas may have a creative or critical emphasis or a blended approach. The 16 units in the focus area should provide a spur and grounding for the four-unit capstone project.

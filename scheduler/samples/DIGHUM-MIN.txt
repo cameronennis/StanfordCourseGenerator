@@ -1,0 +1,112 @@
+DIGHUM-MIN - Digital Humanities (Minor)
+Download as PDF
+English
+Undergraduate Matriculated
+General
+Program Overview
+The minor in Digital Humanities combines humanistic inquiry with digital methods and tools to generate new questions and foster innovative interdisciplinary research bridging the humanities, arts, and technology. Students will develop critical thinking skills and digital competencies applicable within and beyond an academic setting. The minor has three clusters: Spatial Humanities, Quantitative  Analysis, and Text Technologies. Students are encouraged to choose to specialize in one of these areas but may also choose from a broad array of courses to fit their special interests.
+Spatial Humanities ranges from theory (space as a category of analysis) to technical representation/analysis of spatial distribution through algorithms. It can draw upon anthropology, geography, and other disciplines with a tradition of interest in space; meanwhile, it can feed into (for instance) literary  and historical studies.
+Quantitative Textual Analysis includes anything that uses computers to quantify formal properties of texts, ranging from word frequencies to chapter divisions to character networks. Genre, authorship, sentiment analysis, “opinion mining” -- all of these can play a role. It intersects with linguistics/Natural Language Processing (NLP) ; Classics and Cognitive Psychology can also be allies.
+Text Technologies encompasses technologies of communication; social media analysis; database creation, coding, TEI; publishing and text access; digital curation of virtual exhibitions (which allows us to bring in the arts, digital imaging, etc.), digital archive and manuscript studies, art and art practices involving digital mediations.
+Minimum Units in the Program
+20
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+Students must take a minimum of twenty units: One Core Course for 4 or 5 units from the of the Core Clusters, and at least five other elective courses of at least three units each.
+Students complete twenty or more units in courses relevant to department majors  across the university, including but not limited to Anthropology, Art, Communications, Computer Science, Data Science, East Asian Languages and Cultures, Engineering, English, French, History, Italian, Linguistics, Music, Philosophy, Religious Studies, and Theatre and Performance. These electives are to be determined in consultation with the Director of the DH Minor (a faculty member in English).
+NOTE: Not all courses are offered every year. Courses do not need to be taken in sequential order, although it can be helpful to build a program based around your select Core course.
+Required Core Course
+Complete one Core Course from one of the following Clusters (see DH Minor Website for year to year offerings):
+Spatial Humanities (e.g. CLASSICS115: Virtual Italy; HISTORY201B: Spatial History: Concepts, Methods, Problems)
+Quantitative Text Analysis (e.g. ENG184E: Literary Text Mining; ENG184F: Literary Text Mining 2: Studies in Cultural Analytics)
+Text Technologies (e.g. History207: Crafting Digital Stories; CSRE166: African Archives Beyond Colonization)
+Complete at least 1 of the following Courses:
+CLASSICS115 - Virtual Italy
+HISTORY201B - Spatial History: Concepts, Methods, Problems
+ENGLISH184E - Literary Text Mining
+ENGLISH184F - Literary Text Mining 2: Studies in Cultural Analytics
+HISTORY207 - Biography and History
+CSRE166 - African Archive Beyond Colonization
+Elective Courses
+Students must complete a total of 5 elective courses of 3 units or higher for a total of at least 15 units from the clusters below.
+When choosing electives, it may be helpful to think about them as part of the topical clusters listed below.
+Not all of the courses below may be available this year, but the clusters are representative of the kinds of courses compatible with the DH minor.
+You might wish to focus your study on one cluster, with one or two courses from related clusters, or you might want to prioritize breadth in your studies.
+Fulfill ANY of the following requirements:
+Computational Analysis
+Complete ANY of the following Courses:
+COMM106 - Communication Research Methods
+CS106A - Programming Methodology
+CSRE180B - Introduction to Data Analysis
+DATASCI112 - Principles of Data Science
+DATASCI120 - Data Narratives
+ENGLISH184E - Literary Text Mining
+LINGUIST284 - Natural Language Processing with Deep Learning
+POLISCI150B - Machine Learning for Social Scientists
+SOC258C - Using Data to Describe the World: Descriptive Social Science Research Techniques
+STATS195 - Introduction to R
+OR
+Artistic Production
+Complete ANY of the following Courses:
+ARTSTUDI147 - Art Book Object
+ARTSTUDI171 - Introduction to Photography
+ARTSTUDI177 - Video Art
+ME125 - Visual Frontiers
+MUSIC154A - Sound Art I
+MUSIC220A - Fundamentals of Computer-Generated Sound
+MUSIC422 - Perceptual Audio Coding
+OR
+Design
+Complete ANY of the following Courses:
+DESIGN101 - History and Ethics of Design
+DESIGN170 - Visual Frontiers
+OR
+Ethics
+Complete ANY of the following Courses:
+AMSTUD145 - Silicon Valley
+PHIL20N - Philosophy of Artificial Intelligence
+POLISCI70 - Dangerous Ideas
+PSYCH35 - Minds and Machines
+STS1 - Introduction to Science, Technology & Society
+OR
+History
+Complete ANY of the following Courses:
+ARTSTUDI148P - The Hybrid Print
+CS56N - Great Discoveries and Inventions in Computing
+HISTORY1B - Global History: The Early Modern World, 1300 to 1800
+HISTORY1C - Global History :  The Modern Age
+HISTORY102 - The Modern International System
+SOC31N - Social Networks
+OR
+Identities
+Complete ANY of the following Courses:
+AFRICAAM200N - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+CSRE180A - Foundations of Social Research
+HISTORY244F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
+FEMGEN147 - Feminism and Technology
+OR
+Language
+Complete ANY of the following Courses:
+LINGUIST180 - From Languages to Information
+LINGUIST188 - Natural Language Understanding
+LINGUIST284 - Natural Language Processing with Deep Learning
+OR
+Media Studies
+Complete ANY of the following Courses:
+AMSTUD1B - Media, Culture, and Society
+ARTSTUDI147 - Art Book Object
+ARTSTUDI169 - Virtual Reality: the possibility and peril of immersive artwork
+ARTSTUDI236 - Future Media, Media Archaeologies
+COMM177I - Investigative Watchdog Reporting
+COMM281 - Exploring Computational Journalism
+GLOBAL135 - Around the World in Ten Films
+OR
+Urban Studies
+Complete ANY of the following Courses:
+HISTORY107 - Introduction to Urban Studies
+URBANST113 - Introduction to Urban Design: Contemporary Urban Design in Theory and Practice
+URBANST123B - Community Engaged Research - Principles, Ethics, and Design

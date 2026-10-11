@@ -1,0 +1,1131 @@
+CS-BS - Computer Science (BS)
+Download as PDF
+Computer Science
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The undergraduate program in Computer Science aims to develop students’ breadth of knowledge across the subject areas of computer science, including their ability to apply the defining processes of computer science theory, abstraction, design, and implementation to solve problems in the discipline. Students take a set of core courses. After learning the essential programming techniques and the mathematical foundations of computer science, students take courses in programming techniques, automata and complexity theory, systems programming, computer architecture, analysis of algorithms, artificial intelligence, and applications. The program prepares students for careers in government, law, and the corporate sector and for graduate study.
+Minimum Units in the Program
+93
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+Mathematics (26 units minimum)
+Fulfill ALL of the following requirements:
+Required Math Courses
+Complete ALL of the following Courses:
+CS103 - Mathematical Foundations of Computing
+CS109 - Introduction to Probability for Computer Scientists
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+MATH 19, MATH 20, and MATH 21, or AP Calculus Credit may be used as long as at least 26 MATH units are taken.
+AP credit may also be used to satisfy Math 19, 20 and/or 21. Please see the Stanford External Test Credit Equivalency Charts for additional details.
+AND
+Math Electives
+Students must complete at least 2 Math Electives regardless of if they've reached the 26 units of Math.
+Complete at least 2 of the following Courses:
+CME100 - Vector Calculus for Engineers
+CME102 - Ordinary Differential Equations for Engineers
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+CS157 - Computational Logic
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+ENGR108 - Introduction to Matrix Methods
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+MATH52 - Integral Calculus of Several Variables
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+MATH104 - Applied Matrix Theory
+MATH107 - Graph Theory
+MATH108 - Introduction to Combinatorics and Its Applications
+MATH109 - Groups and Symmetry
+MATH110 - Number Theory for Cryptography
+MATH113 - Linear Algebra and Matrix Theory
+PHIL151 - Metalogic
+Math electives are not required for the Computational Bio Subplan.
+Science (11 units minimum)
+Fulfill ALL of the following requirements:
+Physics Courses
+Complete ALL of the following Courses:
+PHYSICS41 - Mechanics
+OR
+PHYSICS21 - Mechanics and Fluids
+OR
+PHYSICS61 - Mechanics and Special Relativity
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS43 - Electricity and Magnetism
+OR
+PHYSICS23 - Electricity, Magnetism, and Optics
+OR
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+OR
+OSPPARIS53 - Electricity, Magnetism and Optics with Laboratory
+Students may also use AP Physics ﻿﻿if approved by the School of Engineering.
+The Computational Biology Subplan requires a different set of Science courses. Please see the Computational Biology Subplan for details.
+AND
+Science Elective
+Complete at least 1 of the following Courses:
+BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
+BIO46 - Introduction to Research in Ecology and Evolutionary Biology
+BIO47 - Introduction to Research in Ecology and Evolutionary Biology
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO85 - Evolution
+BIO86 - Cell Biology
+BIO150 - Human Behavioral Biology
+CEE70 - Environmental Science and Technology
+CHEM31A - Chemical Principles I
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+CHEM123 - Organic Polyfunctional Compounds
+EARTHSYS2 - Chemistry of the Earth and Planets
+EARTHSYS10 - Introduction to Earth Systems
+EARTHSYS11 - Introduction to Geology
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+HUMBIO3A - Cell and Developmental Biology
+HUMBIO4A - The Human Organism
+PHYSICS21 - Mechanics and Fluids
+PHYSICS23 - Electricity, Magnetism, and Optics
+PHYSICS25 - Modern Physics
+PHYSICS41 - Mechanics
+OR
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS43 - Electricity and Magnetism
+PHYSICS45 - Light and Heat
+PHYSICS61 - Mechanics and Special Relativity
+PHYSICS71 - Quantum and Thermal Physics
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+PSYCH30 - Introduction to Perception
+The Science Elective may be any course of three or more units from the list above or AP Chemistry Credit. The School of Engineering must approve AP Chemistry and AP Physics credits.
+Technology in Science (3-5 units)
+Complete at least 1 of the following Courses:
+AA252 - Techniques of Failure Analysis
+ARCHLGY151 - Ten Things: An Archaeology of Design
+OR
+CLASSICS151 - Ten Things: An Archaeology of Design
+BIOE131 - Ethics in Bioengineering
+BIOE177 - Inventing the Future
+OR
+DESIGN259 - Inventing the Future
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+CEE145E - Equitable Infrastructure Solutions
+CLASSICS168 - Engineering the Roman Empire
+COMM154 - The Politics of Algorithms
+COMM166 - Virtual People
+CS120 - Introduction to AI Safety
+OR
+STS10 - Introduction to AI Safety
+CS121 - Equity and Governance for Artificial Intelligence
+CS125 - Data: Algorithms, Tools, Policy, and Society
+CS139 - Human-Centered AI
+CS152 - Trust and Safety
+CS182 - Ethics, Public Policy, and Technological Change
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+CS222 - AI Agents and Simulations
+CS256 - Algorithmic Fairness
+CS278 - Social Computing
+CS329X - Human Centered NLP
+DATASCI154 - Data Science for Social Impact
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+ENGR145 - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+OR
+ENGR248 - Principled Entrepreneurial Decisions
+ENERGY177A - Engineering and Sustainable Development: Toolkit
+AND
+ENERGY177B - Engineering and Sustainable Development: Implementation
+EPS194 - Technology, International Security, and Sustainability
+HUMBIO174 - Foundations of Bioethics
+MS&E179 - Entrepreneurship for Everyone
+MS&E193 - Technology and National Security
+NBIO101 - Social and Ethical Issues in the Neurosciences
+POLISCI114S - International Security in a Changing World
+PUBLPOL114 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+STS1 - Introduction to Science, Technology & Society
+STS115 - The Ethics of Developing Life-Saving Technologies for Children
+STS200J - Technometabolism: Technology, Society, and the Anthropocene
+Engineering Fundamentals (10 units minimum)
+Complete ALL of the following Courses:
+CS106B - Programming Abstractions
+ENGR40M - An Intro to Making: What is EE
+OR
+ENGR76 - Information Science and Engineering
+The Computational Biology Subplan requires a different set of Engineering Fundamentals courses. Please see the Computational Biology Subplan for details.
+﻿**Students without prior programming experience should first take CS106A.
+Core Program Requirements
+Completion requirement
+Unnamed Rule
+Complete ALL of the following Courses:
+CS107 - Computer Organization and Systems
+OR
+CS107E - Computer Systems from the Ground Up
+CS111 - Operating Systems Principles
+CS161 - Design and Analysis of Algorithms
+Courses must be taken for 5 units.
+Electives
+Completion requirement
+General Electives
+The following subplans include an electives requirement:
+﻿﻿Artificial Intelligence
+﻿﻿Visual Computing
+﻿﻿Human-Computer Interaction
+﻿﻿Information
+﻿﻿Systems
+﻿﻿Theory
+﻿﻿Unspecialized
+These electives requirements can include choosing from a list of CS General Electives course (listed immediately below):
+If you see a reference to CS-BS General Electives in one of the subplans, you can refer here for that list.
+Fulfill ANY of the following requirements:
+CS-BS General Electives
+Complete ANY of the following Courses:
+CS112 - Operating systems kernel implementation project
+CS123 - A Hands-On Introduction to Building AI-Enabled Robots
+CS124 - From Languages to Information
+CS131 - Computer Vision: Foundations and Applications
+CS137A - Principles of Robot Autonomy I
+CS139 - Human-Centered AI
+CS140E - Operating systems design and implementation
+CS143 - Compilers
+CS144 - Introduction to Computer Networking
+CS145 - Introduction to Big Data Systems
+CS146J - Full-Stack Web Programming
+CS146S - The Modern Software Developer
+CS147 - Introduction to Human-Computer Interaction Design
+CS147L - Cross-platform Mobile App Development
+CS148 - Introduction to Computer Graphics and Imaging
+CS149 - Parallel Computing
+CS151 - Logic Programming
+CS154 - Introduction to the Theory of Computation
+CS155 - Computer and Network Security
+CS157 - Computational Logic
+OR
+PHIL151 - Metalogic
+CS166 - Advanced Data Structures
+CS168 - The Modern Algorithmic Toolbox
+CS171 - Causality, Decision Making and Data Science
+CS173A - Foundations of Computational Human Genomics
+CS177 - Introduction to Product Management with AI
+CS195 - Supervised Undergraduate Research
+CS197 - Computer Science Research
+CS197C - Computer Science Research: CURIS Internship Onramp
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS206 - Exploring Computational Journalism
+CS210A - Industry Innovation Lab
+CS212 - Operating Systems and Systems Programming
+CS217 - Hardware Accelerators for Machine Learning
+CS221 - Artificial Intelligence: Principles and Techniques
+CS222 - AI Agents and Simulations
+CS223A - Introduction to Robotics
+CS224G - Apps With LLMs Inside
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS224S - Spoken Language Processing
+CS224V - Agentic AI
+CS224W - Machine Learning with Graphs
+CS225A - Experimental Robotics
+CS227B - General Game Playing
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS229B - Machine Learning for Sequence Modeling
+CS229M - Machine Learning Theory
+CS229S - Systems for Machine Learning
+CS230 - Deep Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+CS232 - Digital Image Processing
+CS233 - Geometric and Topological Data Analysis
+CS234 - Reinforcement Learning
+CS235 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS237A - Principles of Robot Autonomy I
+CS237B - Principles of Robot Autonomy II
+CS238 - Decision Making under Uncertainty
+CS240 - Advanced Topics in Operating Systems
+CS240LX - Advanced Systems Laboratory, Accelerated
+CS242 - Programming Languages
+CS243 - Program Analysis and Optimizations
+CS244C - Advanced Networking and Distributed Systems
+CS246 - Mining Massive Data Sets
+CS247A - Design for Artificial Intelligence
+CS247B - Design for Behavior Change
+CS247E - Design for Earth
+CS247G - Design for Play
+CS247I - Design for Understanding
+CS247S - Service Design with AI
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+CS249I - The Modern Internet
+CS250 - Algebraic Error Correcting Codes
+CS251 - Cryptocurrencies and blockchain technologies
+CS254 - Computational Complexity
+CS254B - Computational Complexity II
+CS255 - Introduction to Cryptography
+CS256 - Algorithmic Fairness
+CS257 - Introduction to Automated Reasoning
+CS258 - Quantum Cryptography
+CS259Q - Quantum Computing
+CS261 - Combinatorial Optimization
+CS263 - Counting and Sampling
+CS264 - Beyond Worst-Case Analysis
+CS265 - Randomized Algorithms and Probabilistic Analysis
+CS269I - Incentives in Computer Science
+CS270 - Modeling Biomedical Systems
+CS272 - Introduction to Biomedical Informatics Research Methodology
+CS273B - Deep Learning in Genomics and Biomedicine
+CS273C - Cloud Computing for Biology and Healthcare
+CS274 - Representations and Algorithms for Computational Molecular Biology
+CS275 - Translational Bioinformatics
+CS278 - Social Computing
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+CS281 - Ethics of Artificial Intelligence
+CS293 - Empowering Educators via Language Technology
+CS323 - The AI Awakening: Implications for the Economy and Society
+CS330 - Deep Multi-task and Meta Learning
+CS336 - Language Modeling from Scratch
+CS342 - Building for Digital Health
+CS348B - Computer Graphics: Image Synthesis Techniques
+CS348C - Computer Graphics: Animation and Simulation
+CS348E - Character Animation: Modeling, Simulation, and Control of Human Motion
+CS348I - Computer Graphics in the Era of AI
+CS348K - Visual Computing Systems
+CS348N - Neural Models for 3D Geometry
+CS355 - Advanced Topics in Cryptography
+CS361 - Engineering Design Optimization
+CS377G - Designing Serious Games
+CS448B - Data Visualization
+CEE342 - Designing for Gradient Spaces
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+DATASCI112 - Principles of Data Science
+EE108 - Digital System Design
+EE180 - Digital Systems Architecture
+EE267 - Virtual Reality
+EE282 - Computer Systems Architecture
+EE364A - Convex Optimization I
+EE374 - Fundamentals of Blockchain Infrastructure
+ENGR245 - The Lean LaunchPad: Getting Your Lean Startup Off the Ground
+MS&E244 - Statistical Arbitrage
+MS&E265 - Product Management Fundamentals for the Real Economy
+MS&E296 - Technology, Innovation and Great Power Competition
+Students must successfully complete CS 111 prior to taking CS 112.
+CS111 and CS212 can both be counted towards the BS requirements. Students must successfully complete CS111 prior to taking CS140E.
+CS195 can be taken for a maximum of four units.
+CS293 must be taken for 3+ units.
+See individual subplans for specific direction on selecting General Elective courses.
+Optional Humanities Elective Courses
+The Department of Computer Science (CS) encourages undergraduates to take humanities and social science courses outside of CS to complement the technical curriculum.
+Students in the Artificial Intelligence, Human-Computer Interaction, Information, Systems, Theory, or Visual Computing tracks may use
+up to one course
+from the approved CS humanities electives list to fulfill a track elective requirement on their program sheet.
+Note:
+This option is not available for students in the Computational Biology, Computer Engineering, or Unspecialized tracks.
+Complete ANY of the following Courses:
+AMSTUD120 - The Rise of Digital Culture
+AMSTUD145 - Silicon Valley
+ARCHLGY151 - Ten Things: An Archaeology of Design
+ARTHIST168A - What's Critical to Know about AI
+ARTSINST142 - Drawing with Code
+ARTSTUDI129 - Augmented Reality: Placemaking and Storytelling
+ARTSTUDI130 - Interactive Art: Making it with Arduino
+ARTSTUDI168 - Data as Material
+COMM120W - The Rise of Digital Culture
+COMM124 - Truth, Trust, and Tech
+COMM130D - Dark Patterns
+COMM145 - Personality and Digital Media
+COMM154 - The Politics of Algorithms
+COMM158 - Censorship and Propaganda
+COMM166 - Virtual People
+COMM173A - Media, Mind, and Black Mirror
+COMM186W - Media, Technology, and the Body
+COMM230A - Digital Civil Society
+CS80Q - Race and Gender in Silicon Valley
+CS120 - Introduction to AI Safety
+CS121 - Equity and Governance for Artificial Intelligence
+CS152 - Trust and Safety
+CS181 - Computers, Ethics, and Public Policy
+CS181W - Computers, Ethics, and Public Policy (WIM)
+CS182 - Ethics, Public Policy, and Technological Change
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+CS184 - Bridging Policy and Tech Through Design
+CS206 - Exploring Computational Journalism
+CS281 - Ethics of Artificial Intelligence
+CSRE314 - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+EARTHSYS144 - Fundamentals of Geographic Information Science (GIS)
+EARTHSYS153 - Data Science for Social Impact
+EARTHSYS162 - Data for Sustainable Development
+EARTHSYS227 - Decision Science for Environmental Threats
+ECON151 - Tackling Big Questions Using Social Data Science
+ECON295 - The AI Awakening: Implications for the Economy and Society
+ENERGY112 - Exploring Geosciences with MATLAB
+ENERGY160 - Uncertainty Quantification in Data-Centric Simulations
+ENGLISH106A - What's Critical to Know about AI
+ENGLISH115 - Virtual Italy
+ENGLISH184E - Literary Text Mining
+ENGR110 - Perspectives in Assistive Technology (ENGR 110)
+ETHICSOC131X - Ethics in Bioengineering
+FEMGEN44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+FEMGEN147 - Feminism and Technology
+FEMGEN149 - Technology and Fascism: History of a Paradox
+FEMGEN243F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
+GEOPHYS128 - Modeling Earth
+GEOPHYS228 - Modeling Earth
+2134291
+HISTORY44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
+HISTORY244F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
+INTLPOL245B - Governing Artificial Intelligence: Law, Policy, and Institutions
+INTLPOL265 - AI, Autonomy, and the Future of Warfare
+INTLPOL321 - Fundamentals of Cyber Policy and Security
+LAW4052 - Governing Artificial Intelligence: Law, Policy, and Institutions
+LINGUIST130A - Introduction to Semantics and Pragmatics
+LINGUIST145 - Introduction to Psycholinguistics
+LINGUIST150 - Language and Society
+LINGUIST156 - Language, Gender, & Sexuality
+LINGUIST281A - Race and Natural Language Processing
+MS&E254 - The Ethical Analyst
+MS&E289 - Ethics in Global Technology Design
+PHIL60 - Introduction to Philosophy of Science
+PHIL72 - Contemporary Moral Problems
+PHIL99 - Minds and Machines
+PHIL170 - Ethical Theory
+PHIL171 - Justice
+POLISCI125 - Tech Ethics and the Future of Human Values
+POLISCI143C - The Politics of Internet Abuse
+POLISCI150A - Data Science for Politics
+POLISCI294 - AI Policy Development: Leveraging Social Science to Ensure Responsible Generative AI
+PSYCH35 - Minds and Machines
+PSYCH70 - Self and Society: Introduction to Social Psychology
+PSYCH80 - Introduction to Personality and Affective Science
+PSYCH141 - Islamic Psychology
+PSYCH175 - Developmental Science of Social Cognition
+PSYCH180 - Advanced Seminar on Racial Bias and Structural Inequality
+PSYCH204A - Human Neuroimaging Methods
+PSYCH204B - Computational Neuroimaging: Data Analyses
+PSYCH215 - Mind, Culture, and Society
+PUBLPOL63Q - Democratizing Ethics with Discrimination, Inequality, Injustice and Technology in Mind
+PUBLPOL103F - Ethics of Truth in a Post-Truth World
+SOC114 - Economic Sociology
+SUST210 - Pursuing Sustainability: Managing Complex Social Environmental Systems
+SYMSYS1 - Minds and Machines
+Cross-listed versions of these courses are also acceptable.
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+CS 121, 181W or 182W will satisfy both the Writing in the Major (WiM) and Technology in Society (TiS) requirements.
+CS 191W, 194W, or 210B will satisfy both the Writing in the Major (WiM) and Capstone requirements.
+Complete at least 1 of the following Courses:
+CS121 - Equity and Governance for Artificial Intelligence
+CS181W - Computers, Ethics, and Public Policy (WIM)
+CS182W - Ethics, Public Policy, and Technological Change (WIM)
+CS191W - Writing Intensive Senior Research Project
+CS194W - Software Project (WIM)
+CS210B - Industry Innovation Lab
+Capstone
+Completion requirement
+Senior Project (3 units)
+Earn at least 3 credits from the following:
+CS191 - Senior Project
+CS191W - Writing Intensive Senior Research Project
+CS194 - Software Project
+CS194W - Software Project (WIM)
+CS210B - Industry Innovation Lab
+Independent study projects (
+course
+Senior Project or
+course
+Writing Intensive Senior Project) require faculty sponsorship and must be approved by the advisor, faculty sponsor, and the CS senior project advisor. A signed approval form and a brief description of the proposed project should be filed the quarter before work begins. Further details can be found in the
+Handbook for Undergraduate Engineering Programs (UGHB)
+.
+Honors
+Completion requirement
+Honors Overview & Course Units
+The Department of Computer Science (CS) offers an
+honors program
+for undergraduates whose academic records and personal initiative indicate that they have the necessary skills to undertake high-quality research in computer science. Admission to the program is by application only. To apply for the honors program, students must be majoring in Computer Science, have a grade point average (GPA) of at least 3.6 in courses that count toward the major, and achieve senior standing (135 or more units) by the end of the academic year in which they apply. Coterminal master’s students can apply if they have not received their undergraduate degree. Beyond these requirements, students who apply for the honors program must find a Computer Science faculty member who agrees to serve as the thesis advisor for the project. Thesis advisors must be members of Stanford’s Academic Council.
+Upon acceptance into the Honors Program, students are required to fulfill the following requirements within the academic year of their admission.
+Complete at least nine units of
+course
+or
+course
+under the direction of their project sponsor
+Attend a weekly honors seminar during winter and spring quarters
+Complete an honors thesis deemed acceptable by the thesis advisor and at least one additional faculty member
+Present the thesis at a public colloquium sponsored by the CS department
+Maintain the 3.6 GPA required for admission to the honors program
+https://www.cs.stanford.edu/bs-requirements-honors-program
+Earn at least 9 credits from the following:
+CS191 - Senior Project
+OR
+CS191W - Writing Intensive Senior Research Project
+Artificial Intelligence Subplan
+Completion requirement
+Track A Requirement
+Complete ALL of the following Courses:
+CS221 - Artificial Intelligence: Principles and Techniques
+Track B Requirement
+Select a total of two courses, each from a different area.
+Complete at least 2 of the following:
+Area I: AI Methods
+You can only select one course from each area.
+Complete at least 1 of the following Courses:
+CS224R - Deep Reinforcement Learning
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS229M - Machine Learning Theory
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+OR
+Area II: Natural Language Processing
+You can only select one course from each area.
+Complete at least 1 of the following Courses:
+CS124 - From Languages to Information
+CS224N - Natural Language Processing with Deep Learning
+CS224S - Spoken Language Processing
+CS224V - Agentic AI
+OR
+Area III: Vision
+You can only select one course from each area.
+Complete at least 1 of the following Courses:
+CS131 - Computer Vision: Foundations and Applications
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+OR
+Area IV: Robotics
+You can only select one course from each area.
+Complete at least 1 of the following Courses:
+CS123 - A Hands-On Introduction to Building AI-Enabled Robots
+CS137A - Principles of Robot Autonomy I
+CS223A - Introduction to Robotics
+CS237A - Principles of Robot Autonomy I
+Track C Requirement
+Select one additional course from the Track B Requirement list or from the following:
+Fulfill ANY of the following requirements:
+AI Methods
+Complete at least 1 of the following Courses:
+CS157 - Computational Logic
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS230 - Deep Learning
+CS236 - Deep Generative Models
+CS257 - Introduction to Automated Reasoning
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+OR
+Comp Bio
+Complete at least 1 of the following Courses:
+CS235 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+OR
+Information and the Web
+Complete at least 1 of the following Courses:
+CS224W - Machine Learning with Graphs
+OR
+Ethics
+Complete ALL of the following Courses:
+CS256 - Algorithmic Fairness
+OR
+Robotics and Control
+Complete at least 1 of the following Courses:
+CS225A - Experimental Robotics
+CS327A - Advanced Robotic Manipulation
+ENGR205 - Introduction to Control Design Techniques
+CS329 (any suffix) may be taken with advisor approval.
+OR
+Systems
+Complete at least 1 of the following Courses:
+CS229S - Systems for Machine Learning
+OR
+Simulation
+Complete at least 1 of the following Courses:
+CS222 - AI Agents and Simulations
+OR
+Other
+Complete at least 1 of the following Courses:
+CS151 - Logic Programming
+CS227B - General Game Playing
+Track Electives
+Complete at least three additional courses selected from the lists above, the Track Electives below, or the General Electives listed in the Electives section. Up to one course from the Eligible Humanities Electives list (also found in the Electives section) may be used.
+Fulfill ANY of the following requirements:
+Track Electives
+Complete ANY of the following Courses:
+APPPHYS293 - A modern explainable AI approach to Theoretical Neuroscience
+CS325B - Data for Sustainable Development
+CS326 - Topics in Advanced Robotic Manipulation
+CS342 - Building for Digital Health
+EE263 - Matrix Methods: Singular Value Decomposition
+EE278 - Probability and Statistical Inference
+EE364A - Convex Optimization I
+EE364B - Convex Optimization II
+MS&E252 - Foundations of Decision Analysis
+MS&E355 - Influence Diagrams and Probabilistics Networks
+PHIL152 - Computability and Logic
+PSYCH204A - Human Neuroimaging Methods
+PSYCH204B - Computational Neuroimaging: Data Analyses
+PSYCH209 - Neural Network Models of Cognition
+STATS200 - Introduction to Theoretical Statistics
+STATS202 - Statistical Learning and Data Science
+STATS203 - Regression Models and Analysis of Variance
+STATS205 - Introduction to Nonparametric Statistics
+STATS220 - Machine Learning Methods for Neural Data Analysis
+STATS271 - Applied Bayesian Statistics
+Computational Biology Subplan
+Completion requirement
+Computational Biology Subplan
+86 units minimum for the subplan
+**The Computational Biology track/subplan's Mathematics, Science, and Engineering Fundamentals requirements are non-standard - there are no math electives required.
+WiM and Capstone requirements are standard and the same for all tracks/subplans.
+Fulfill ALL of the following requirements:
+Mathematics
+Complete a minimum of 20 units of mathematics coursework.
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+CS103 - Mathematical Foundations of Computing
+CS109 - Introduction to Probability for Computer Scientists
+AP credit may also be used to satisfy Math 19, 20 and/or 21. Please see the Stanford External Test Credit Equivalency Charts for additional details.
+AND
+Biology or Humbio Sequence
+Complete at least 3 courses and 12 units in either the Biology Sequence or Humbio Sequence.
+Fulfill ANY of the following requirements:
+Biology Sequence
+Complete at least 3 of the following Courses:
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO85 - Evolution
+BIO86 - Cell Biology
+OR
+Humbio Sequence
+Complete ALL of the following Courses:
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+HUMBIO3A - Cell and Developmental Biology
+HUMBIO4A - The Human Organism
+AND
+Engineering Fundamentals
+Students must complete CS106B, and one SoE-approved Engineering Fundamentals Elective course found at
+https://ughb.stanford.edu/courses/engineering-fundamentals.
+Students may not use another CS106 course as their Engineering Fundamentals Elective.
+Complete at least 2 of the following Courses:
+CS106B - Programming Abstractions
+AND
+Computational Biology Depth
+Complete at least 8 courses and 25 units.
+Fulfill ALL of the following requirements:
+Track A Requirement
+Complete ALL of the following Courses:
+CS173A - Foundations of Computational Human Genomics
+CS221 - Artificial Intelligence: Principles and Techniques
+CS173A was previously offered as CS273A. Either CS173A or CS273A can be used to complete this requirement.
+AND
+Track B Requirment
+Complete at least 1 of the following Courses:
+CLASSICS145 - Narratives of Enslavement
+CS246 - Mining Massive Data Sets
+AND
+Track C Requirement
+Complete at least 1 of the following Courses:
+CS146J - Full-Stack Web Programming
+CS147L - Cross-platform Mobile App Development
+CS448B - Data Visualization
+DATASCI112 - Principles of Data Science
+AND
+Track D Requirement
+Complete at least 1 of the following Courses:
+BIOMEDIN273B - Deep Learning in Genomics and Biomedicine
+BMDS210 - Modeling Biomedical Systems
+BMDS214 - Representations and Algorithms for Computational Molecular Biology
+BMDS215 - Data Science for Medicine
+BMDS217 - Translational Bioinformatics
+BMDS219 - Mathematical Models and Medical Decisions
+BMDS222 - Cloud Computing for Biology and Healthcare
+BMDS260 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+IMMUNOL207 - Essential Methods in Computational and Systems Immunology
+AND
+Track E Requirement
+Complete at least 1 of the following Courses:
+CS124 - From Languages to Information
+CS131 - Computer Vision: Foundations and Applications
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS224V - Agentic AI
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS229S - Systems for Machine Learning
+CS231N - Deep Learning for Computer Vision
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+AND
+Track F Requirement
+Complete one additional course from the Track D or Track E lists above, or one of the following.
+Complete at least 1 of the following Courses:
+APPPHYS294 - Cellular Biophysics
+BIO183 - Theoretical Population Genetics
+BIO187 - Mathematical Population Biology
+BIOC241 - Biological Macromolecules
+BIOMEDIN273B - Deep Learning in Genomics and Biomedicine
+BMDS210 - Modeling Biomedical Systems
+BMDS214 - Representations and Algorithms for Computational Molecular Biology
+BMDS215 - Data Science for Medicine
+BMDS217 - Translational Bioinformatics
+BMDS219 - Mathematical Models and Medical Decisions
+BMDS222 - Cloud Computing for Biology and Healthcare
+BMDS260 - Computational Methods for Biomedical Image Analysis and Interpretation
+CHEMENG150 - Biochemical Engineering
+CS124 - From Languages to Information
+CS131 - Computer Vision: Foundations and Applications
+CS142 - Web Applications
+CS147 - Introduction to Human-Computer Interaction Design
+CS147L - Cross-platform Mobile App Development
+CS148 - Introduction to Computer Graphics and Imaging
+CS154 - Introduction to the Theory of Computation
+CS166 - Advanced Data Structures
+CS168 - The Modern Algorithmic Toolbox
+CS224N - Natural Language Processing with Deep Learning
+CS224R - Deep Reinforcement Learning
+CS224V - Agentic AI
+CS224W - Machine Learning with Graphs
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS229S - Systems for Machine Learning
+CS230 - Deep Learning
+CS231N - Deep Learning for Computer Vision
+CS234 - Reinforcement Learning
+CS238 - Decision Making under Uncertainty
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+DATASCI112 - Principles of Data Science
+EE263 - Matrix Methods: Singular Value Decomposition
+EE364A - Convex Optimization I
+IMMUNOL207 - Essential Methods in Computational and Systems Immunology
+MS&E152 - Introduction to Decision Analysis
+MS&E252 - Foundations of Decision Analysis
+STATS141 - Introduction to Statistics for Biology
+STATS202 - Statistical Learning and Data Science
+STATS203 - Regression Models and Analysis of Variance
+STATS205 - Introduction to Nonparametric Statistics
+STATS206 - Applied Multivariate Analysis
+STATS211 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+STATS315A - Modern Applied Statistics: Learning
+STATS315B - Modern Applied Statistics: Learning II
+AND
+Track G Requirement
+Complete at least one additional course from the Track D list, or from the following.
+Complete at least 1 of the following Courses:
+APPPHYS294 - Cellular Biophysics
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO85 - Evolution
+BIO86 - Cell Biology
+BIO85 - Evolution
+BIO112 - Human Physiology
+BIO214 - Advanced Cell Biology
+BIO230 - Cellular and Molecular Immunology: An Introductory Course
+BIOC241 - Biological Macromolecules
+BIOE220 - Introduction to Imaging and Image-based Human Anatomy
+BMDS272 - Healthcare Acceleration: Artificial Intelligence
+CHEM31A - Chemical Principles I
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+CHEM141 - The Chemical Principles of Life I
+CHEM143 - The Chemical Principles of Life II
+CHEM171 - Linking the Molecular to the Macroscopic: Foundations of Physical Chemistry
+CHEM181 - Biochemistry I
+CHEMENG150 - Biochemical Engineering
+CHEMENG174 - Environmental Microbiology I
+DBIO210 - Developmental Biology
+GENE211 - Genomics
+HUMBIO151R - Biology, Health and Big Data
+ME281 - Biomechanics of Movement
+AND
+Capstone
+Complete at least 1 of the following Courses:
+CS191 - Senior Project
+CS191W - Writing Intensive Senior Research Project
+CS194 - Software Project
+CS194W - Software Project (WIM)
+CS210B - Industry Innovation Lab
+CS 191W, 194W, and 210B also satisfies the Writing in the Major (WiM) requirement.
+Computer Engineering Subplan
+Completion requirement
+Computer Engineering Subplan
+93 units minimum
+25 units and 7 courses  minimum of Computer Engineering Depth coursework.
+Fulfill ALL of the following requirements:
+Track A Requirement
+Complete ALL of the following Courses:
+EE108 - Digital System Design
+EE180 - Digital Systems Architecture
+AND
+Track B Requirement
+Select two of the following:
+Complete at least 2 of the following Courses:
+EE101A - Circuits I
+EE101B - Circuits II
+EE102A - Signals and Systems I
+EE102B - Signals and Systems II
+AND
+Track C Requirement: Pick a Concentration
+Satisfy the requirements of one of the following concentration requirements below: Digital Systems, Robotics and Mechatronics, or Networking.
+Fulfill ANY of the following requirements:
+A. Digital Systems Concentrations
+Fulfill ALL of the following requirements:
+Required Courses
+Complete ALL of the following Courses:
+EE109 - Digital Systems Design Lab
+EE271 - Introduction to VLSI Systems
+AND
+Required Elective Options
+Complete at least 1 of the following Courses:
+CS112 - Operating systems kernel implementation project
+CS140E - Operating systems design and implementation
+OR
+B. Robotics and Mechatronics Concentration
+Complete ALL of the following Courses:
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS223A - Introduction to Robotics
+ME210 - Introduction to Mechatronics
+OR
+CS225A - Experimental Robotics
+OR
+C. Networking Concentration
+Required Courses
+Complete ALL of the following Courses:
+CS112 - Operating systems kernel implementation project
+OR
+CS140E - Operating systems design and implementation
+CS144 - Introduction to Computer Networking
+AND
+Required Elective Options
+Complete at least 1 of the following Courses:
+CS240 - Advanced Topics in Operating Systems
+CS240LX - Advanced Systems Laboratory, Accelerated
+CS241 - Embedded Systems Workshop
+CS244C - Advanced Networking and Distributed Systems
+EE179 - Analog and Digital Communication Systems
+Human-Computer Interaction Subplan
+Completion requirement
+Human-Computer Interaction Subplan
+93 units minimum
+25 units and 7 courses  minimum of Human-Computer Interaction Depth coursework.
+Fulfill ALL of the following requirements:
+Track A Requirement
+Complete ALL of the following Courses:
+CS147 - Introduction to Human-Computer Interaction Design
+CS247A - Design for Artificial Intelligence
+OR
+CS247B - Design for Behavior Change
+OR
+CS247E - Design for Earth
+OR
+CS247G - Design for Play
+OR
+CS247I - Design for Understanding
+OR
+CS247S - Service Design with AI
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+Students may replace CS347 with a two-course combination of (1) COMM254  or COMM224 and (2) an additional HCI elective from the Track C or Track Elective course lists below.
+AND
+Track B Requirement
+Complete at least 1 of the following Courses:
+CS146J - Full-Stack Web Programming
+CS147L - Cross-platform Mobile App Development
+AND
+Track C Requirement: HCI Mezzanine
+Complete at least 1 of the following Courses:
+CS177 - Introduction to Product Management with AI
+CS278 - Social Computing
+CS448B - Data Visualization
+AND
+Track Elective
+Complete one additional course from the Track C List or from one of the following.
+Complete at least 1 of the following Courses:
+CS194H - User Interface Design Project
+CS206 - Exploring Computational Journalism
+CS210A - Industry Innovation Lab
+CS222 - AI Agents and Simulations
+CS224C - NLP for Computational Social Science
+CS247A - Design for Artificial Intelligence
+CS247B - Design for Behavior Change
+CS247E - Design for Earth
+CS247G - Design for Play
+CS247I - Design for Understanding
+CS247S - Service Design with AI
+CS329X - Human Centered NLP
+CS377E - Designing Solutions to Global Grand Challenges
+CS377G - Designing Serious Games
+CS377J - Designing Systems for Collaboration, Cooperation, and Collective Action
+CS377P - Read, Write, Play
+CS377Q - Designing for Accessibility
+CS377U - Understanding Users
+Students may use
+up to one
+Humanities course option in place of a Track Elective or Additional Elective. The list of Optional Humanities Electives Options can be found in the Electives section.
+AND
+Additional Elective(s)
+Complete at least one additional course from the Track C list, Track Elective list, or the CS General Electives list found in the Electives section.
+Students may use
+up to one
+Humanities course option in place of a Track Elective or Additional Elective. The list of Optional Humanities Electives Options can be found in the Electives section.
+Information Subplan
+Completion requirement
+Information Subplan
+93 Units minimum
+25 units and 7 courses minimum of Information Depth coursework.
+Fulfill ALL of the following requirements:
+Track A Requirement
+Complete ALL of the following Courses:
+CS124 - From Languages to Information
+CS145 - Introduction to Big Data Systems
+AND
+Track B Requirement
+Complete two courses from different areas:
+Complete at least 2 of the following:
+Area I: Information-based AI Applications
+You can only select one course from each area.
+Complete at least 1 of the following Courses:
+CS224N - Natural Language Processing with Deep Learning
+CS224S - Spoken Language Processing
+CS229 - Machine Learning
+CS233 - Geometric and Topological Data Analysis
+CS234 - Reinforcement Learning
+OR
+Area II: Database and Information Systems
+You can only select one course from each area.
+Complete at least 1 of the following Courses:
+CS112 - Operating systems kernel implementation project
+CS140E - Operating systems design and implementation
+CS147L - Cross-platform Mobile App Development
+CS151 - Logic Programming
+CS246 - Mining Massive Data Sets
+OR
+Area III: Information Systems in Biology
+You can only select one course from each area.
+Complete at least 1 of the following Courses:
+CS235 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS270 - Modeling Biomedical Systems
+CS274 - Representations and Algorithms for Computational Molecular Biology
+OR
+Area IV: Information Systems on the Web
+You can only select one course from each area.
+Complete at least 1 of the following Courses:
+CS224W - Machine Learning with Graphs
+AND
+Electives
+Complete at least three additional courses selected from Track B List, the General CS Electives listed in the Electives section, or up to one course from the list of Optional Humanities Elective courses found in the Electives section.
+Systems Subplan
+Completion requirement
+Systems Subplan
+93 Units minimum
+25 units and 7 courses  minimum of Systems Depth coursework.
+Fulfill ALL of the following requirements:
+Track A Requirement
+Complete at least 1 of the following Courses:
+CS112 - Operating systems kernel implementation project
+CS140E - Operating systems design and implementation
+AND
+Track B Requirement
+Complete at least 1 of the following Courses:
+CS143 - Compilers
+EE180 - Digital Systems Architecture
+AND
+Track C Requirement
+Complete at least 2 of the following Courses:
+CS144 - Introduction to Computer Networking
+CS145 - Introduction to Big Data Systems
+CS149 - Parallel Computing
+CS155 - Computer and Network Security
+CS217 - Hardware Accelerators for Machine Learning
+CS240 - Advanced Topics in Operating Systems
+OR
+CS240LX - Advanced Systems Laboratory, Accelerated
+CS242 - Programming Languages
+CS243 - Program Analysis and Optimizations
+CS244C - Advanced Networking and Distributed Systems
+EE271 - Introduction to VLSI Systems
+EE282 - Computer Systems Architecture
+AND
+Track D Requirement: Subplan Electives
+Complete at least three additional courses selected from the Track C list above, the Subplan Electives listed below, or General CS Electives  or up to one Humanities course listed in the Electives section.
+Fulfill ANY of the following requirements:
+Subplan Elective Courses
+Complete ANY of the following Courses:
+CS241 - Embedded Systems Workshop
+CS295 - Software Engineering
+CS340R - Rusty Systems
+CS343D - Domain-Specific Programming Models and Compilers
+CS349D - AI Inference Infrastructure
+CS349H - Software Techniques for Emerging Hardware Platforms
+CS448I - Computational Imaging
+EE108 - Digital System Design
+EE382A - Parallel Processors Beyond Multicore Processing
+EE382C - Interconnection Networks
+EE384S - Performance Engineering of Computer Systems & Networks
+OR
+General CS Elective Courses
+You may also choose from the list of CS-BS General Electives courses listed in the Electives section. Up to one course from the Eligible Humanities Electives list (also found in the Electives section) may be used.
+Theory Subplan
+Completion requirement
+Theory Subplan
+93 Units minimum
+25 units and 7 courses  minimum of Theory Depth coursework.
+Fulfill ALL of the following requirements:
+Track A Requirement
+Complete ALL of the following Courses:
+CS154 - Introduction to the Theory of Computation
+AND
+Track B Requirement
+Complete at least 1 of the following Courses:
+CS168 - The Modern Algorithmic Toolbox
+CS255 - Introduction to Cryptography
+CS261 - Combinatorial Optimization
+CS265 - Randomized Algorithms and Probabilistic Analysis
+AND
+Track C Requirement
+Complete two additional courses from Track B list, or one of the following:
+Complete at least 2 of the following Courses:
+CS143 - Compilers
+CS151 - Logic Programming
+CS155 - Computer and Network Security
+CS157 - Computational Logic
+OR
+PHIL151 - Metalogic
+CS166 - Advanced Data Structures
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS233 - Geometric and Topological Data Analysis
+CS235 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS236 - Deep Generative Models
+CS242 - Programming Languages
+CS250 - Algebraic Error Correcting Codes
+CS251 - Cryptocurrencies and blockchain technologies
+CS254 - Computational Complexity
+CS259Q - Quantum Computing
+CS263 - Counting and Sampling
+CS264 - Beyond Worst-Case Analysis
+CS269I - Incentives in Computer Science
+CS355 - Advanced Topics in Cryptography
+*Enrollment in CS369 with permission of undergraduate advisor.
+AND
+Depth Electives
+Complete at least three additional courses selected from Track B or C lists above, the Subplan Electives listed below, or General CS Electives listed in the Electives section. Up to one course from the Eligible Humanities Electives list (also found in the Electives section) may be used.
+Fulfill ANY of the following requirements:
+Subplan Electives
+Complete ANY of the following Courses:
+CME302 - Numerical Linear Algebra
+CS254B - Computational Complexity II
+PHIL152 - Computability and Logic
+Unspecialized Subplan
+Completion requirement
+Unspecialized Subplan
+93 Units minimum
+25 units and 7 courses  minimum of Unspecialized Depth coursework.
+Fulfill ALL of the following requirements:
+Track A Requirement
+Complete ALL of the following Courses:
+CS154 - Introduction to the Theory of Computation
+AND
+Track B Requirement
+Complete at least 1 of the following Courses:
+CS112 - Operating systems kernel implementation project
+CS140E - Operating systems design and implementation
+CS143 - Compilers
+AND
+Track C Requirement
+Complete one additional course from the list above, or one of the following:
+Complete at least 1 of the following Courses:
+CS144 - Introduction to Computer Networking
+CS155 - Computer and Network Security
+CS242 - Programming Languages
+CS244C - Advanced Networking and Distributed Systems
+EE180 - Digital Systems Architecture
+AND
+Track D Requirement
+Complete at least 1 of the following Courses:
+CS221 - Artificial Intelligence: Principles and Techniques
+CS223A - Introduction to Robotics
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS238 - Decision Making under Uncertainty
+AND
+Track E Requirement
+Complete at least 1 of the following Courses:
+CS145 - Introduction to Big Data Systems
+CS147 - Introduction to Human-Computer Interaction Design
+CS148 - Introduction to Computer Graphics and Imaging
+CS168 - The Modern Algorithmic Toolbox
+CS173A - Foundations of Computational Human Genomics
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
+AND
+Depth Electives
+Complete at least two additional courses selected from the CS-BS General Electives list in the Electives section. You may also choose up to one course from the list of Eligible Humanities courses listed in the Electives section.
+Visual Computing Subplan
+Completion requirement
+Visual Computing Subplan
+93 Units minimum
+25 units and 7 courses  minimum of Visual Computing Depth coursework.
+Fulfill ALL of the following requirements:
+Visual Computing Core:
+Complete at least 2 of the following Courses:
+CS225A - Experimental Robotics
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+CS231N - Deep Learning for Computer Vision
+AND
+Visual Computing Depth:
+Complete at least 3 of the following Courses:
+CS205L - Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS223A - Introduction to Robotics
+CS224R - Deep Reinforcement Learning
+CS225A - Experimental Robotics
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS231N - Deep Learning for Computer Vision
+CS233 - Geometric and Topological Data Analysis
+CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS248B - Fundamentals of Computer Graphics: Animation and Simulation
+CS348C - Computer Graphics: Animation and Simulation
+CS348I - Computer Graphics in the Era of AI
+CS348K - Visual Computing Systems
+CS448I - Computational Imaging
+EE267 - Virtual Reality
+AND
+Track Electives
+Complete at least three additional courses selected from the Visual Computing Depth course list above, from the Subplan Electives list below, or the CS-BS General Electives list in the Electives section.
+Up to one
+Humanities course may be used.
+Fulfill ANY of the following requirements:
+Subplan Elective Courses
+Complete at least 3 of the following Courses:
+CS123 - A Hands-On Introduction to Building AI-Enabled Robots
+CS131 - Computer Vision: Foundations and Applications
+CS148 - Introduction to Computer Graphics and Imaging
+CS149 - Parallel Computing
+CS221 - Artificial Intelligence: Principles and Techniques
+CS224N - Natural Language Processing with Deep Learning
+CS229 - Machine Learning
+CS230 - Deep Learning
+CS234 - Reinforcement Learning
+CS236 - Deep Generative Models
+CS448B - Data Visualization
+CS448Z - Physically Based Animation and Sound
+EE261 - The Fourier Transform and Its Applications
+Individually Designed Subplan
+Completion requirement
+Individually Designed Subplan Overview
+Students may propose an Individually Designed Track that includes a minimum of seven courses and 25 units, at least four of which must be CS courses numbered 100 or above. Proposals must be submitted and approved at least two quarters before graduation. To create an individually designed program, students should complete an
+Individually Designed Track
+program sheet and obtain approval from their undergraduate advisor and the Associate Chair for Education, Chris Gregg. Proposals will be evaluated for coherence and rigor. Approved program sheets should be submitted to the staff in the CS undergraduate program office, and any subsequent changes must go through the same proposal and approval process.

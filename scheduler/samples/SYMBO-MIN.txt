@@ -1,0 +1,107 @@
+SYMBO-MIN - Symbolic Systems (Minor)
+Download as PDF
+Symbolic Systems
+Undergraduate Matriculated
+General
+Program Policies
+Program Overview
+The observation that both human beings and computers can manipulate symbols lies at the heart of Symbolic Systems, an interdisciplinary program focusing on the relationship between natural and artificial systems that represent, process, and act on information. Computer programs, natural languages, the human mind, and the Internet embody concepts whose study forms the core of the Symbolic Systems curriculum, such as computation, representation, communication, and intelligence. A body of knowledge and theory has developed around these notions from disciplines such as philosophy, computer science, linguistics, psychology, statistics, neurobiology, and communication. Since the invention of computers, researchers have been working across these disciplines to study questions such as: in what ways are computers and computer languages like human beings and their languages; how can the interaction between people and computers be made more accessible and more beneficial?
+Minimum Units in the Program
+18
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Symbolic Systems Minor Overview
+Students may minor in Symbolic Systems by completing either Option 1 or Option 2. For additional information, see the
+Symbolic Systems minors website
+.
+Option 1
+One course in each of the following core areas (please note that several of these courses have prerequisites):
+Fulfill ALL of the following requirements:
+Cognition
+Complete at least 1 of the following Courses:
+SYMSYS1 - Minds and Machines
+PSYCH45 - Introduction to Learning and Memory
+PSYCH50 - Introduction to Cognitive Neuroscience
+AND
+Logic and Computation
+Complete at least 1 of the following Courses:
+CS103 - Mathematical Foundations of Computing
+PHIL150 - Mathematical Logic
+PHIL151 - Metalogic
+AND
+Computer Programming
+Complete at least 1 of the following Courses:
+CS106B - Programming Abstractions
+CS106X - Programming Abstractions (Accelerated)
+CS107 - Computer Organization and Systems
+AND
+Philosophical Foundations
+Complete at least 1 of the following Courses:
+PHIL80 - Mind, Matter, and Meaning
+SYMSYS1 - Minds and Machines
+AND
+Linguistic Theory
+Complete at least 1 of the following Courses:
+LINGUIST105 - Phonetics
+LINGUIST110 - Introduction to Phonology
+LINGUIST121A - The Syntax of English
+LINGUIST121B - Crosslinguistic Syntax
+LINGUIST130B - Introduction to Lexical Semantics
+AND
+Computation and Cognition
+Complete at least 1 of the following Courses:
+CS131 - Computer Vision: Foundations and Applications
+CS221 - Artificial Intelligence: Principles and Techniques
+CS228 - Probabilistic Graphical Models: Principles and Techniques
+CS229 - Machine Learning
+CS231A - Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS234 - Reinforcement Learning
+CS379C - Computational Models of the Neocortex
+EE104 - Introduction to Machine Learning
+LINGUIST180 - From Languages to Information
+OR
+LINGUIST280 - From Languages to Information
+OR
+CS124 - From Languages to Information
+LINGUIST182 - Computational Theories of Syntax
+OR
+LINGUIST282 - Computational Theories of Syntax
+NENS220 - Computational Neuroscience
+PHIL356C - Logic and Artificial Intelligence
+PSYCH164 - Brain decoding
+PSYCH204 - Computation and Cognition: The Probabilistic Approach
+PSYCH209 - Neural Network Models of Cognition
+PSYCH240A - Curiosity in Artificial Intelligence
+OR
+EDUC234 - Curiosity in Artificial Intelligence
+PSYCH242 - A modern explainable AI approach to Theoretical Neuroscience
+OR
+APPPHYS293 - A modern explainable AI approach to Theoretical Neuroscience
+PSYCH249 - Large-Scale Neural Network Modeling for Neuroscience
+OR
+CS375 - Large-Scale Neural Network Modeling for Neuroscience
+PSYCH263 - Neuroscience of Visual Intelligence
+PSYCH279 - Measuring Learning in the Brain
+OR
+EDUC464 - Measuring Learning in the Brain
+OR
+NEPR464 - Measuring Learning in the Brain
+OR
+SYMSYS195M - Measuring Learning in the Brain
+course
+Minds and Machines (formerly SYMSYS 100) may not be counted for both the Cognition and Logic & Computation areas.
+Option 2
+Complete both of the following requirements:
+Fulfill ALL of the following requirements:
+Introduction
+Complete ALL of the following Courses:
+SYMSYS1 - Minds and Machines
+AND
+Interdisciplinary Concentration
+An interdisciplinary SSP concentration is listed on the
+SSP website
+.
+To qualify, the selection of courses used for the minor must be interdisciplinary; it must either include courses from at least three departments or have more than one course from each of two departments. The Individually Designed SSP Concentration option is not available for a minor. Contingent Electives, available when Symbolic Systems major Core courses are cross-applied to Concentration requirements, do not apply to a minor in Symbolic Systems.

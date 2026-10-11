@@ -1,0 +1,120 @@
+GEOPH-MS - Geophysics (MS)
+Download as PDF
+Geophysics
+Geophysics
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Geophysics is a hybrid discipline uniquely devoted to applying physical principles and methods to studying Earth’s and other planets’ complex systems (processes and properties). The undergraduate and graduate programs are designed to provide a background of fundamentals in science and courses to coordinate these fundamentals with the principles of geophysics. Graduate programs offer specialized training for professional work in resource exploration, research, and education and lead to the degrees of Master of Science and Doctor of Philosophy.
+Graduate Degrees
+describes university requirements for the MS and PhD.
+The MS program is available either as a standalone MS degree or as a coterminal degree.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+Students must complete a minimum of 45 units of coursework. Lecture courses (component LEC) must be taken for a letter grade unless S/NC is the only option offered. Students must maintain a GPA of 3.0 (B) grade point average overall in courses applicable to the degree. Students are encouraged, but not required, to attend the department seminar.
+Program Objectives:
+To enhance the student’s training for professional work in geophysics through completing courses and independent research.
+How We Study:
+Complete at least one course from any of the following 4 areas.
+Area 1. Computational methods involving data-intensive computing or numerical modeling [grouped below by subject area]
+Fulfill ANY of the following requirements:
+Statistics
+Complete ANY of the following Courses:
+EARTHSYS240 - Data Science for Geoscience
+CEE260G - Imaging with Incomplete Information
+OR
+Survey courses
+Complete ANY of the following Courses:
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+ME123 - Computational Engineering
+GEOPHYS112 - Exploring Geosciences with MATLAB
+OR
+Numerical linear algebra
+Complete ANY of the following Courses:
+CME200 - Linear Algebra with Application to Engineering Computations
+CME302 - Numerical Linear Algebra
+OR
+Numerical PDEs
+Complete ANY of the following Courses:
+CME206 - Introduction to Numerical Methods for Engineering
+CME306 - Computational Methods of Applied Mathematics
+CME322 - Spectral Methods in Computational Physics
+OR
+Scientific computing/Programming
+Complete ANY of the following Courses:
+CME212 - Programming for performance
+CME213 - Introduction to parallel computing using MPI, openMP, and CUDA
+GEOPHYS245 - Computational Earth System Analysis
+OR
+Optimization/ML/AI
+Complete ANY of the following Courses:
+CME364A - Convex Optimization I
+CS229 - Machine Learning
+CS230 - Deep Learning
+GEOPHYS248 - Machine Learning and the Physical Sciences
+OR
+Numerical methods for solids
+Complete ANY of the following Courses:
+ME335A - Finite Element Analysis
+CEE310 - Computational Solid Mechanics
+CEE281 - Mechanics and Finite Elements
+CEE314 - Computational Poromechanics
+OR
+Numerical methods for fluids
+Complete ANY of the following Courses:
+AA214 - Numerical Methods for Compressible Flows
+ME405 - Asymptotic Methods in Computational Engineering
+CEE262C - Computational Fluid Dynamics for Geophysical Flows
+Area 2. Laboratory-scale studies of physical properties and processes
+Complete ANY of the following Courses:
+GEOPHYS259 - Laboratory Characterization of Properties of Rocks and Geomaterials
+GEOPHYS239 - Paleomagnetism
+MATSCI320 - Nanocharacterization of Materials
+Area 3. Observations of Earth and planets using various forms of measurement (waves and potential fields)
+Complete ANY of the following Courses:
+GEOPHYS130 - Introductory Seismology
+GEOPHYS190 - Near-Surface Geophysics: Imaging Groundwater Systems
+GEOPHYS230 - Ice Penetrating Radar
+GEOPHYS258J - Introduction to Radar Remote Sensing
+GEOPHYS265 - Imaging Radar and Applications
+GEOPHYS280 - 3-D Seismic Imaging
+GEOPHYS281 - Geophysical Inverse Problems
+GEOPHYS241A - Seismic Reservoir Characterization
+GEOPHYS250 - Fiber Sensing for a Sustainable Planet
+Area 4: Physics-based modeling of Earth processes and materials
+Complete ANY of the following Courses:
+GEOPHYS220 - Geophysical Mechanics and Dynamics
+GEOPHYS238 - Waves in Solids and Fluids
+GEOPHYS228 - Modeling Earth
+ESS246A - Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation
+ESS246B - Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation
+GEOPHYS262 - Rock Physics
+GEOPHYS203 - Fluids and Flow in the Earth: Computational Methods
+What We Study
+“What we study” in geophysics ranges broadly across many areas: atmosphere, climate, cryosphere, energy, freshwater, geomaterials, hazards, oceans, other planets, tectonics/geodynamics/Earth’s interior.
+In consultation with their faculty advisor, students must identify and take 1-2 courses, each at least three units, that enhance their understanding of “what they study” or provide breadth and understanding in other areas of “what we study.”
+A small subset of the classes from the  “How We Study” list (the 4 areas identified there/above) may be used to satisfy the “What We Study” requirement.
+Such a class may be used to fulfill either the “How we study” or “What we study” requirement, but not both. These classes are:
+GEOPHYS 230
+GEOPHYS 239
+Department research overview – 1 unit
+Complete ALL of the following Courses:
+GEOPHYS201 - Frontiers of Geophysical Research at Stanford
+Research Units
+Earn at least 6 credits from the following:
+GEOPHYS400 - Research in Geophysics
+Additional courses
+The remaining units, to reach a total of 45 units, are from courses deemed relevant by the student and advisor to the student’s education in geophysics. GEOPHYS 400 can be used for some or all of these units.
+Complete ANY of the following Courses:
+GEOPHYS400 - Research in Geophysics
+Research presentation and report
+The student must present their research in a public, oral presentation attended by their advisor and one other Stanford faculty member and submit a written report to their advisor.

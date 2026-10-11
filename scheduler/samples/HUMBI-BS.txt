@@ -1,0 +1,226 @@
+HUMBI-BS - Human Biology (BS)
+Download as PDF
+Human Biology
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The undergraduate program in Human Biology provides students with an interdisciplinary approach to understanding human beings from biological, behavioral, social, and cultural perspectives. Core courses train students to approach significant problems from a range of perspectives. As they progress through the major, each student pursues an individualized course of study that draws upon disciplines across the university and promotes a nuanced understanding of a substantive area. The program prepares majors to pursue advanced training in professional or graduate programs and to address issues that influence human welfare.
+The BS degree allows students a scientific and technical focus for their studies. It requires completion of coursework and specialization in the biological sciences, physical sciences, mathematics, and/or computer science and engineering. The degree suits various career trajectories, including attending graduate or professional school, such as medical school. Students who plan to pursue graduate work should familiarize themselves with the admission requirements of the schools to which they intend to apply. A total of 81 units of credit are required for graduation, so early planning is advisable to guarantee the completion of a Human Biology major.
+BS Degree Option Requirement
+For the BS degree, coursework must be predominantly in the natural sciences, mathematics, computer science, and/or engineering, with a minority in the social sciences. Courses designated as Ways for applied quantitative reasoning, formal reasoning, and courses in scientific methods and analysis qualify as BS-eligible. Other eligible courses have been designated as BS by the program.
+More details about meeting this requirement can be found in the sections describing Breadth, Depth, & Upper Division degree requirements.
+Area of Concentration
+After completing the Human Biology Core, majors design their individualized course of study with a unique Area of Concentration topic. The Area of Concentration title should communicate the focus of the student’s Human Biology coursework. Students should select courses for their Breadth and Depth requirements that build expertise in their chosen Area of Concentration topic. The student selects courses for these two requirement categories in consultation with the advising staff, who approve the final course selections.
+Additional information about the major may be obtained from the program’s offices or at
+the Program in Human Biology
+website.
+Minimum Units in the Program
+81
+Minimum University Units
+180
+Collapse All
+Students must complete a minimum of 81 units:
+Core | 30 units
+Statistics | 3-5 units
+Breadth in Discipline | 20-25 units
+Depth in Discipline | 18-25 units (5-7 courses)
+Electives | 9 units (3 courses)
+Capstone | 1+ units (variable based on option chosen)
+Core Program Requirements
+Completion requirement
+Human Biology Core Sequence Requirement
+The required core sequence introduces the biological and social sciences and, most importantly, the relationships between the two. Classes meet throughout the academic year. The A and B series are designed to be taken concurrently. Students should initiate the core in autumn quarter of the sophomore year. Freshman are strongly advised to wait to start the HumBio Core Sequence until the autumn of sophomore year.
+Earn a minimum letter of C- in the following:
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+HUMBIO2B - Culture, Evolution, and Society
+HUMBIO3A - Cell and Developmental Biology
+HUMBIO3B - Health Policy Analysis and Population Health
+HUMBIO4A - The Human Organism
+HUMBIO4B - Development and Epidemiology
+Statistics Requirement
+Complete one of the following:
+Earn a minimum letter of C- in the following:
+BIO141 - Introduction to Statistics for Biology
+BMDS202 - An overview of Biomedical Data Science
+CME106 - Introduction to Probability and Statistics for Engineers
+CS109 - Introduction to Probability for Computer Scientists
+ECON102A - Introduction to Statistical Methods (Postcalculus) for Social Scientists
+ECON102B - Applied Econometrics
+EDUC400A - Introduction to Statistical Methods in Education
+EPI159 - Introduction to Probability and Statistics for Epidemiology
+EPI262 - Intermediate Biostatistics: Regression, Prediction, Survival Analysis
+HUMBIO88 - Introduction to Statistics for the Health Sciences
+HUMBIO89 - Introduction to Health Sciences Statistics
+MATH151 - Introduction to Probability Theory
+SOC180B - Introduction to Data Analysis
+STATS101 - Data Science 101
+STATS110 - Introduction to Statistics for Engineering and the Sciences
+STATS117 - Introduction to Probability Theory
+STATS202 - Statistical Learning and Data Science
+New statistics courses offered by other departments may be petitioned for program review by submitting a syllabus to humbioadvising@lists.stanford.edu. STATS 60/PSYCH 10 does not fulfill the requirement; petitions are not accepted.
+When students completing an additional major or minor in another department that also requires one of the approved courses to fulfill the statistics requirement then a student may submit an exception to waive the course requirement; contact Human Biology student services for more information.
+Breadth in Discipline
+Completion requirement
+Breadth in Discipline
+This requirement allows the student to explore the Area of Concentration topic with a broad focus. Courses must be consistent with the student’s chosen Area of Concentration topic and be approved by the HumBio advising team. Courses may include introductory-level courses (course numbers ending in N or Q are introductory seminars), lab courses, and practica from across the university. Activity, language and non-Ways general education courses are not allowed.
+Earn at least 20 credits
+Must include a  minimum of ten units designated as BS coursework.
+May include a maximum of ten flex units (these include premed courses, introductory CS courses, and other introductory courses that are peripherally related to the Area of Concentration).
+May include a maximum of four research units in research related to the Area of Concentration.
+Honors students may not count
+HUMBIO193
+towards the breadth requirement.
+Degree Option Note: BS units are defined as coursework predominantly in the natural sciences, mathematics, computer science, and/or engineering fields, designated as Ways for SMA, AQR, and FR or designated as BS by the program.
+Depth in Discipline
+Completion requirement
+Depth in Discipline
+This requirement allows the student to gain expertise in their chosen Area of Concentration topic. Depth courses are upper-level, non-introductory courses from across the university and must be consistent with the student’s chosen Area of Concentration topic, which is PRE-APPROVED along with the chosen courses by the HumBio advising team.  Activity, workshop, speaker series and practica courses are not allowed.
+Earn at least 18 credits
+Minimum five depth-eligible courses directly related to the Area of Concentration.
+Within the HumBio program, courses numbered over 100* are depth eligible as long as they are also related to the Area of Concentration.
+*Note: numbering conventions in other departments do NOT have any bearing on whether a course is, or is not, depth eligible.
+Each course must be taken for a minimum of three credits.
+Three or more departments must be represented.
+Cross listed HumBio courses may count towards this requirement without enrolling in the other department's section.
+B.S. Degree Option Depth Requirement
+Five upper-level courses must be BS courses within the depth and upper-division requirements. The majority of the depth coursework must be designated as BS, a minimum of three courses.
+BS courses are predominately in the natural sciences, mathematics, computer science, and/or engineering fields, designated as Ways for SMA, AQR, and FR or designated as BS by the program.
+Electives
+Completion requirement
+Complete 3 HumBio Courses
+Students must take three upper-division Human Biology courses. These courses may be used to explore subjects outside the depth requirement. All advanced HUMBIO courses (those numbered 100-189) and select Overseas Studies courses fulfill the Human Biology upper-division requirement.
+Fulfill ANY of the following requirements:
+HumBio 100 Level Courses
+Complete at least 3 courses in the following Course Sets:
+Untitled Course Set
+OR
+Overseas Studies
+Students who study abroad may choose to use courses from the Overseas Studies Approved Course list below to count towards the three courses required by the upper division requirement.
+Complete ANY of the following Courses:
+OSPAUSTL28 - Terrestrial Ecology and Conservation
+OSPCPTWN43 - Public and Community Health in Sub-Saharan Africa
+OSPCPTWN49 - Foundations of Public Health and Social Justice
+OSPCPTWN79 - Engaging Southern Cities: Thinking urbanization, development, and public culture from Cape Town
+OSPHONGK44 - Medical Sociology
+OSPMADRD10 - Global Change in the Anthropocene: An Iberoamerican Perspective
+OSPMADRD57 - Health Care: A Contrastive Analysis between Spain and the U.S.
+OSPOXFRD67 - Pandemics in Cultural Context
+OSPOXFRD84 - The Promises and Perils of Social and Behavioral Genomics
+OSPPARIS18 - Health Policy and Health Care System Design
+OSPPARIS75P - Exploring Sustainability: Ecological, Economics and Environmental Humanities
+The list of courses have been previously reviewed by the program and are considered upper-division HUMBIO courses. New Overseas Studies courses with significant Human Biology curricular themes may be submitted for program review via syllabus submission to humbioadvising@lists.stanford.edu.
+Each upper-division course must be taken for a minimum of three units.
+No more than two upper-division courses may be applied towards the five upper-level courses required by the BS Degree Option Depth Requirement, even if all three upper-division courses qualify as BS courses.
+Upper-division courses may not be reused to fulfill breadth or depth requirements.
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+Complete ALL of the following Courses:
+HUMBIO2B - Culture, Evolution, and Society
+AND
+HUMBIO3B - Health Policy Analysis and Population Health
+AND
+HUMBIO4B - Development and Epidemiology
+Capstone
+Completion requirement
+Capstone: a culminating experience completed during senior year.
+Fulfill ANY of the following requirements:
+Practicum (1 unit)
+Complete ALL of the following Courses:
+HUMBIO191 - Human Biology Practicum
+Students should work toward completing their Practicum throughout their entire senior year and enroll in
+course
+during the quarter they plan to complete the Practicum.
+OR
+Synthesis (6 units)
+The Human Biology Synthesis is
+by application
+. Applications are accepted on a rolling basis through week two of the senior-year autumn quarter.
+Complete 2 - 3 course(s) and earn 6 or more credit(s) from the following:
+HUMBIO192A - Human Biology Synthesis
+HUMBIO192W - Human Biology Synthesis
+HUMBIO192S - Human Biology Synthesis
+OR
+Human Biology Honors
+Complete ALL of the following Courses:
+HUMBIO194 - Honors
+Most honors projects include 10-15 units of total coursework between
+course
+and
+course
+.
+OR
+Interdisciplinary Honors (6-32 units)
+Complete ANY of the following Programs:
+ARTS-IHN
+CSRE-IHN
+DDRL-IHN
+ED-IHN
+ETHSO-IHN
+FGSS-IHN
+INSST-IHN
+STS-IHN
+Notation in Science Communication
+The Notation in Science Communication is by
+application
+through the Program in Writing and Rhetoric. Note that students must fulfill all the requirements for the
+Notation in Science Communication
+in order to fulfill the capstone requirement. NSC courses, both required and elective, may not be counted towards the breadth or depth requirements if used to fulfill the Human Biology Capstone requirement.
+Fulfill ALL of the following requirements:
+Required Courses
+Complete ALL of the following Courses:
+PWR91NSC - Intermediate Writing: Introduction to Science Communication
+PWR99ANSC - NSC Portfolio Preparation I
+PWR99BNSC - NSC Portfolio Preparation II
+AND
+PWR Elective Courses
+Students must complete one of the PWR 91 courses listed
+or
+a PWR194 course
+that is tagged for the specific notation
+(
+aside from PWR 91NSC, which is already required).
+Complete at least 1 of the following Courses:
+PWR91NK - Sexual Health Communication: Strategies to Save Lives
+PWR91KSA - Intermediate Writing: Storytelling and Science
+PWR91MF - Intermediate Writing: Art in/and Science Communication
+See
+NSC Overview
+for specific approved courses.
+AND
+Non-PWR Elective Course
+An additional (3-5 unit) non-PWR elective course is required to complete the Notation in Science Communication.
+This website
+lists sample courses that could qualify as non-PWR elective courses. Students must email
+notationsc@stanford.edu
+with their choice of elective course, whether that course is on this list or not, in order for that course to count toward their progress in the Notation. If you have questions about the non-PWR Elective course requirement, email
+notationsc@stanford.edu.
+WIM courses may not double- count towards both the department and NSC requirements.
+Students should submit their NSC course plans to Human Biology student services no later than the Senior year degree progress check.
+Many of the Capstone options require applications before the Senior year. Students should refer to individual programs’ websites for specific deadlines. Students on an alternate timeline toward graduation should consult the Capstone Director.
+Honors
+Completion requirement
+Honors (optional)
+The honors program in Human Biology provides qualified majors the opportunity to work closely with faculty on an individual research project, culminating in an honors thesis. Students may begin honors research from several starting points, including topics introduced in the core or upper-division courses; independent interests stemming from an internship experience; or collaborating with faculty from the natural, social, or behavioral sciences.
+The honors thesis is typically completed by the middle of spring quarter of the senior year. Honors students present summaries of their research at the Human Biology Senior Symposium in May.
+Complete ALL of the following Courses:
+HUMBIO193 - Research in Human Biology
+HUMBIO194 - Honors
+Most honors projects involve 10-15 units of coursework in
+course
+and
+course
+. Students must remain in good academic standing and earn the minimum grade of B+ in
+course
+to earn an Honors degree.
+Admission to the honors program is by preliminary application in early February, followed by the complete application in early March of the junior year. Students planning to undertake honors begin research or preparation as early as the completion of the sophomore year, for example, by engaging in the
+HB-REx program
+or other summer research programs.
+To apply to the honors program, students must have completed the Human Biology core with a minimum GPA of 3.0, have an overall Stanford GPA of 3.2 or greater, and meet other requirements detailed in the honors handbook. Interested students should consult the
+Human Biology Honors website
+and meet with the Human Biology Associate Director or Student Services Officer.
+Human Biology also holds a Summer Honors College just before autumn quarter each year for students who have applied to the honors program. Students apply to Summer Honors College in April of their junior year.

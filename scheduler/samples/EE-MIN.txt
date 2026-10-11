@@ -1,0 +1,49 @@
+EE-MIN - Electrical Engineering (Minor)
+Download as PDF
+Electrical Engineering
+Undergraduate Matriculated
+General
+Program Policies
+Program Overview
+The EE-MIN degree program consists of EE coursework as outlined below. Any prerequisite math or science courses outside the EE core and elective courses listed may be duplicated in the major or another degree program.
+Minimum Units in the Program
+23
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+EE Fundamental
+Select one EE Fundamental (five units minimum)
+Complete ANY of the following Courses:
+EE42 - Introduction to Electromagnetics and Its Applications
+EE65 - Modern Physics for Engineers
+ENGR40M - An Intro to Making: What is EE
+ENGR76 - Information Science and Engineering
+Course must be taken for a letter grade if that option is offered.
+Select one two-course sequence (eight units minimum).
+Complete ANY of the following Courses:
+EE101A - Circuits I
+AND
+EE101B - Circuits II
+EE102A - Signals and Systems I
+AND
+EE102B - Signals and Systems II
+EE102A - Signals and Systems I
+AND
+ENGR108 - Introduction to Matrix Methods
+EE108 - Digital System Design
+AND
+EE180 - Digital Systems Architecture
+All courses must be taken for a letter grade if that option is offered.
+Addititional letter-graded courses (12 units minimum)
+In addition, four letter-graded EE courses at the 100-level or higher must be taken (12 units minimum).
+Note:
+CS107E
+or
+course
+is required as a prerequisite for
+course
+but can count as one of the four classes.
+Earn at least 12 credits
+Seminars may not be used to fulfill requirements for the minor.

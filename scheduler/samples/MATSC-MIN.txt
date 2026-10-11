@@ -1,0 +1,81 @@
+MATSC-MIN - Materials Science and Engineering (Minor)
+Download as PDF
+Materials Science and EngineeringUndergraduate Matriculated
+General
+Program Policies
+Program Overview
+
+A Materials Science and Engineering minor allows interested students to explore the role of materials in modern technology and understand the fundamental processes that govern materials behavior.
+
+Minimum Units in the Program
+22
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Engineering Fundamentals
+Complete at least 1 of the following Courses:
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+
+Materials Science Fundamentals and Engineering Depth
+Complete at least 6 of the following Courses:
+MATSCI88Q - Edible Materials: The science of texture
+
+MATSCI126 - Invention to Innovation: The Process of Translation
+
+MATSCI142 - Quantum Mechanics of Nanoscale Materials
+
+MATSCI143 - Materials Structure and Characterization
+
+MATSCI144 - Thermodynamic Evaluation of Green Energy Technologies
+
+MATSCI145 - Kinetics of Materials Synthesis
+
+MATSCI151 - Microstructure and Mechanical Properties
+
+MATSCI152 - Electronic Materials Engineering
+
+MATSCI156 - Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution
+
+MATSCI160 - Nanomaterials Design
+
+MATSCI161 - Energy Materials Laboratory
+
+MATSCI162 - X-Ray Diffraction Laboratory
+
+MATSCI163 - Mechanical Behavior Laboratory
+
+MATSCI164 - Electronic and Photonic Materials and Devices Laboratory
+
+MATSCI165 - Nanoscale Materials Physics Computation Laboratory
+
+MATSCI166 - Data Science and Machine Learning Approaches in Chemical and Materials Engineering
+
+MATSCI181 - Thermodynamics and Phase Equilibria
+
+MATSCI182 - Rate Processes in Materials
+
+MATSCI183 - Defects and Disorder in Materials
+
+MATSCI184 - Structure and Symmetry
+
+MATSCI185 - Quantum Mechanics for Materials Science
+
+MATSCI190 - Organic and Biological Materials
+
+MATSCI195 - Waves and Diffraction in Solids
+
+MATSCI198 - Mechanical Properties of Materials
+
+MATSCI199 - Electronic and Optical Properties of Solids
+
+MATSCI201 - Applied Quantum Mechanics I
+
+MATSCI303 - Principles, Materials and Devices of Batteries
+
+*Any MatSci course 100+ taken for a minimum of 3 units can count towards six class requirement

@@ -1,0 +1,282 @@
+MGTSC-BS - Management Science and Engineering (BS)
+Download as PDF
+Management Science and Engineering
+Undergraduate Matriculated
+BS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The Management Science and Engineering undergraduate program provides students with the fundamentals of engineering systems analysis to plan, design, and implement complex economic and technical management systems. The program builds on foundational courses in calculus and linear algebra. You complete core courses in mathematical modeling, systems analysis, organization theory, optimization, probability, statistics, ethics, computer science, and economics, leading to a senior capstone project. Through the core, you are exposed to the breadth of faculty interests and prepared to study different areas of application of the department’s methodologies. To personalize your exploration, you select additional courses from three application areas of the department:
+Finance and Decision:
+focuses on designing and analyzing financial and strategic plans
+Operations and Analytics:
+focuses on algorithms, theory,  designing and analyzing manufacturing, production, and service systems
+Organizations, Technology, and Policy:
+focuses on understanding, designing, and analyzing organizations and public policy, particularly technology-based issues
+The major prepares you for various career paths, including investment banking, management consulting, facilities, and process management, or graduate school in industrial engineering, operations research, business, economics, law, medicine, or public policy.
+Minimum Units in the Program
+95
+Minimum University Units
+180
+Collapse All
+School Requirements
+Completion requirement
+School Requirements for the BS in Management Science and Engineering
+Fulfill ALL of the following requirements:
+Introductory Mathematics
+Complete ALL of the following Courses:
+MATH19 - Calculus
+MATH20 - Calculus
+MATH21 - Calculus
+Students with ten AP Mathematics Calculus BC credit units receive credit for MATH 19, 20, and 21 and begin with CME 100/MATH 51. Students with six AP Mathematics Calculus AB/IB unit credits receive credit for MATH 19 and 20 and begin with MATH 21. Students without AB/IB credit, who have already studied the material in MATH 19 or MATH 20, may begin with MATH 20 or MATH 21 and petition to waive the skipped courses.
+AND
+Mathematics, Probability, and Statistics
+Complete ALL of the following Courses:
+CME100 - Vector Calculus for Engineers
+OR
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+ENGR108 - Introduction to Matrix Methods
+MS&E120 - Introduction to Probability
+MS&E121 - Introduction to Stochastic Modeling
+MS&E125 - Introduction to Applied Statistics
+AND
+Science
+Complete ANY of the following Courses:
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO85 - Evolution
+CHEM31A - Chemical Principles I
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+PHYSICS21 - Mechanics and Fluids
+PHYSICS23 - Electricity, Magnetism, and Optics
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS43 - Electricity and Magnetism
+AP/IB credit for Chemistry or Physics may be used for this requirement.
+AND
+Technology in Society
+Complete ANY of the following Courses:
+AA252 - Techniques of Failure Analysis
+BIOE131 - Ethics in Bioengineering
+CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
+CEE145E - Equitable Infrastructure Solutions
+COMM154 - The Politics of Algorithms
+CS120 - Introduction to AI Safety
+CS121 - Equity and Governance for Artificial Intelligence
+CS139 - Human-Centered AI
+CS152 - Trust and Safety
+CS182 - Ethics, Public Policy, and Technological Change
+CS222 - AI Agents and Simulations
+CS256 - Algorithmic Fairness
+CS278 - Social Computing
+EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
+ENGR148 - Principled Entrepreneurial Decisions
+EPS194 - Technology, International Security, and Sustainability
+HUMBIO174 - Foundations of Bioethics
+MS&E179 - Entrepreneurship for Everyone
+NBIO101 - Social and Ethical Issues in the Neurosciences
+POLISCI114S - International Security in a Changing World
+PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
+STS1 - Introduction to Science, Technology & Society
+STS115 - The Ethics of Developing Life-Saving Technologies for Children
+A course may only be counted towards one major requirement; courses used to satisfy the TiS requirement may not also be used to meet a depth area requirement.
+AND
+Engineering Fundamentals
+Complete ALL of the following Courses:
+CS106A - Programming Methodology
+MS&E111 - Introduction to Optimization
+OR
+MS&E111DS - Introduction to Optimization: Data Science
+OR
+MS&E111X - Introduction to Optimization (Accelerated)
+AP credit for CS 106A may be used.  Students may petition to waive
+course
+Programming Methodology after completion of
+course
+Programming Abstraction.
+AND
+Engineering, Mathematics, or Science Elective
+Complete at least 1 of the following Courses:
+ENGR10 - Introduction to Engineering Analysis
+ENGR14 - Intro to Solid Mechanics
+ENGR15 - Dynamics
+ENGR20 - Introduction to Chemical Engineering
+ENGR21 - Engineering of Systems
+ENGR40M - An Intro to Making: What is EE
+ENGR42 - Introduction to Electromagnetics and Its Applications
+ENGR50 - Introduction to Materials Science, Nanotechnology Emphasis
+ENGR50E - Introduction to Materials Science, Energy Emphasis
+ENGR50M - Introduction to Materials Science, Biomaterials Emphasis
+ENGR55 - Foundational Biology for Engineers
+ENGR65 - Modern Physics for Engineers
+ENGR76 - Information Science and Engineering
+ENGR80 - Introduction to Bioengineering (Engineering Living Matter)
+ENGR90 - Environmental Science and Technology
+CEE101D - Computations in Civil and Environmental Engineering
+CME102 - Ordinary Differential Equations for Engineers
+CME104 - Linear Algebra and Partial Differential Equations for Engineers
+CME108 - Introduction to Scientific Computing with Machine Learning Applications
+CS103 - Mathematical Foundations of Computing
+MATH52 - Integral Calculus of Several Variables
+MATH53 - Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications
+MATH61CM - Modern Mathematics: Continuous Methods
+MATH61DM - Modern Mathematics: Discrete Methods
+MATH62CM - Modern Mathematics: Continuous Methods
+MATH62DM - Modern Mathematics: Discrete Methods
+MATH63CM - Modern Mathematics: Continuous Methods
+MATH63DM - Modern Mathematics: Discrete Methods
+MATH104 - Applied Matrix Theory
+MATH106 - Functions of a Complex Variable
+MATH109 - Groups and Symmetry
+MATH110 - Number Theory for Cryptography
+MATH113 - Linear Algebra and Matrix Theory
+MATH115 - Functions of a Real Variable
+MATH120 - Groups and Rings
+MATH121 - Galois Theory
+MATH131P - Partial Differential Equations
+BIO81 - Introduction to Ecology
+BIO82 - Genetics
+BIO83 - Biochemistry & Molecular Biology
+BIO84 - Physiology
+BIO85 - Evolution
+BIO86 - Cell Biology
+BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
+BIO46 - Introduction to Research in Ecology and Evolutionary Biology
+BIO47 - Introduction to Research in Ecology and Evolutionary Biology
+BIO150 - Human Behavioral Biology
+CEE63 - Weather and Storms
+CEE64 - Air Pollution and Global Warming: History, Science, and Solutions
+CEE70 - Environmental Science and Technology
+CHEM31A - Chemical Principles I
+CHEM31B - Chemical Principles II
+CHEM31E - Chemical Foundations and 21st Century Problems
+CHEM33 - Structure and Reactivity of Carbon-Based Molecules
+CHEM121 - Understanding the Natural and Unnatural World through Chemistry
+CHEM123 - Organic Polyfunctional Compounds
+EARTHSYS2 - Chemistry of the Earth and Planets
+EARTHSYS10 - Introduction to Earth Systems
+EARTHSYS11 - Introduction to Geology
+EARTHSYS110 - Introduction to the Foundations of Contemporary Geophysics
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+HUMBIO3A - Cell and Developmental Biology
+HUMBIO4A - The Human Organism
+PHYSICS21 - Mechanics and Fluids
+PHYSICS23 - Electricity, Magnetism, and Optics
+PHYSICS25 - Modern Physics
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS43 - Electricity and Magnetism
+PHYSICS45 - Light and Heat
+PHYSICS61 - Mechanics and Special Relativity
+PHYSICS71 - Quantum and Thermal Physics
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+AP/IB credit for Chemistry or Physics may be used for this requirement, if not used for the Science requirement above. A course may only be counted towards one major requirement; courses used to satisfy the Science requirement may not also be used to satisfy the Engineering, Mathematics, or Science Elective requirement.
+All courses must be taken for a letter grade.
+Core Program Requirements
+Completion requirement
+Core Requirements for the BS in Management Science and Engineering
+Complete ALL of the following Courses:
+CS106B - Programming Abstractions
+ECON1 - Principles of Economics
+ECON50Q - Economic Analysis I (Quantitative)
+OR
+MS&E141 - Economic Analysis
+MS&E108 - Senior Project
+MS&E180 - Organizations: Theory and Management
+OR
+MS&E180S - Organizations: Theory and Management
+All courses must be taken for a letter grade.
+Depth in Discipline
+Completion requirement
+Depth Requirements for the BS in Management Science and Engineering
+Complete eight total courses; a minimum of two from each of the three areas. Students may petition to take one related course not listed. All courses must be taken for a letter grade.
+Fulfill ALL of the following requirements:
+Finance and Decision Area Courses
+Complete at least 2 of the following Courses:
+MS&E140 - Accounting for Managers and Entrepreneurs
+MS&E141 - Economic Analysis
+MS&E145 - Introduction to Finance and Investment
+MS&E146 - Corporate Financial Management
+MS&E152 - Introduction to Decision Analysis
+MS&E242 - Machine Learning for Algorithmic Trading
+MS&E244 - Statistical Arbitrage
+MS&E245A - Investment Science
+MS&E245B - Advanced Investment Science
+MS&E246 - Financial Risk Analytics
+MS&E247 - Decentralized Finance & Blockchain: Innovation, Applications, and Entrepreneurship
+MS&E250A - Reliability and Resilience of Engineered Systems
+MS&E250B - Project Course in Engineering Risk Analysis
+MS&E252 - Foundations of Decision Analysis
+AND
+Operations and Analytics Area Courses
+Complete at least 2 of the following Courses:
+MS&E112 - Graph and Combinatorial Optimization
+MS&E130 - Information Networks and Services
+MS&E134 - Data Science for Social Impact
+MS&E135 - Networks
+MS&E215 - Beyond Worst-Case Analysis
+MS&E218 - Applied Data Science
+MS&E223 - Stochastic Simulation and Monte Carlo Methods
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E228 - Applied Causal Inference with Machine Learning and AI
+MS&E229 - Bayesian Linear Regression
+MS&E230 - Market Design for Engineers
+MS&E232 - Introduction to Game Theory
+OR
+MS&E232H - Introduction to Game Theory (Accelerated)
+MS&E233 - Game Theory, Data Science and AI
+MS&E235A - Markov Decision Processes
+MS&E235B - Reinforcement Learning: Behaviors and Applications
+MS&E236 - Machine Learning for Discrete Optimization
+MS&E239 - Market Design in Action
+MS&E260 - Introduction to Operations Management
+MS&E262 - Topics in Service and Supply Chain Management
+MS&E263 - Healthcare Operations Management
+MS&E463 - Healthcare Systems Design
+AND
+Organization, Technology, and Policy Area Courses
+Complete at least 2 of the following Courses:
+ENGR145 - Technology Entrepreneurship
+OR
+ENGR145S - Technology Entrepreneurship
+ENGR148 - Principled Entrepreneurial Decisions
+ENGR245 - The Lean LaunchPad: Getting Your Lean Startup Off the Ground
+MS&E165 - Introduction to Product Management
+MS&E175 - Innovation, Creativity, and Change
+MS&E176 - Social Entrepreneurship
+MS&E179 - Entrepreneurship for Everyone
+MS&E184 - The Future of Work: What Will it Mean to Build AI-Augmented Organizations?
+MS&E188 - Organizing for Good
+MS&E243 - Energy and Environmental Policy Analysis
+MS&E254 - The Ethical Analyst
+MS&E256 - Technology Assessment and Regulation of Medical Devices
+MS&E271 - Global Entrepreneurial Marketing
+MS&E272 - Entrepreneurship without Borders
+MS&E273 - Venture Creation for the Real Economy
+MS&E275 - AI-pilled: Building the AI-Native Company
+MS&E276 - Entrepreneurial Management and Finance
+MS&E278 - Patent Law and Strategy for Innovators and Entrepreneurs
+MS&E284 - Managing Data Science Organizations for Innovation and Impact
+MS&E288 - Managing Innovation and Driving Adoption of Frontier Technologies
+MS&E289 - Ethics in Global Technology Design
+MS&E292 - Health Policy Modeling
+MS&E295 - Innovating for National Security Workshop
+MS&E296 - Technology, Innovation and Great Power Competition
+MS&E297 - "Hacking for Defense": Solving National Security issues with the Lean Launchpad
+MS&E299 - Entrepreneurship Inside Government
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+Complete ALL of the following Courses:
+MS&E108 - Senior Project
+Capstone
+Completion requirement
+Capstone Experience
+Complete ALL of the following Courses:
+MS&E108 - Senior Project

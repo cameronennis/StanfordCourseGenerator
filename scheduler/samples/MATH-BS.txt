@@ -1,0 +1,137 @@
+MATH-BS - Mathematics (BS)
+Download as PDF
+MathematicsUndergraduate MatriculatedBS - Bachelor of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+
+The undergraduate program in Mathematics aims to provide students with a broad understanding of mathematics encompassing logical reasoning, generalization, abstraction, and formal proof. Courses in the program teach students to create, analyze, and interpret mathematical models and to communicate sound arguments based on mathematical reasoning and careful data analysis. The mathematics degree prepares students for careers in the tech and finance industries, graduate programs in quantitative fields, computational sciences, and the corporate sector.
+
+Minimum Units in the Program
+61
+Minimum University Units
+180
+Collapse All
+Core Program Requirements
+Completion requirement
+Math Course Requirement
+8 Math courses at the 100-level and above (including Math 56) plus 25 more units of Math classes (usually fulfilled using single and multivariable calculus).
+
+At least eight Math courses above MATH63CM/MATH63DM.
+
+MATH56 may count toward the eight courses.
+
+STATS 116 (No longer offered), STATS118 or STATS200 (at most one among STATS 118 and STATS 200, but not both, and neither if STATS 116 is being used), PHIL151, & PHIL152 count as 100-level Math courses. No other classes outside the Math department can count in this way. There are no exceptions to this for any reason.
+
+The following course do not count toward the Math Course Requirement:
+
+MATH190, MATH193, MATH193X, MATH197, MATH198, and MATH199 (MATH 190, MATH193X and MATH199 can count towards the Elective Course Requirement, see below.)
+
+Up to 10 units of Single Variable Calculus can be used as part of the Math Course Requirement.
+
+Only Math 50/60CM/60DM series and first-year calculus can be double-counted toward any other major or minor (Note: The completion of 15 units from the multivariable math sequences is recommended but not a requirement, and at most 15 of such units can be used towards the major).
+
+Electives
+Completion requirement
+Required Electives
+
+Four elective courses are required for the Math major.
+
+Math Department courses numbered Math 101 and above can be used as electives except for MATH193, MATH197, and MATH198
+
+MATH190, MATH193X and MATH199 may only be counted toward electives, not toward the 57 Core units above.
+
+In addition, there are approved out-of-department electives that can be used as electives (See list below).
+
+Non-MATH Elective Options
+Complete ANY of the following Courses:
+CS103 - Mathematical Foundations of Computing
+
+CS109 - Introduction to Probability for Computer Scientists
+
+CS161 - Design and Analysis of Algorithms
+
+PHIL151 - Metalogic
+
+PHIL152 - Computability and Logic
+
+PHYSICS41 - Mechanics
+
+STATS117 - Introduction to Probability Theory
+
+STATS118 - Probability Theory for Statistical Inference
+
+Writing in the Major (WIM)
+Completion requirement
+Writing in the Major (WIM)
+Complete at least 1 of the following Courses:
+MATH190 - Mathematical Communication
+
+MATH195 - Senior Exploration and Synthesis
+
+Math 190 is a 3-unit class with background prerequisites in proof-based math (such as Math 113 or 115 with a grade of at least B) and does not entail learning new mathematics, so it does not count as one of the eight 100-level classes toward the Math major but does count as an elective. It can be taken in the second year or later.
+
+Capstone
+Completion requirement
+Mathematics Capstone Requirements
+
+Fulfill ANY of the following requirements:
+Honors Thesis Capstone Option
+
+Completion of the honors program.
+
+Earn at least 6 credits from the following:
+MATH197 - Senior Honors Thesis
+
+OR
+Undergraduate Course Option
+Complete at least 1 of the following Courses:
+MATH117 - Advanced Complex Analysis
+
+MATH122 - Modules and Group Representations
+
+MATH147 - Differential Topology
+
+PHIL152 - Computability and Logic
+
+OR
+Graduate Course Option
+Complete at least 1 of the following Courses:
+MATH205A - Real Analysis
+
+MATH205B - Real Analysis
+
+MATH210A - Modern Algebra I
+
+OR
+Capstone Project Option
+Complete ALL of the following Courses:
+MATH195 - Senior Exploration and Synthesis
+
+Honors
+Completion requirement
+Required Courses
+
+Fulfill ALL of the following requirements:
+I. Required Courses
+Complete ALL of the following Courses:
+MATH120 - Groups and Rings
+
+MATH171 - Fundamental Concepts of Analysis
+
+AND
+II. Required Courses
+Complete at least 1 of the following Courses:
+MATH116 - Complex Analysis
+
+MATH143 - Differential Geometry
+
+MATH144 - Introduction to Topology and Geometry
+
+MATH147 - Differential Topology
+
+Thesis Requirement. Completion of an honors thesis is required.
+Earn at least 6 credits from the following:
+MATH197 - Senior Honors Thesis

@@ -1,0 +1,36 @@
+CHEME-MIN - Chemical Engineering (Minor)
+Download as PDF
+Chemical EngineeringUndergraduate Matriculated
+General
+Program Policies
+Learning Outcomes
+Program Overview
+
+The Department of Chemical Engineering offers opportunities for undergraduates students to pursue coursework and research in energy sciences and technology, including the chemical, physical, mathematical, and engineering sciences.
+
+Minimum Units in the Program
+32
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Unnamed Rule
+Complete ALL of the following Courses:
+CHEMENG20 - Introduction to Chemical Engineering
+
+CHEMENG105A - Applied Mathematics in Chemical Engineering A
+
+CHEMENG105B - Applied Mathematics in Chemical Engineering B
+
+CHEMENG110A - Introduction to Chemical Engineering Thermodynamics
+
+CHEMENG110B - Statistical and Multi-Component Thermodynamics
+
+CHEMENG120A - Fluid Mechanics
+
+CHEMENG120B - Energy and Mass Transport
+
+CHEMENG130A - Microkinetics - Molecular Principles of Chemical Kinetics
+
+CHEMENG130B - Introduction to kinetics and reactor design

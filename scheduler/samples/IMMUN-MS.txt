@@ -1,0 +1,84 @@
+IMMUN-MS - Immunology (MS)
+Download as PDF
+Immunology
+Immunology
+MS - Master of Science
+General
+Program Policies
+Learning Outcomes
+Program Overview
+Stanford Immunology is home to faculty, students, postdocs, and staff who work together to carry out internationally recognized research in immunology. The long tradition of collaboration among the immunology laboratories at Stanford fosters productive interdisciplinary research, with an emphasis on the application of molecular approaches to problems in cellular, translational, and clinical immunology. Faculty research interests include both basic science research and bench-to-bedside approaches, as well as computational and systems immunology. Graduate students and postdoctoral scholars receive high caliber, state-of-the art training through their participation in research, teaching, seminars, journal clubs, and the annual Stanford Immunology Scientific Conference.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Requirements Overview
+All students must complete at least 45 units of academic work must be in courses at or above the 100 level, 36 units of which must be at or above the 200 level.
+Students should choose one of two paths:
+Computational and Systems Immunology
+Molecular, Cellular and Translational Immunology
+The specific requirements for each path are outlined below.
+Path: Computational and Systems Immunology
+Fulfill ALL of the following requirements:
+Required Courses
+Complete ALL of the following Courses:
+BIOS200 - Foundations in Experimental Biology
+BMDS212 - Introduction to Biomedical Informatics Research Methodology
+BMDS214 - Representations and Algorithms for Computational Molecular Biology
+IMMUNOL201 - Advanced Immunology I
+IMMUNOL202 - Advanced Immunology II
+IMMUNOL206 - Introduction to Applied Computational Tools in Immunology
+IMMUNOL207 - Essential Methods in Computational and Systems Immunology
+MED255 - The Responsible Conduct of Research
+AND
+Graduate Research
+Three quarters of graduate research (IMMUNOL 399 Graduate Research) consisting of rotations in the labs of three faculty members.
+Complete ALL of the following Courses:
+IMMUNOL399 - Graduate Research
+AND
+Journal Club and Seminar Series
+Participation in the Immunology journal club (IMMUNOL 305 Immunology Journal Club) and attendance at the Immunology seminar series (IMMUNOL 311 Seminar in Immunology) and the annual Stanford Immunology Scientific Conference.
+Complete ALL of the following Courses:
+IMMUNOL305 - Immunology Journal Club
+IMMUNOL311 - Seminar in Immunology
+AND
+First Year Rotations
+First Year Rotations Presentations and General Advising Sessions, June. Students present on one of three lab rotations.
+AND
+Master's Thesis
+Students must submit a master’s thesis paper on one of their rotations. This requirement may be waived under special circumstances.
+Path: Molecular, Cellular and Translational Immunology
+Fulfill ALL of the following requirements:
+Required Courses
+Complete ALL of the following Courses:
+BIO141 - Introduction to Statistics for Biology
+BIOS200 - Foundations in Experimental Biology
+IMMUNOL201 - Advanced Immunology I
+IMMUNOL202 - Advanced Immunology II
+IMMUNOL203 - Advanced Immunology III
+AND
+Graduate Research
+Three quarters of graduate research (IMMUNOL 399 Graduate Research) consisting of rotations in the labs of three faculty members.
+Complete ALL of the following Courses:
+IMMUNOL399 - Graduate Research
+AND
+Journal Club and Seminar Series
+Participation in the Immunology journal club (IMMUNOL 305 Immunology Journal Club) and attendance at the Immunology seminar series (IMMUNOL 311 Seminar in Immunology) and the annual Stanford Immunology Scientific Conference.
+Complete ALL of the following Courses:
+IMMUNOL305 - Immunology Journal Club
+IMMUNOL311 - Seminar in Immunology
+AND
+Elective Course
+Complete at least 1 of the following Courses:
+BIO214 - Advanced Cell Biology
+IMMUNOL206 - Introduction to Applied Computational Tools in Immunology
+MI210 - Microbe-Host Interactions in Health and Disease
+AND
+First Year Rotations
+First Year Rotations Presentations and General Advising Sessions, June. Students present on one of three lab rotations.
+AND
+Master's Thesis
+Students must submit a master’s thesis paper on one of their rotations. This requirement may be waived under special circumstances.

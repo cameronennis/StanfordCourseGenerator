@@ -1,0 +1,42 @@
+GEOPH-MIN - Geophysics (Minor)
+Download as PDF
+Geophysics
+Undergraduate Matriculated
+General
+Program Policies
+Program Overview
+The Geophysics minor provides students with a general knowledge of geophysics.
+Minimum Units in the Program
+28
+Minimum University Units
+18
+Collapse All
+Program Requirements
+Completion requirement
+Geophysics Courses
+Complete at least 4 courses in the following Course Sets:
+Untitled Course Set
+Supporting Math
+Complete ANY of the following Courses:
+CME100 - Vector Calculus for Engineers
+MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications
+Supporting Physics
+Fulfill ALL of the following requirements:
+Mechanics
+Complete at least 1 of the following Courses:
+PHYSICS21 - Mechanics and Fluids
+PHYSICS41 - Mechanics
+PHYSICS41E - Mechanics, Concepts, Calculations, and Context
+PHYSICS61 - Mechanics and Special Relativity
+AND
+Electricity and Magnetism
+Complete at least 1 of the following Courses:
+PHYSICS23 - Electricity, Magnetism, and Optics
+PHYSICS43 - Electricity and Magnetism
+PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
+AND
+Modern Physics
+Complete at least 1 of the following Courses:
+PHYSICS25 - Modern Physics
+PHYSICS45 - Light and Heat
+PHYSICS71 - Quantum and Thermal Physics

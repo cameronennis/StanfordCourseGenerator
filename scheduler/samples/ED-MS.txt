@@ -1,0 +1,291 @@
+ED-MS - Education (MS)
+Download as PDF
+Graduate School of Education
+Education
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Master of Arts and Master of Science Degrees in Education
+The Graduate School of Education offers Master of Arts degrees in the following specializations:
+●     Curriculum and Teacher Education (CTE) (This is not a credentialing program; see STEP below.)
+●     Global and Comparative Education (GCE)
+●     International Education Policy Analysis (IEPA)
+●     Joint Degree with Graduate School of Business (MA/MBA)
+●     Joint Degree with Law School (MA/JD)
+●     Joint Degree with Public Policy Program (MA/MPP)
+●     Policy, Organization, and Leadership Studies (POLS)
+The Graduate School of Education offers Master of Science degrees in the following specializations:
+●     Education Data Science (EDS)
+●     Learning, Design, and Technology (LDT)
+In addition, an MA degree with a teaching credential is offered in the Stanford Teacher Education Program.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Education Data Science (Subplan)
+Completion requirement
+Overview
+Students will take a minimum of 20 courses (51 units over 21 months) in order to complete their Education Data Science program. There are several requirements:
+Minimum of 11 courses from the core curriculum including education data science courses (2 courses), statistics courses (2 courses), EDS seminar (6 courses), and the Education Internship Workshop (1 course).
+Minimum of 3 courses for the Educational Foundation.
+Minimum of 6 courses in at least 3 areas of data science specialization.
+A minimum of 17 units must be completed for a letter grade.
+A 3.0 GPA must be maintained for all courses applied to the master’s degree.
+Students must enroll in a minimum of 8 units during Autumn, Winter, and Spring Quarters, and cannot exceed 18 units in any quarter.
+Note: if you wish to maintain eligibility to receive financial aid (such as loans), you must enroll in at least 8 units during the academic year and at least 6 units during summer.
+All courses must be at or above the 100 level – courses numbered below 100 do not count toward the MS degree.
+At least 25 units must be at or above the 200 level (
+course
+and
+course
+count toward this requirement).
+At least 30 units must be from courses offered by the Graduate School of Education (EDUC units).
+English for Speakers of Other Languages (EFSLANG 600 level) and Athletics, Physical Education and Recreation (ATHLETIC) courses cannot be applied toward the master’s degree.
+EDS students will design a course of study in consultation with the Program Director to ensure individual training goals are met.
+The goal of the EDS MS is to train the next generation of data scientists who have a substantive background and concern with educational topics. The requirements are aimed at accomplishing this goal, but we recognize students may come in with more developed skills and background in certain areas and more room to grow in others. As a result, it may be advisable for students to request changes to course requirements, substituting various courses and building expertise where needed so as to make sure the EDS program trains students to be the best education data scientists possible. To this end, students can propose substituting certain course requirements after discussion, review, and approval by the program director so as to make sure training goals are satisfied. Requests for substitutions should be made through a
+petition form
+.
+Core Sequence
+Complete ALL of the following Courses:
+EDUC215 - Education Internship Workshop
+EDUC259A - Education Data Science Seminar
+EDUC259B - Education Data Science Seminar
+EDUC259C - Education Data Science Seminar
+EDUC259D - Education Data Science Capstone Projects
+EDUC259E - Education Data Science Capstone Projects
+EDUC259F - Education Data Science Capstone Projects
+EDUC423A - Introduction to Education Data Science: Data Processing
+EDUC423B - Introduction to Education Data Science: Data Analysis
+Note: All course information is subject to change. Please consult ExploreCourses and Axess for final course offerings.
+Education Internship Workshop
+The Education Internship Workshop (
+course
+) is a course designed to support the EDS internship experience. Starting with a suitable internship agreement, students will explore personal learning goals, share experiences, reflect on their progress and development, and connect their internship to past and future academic coursework with fellow EDS and other GSE students.
+Education Data Science Seminar
+Each quarter during the first year, students will enroll in a 1-3 unit seminar course (EDUC 259A-C) designed to introduce emerging topics in the field of education data science, review and discuss relevant developments and topics. The seminar includes community building, guest speakers, student-led programming and learning, and working towards an EDS Seminar Paper (first year). In the second year of the program, seminar sessions (EDUC 259D-F) will focus on student Capstone Projects, providing opportunities for collaboration and feedback, and time for final presentations of projects in the last quarter.
+Introduction to Education Data Science
+course
+“Introduction to Data Science: Data Processing" and
+course
+“Introduction to Data Science: Data Analysis” are a sequence of two courses that focus on working with education data. The first course focuses on how you can thoughtfully assess, manage, clean, and represent data.  The second course moves to an overview of various data science techniques to understand social phenomena (supervised and unsupervised learning). Students may substitute EDUC423A and EDUC423B with more advanced data science courses or more Education Foundation courses by petitioning a substitution request to the Program Director. This petition must be submitted before the start of EDUC 423A and EDUC 423B (Autumn and Winter Quarter of the first year, respectively). The petition can be found on the
+GSE's current student website
+.
+Statistics
+Complete at least 2 of the following Courses:
+EDUC200A - Introduction to Data Analysis and Interpretation
+EDUC326 - Advanced Regression Analysis
+EDUC400A - Introduction to Statistical Methods in Education
+EDUC400B - Statistical Analysis in Education: Regression
+POLISCI450A - Political Methodology I: Regression
+POLISCI450B - Political Methodology II: Causal Inference
+POLISCI450C - Political Methodology III: Model-Based Inference
+PSYCH252 - Statistical Methods for Behavioral and Social Sciences
+SOC381 - Statistics for an open science: Foundation
+SOC382 - Statistics for an Open Science: Explanation
+SOC383 - Statistics for an Open Science: Modeling
+STATS202 - Statistical Learning and Data Science
+CS109 - Introduction to Probability for Computer Scientists
+STATS203 - Regression Models and Analysis of Variance
+COMM365 - Longitudinal Data Analysis in Social Science Research
+EDUC452 - Simulation in Education Research
+Students will be required to take two courses in statistics in order to employ these analyses in their data science courses later in their course of study.
+Education Foundation
+Students must develop domain expertise in education to be effective education data scientists. To this end, students will complete 3 education courses that ensure each student possesses knowledge of education theory and practice. For example, students may select courses that focus on areas like Education Policy and Analysis, Learning Sciences, or Assessment (among others). Students may design with consultation and approval from the program director a set of education courses that advances their intellectual goals.
+Data Science Specialization
+Fulfill ANY of the following requirements:
+Experiments/Casual Methods
+Complete at least 2 of the following Courses:
+DATASCI161 - Causality, Decision Making and Data Science
+ECON248 - Labor Economics III
+ECON272 - Intermediate Econometrics III: Methods for Applied Econometrics
+EDUC430A - Experimental Research Design and Analysis
+EDUC430B - Quasi-Experimental Research Design & Analysis
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E228 - Applied Causal Inference with Machine Learning and AI
+POLISCI355C - Causal Inference for Social Science
+POLISCI450B - Political Methodology II: Causal Inference
+POLISCI450C - Political Methodology III: Model-Based Inference
+PSYCH251 - Experimental Methods
+PUBLPOL205 - Empirical Methods in Public Policy
+PUBLPOL303D - Applied Econometrics for Public Policy
+STATS209 - Introduction to Causal Inference
+STATS361 - Causal Inference
+OR
+Learning Analytics
+Complete at least 2 of the following Courses:
+CS131 - Computer Vision: Foundations and Applications
+CS246 - Mining Massive Data Sets
+EDUC139 - Data Science and the Science of Learning
+EDUC234 - Curiosity in Artificial Intelligence
+EDUC234A - Interactive and Embodied Learning
+EDUC315A - Introduction to CSCL: Computer-Supported Collaborative Learning
+EDUC333A - Introduction to Learning Sciences: Understanding Learning and Learning Environments
+EDUC391 - Engineering Education and Online Learning
+EDUC407 - Lytics Seminar
+EDUC463 - Computer Vision for Education and Social Science Research
+EPI270 - Big Data Methods for Behavioral, Social, and Population Health Research
+EDUC435 - Math Out Loud: Collaborative Learning Analytics for Multilingual Math Discourse
+CS231N - Deep Learning for Computer Vision
+CS234 - Reinforcement Learning
+OR
+Measurement
+Complete at least 2 of the following Courses:
+EDUC252 - Introduction to Psychometrics
+EDUC252L - Introduction to Psychometrics - Lab
+EDUC353A - Problems in Measurement: Item Response Theory
+EDUC464 - Measuring Learning in the Brain
+PSYCH253 - Multivariate Analysis, Measurement, and Study of Change in Social Science Research
+CS321M - AI Measurement Science
+OR
+Natural Language Processing
+Complete at least 2 of the following Courses:
+CS124 - From Languages to Information
+CS224N - Natural Language Processing with Deep Learning
+CS224S - Spoken Language Processing
+CS329R - Race and Natural Language Processing
+CS329X - Human Centered NLP
+CS336 - Language Modeling from Scratch
+EDUC473 - Empowering Educators via Language Technology
+LINGUIST281A - Race and Natural Language Processing
+PSYCH290 - Natural Language Processing in the Social Sciences
+SYMSYS195Q - What does AI get right and wrong about language?
+OR
+Network Science
+Complete at least 2 of the following Courses:
+CS222 - AI Agents and Simulations
+CS224W - Machine Learning with Graphs
+CS278 - Social Computing
+EBS281 - Computational Social Science for Sustainability
+EBS282 - Agent-based modeling
+ECON291 - Social and Economic Networks
+EDUC316 - Social Network Methods
+MS&E135 - Networks
+MS&E212 - Graph and Combinatorial Optimization
+SOC226 - Introduction to Social Networks
+OB638 - Theoretical Computational Social Science
+Students must develop substantive breadth and depth in data science skills. To this end, students will complete three of five available tracks, each composed of two courses (see below). The areas of concentration offered are Natural Language Processing, Network Science, Experiments & Causal Methods, Measurement, and Learning Analytics. These courses are established courses at Stanford University and will allow for interprofessional education of GSE students and graduate students from other departments.
+Electives
+The rigorous course schedule for the Education Data Science program offers relatively little opportunity for selecting elective courses during the first year of the program; however, second-year students are encouraged to select an elective course in each of their final two quarters. Students are encouraged to take courses within the GSE relevant to their capstone projects, specializations, or research interests.
+Learning Design and Technology (Subplan)
+Completion requirement
+Overview
+Students must complete at least 45 units at Stanford to receive the master's degree in LDT. The following constraints are placed on those 45 units:
+All courses must be at or above the 100 level. Courses numbered below 100 do not count toward the master’s degree.
+At least 23 units (half of the total minimum units) must be at or above the 200 level.
+course
+and
+course
+count toward this requirement.
+At least 30 units must be from courses offered by the Graduate School of Education (EDUC units).
+At least 15 units must be taken for a letter grade (as opposed to Credit or Satisfactory).
+A 3.0 GPA must be maintained for all courses applied to the master’s degree.
+All students must enroll in a minimum of 8 units during Autumn, Winter, and Spring quarters and cannot exceed 18 units in any quarter (exception: HCP students take 3-7 units)
+LDT students are required to register for exactly 6 units in Summer quarter. At least 39 units need to be completed in Autumn, Winter, and Spring quarters.
+English for Speakers of Other Languages (EFSLANG 600 level) and Athletics, Physical Education and Recreation (ATHLETIC) courses cannot be applied toward the master’s degree.
+See the “
+Coterminal Degree
+” section for unit requirements applying to students admitted through the coterminal degree program.
+Required Courses
+Complete ALL of the following Courses:
+EDUC229A - Learning Design and Technology Seminar
+EDUC229B - Learning Design and Technology Seminar
+EDUC229C - Learning Design and Technology Seminar
+EDUC229D - Learning Design and Technology Seminar
+Note: all course information is subject to change. Please consult
+ExploreCourses
+and
+Axess
+for final course offerings.
+Internship
+Complete ALL of the following Courses:
+EDUC215 - Education Internship Workshop
+Students must register for a minimum of one unit of Education Internship Workshop (
+course
+or equivalent) for at least two quarters during the year. A maximum of 9 internship units are accepted for the master's degree. Learn more about internships on the
+Jobs and Internships page
+.
+Electives
+Recommended electives for LDT include a range of courses related to learners and education. Students may take electives from any department at Stanford, with advisor’s approval. Also, students are encouraged to approach professors for Directed Reading (
+course
+) on a topic of special interest to them.
+Learning Portfolio and Master's Project
+The online Learning Portfolio consists of substantial work done during the year, together with a reflection on the learning represented by that work. The Master’s Project consists of a design project conceived and developed by the student. The project proposal and reports will include a description and analysis of the learning problem, the theoretical approach and research used to address it, the design proposal, prototypes, and learning assessments. The Master’s Project must be submitted to the student’s advisor for approval by the end of winter quarter and presented to the public late in the summer. Both the Learning Portfolio and the Master’s Project Report are due in summer quarter.
+Evaluation and Research Methods
+Complete at least 1 of the following Courses:
+EDUC200A - Introduction to Data Analysis and Interpretation
+EDUC200B - Introduction to Qualitative Research Methods
+At least one course about evaluation and research methods used in Education. Pre-approved courses are listed above (3 units minimum).
+Choose at least one. Both are encouraged.
+LDT students have first enrollment priority in EDUC 200B in Autumn quarter and third enrollment priority in Winter quarter.
+Design Process
+Complete at least 1 of the following Courses:
+CS147 - Introduction to Human-Computer Interaction Design
+CS247A - Design for Artificial Intelligence
+CS247G - Design for Play
+CS347 - Human-Computer Interaction: Foundations and Frontiers
+CS377G - Designing Serious Games
+CS377Q - Designing for Accessibility
+CS377U - Understanding Users
+EDUC254 - Digital Learning Design Workshop
+ENGR210 - Perspectives in Assistive Technology (ENGR 110)
+At least one course in which students learn and apply a user-centered design process. Pre-approved courses are listed above (3 units minimum).
+Any course with the CS 147, 247, 347, or 377 prefix (e.g., CS 377U) may count towards the Design Process requirement.
+Any full d.school course may be used to count towards the Design Process requirement.
+Any “Design of Learning Experiences” course (listed below) can instead be used to count towards the Design Process requirement.
+Learning
+Two courses minimum. At least one course must cover theories of learning. Pre-approved courses are listed below (6 units minimum). Students are highly encouraged to take more than two of these courses.
+Fulfill ANY of the following requirements:
+Learning Theories
+Complete ANY of the following Courses:
+EDUC333A - Introduction to Learning Sciences: Understanding Learning and Learning Environments
+EDUC398 - Core Mechanics for Learning
+EDUC421 - Powerful Ideas for Learning Sciences and Technology Design: Sociocultural Practices of the Blues
+OR
+Learning Content
+Complete ANY of the following Courses:
+EDUC171 - Preschool Counts: Engaging Young Children in Math
+EDUC203A - Tutoring: Seeing a Child through Literacy
+EDUC218 - Topics in Cognition and Learning: Enhancing Human Cognition with AI
+EDUC237 - Learning, Making, Crafting, & Creating
+EDUC280 - Learning & Teaching of Science
+EDUC422 - How Novices Become Experts: Studying Knowledge and Expertise with Qualitative Methods
+EDUC486 - Educational Neuroscience
+PSYC126 - Literature and the Brain
+Other courses by
+petition
+. Courses in other departments may be appropriate for certain subjects.
+Design of Learning Experiences
+Complete at least 2 of the following Courses:
+EDUC208B - Curriculum Construction
+EDUC315A - Introduction to CSCL: Computer-Supported Collaborative Learning
+EDUC342 - Child Development and New Technologies
+EDUC391 - Engineering Education and Online Learning
+EDUC432 - Designing Explorable Explanations for Learning
+At least two courses applying user-centered design to a learning problem. Pre-approved courses are listed above (6 units minimum). Students are highly encouraged to take more than two of these courses.
+Perspectives on Technology
+Complete at least 1 of the following Courses:
+CS281 - Ethics of Artificial Intelligence
+EDUC236 - Is GenAI Really Changing the EdTech Industry? Challenges & Opportunities Based on Business Cases
+EDUC281 - Technology for Learners
+EDUC314 - Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures
+EDUC473 - Empowering Educators via Language Technology
+EDUC484 - Knowledge in the Age of AI: New Epistemic Issues in Education
+FEMGEN344F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
+MS&E289 - Ethics in Global Technology Design
+At least one course examining technology from a critical, social, historical, or philosophical perspective (3 units minimum).
+Recommended Electives (Not Required)
+Complete ANY of the following Courses:
+EDUC142 - Foundational Course in Testing
+EDUC211A - Maker Tools Learning Lab
+EDUC245 - Understanding Racial and Ethnic Identity Development
+EDUC359B - Research in Science, Engineering, and Technology Education
+EDUC359C - Science, Engineering and Technology Education Seminar
+EDUC364 - Cognition and Learning
+EDUC419 - Academic Achievement of Language Minority Students
+EDUC424 - Introduction to Research in Curriculum and Teacher Education
+EDUC440 - (Re)Meditating Systems Change: Disability, Language & Difference
+EDUC211B - AI Tools Learning Lab

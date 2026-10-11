@@ -1,0 +1,40 @@
+PHYS-MS - Physics (MS)
+Download as PDF
+Physics
+Physics
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The department of physics offers opportunities for graduate coursework and research in both experimental and theoretical physics, studying natural phenomena from the smallest scales of particle physics to the largest of cosmology. Active research areas include accelerator physics, astrophysics, condensed matter, cosmology, particle physics, quantum information and quantum optics, among others. Departmental faculty members, as well as members of other departments including, but not limited to, Applied Physics, Biology, Electrical Engineering, Materials Science & Engineering, Particle Physics & Astrophysics at SLAC, and Photon Science at SLAC participate in supervising student research.
+The Russell H. Varian Laboratory of Physics, the Physics and Astrophysics Building, the W. W. Hansen Experimental Physics Laboratory (HEPL), the E. L. Ginzton Laboratory, the Center for Nanoscale Science and Engineering and the Geballe Laboratory for Advanced Materials (GLAM) together house a range of physics activities from general courses through advanced research. Ginzton Lab houses research on optical systems, including quantum electronics, metrology, optical communication, and the development of advanced lasers. GLAM houses research on novel and nanopatterned materials, from high-temperature superconductors and magnets to organic semiconductors, subwavelength photon waveguides, and quantum dots. GLAM also supports the materials community on campus with various characterization tools: it is the Stanford Nanocharacterization Lab (SNL) site and the NSF-sponsored Center for Probing the Nanoscale (CPN). The SLAC National Accelerator Laboratory is just a few miles from the Varian Laboratory. SLAC is a national laboratory funded by the Offices of Basic Energy Sciences and High Energy Physics of the Department of Energy. Scientists at SLAC conduct research in photon science, accelerator physics, particle physics, astrophysics, and cosmology. The laboratory hosts a two-mile-long linear accelerator that can accelerate electrons and positrons. The Stanford Synchrotron Radiation Light Source (SSRL) uses intense X-ray beams produced with a storage ring on the SLAC site. The Linac Coherent Light Source (LCLS), completed in 2009, is the world’s first x-ray free-electron laser and has opened new avenues of research in ultra-fast photon science.
+The Kavli Institute for Particle Astrophysics and Cosmology (KIPAC), formed jointly with the SLAC National Accelerator Laboratory, provides a focus for theoretical, computational, observational, and instrumental research programs. A wide range of research areas in particle astrophysics and cosmology are investigated by students, postdocs, research staff, and faculty. KIPAC is heavily involved in two significant projects: the Fermi Gamma-Ray Space Telescope (FGST) and the Large Synoptic Survey Telescope (LSST). KIPAC members also participate fully in the Cryogenic Dark Matter Search (CDMS), the Solar Dynamics Observatory (SDO), the EXO-200 double beta decay experiment, the Dark Energy Survey (DES), the NuSTAR and Astro-H X-ray satellites, and several cosmic microwave background experiments (BICEP, KECK, QUIET, and POLAR-1).
+The Leinweber Institute for Theoretical Physics at Stanford is devoted to investigating the basic structure of matter and the universe, including condensed matter physics, particle theory, quantum cosmology, quantum information, and string & M-theory.
+Note: The department does not offer a coterminal degree program or a separate program for the MS degree, but this degree may be awarded for a portion of the PhD degree work.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Program Requirements
+Completion requirement
+Required Courses
+Complete ALL of the following Courses:
+PHYSICS212 - Statistical Mechanics
+PHYSICS220 - Classical Electrodynamics
+Among the department requirements are a grade point average (GPA) of at least 3.3 (B+) for all required courses (or their equivalents).
+Quantum Requirement
+Complete at least 1 of the following Courses:
+PHYSICS230 - Graduate Quantum Mechanics I
+PHYSICS231 - Graduate Quantum Mechanics II
+PHYSICS234 - Advanced Topics in Quantum Mechanics
+PHYSICS330 - Quantum Field Theory I
+PHYSICS331 - Quantum Field Theory II
+PHYSICS332 - Quantum Field Theory III
+Among the department requirements are a grade point average (GPA) of at least 3.3 (B+) for all required courses (or their equivalents).
+Unnamed Rule
+Plus two 3-unit graduate level courses in Physics or Applied Physics, for a total of 6 units.
+Among the department requirements are a grade point average (GPA) of at least 3.3 (B+) for all required courses (or their equivalents).
+Up to six of these required units may be waived on petition if a thesis is submitted.

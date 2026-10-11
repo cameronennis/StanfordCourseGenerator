@@ -1,0 +1,156 @@
+HUMBI-MIN - Human Biology (Minor)
+Download as PDF
+Human Biology
+Undergraduate Matriculated
+General
+Program Policies
+Learning Outcomes
+Program Overview
+A minor in Human Biology introduces students to the interdisciplinary study of human beings from biological, behavioral, social, and cultural perspectives. Many serious problems facing humans today involve biological and social aspects. Scientific approaches to these problems are essential but must be broadly conceived and thoughtfully implemented with regard to the social and cultural contexts. Students with a minor in Human Biology are expected to develop a strong content background and the skills to integrate human beings’ biological and social aspects.
+Students declaring a minor in Human Biology must submit a
+Minor Plan Form
+at minimum two quarters before their intended quarter of degree conferral (for example, a student must declare a minor before the end of autumn quarter if graduating in the following spring quarter). Upon approval from student services, students can declare the HumBio minor in Axess.
+Minimum Units in the Program
+25
+Minimum University Units
+18
+Collapse All
+Total Unit Requisite
+To earn a minor in Human Biology, undergraduates must complete the minor program of study for at least 25 units, with a minimum of six courses.
+Core Program Requirement: 15 units
+Subplan Elective Requirement: 10 units
+Core Program Requirement
+Completion requirement
+HumBio Core Sequence (3 courses, 15 units required)
+Fulfill ALL of the following requirements:
+HumBio Core Sequence (A-side)
+Complete at least 1 of the following Courses:
+HUMBIO2A - Genetics, Molecular Biology and Evolution
+HUMBIO3A - Cell and Developmental Biology
+HUMBIO4A - The Human Organism
+AND
+HumBio Core Sequence (B-side)
+Complete at least 1 of the following Courses:
+HUMBIO2B - Culture, Evolution, and Society
+HUMBIO3B - Health Policy Analysis and Population Health
+HUMBIO4B - Development and Epidemiology
+Complete three courses from the HumBio Core with at least one A-side and at least one B-side class.
+Subplan: Global Health
+Completion requirement
+Global Health Upper Level Electives (3 courses, 10 units required)
+Students must complete three (3) elective courses, each with three or more units, totaling ten or more units, within the chosen subplan. A fourth elective course may be taken for two units. A comprehensive list of suitable elective courses for each subplan is provided below.
+Complete exactly 3 course(s) and earn 10 or more credit(s) from the following:
+AFRICAAM41 - Genes and Identity
+ANTHRO151 - Medical Anthropology, a Global View
+BIO103 - Human and Planetary Health
+BIOE122 - BioSecurity and Pandemic Resilience
+EARTHSYS162 - Data for Sustainable Development
+EASTASN117 - Health and Healthcare Systems in East Asia
+EPI231 - Epidemiology of Infectious Diseases
+EPI237 - Practical Approaches to Global Health Research
+HISTORY243G - Tobacco and Health in World History: How Big Nic created the template for global science denial
+HUMBIO29 - Introduction to Global Health
+OR
+COMPMED84Q - Globally Emerging Zoonotic Diseases
+OR
+HUMBIO26 - Designing Research-Based Interventions to Solve Global Health Problems
+OR
+MED54Q - Decolonizing Global Health
+OR
+MED194 - Critical Issues in Global Health
+OR
+MED25N - AI for Human & Planetary Health
+HUMBIO114 - Global Change and Emerging Infectious Disease
+HUMBIO122M - Challenges of Human Migration: Health and Health Care of Migrants and Autochthonous Populations
+HUMBIO123G - Health Care Systems around the World
+HUMBIO124C - Global Child Health
+HUMBIO176A - Medical Anthropology
+HUMBIO179B - Music and Healing
+HUMRTS117 - International Human Rights
+HUMRTS122 - Global Human Rights and Local Practices
+MED171 - Solutions in Human and Planetary Health: Mitigation, Adaptation and Resilience
+MED224 - Social Entrepreneurship and Innovation Lab (SE Lab) - Human & Planetary Health
+MED232 - Global Health:  Scaling Health Technology Innovations in Low Resource Settings
+OSPCPTWN43 - Public and Community Health in Sub-Saharan Africa
+OSPCPTWN49 - Foundations of Public Health and Social Justice
+OSPOXFRD67 - Pandemics in Cultural Context
+PEDS223 - Human Rights and Global Health
+RELIGST103 - Buddhism and Medicine
+SOMGEN207 - Theories of Change in Global Health
+Subplan: Health Policy
+Completion requirement
+Health Policy Upper Level Electives (3 courses, 10 units required)
+Students must complete three (3) elective courses, each with three or more units, totaling ten or more units, within the chosen subplan. A fourth course may be taken for two units. A comprehensive list of suitable elective courses for each subplan is provided below.
+Complete exactly 3 course(s) and earn 10 or more credit(s) from the following:
+ANTHRO131W - Intro to The Illicit Economies of Addiction: Anthropological Perspectives on Drug Use and Policing
+CIM203 - Beyond the Dashboard: Foundations in Healthcare Statistics
+EASTASN117 - Health and Healthcare Systems in East Asia
+EPI220 - Deploying and Evaluating Fair AI in Healthcare
+FEMGEN140 - Gender, Sexuality, and the Law
+GENE104Q - Law and the Biosciences
+OR
+OBGYN82Q - Demystifying Pregnancy: Physiology, Policy and Politics
+OR
+GENE105N - The Baby Wars: who should control our ability to reproduce -- the mother, the state, the fetus?
+HUMBIO122 - Beyond Health Care: the effects of social policies on health
+HUMBIO122A - Health Care Policy and Reform
+HUMBIO122E - Reducing Health Disparities and Closing the Achievement Gap through Health Integration in Schools
+HUMBIO123G - Health Care Systems around the World
+HUMBIO127 - Food Policy and Public Health
+HUMBIO163 - The Opioid Epidemic: Using Neuroscience to Inform Policy and Law
+HUMBIO172 - Reproductive Health: History, Medicine, Policy, and Politics
+HRP211 - Law and Biosciences: Neuroscience
+HRP221 - Law and the Biosciences: Genetics
+HRP249 - Topics in Health Economics I
+HRP252 - Outcomes Analysis
+HRP256 - Economics of Health and Medical Care
+HRP391 - Health Law: Finance and Insurance
+MS&E292 - Health Policy Modeling
+OB348 - Leading and Innovating in Health Care
+PUBLPOL50 - Intermediate Microeconomics for Public Policy
+PUBLPOL155 - Data Science for Social Impact
+SOC152 - The Social Determinants of Health
+Subplan: Epidemiology
+Completion requirement
+Epidemiology Upper Level Electives (3 courses, 10 units required)
+Students must complete three (3) elective courses, each with three or more units, totaling ten or more units, within the chosen subplan. A fourth course may be taken for two units. A comprehensive list of suitable elective courses for each subplan is provided below.
+Complete exactly 3 course(s) and earn 10 or more credit(s) from the following:
+BMDS202 - An overview of Biomedical Data Science
+CHPR207 - Infectious Diseases: Community Health Impact and Prevention
+CHPR211 - Introduction to Clinical Trials: Design, Conduct, and Analysis
+CHPR288 - Cancer in Asian Americans: Epidemiology and Prevention
+CS171 - Causality, Decision Making and Data Science
+EPI206 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+EPI207 - Infectious Diseases: Community Health Impact and Prevention
+EPI219 - Evaluating Technologies for Diagnosis, Prediction and Screening
+EPI225 - Introduction to Epidemiologic and Clinical Research Methods
+EPI231 - Epidemiology of Infectious Diseases
+EPI240 - Reproductive and Perinatal Epidemiology
+EPI259 - Introduction to Probability and Statistics for Epidemiology
+EPI272 - The Science of Community Engagement in Health Research
+HUMBIO57 - Epidemic Intelligence: How to Identify, Investigate and Interrupt Outbreaks of Disease
+OR
+COMPMED84Q - Globally Emerging Zoonotic Diseases
+OR
+PEDS220 - Past, Present, and Future: Lessons from COVID-19
+HUMBIO114 - Global Change and Emerging Infectious Disease
+HUMBIO154B - Principles of Epidemiology
+HUMBIO154C - Cancer Epidemiology
+HUMBIO159 - Genes and Environment in Disease Causation: Implications for Medicine and Public Health
+HUMBIO75 - The Cancer Problem: Causes, Treatment, and Prevention
+OSPSANTG25 - Health and Disease in an Aging Society: Chile in Transition
+PUBLPOL155 - Data Science for Social Impact
+Individualized Electives
+Completion requirement
+Individualized Plan Elective Courses (3 courses; 10 units required)
+To fulfill the requirement between HumBio Elective course and Depth Elective courses, you must complete 3 courses, totaling a minimum of 10 units. These courses should be upper-level, non-HumBio Core or equivalent courses, related to an area of emphasis within the Human Biology curriculum. Elective courses for an individualized plan must be pre-approved by the HumBio advising team.
+This option is for students who do not declare an official subplan.
+Fulfill ALL of the following requirements:
+HumBio Elective Course
+Complete ALL of the following Course Sets:
+Untitled Course Set
+AND
+Depth Elective Courses
+Depth elective courses must be related to the chosen HumBio Elective course. These courses may come from departments outside of HumBio.
+Complete 2-3 elective courses to meet the 10 unit minimum.
+A minimum of three courses must be taken for at least three units. A fourth course may be taken for two units.

@@ -1,0 +1,109 @@
+MED-MS - Medicine (MS)
+Download as PDF
+School of Medicine
+Medicine MS
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+Master of Science in Medicine with a Subplan in Biomedical Investigation
+The goal of the Stanford
+Berg Scholars Program
+(Master of Science in Medicine with a subplan in Biomedical Investigation) is to address decreasing numbers of physician-scientists by shortening the training period without compromising quality of research, focusing instead on individualized career development of our MD-only physician-scientists by placing them in outstanding research groups led by experienced faculty.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+The Master of Science in Medicine (without the declared subplan) is reserved for MED-MD students. Please see the School of Medicine Registrar's Office for further information.
+Biomedical Investigation Subplan
+Completion requirement
+Requirements Overview
+Berg Scholars must complete all Stanford University requirements for the Master of Science (MS) in Medicine in Biomedical Investigation while pursuing their MD. Students must adhere to the
+university’s residency requirements
+. Units may not be duplicated or double-counted toward the residency requirement for both degrees. Students must complete the master’s degree requirements within three years of the first graduate quarter of the MS.
+Course Requirements
+To graduate, students must complete 280 minimum units (combined MS and MD). These units are broken down as follows:
+45 unduplicated units taken in specific courses for the MS degree
+33 units in research
+12 units of coursework (3 one-unit required courses, plus 9 units of elective courses)
+235 units in pre-clinical and clinical clerkships for the MD degree
+Only courses 100-level or above can be counted toward the degree. A minimum of 23 units must be at the 200-level or above. All courses toward the 45-unit requirement must receive a passing grade.
+Required Courses
+Complete ALL of the following Courses:
+INDE258 - Physician Scientist Career Development Symposium
+INDE267 - Planning and Writing a Research Proposal
+MED255 - The Responsible Conduct of Research
+Elective Courses
+Earn at least 9 credits from the following:
+BIOE212 - Introduction to Biomedical Informatics Research Methodology
+OR
+BMDS212 - Introduction to Biomedical Informatics Research Methodology
+OR
+GENE212 - Introduction to Biomedical Informatics Research Methodology
+BIOE390 - Introduction to Bioengineering Research
+OR
+MED289 - Introduction to Bioengineering Research
+BIOMEDIN220 - Artificial Intelligence in Healthcare
+BMDS214 - Representations and Algorithms for Computational Molecular Biology
+BMDS215 - Data Science for Medicine
+BMDS216 - Representations and Algorithms for Molecular Biology: Lectures
+BMDS237 - Outcomes Analysis
+OR
+HRP252 - Outcomes Analysis
+OR
+MED252 - Outcomes Analysis
+BMDS241 - Intermediate Biostatistics: Analysis of Discrete Data
+BMDS260 - Computational Methods for Biomedical Image Analysis and Interpretation
+BMDS280A - Workshop in Biomedical Data Science
+BMDS280B - Workshop in Biomedical Data Science
+BMDS280C - Workshop in Biomedical Data Science
+BMDS285 - Precision Practice with Big Data
+CBIO245 - Lecture Seminar Series in Cancer Biology Program
+CBIO275 - Tumor Immunology
+CHEM281 - Synthesis and Analysis at the Chemistry-Biology Interface
+CHPR206 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+CHPR227 - The Science of Community Engagement in Health Research
+COMPMED211 - Robust, reproducible, real-world experimental design and analysis for life and biomedical scientists
+CS229 - Machine Learning
+DBIO234 - Elements of Grant Writing
+EPI219 - Evaluating Technologies for Diagnosis, Prediction and Screening
+EPI223 - Introduction to Data Management and Analysis in SAS & R
+EPI225 - Introduction to Epidemiologic and Clinical Research Methods
+EPI226 - Intermediate Epidemiologic and Clinical Research Methods
+EPI258 - Introduction to Probability and Statistics for Clinical Research
+EPI259 - Introduction to Probability and Statistics for Epidemiology
+OR
+EPI261 - Intermediate Biostatistics: Analysis of Discrete Data
+EPI262 - Intermediate Biostatistics: Regression, Prediction, Survival Analysis
+EPI264 - Foundations of Statistical and Scientific Inference
+GENE211 - Genomics
+HRP204 - Models for Understanding and Controlling Global Infectious Diseases
+HRP207 - Introduction to Concepts and Methods in Health Services and Policy Research I
+HRP208 - Introduction to Concepts and Methods in Health Services and Policy Research II
+HRP218 - Methods for Health Care Delivery Innovation, Implementation and Evaluation
+IMMUNOL210 - Immunology Research Seminars for Medical Students
+INDE217 - Physician Scientist Hour
+MED206 - Meta-research: Appraising Research Findings, Bias, and Meta-analysis
+MED224 - Social Entrepreneurship and Innovation Lab (SE Lab) - Human & Planetary Health
+MED254 - IM Bedside Clinical Reasoning and Physical Diagnosis Rounds
+PEDS202A - Practical Applications for Qualitative Data Analysis
+PEDS202B - Practical Applications for Qualitative Data Analysis
+PEDS202C - Qualitative Research Methods and Study Design
+PEDS251A - Medical Ethics I
+PSYC235 - Dement's Sleep and Dreams
+STATS261 - Intermediate Biostatistics: Analysis of Discrete Data
+STEMREM201A - Stem Cell Biology & Regenerative Medicine
+TRAM221 - Translational Research and Applied Medicine
+INDE 217 and MED 221 are highly recommended.
+Research Units
+Complete 33 research units from the SoM department in the student’s field of study.  Such courses are typically numbered 399.
+Research Requirement
+Completion requirement
+Research Proposal and Thesis
+Students must complete the following non-course requirements to confer their degree:
+Research Proposal: A written research proposal for committee review. Students must orally present their proposed research to their research committee for approval.
+Thesis Defense: Students must defend their thesis with an oral presentation and closed-door questioning from their research committee.
+Thesis Publication: Students must publish their thesis to confer their MS degree.

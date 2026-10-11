@@ -1,0 +1,204 @@
+MGTSC-MS - Management Science and Engineering (MS)
+Download as PDF
+Management Science and Engineering
+Mgmt Sci & Engineering
+MS - Master of Science
+General
+Admissions & Declaration Information
+Program Policies
+Learning Outcomes
+Program Overview
+The MS degree program represents substantial progress in the major field beyond the bachelor’s degree.
+Students must complete at least 45 units at Stanford in courses numbered 100 and above. See
+Graduate Degrees
+for university requirements for the master’s degree. Coterminal master’s degree candidates are expected to complete all master’s degree requirements as described in this Bulletin.
+MS&E master’s students complete breadth as well as depth in MS&E; depth possibilities include:
+Data, AI, and Decisions:
+Courses in Data, AI, and Decisions prepare students in the fundamentals of data and decision sciences, machine learning, and artificial intelligence that are transforming operational and strategic decision making in information technology, finance, healthcare, services, manufacturing, and government.  The program combines rigorous technical foundations with emerging modern applications.
+Financial Analytics:
+Courses in Financial Analytics prepare students for careers requiring analytical rigor and the ability to innovate around market challenges. Example career paths include financial services, risk management, investment management, financial technology and data processing, financial regulation and policy, exchanges and clearing houses, and auditing and compliance. Courses combine the in-depth study of quantitative techniques with practical, hands-on business problem-solving. Students learn to use mathematical models and quantitative tools to solve complex problems in finance practice, exploiting the intellectual ties between finance, operations research, computer science, and engineering. It offers a high level of flexibility and a range of elective courses that allow students to tailor the program to their specific career goals. Required courses immerse students in quantitative methods and deepen their understanding of finance fundamentals. Projects courses feature practical, data-driven team projects and case studies, fostering group learning and peer interaction.
+Technology and Engineering Management:
+Courses in Technology and Engineering Management prepare students for careers including product and project management, management consulting, and entrepreneurship. They acquire skills to manage technical organizations, foster innovation, and deal with rapidly evolving technologies and dynamic markets. Specialized coursework is flexible, allowing students to explore and gain depth and understanding of technical organizations to develop a culture of successful innovation and entrepreneurship, along with decision-making methods under uncertainty, financial analysis, and strategic planning.
+Technology Policy:
+Courses in Technology Policy focus on the design and analysis of public policies and corporate strategies, especially those with technology-based issues. It features a grounding in microeconomics and modeling approaches. Courses with a policy focus include such topics such as national security, energy and environment, and health care.
+Students may also self-design a depth area; possibilities for a self-designed depth area include:
+Computational Social Science:
+Courses in Computational Social Science teach students how to apply rigorous statistical and computational methods to address problems in economics, sociology, political science, and beyond. Students are prepared for diverse career paths in data science, information technology, and policy analysis. Coursework covers fundamental statistical concepts, large-scale computation, and network analysis. Students can explore topics such as experimental design, algorithmic economics, and machine learning through electives.
+Decision Analysis and Risk Analysis:
+Courses in Decision and Risk Analysis prepare students for careers including management consulting, policy analysis, and risk management, applying engineering systems analysis to tackle complex economic and technical management problems in the private and public sectors. They acquire the skills to identify and develop opportunities in uncertain situations while recognizing and hedging the downside risks. Specialized coursework includes the mathematical foundations for modeling in dynamic, uncertain environments to value and manage uncertain opportunities and risks, applications to public policy, and a chance to work on a client project under faculty guidance.  Recommended courses include MS&E 250A, 250B, 252, and 355.
+Energy and Environment:
+Courses in Energy and Environment are designed for students interested in energy and environmental issues from the perspectives of public policy, non-governmental organizations, or corporations. Recommended courses include MS&E 241, 243, and 394, CEE 207A, 273S, and ENERGY  201A, 201B, 201C, 223, 240, 241, 281 and 291.
+Health Systems Modeling:
+Courses in Health Systems Modeling are designed for students interested in health care operations and policy. Courses emphasize applying mathematical and economic analysis to problems in public health policy and the design and operation of health care services. Recommended courses include MS&E 263, 292, and 463, and HRP 263 and 392.
+Minimum Units in the Program
+45
+Minimum University Units
+45
+Collapse All
+Breadth in Discipline
+Completion requirement
+MS&E Breadth
+Completion of four courses, one from each of the four breadth areas, each taken for a letter grade.
+Fulfill ALL of the following requirements:
+Optimization and Algorithms
+Complete at least 1 of the following Courses:
+MS&E211 - Introduction to Optimization
+MS&E211DS - Introduction to Optimization: Data Science
+MS&E211X - Introduction to Optimization (Accelerated)
+MS&E212 - Graph and Combinatorial Optimization
+MS&E215 - Beyond Worst-Case Analysis
+MS&E236 - Machine Learning for Discrete Optimization
+MS&E311 - Optimization
+MS&E312 - Optimization Algorithms
+MS&E315 - Combinatorial Optimization
+MS&E318 - Safe and Constrained AI
+MS&E319 - Efficient Generative Models
+MS&E331 - AI for Algorithmic Reasoning and Optimization
+AND
+Data Science, Probability, and Stochastics
+Complete at least 1 of the following Courses:
+MS&E220 - Probabilistic Analysis
+MS&E221 - Stochastic Modeling
+MS&E223 - Stochastic Simulation and Monte Carlo Methods
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E228 - Applied Causal Inference with Machine Learning and AI
+MS&E321 - Stochastic Systems
+MS&E322 - Stochastic Calculus and Control
+MS&E323 - Stochastic Simulation
+MS&E324 - Stochastic Methods in Engineering
+AND
+Strategy, Entrepreneurship, and Organizations
+Complete at least 1 of the following Courses:
+MS&E270 - Strategy in Technology-Based Companies
+MS&E272 - Entrepreneurship without Borders
+MS&E280 - Organizational Behavior: Evidence in Action
+MS&E284 - Managing Data Science Organizations for Innovation and Impact
+AND
+Modeling, Decision, and Management Science Applications
+Complete at least 1 of the following Courses:
+MS&E230 - Market Design for Engineers
+MS&E232 - Introduction to Game Theory
+MS&E232H - Introduction to Game Theory (Accelerated)
+MS&E235A - Markov Decision Processes
+MS&E235B - Reinforcement Learning: Behaviors and Applications
+MS&E239 - Market Design in Action
+MS&E241 - Economic Analysis
+MS&E242 - Machine Learning for Algorithmic Trading
+MS&E243 - Energy and Environmental Policy Analysis
+MS&E245A - Investment Science
+MS&E245B - Advanced Investment Science
+MS&E246 - Financial Risk Analytics
+MS&E247 - Decentralized Finance & Blockchain: Innovation, Applications, and Entrepreneurship
+MS&E250A - Reliability and Resilience of Engineered Systems
+MS&E250B - Project Course in Engineering Risk Analysis
+MS&E252 - Foundations of Decision Analysis
+MS&E254 - The Ethical Analyst
+MS&E260 - Introduction to Operations Management
+MS&E262 - Topics in Service and Supply Chain Management
+MS&E292 - Health Policy Modeling
+Depth in Discipline
+Completion requirement
+MS&E Depth
+Completion of three additional MS&E graduate courses for depth, each taken for a letter grade. Students may select from one of the four listed areas, or self-design a set of three MS&E graduate courses.
+Fulfill ANY of the following requirements:
+Data, AI, and Decisions
+Complete at least 3 of the following Courses:
+MS&E206 - Incentives in Computer Science
+MS&E211 - Introduction to Optimization
+MS&E211DS - Introduction to Optimization: Data Science
+MS&E211X - Introduction to Optimization (Accelerated)
+MS&E212 - Graph and Combinatorial Optimization
+MS&E215 - Beyond Worst-Case Analysis
+MS&E218 - Applied Data Science
+MS&E220 - Probabilistic Analysis
+MS&E221 - Stochastic Modeling
+MS&E223 - Stochastic Simulation and Monte Carlo Methods
+MS&E226 - Fundamentals of Data Science: Prediction, Inference, Causality
+MS&E228 - Applied Causal Inference with Machine Learning and AI
+MS&E229 - Bayesian Linear Regression
+MS&E230 - Market Design for Engineers
+MS&E232 - Introduction to Game Theory
+OR
+MS&E232H - Introduction to Game Theory (Accelerated)
+MS&E233 - Game Theory, Data Science and AI
+MS&E235A - Markov Decision Processes
+MS&E235B - Reinforcement Learning: Behaviors and Applications
+MS&E236 - Machine Learning for Discrete Optimization
+MS&E239 - Market Design in Action
+MS&E250A - Reliability and Resilience of Engineered Systems
+MS&E250B - Project Course in Engineering Risk Analysis
+MS&E252 - Foundations of Decision Analysis
+MS&E260 - Introduction to Operations Management
+MS&E262 - Topics in Service and Supply Chain Management
+MS&E263 - Healthcare Operations Management
+MS&E311 - Optimization
+MS&E312 - Optimization Algorithms
+MS&E315 - Combinatorial Optimization
+MS&E318 - Safe and Constrained AI
+MS&E319 - Efficient Generative Models
+MS&E321 - Stochastic Systems
+MS&E322 - Stochastic Calculus and Control
+MS&E323 - Stochastic Simulation
+MS&E324 - Stochastic Methods in Engineering
+MS&E325 - Diffusion, Control and Optimal Transport
+MS&E326 - Advanced Topics in Applied Data Science
+MS&E328 - Foundations of Causal Machine Learning
+MS&E330 - Reliability and Validity in Artificial Intelligence
+MS&E331 - AI for Algorithmic Reasoning and Optimization
+MS&E333 - AI Application Lab
+MS&E334 - Topics in Social Data
+MS&E335 - Queueing and Scheduling in Processing Networks
+MS&E336 - Computational Social Choice
+MS&E337 - Large Networks and Graph Limits
+MS&E338 - Aligning Superintelligence
+MS&E339 - Algorithms for Decentralized Finance
+MS&E355 - Influence Diagrams and Probabilistics Networks
+MS&E463 - Healthcare Systems Design
+OR
+Financial Analytics
+Complete at least 3 of the following Courses:
+MS&E242 - Machine Learning for Algorithmic Trading
+MS&E244 - Statistical Arbitrage
+MS&E245A - Investment Science
+MS&E245B - Advanced Investment Science
+MS&E246 - Financial Risk Analytics
+MS&E247 - Decentralized Finance & Blockchain: Innovation, Applications, and Entrepreneurship
+MS&E249 - Corporate Financial Management
+MS&E342 - Stochastic Systems and Learning Theory with Applications in Finance
+MS&E346 - Foundations of Reinforcement Learning with Applications in Finance
+MS&E347 - Advanced Topics in Blockchain & DeFi: Research, Market Design, and Microstructure
+MS&E348 - Optimization of Uncertainty and Applications in Finance
+MS&E349 - Financial Statistics
+OR
+Technology and Engineering Management
+Complete at least 3 of the following Courses:
+ENGR245 - The Lean LaunchPad: Getting Your Lean Startup Off the Ground
+ENGR248 - Principled Entrepreneurial Decisions
+MS&E240 - Accounting for Managers and Entrepreneurs
+MS&E265 - Product Management Fundamentals for the Real Economy
+MS&E270 - Strategy in Technology-Based Companies
+MS&E271 - Global Entrepreneurial Marketing
+MS&E272 - Entrepreneurship without Borders
+MS&E273 - Venture Creation for the Real Economy
+MS&E275 - AI-pilled: Building the AI-Native Company
+MS&E276 - Entrepreneurial Management and Finance
+MS&E277B - Entrepreneurial Leadership
+MS&E278 - Patent Law and Strategy for Innovators and Entrepreneurs
+MS&E280 - Organizational Behavior: Evidence in Action
+MS&E284 - Managing Data Science Organizations for Innovation and Impact
+MS&E288 - Managing Innovation and Driving Adoption of Frontier Technologies
+MS&E289 - Ethics in Global Technology Design
+MS&E489 - Leadership Lab
+OR
+Technology Policy
+Complete at least 3 of the following Courses:
+MS&E241 - Economic Analysis
+MS&E243 - Energy and Environmental Policy Analysis
+MS&E254 - The Ethical Analyst
+MS&E256 - Technology Assessment and Regulation of Medical Devices
+MS&E292 - Health Policy Modeling
+MS&E295 - Innovating for National Security Workshop
+MS&E296 - Technology, Innovation and Great Power Competition
+MS&E297 - "Hacking for Defense": Solving National Security issues with the Lean Launchpad
+MS&E299 - Entrepreneurship Inside Government
+MS&E394 - Advanced Methods in Modeling for Climate and Energy Policy
