@@ -45,9 +45,7 @@ from engine.weights import WEIGHT_TYPE_SCHEMA
 st.set_page_config(page_title="Stanford Schedule Generator", layout="wide")
 st.title("Stanford theoretical course-schedule generator")
 st.caption(
-    "v1 basic framework -- real course data, real transcript parsing, real "
-    "CP-SAT optimizer. Requirement coverage and weight types are intentionally "
-    "small for now; both are meant to grow."
+    "V1: Start with Transcript or  Manual List, Adjust Parameters, and Generate Plans. LLM requirement adjustment in progress."
 )
 
 SNAPSHOT_PATH = Path(__file__).parent / "data" / "courses_snapshot.json"
