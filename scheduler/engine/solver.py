@@ -184,6 +184,7 @@ def build_and_solve(
     restricted_course_programs: dict[str, list[str]] | None = None,
     assume_prereqs_satisfied_for: set[str] | frozenset[str] | None = None,
     course_quarter_exclusions: dict[str, set[int]] | None = None,
+    soft_quarter_penalties: dict[str, set[int]] | None = None,
 ) -> ScheduleResult:
     # restricted_course_programs (see engine/multi_program.py, which builds
     # this): course_key -> the >=2 program_ids that are stacked in a mode
@@ -232,6 +233,18 @@ def build_and_solve(
     # into an earlier-year quarter just because nothing else forbids it.
     # None/{} (every pre-existing call site) is a no-op -- purely additive.
     course_quarter_exclusions = course_quarter_exclusions or {}
+    # soft_quarter_penalties: course_key -> set of quarter INDICES that are
+    # merely DISCOURAGED for that course, not forbidden -- unlike
+    # course_quarter_exclusions just above, this never blocks a schedule,
+    # it only costs objective value (same "real but unenforced" shape as
+    # section 4b/4c's typical-ordering/CS-soft-prereq nudges below). Built
+    # for the WR2 (Writing and Rhetoric 2) placeholder: real advising
+    # guidance says it should land in sophomore year, but nothing in the
+    # actual bulletin/enrollment data enforces that, so a hard exclusion
+    # risked real infeasibility for a student who's already past sophomore
+    # year without having done it yet. None/{} (every pre-existing call
+    # site) is a no-op -- purely additive.
+    soft_quarter_penalties = soft_quarter_penalties or {}
     # The whole model-building + solve pass lives in this inner function so
     # it can be run TWICE when needed: once cheaply (prerequisites as plain
     # hard constraints -- the common, fast path used whenever the schedule
@@ -356,6 +369,14 @@ def build_and_solve(
         # dedicated constraint section below (#2a-bridge-ii) for exactly
         # what extra this enforces.
         _full_year_repeat_courses: set[str] = set()
+        # Solo-repeat, `sequential=True` courses whose rule ALSO marked
+        # `year_sequence_tail` (1 or 2) -- the language requirement's
+        # PARTIAL-sequence case (see RequirementRule.year_sequence_tail's
+        # own comment and build_language_rule). course_key -> tail length,
+        # distinct from (and mutually exclusive with, by construction) the
+        # full_year_sequence=True case above, which only ever fires at
+        # exactly 3.
+        _year_tail_repeat_courses: dict[str, int] = {}
 
         def _walk_repeat_eligibility(rule: RequirementRule):
             if rule.kind == "unit_min":
@@ -371,6 +392,9 @@ def build_and_solve(
                     _sequential_repeat_courses.update(_solo_alts)
                     if rule.full_year_sequence:
                         _full_year_repeat_courses.update(_solo_alts)
+                    elif rule.year_sequence_tail:
+                        for _alt in _solo_alts:
+                            _year_tail_repeat_courses[_alt] = rule.year_sequence_tail
             else:
                 for item in rule.courses:
                     for alt in _flatten_alt(item):
@@ -384,6 +408,8 @@ def build_and_solve(
         _repeat_eligible_courses = (_unit_min_only_courses | _solo_repeat_courses) - _multi_item_courses
         _full_year_repeat_courses -= _multi_item_courses
         _sequential_repeat_courses -= _multi_item_courses
+        for _k in _multi_item_courses:
+            _year_tail_repeat_courses.pop(_k, None)
 
         # 2. Global invariant: nobody takes the same course in two quarters --
         # except a repeat-eligible course (see above), which may repeat up to
@@ -503,6 +529,56 @@ def build_and_solve(
                 triple_vars.append(tv)
                 covered_qis.update((a, b, c))
             model.Add(sum(triple_vars) == 1)
+            for qi in range(len(quarter_list)):
+                if (key, qi) in x and qi not in covered_qis:
+                    model.Add(x[(key, qi)] == 0)
+
+        # 2a-bridge-iii. Partial-year tail pinning for `year_sequence_tail`
+        # repeat placeholders (the language requirement at 1 or 2 quarters
+        # remaining -- see RequirementRule.year_sequence_tail's own comment
+        # and build_language_rule). Same "exactly one real candidate, zero
+        # everywhere else" shape as 2a-bridge-ii's full-year block just
+        # above, just matching a shorter, END-of-year slice instead of the
+        # whole Autumn/Winter/Spring triple:
+        #   tail == 2: a (Winter, Spring) pair, consecutive quarter_list
+        #     positions, same academic-year label -- 2 quarters remaining
+        #     implies the Autumn course is already done some other way, so
+        #     Autumn itself isn't part of the candidate (no x var needed
+        #     for it here).
+        #   tail == 1: a single Spring quarter -- 1 quarter remaining is
+        #     just that sequence's third course.
+        # Direct user correction prompted this: a 2-remaining language
+        # placeholder was landing in two merely-adjacent quarters (e.g.
+        # Spring of one year plus Autumn of the next) instead of Winter-
+        # then-Spring of one real year, and a 1-remaining placeholder had
+        # no constraint at all pinning it to Spring specifically.
+        for key, tail in _year_tail_repeat_courses.items():
+            valid_candidates: list[tuple[int, ...]] = []
+            if tail == 2:
+                for i in range(len(quarter_list) - 1):
+                    b_label, c_label = quarter_list[i], quarter_list[i + 1]
+                    if (
+                        _season(b_label) == "Winter"
+                        and _season(c_label) == "Spring"
+                        and b_label.rsplit(" ", 1)[0] == c_label.rsplit(" ", 1)[0]
+                        and (key, i) in x and (key, i + 1) in x
+                    ):
+                        valid_candidates.append((i, i + 1))
+            elif tail == 1:
+                for i, label in enumerate(quarter_list):
+                    if _season(label) == "Spring" and (key, i) in x:
+                        valid_candidates.append((i,))
+
+            candidate_vars = []
+            covered_qis: set[int] = set()
+            for qis in valid_candidates:
+                cv = model.NewBoolVar(f"lang_year_tail_{key}_{qis[0]}")
+                group = [x[(key, qi)] for qi in qis]
+                model.Add(sum(group) == len(group)).OnlyEnforceIf(cv)
+                model.Add(sum(group) == 0).OnlyEnforceIf(cv.Not())
+                candidate_vars.append(cv)
+                covered_qis.update(qis)
+            model.Add(sum(candidate_vars) == 1)
             for qi in range(len(quarter_list)):
                 if (key, qi) in x and qi not in covered_qis:
                     model.Add(x[(key, qi)] == 0)
@@ -1099,6 +1175,20 @@ def build_and_solve(
                     model.Add(viol <= key_var)
                 _cs_soft_prereq_violations.append(viol)
 
+        # 4d. Soft per-quarter target penalty (see soft_quarter_penalties's
+        # own comment above) -- deliberately the simplest possible shape:
+        # each (key, qi) pair already has a real BoolVar in `x`, so an
+        # off-target placement just costs that var directly in the
+        # objective, no auxiliary violation variable needed (unlike 4b/4c,
+        # there's no "before/after" sequencing to reason about here, just
+        # "is this one quarter one of the discouraged ones").
+        _SOFT_QUARTER_PENALTY = 4
+        _soft_quarter_penalty_vars: list["cp_model.IntVar"] = []
+        for key, bad_qis in soft_quarter_penalties.items():
+            for qi in bad_qis:
+                if (key, qi) in x:
+                    _soft_quarter_penalty_vars.append(x[(key, qi)])
+
         # 5. Objective: sum of every weight rule's contribution, plus a small
         # built-in "anti-filler" cost on every course scheduled. Without this,
         # nothing stops the solver from padding the plan with unnecessary
@@ -1111,6 +1201,7 @@ def build_and_solve(
         objective_terms.extend((-_OVERAGE_PENALTY, ov) for ov in overage_vars)
         objective_terms.extend((-_TYPICAL_ORDER_PENALTY, v) for v in _typical_order_violations)
         objective_terms.extend((-_CS_SOFT_PREREQ_PENALTY, v) for v in _cs_soft_prereq_violations)
+        objective_terms.extend((-_SOFT_QUARTER_PENALTY, v) for v in _soft_quarter_penalty_vars)
         for wr in weight_rules:
             scorer = SCORERS.get(wr.type)
             if scorer is None:

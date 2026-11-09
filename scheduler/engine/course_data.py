@@ -662,9 +662,15 @@ def apply_overrides(courses: dict[str, Course], overrides: list[CourseOverride])
             print(f"  [warn] override for unknown course {ov.course_key}, skipping")
             continue
         if ov.field == "terms_offered":
-            existing = set(c.terms_offered)
-            existing.update(ov.value if isinstance(ov.value, (list, tuple)) else [ov.value])
-            c.terms_offered = tuple(sorted(existing))
+            # Plain replacement, not a union -- a correction here means "this
+            # is the actual list of terms," whether that's adding a missing
+            # term (snapshot had too few) or restricting to fewer terms than
+            # the snapshot shows (e.g. "only offer this course in Winter for
+            # planning purposes"). engine/nl_change.py is responsible for
+            # resolving "also offered in X" into the full correct list
+            # before this override is ever recorded.
+            new_terms = ov.value if isinstance(ov.value, (list, tuple)) else [ov.value]
+            c.terms_offered = tuple(sorted(set(new_terms)))
         elif hasattr(c, ov.field):
             setattr(c, ov.field, ov.value)
         else:
@@ -747,6 +753,35 @@ def class_year_quarter_exclusions(
         if excluded:
             exclusions[key] = excluded
     return exclusions
+
+
+def post_sophomore_quarter_indices(
+    quarter_list: list[str], years_completed_at_horizon_start: int
+) -> set[int]:
+    """Quarter indices at junior standing or later (years_completed >= 2),
+    using the exact same years_completed_by_qi computation as
+    class_year_quarter_exclusions above. Built for a real user report: WR2
+    (Writing and Rhetoric 2) kept landing in senior year. HARD-enforced
+    (unlike an earlier version of this function, which treated it as a
+    soft preference) per direct user correction: "you cannot take WR2 as a
+    junior or senior, so it needs to be enforced into freshman/sophomore" --
+    a real registrar fact, not just advising guidance, even though it isn't
+    spelled out in the PWR2* bulletin description text itself. Meant to be
+    merged into solver.py's `course_quarter_exclusions` (the same hard-
+    block mechanism KNOWN_CLASS_YEAR_MIN uses) for the WR2 placeholder key,
+    not passed as a soft penalty.
+
+    Freshman AND sophomore year are both allowed -- no preference between
+    them is enforced, consistent with the user's own framing ("enforced
+    into freshman/sophomore") rather than sophomore-only with a freshman
+    exception."""
+    years_completed_by_qi: list[int] = []
+    running = years_completed_at_horizon_start
+    for qi, q in enumerate(quarter_list):
+        if qi >= 1 and _season(q) == "Autumn":
+            running += 1
+        years_completed_by_qi.append(running)
+    return {qi for qi, yrs in enumerate(years_completed_by_qi) if yrs >= 2}
 
 
 def add_placeholder_courses(

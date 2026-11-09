@@ -7,3 +7,4 @@ explorecourses>=1.0.6
 # works fine without it -- that one feature just reports a clear error
 # instead of a schedule-breaking crash if it's missing.
 anthropic>=0.40
+python-dotenv>=1.0

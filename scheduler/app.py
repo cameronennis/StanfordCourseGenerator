@@ -24,6 +24,7 @@ import streamlit as st
 from engine.course_data import (
     load_snapshot, apply_overrides, load_overrides,
     add_placeholder_courses, class_year_quarter_exclusions, DEFAULT_DEPARTMENTS,
+    post_sophomore_quarter_indices,
 )
 from engine.models import CourseOverride, RequirementRule, WeightRule, all_referenced_course_keys, is_placeholder_key
 from engine.requirements import (
@@ -942,7 +943,7 @@ if st.button("Add change", key=f"nl_change_btn_{_nl_gen}"):
         st.warning("Type something first.")
     else:
         with st.spinner("Interpreting..."):
-            _result = parse_change_request(_nl_sentence, known_course_keys=set(courses.keys()))
+            _result = parse_change_request(_nl_sentence, known_course_keys=set(courses.keys()), courses=courses)
         st.session_state.nl_change_log.append({
             "sentence": _nl_sentence,
             "change_type": _result.change_type,
@@ -1040,6 +1041,15 @@ if st.button("Generate schedule", type="primary"):
     # already completed" above and engine/course_data.py's
     # KNOWN_CLASS_YEAR_MIN for the underlying list.
     _class_year_exclusions = class_year_quarter_exclusions(
+        quarter_list, years_completed_at_horizon_start=int(years_completed_at_start)
+    )
+    # WR2 (Writing and Rhetoric 2) is HARD-forbidden junior year or later --
+    # direct user correction: "you cannot take WR2 as a junior or senior."
+    # Merged into the same hard-exclusion dict as CHEM176/Capstone above,
+    # rather than a separate soft preference. A no-op if "PLACEHOLDER:WR2"
+    # isn't one of this run's requirement keys at all (already satisfied by
+    # a completed course, or this run built no university-wide rules).
+    _class_year_exclusions["PLACEHOLDER:WR2"] = post_sophomore_quarter_indices(
         quarter_list, years_completed_at_horizon_start=int(years_completed_at_start)
     )
     with st.spinner("Solving..."):

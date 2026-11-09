@@ -65,6 +65,21 @@ UNIVERSITY_REQUIREMENTS_PATH = Path(__file__).parent.parent / "data" / "universi
 
 _WR1_RE = re.compile(r"^PWR1[A-Z]")
 _WR2_RE = re.compile(r"^PWR2[A-Z]")
+# Real, non-PWR2 courses can also satisfy WR2 -- confirmed directly via a
+# live explorecourses fetch, prompted by a user report ("it missed that I
+# took a WR2 class in the ORALCOMM department"): ORALCOMM176 and
+# ORALCOMM177 both explicitly self-declare in their own bulletin
+# description text ("This class fulfills the WR2 requirement." /
+# "This class fulfills the Writing & Rhetoric 2 requirement."). Detected
+# generically via this description pattern (handles the literal "WR2" and
+# the spelled-out "Writing & Rhetoric 2" phrasing, and HTML-escaped "&amp;")
+# rather than hand-listing just those two course keys, so any other real
+# department's WR2-equivalent found the same way is picked up automatically
+# without another manual-fix entry -- a real search across the full 2026-
+# 2027 snapshot found exactly these two courses matching, nothing else.
+_WR2_FULFILLS_RE = re.compile(
+    r"fulfills?\s+the\s+(wr\s*2|writing\s*(&amp;|&|and)\s*rhetoric\s*2)\s+requirement", re.I
+)
 _GLOBAL_PERSPECTIVES_RE = re.compile(r"^COLLEGE1(0[3-9]|1[0-9]|2[0-7])$")
 
 
@@ -395,7 +410,10 @@ def build_writing_rules(
     if "ITALIC95W" in courses:
         wr1_pool.append("ITALIC95W")
     wr1_pool.sort()
-    wr2_pool = sorted(k for k in courses if _WR2_RE.match(k) and courses[k].units_typical >= 3)
+    wr2_pool = sorted({
+        k for k, c in courses.items()
+        if (_WR2_RE.match(k) and c.units_typical >= 3) or _WR2_FULFILLS_RE.search(c.description or "")
+    })
 
     rules: list[RequirementRule] = []
     placeholders: dict[str, Course] = {}
@@ -486,11 +504,15 @@ def build_language_rule(quarters_needed: int) -> tuple[RequirementRule, dict[str
     # directly per user feedback: the general `sequential` contiguity rule
     # below would still let e.g. Spring/Autumn/Winter (split across two
     # academic years) satisfy the count, which isn't how anyone actually
-    # takes a language sequence. Only applies at exactly 3 quarters
-    # remaining -- 1 or 2 quarters is presumably a partial sequence (e.g.
-    # already placed out of level 1, or into the language via AP credit)
-    # with no natural "whole year" shape to pin down, so those stay under
-    # the more permissive general contiguity rule only.
+    # takes a language sequence.
+    #
+    # 1 or 2 quarters remaining is a partial sequence -- per direct user
+    # feedback, these aren't shapeless either: needing only 2 more quarters
+    # implies the first (Autumn) course is already done via an earlier
+    # credit/placement, so the 2 remaining must be Winter then Spring of
+    # one real academic year; needing only 1 more means just the sequence's
+    # third (Spring) course. See `year_sequence_tail` on RequirementRule and
+    # solver.py's handling of it for exactly what this pins down.
     rule = RequirementRule(
         label=f"University requirement: Language ({quarters_needed} quarter(s) remaining)",
         kind="at_least_n",
@@ -503,6 +525,7 @@ def build_language_rule(quarters_needed: int) -> tuple[RequirementRule, dict[str
         # categories), which have no such relationship between occurrences.
         sequential=True,
         full_year_sequence=(quarters_needed == 3),
+        year_sequence_tail=quarters_needed if quarters_needed in (1, 2) else None,
     )
     # The full Course object, not just its description -- see
     # course_data.add_placeholder_courses()'s docstring for why: passing a

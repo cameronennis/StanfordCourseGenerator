@@ -32,6 +32,21 @@ import os
 from dataclasses import dataclass
 from typing import Optional
 
+try:
+    from dotenv import load_dotenv
+    # Walks up from the current working directory looking for a .env file
+    # -- finds the project root's .env (one level up from this scheduler/
+    # folder) even when `streamlit run app.py` is launched from inside
+    # scheduler/. Doesn't override a real shell-exported env var if one
+    # already exists (override=False is the default). A bare `os.environ`
+    # set in the real shell works fine without this -- this only matters
+    # for the .env-file case.
+    load_dotenv()
+except ImportError:
+    pass  # python-dotenv not installed -- only a real shell env var will work
+
+import re
+
 from .models import CourseOverride, WeightRule
 from .weights import WEIGHT_TYPE_SCHEMA
 
@@ -109,10 +124,46 @@ def _describe_weight_types() -> str:
     return "\n".join(lines)
 
 
-def _system_prompt() -> str:
+_COURSE_KEY_RE = re.compile(r"\b([A-Za-z]{2,10})\s*0*(\d{1,3}[A-Za-z]{0,2})\b")
+
+
+def _find_mentioned_courses(sentence: str, courses: Optional[dict]) -> dict:
+    """Best-effort scan for real course keys referenced in `sentence` (e.g.
+    "CS 229" or "CS229" both match "CS229"), returning
+    {course_key: current_terms_offered} for any that exist in `courses`.
+    Used so the LLM can see a course's CURRENT terms_offered before deciding
+    the full corrected list -- without this, "also offered in Spring" and
+    "only offered in Spring" look identical to a model with no memory of
+    what's already on file."""
+    if not courses:
+        return {}
+    found = {}
+    for m in _COURSE_KEY_RE.finditer(sentence):
+        key = f"{m.group(1).upper()}{m.group(2).upper()}"
+        course = courses.get(key)
+        if course is not None:
+            found[key] = tuple(getattr(course, "terms_offered", ()) or ())
+    return found
+
+
+def _system_prompt(mentioned_courses: Optional[dict] = None) -> str:
+    context_block = ""
+    if mentioned_courses:
+        lines = "\n".join(
+            f"  - {key}: currently {list(terms) or '[]'}"
+            for key, terms in mentioned_courses.items()
+        )
+        context_block = f"""
+
+Current data on file for course(s) mentioned in the request below (use this \
+to compute the FULL correct terms_offered list -- it is always a complete \
+replacement of what's on file, never just the newly-mentioned season(s)):
+{lines}
+"""
     return f"""You parse ONE plain-English request from a Stanford student who is \
 using a course-schedule planning tool, and turn it into exactly one structured \
 change via the {TOOL_NAME} tool. Always call that tool -- never reply in plain text.
+{context_block}
 
 There are exactly two kinds of change this tool can represent, plus a \
 fallback for anything else:
@@ -124,7 +175,16 @@ concatenated with no space, e.g. "CS106A", "COLLEGE102", "MATH51". Valid \
 fields:
    - terms_offered: which seasons a course is really offered (a list drawn \
      from {list(_VALID_SEASONS)}) -- use when the student says a course is \
-     also/only offered in some quarter that the current data seems to miss.
+     also/only offered in some quarter that the current data seems to miss, \
+     OR when the student wants to personally restrict a course to fewer \
+     quarters than it's actually offered (e.g. "only plan CS229 for Winter \
+     for me"). The value you record is ALWAYS the complete final list of \
+     seasons, not a delta: if the student says "also" offered somewhere, \
+     that season gets ADDED to the course's current terms (shown above, if \
+     given); if the student says "only"/"restrict to" a season, the final \
+     list contains ONLY that season and nothing else, even if the course is \
+     really offered in other seasons too -- this is a plain replacement, \
+     applied exactly as recorded.
    - prerequisite_courses / corequisite_courses: a list of course keys, or \
      an EMPTY list to mean "waive this entirely for me" (e.g. AP credit, a \
      transfer course, a placement exam, "I already know this material").
@@ -325,6 +385,7 @@ def parse_change_request(
     sentence: str,
     *,
     known_course_keys: Optional[set] = None,
+    courses: Optional[dict] = None,
     model: str = DEFAULT_MODEL,
 ) -> ParsedChange:
     """The one entry point this module exposes. Never raises -- every
@@ -354,11 +415,12 @@ def parse_change_request(
 
     client = anthropic.Anthropic(api_key=api_key)
     tool = _build_tool_schema()
+    mentioned_courses = _find_mentioned_courses(sentence, courses)
     try:
         resp = client.messages.create(
             model=model,
             max_tokens=1024,
-            system=_system_prompt(),
+            system=_system_prompt(mentioned_courses),
             tools=[tool],
             tool_choice={"type": "tool", "name": TOOL_NAME},
             messages=[{"role": "user", "content": sentence}],

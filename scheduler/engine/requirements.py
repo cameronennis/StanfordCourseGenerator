@@ -466,6 +466,7 @@ def placeholderize_large_elective_pools(
             unit_min=rule.unit_min, sub_rules=new_sub_rules, source=rule.source,
             program_id=rule.program_id, sequential=rule.sequential,
             full_year_sequence=rule.full_year_sequence,
+            year_sequence_tail=rule.year_sequence_tail,
         )
 
     return [_rewrite(r) for r in rules], placeholders

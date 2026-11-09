@@ -71,12 +71,19 @@ def chem_bs_manual_rules() -> list[RequirementRule]:
     post-solve check -- see engine/university_requirements.py)."""
     return [
         # --- Core Program Requirements ---
-        RequirementRule(
-            label="Lab Course Requirement",
-            kind="all",
-            courses=["CHEM100"],
-            source="CHEM-BS program page: Core Program Requirements",
-        ),
+        # CHEM100 ("Chemical Laboratory and Safety Skills") is NOT a
+        # universal requirement -- removed per direct user correction: it
+        # only applies to students entering the program above the normal
+        # intro sequence (transfers / AP-credit placements who'd otherwise
+        # skip the lab-safety training built into CHEM31A/B/E), not to most
+        # students. samples/CHEM-BS.txt's own source text is garbled here
+        # ("Students entering the program above / course / must take the
+        # short course / course / Chemical Laboratory and Safety Skills
+        # before any course with a lab component") and doesn't cleanly spell
+        # out the condition, so rather than guess at modeling "transfer
+        # student" (a status this engine has no representation for at all),
+        # it's left unmodeled -- a transfer student who needs CHEM100 can
+        # add it themselves via the NL change box as a personal addition.
         RequirementRule(
             label="Core Coursework",
             kind="all",

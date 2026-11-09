@@ -196,6 +196,21 @@ class RequirementRule:
     # specific, real academic-year block starting in Autumn. Meaningless
     # (and unchecked) unless `sequential` is also True.
     full_year_sequence: bool = False
+    # For a solo repeat-eligible, `sequential=True` rule needing fewer than
+    # a full year (1 or 2 quarters remaining) -- the language requirement's
+    # OWN partial-sequence case, distinct from full_year_sequence's exactly-
+    # 3 case. Direct user correction: needing only 2 more quarters implies
+    # credit for the sequence's first (Autumn) course already, so the 2
+    # remaining must be Winter THEN Spring of one real academic year, not
+    # just "any 2 contiguous quarters" (the general `sequential` rule alone
+    # would still accept e.g. Spring of one year + Autumn of the next);
+    # needing only 1 more quarter means just the sequence's third (Spring)
+    # course. Value is the exact count still needed -- 2 means "pin to the
+    # Winter+Spring tail of one academic-year block," 1 means "pin to the
+    # Spring quarter of one academic-year block." None/0 (every other rule)
+    # means no such pinning. See build_language_rule in
+    # engine/university_requirements.py and solver.py's handling of it.
+    year_sequence_tail: int | None = None
 
 
 def _is_and_group(item: object) -> bool:
