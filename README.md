@@ -1,6 +1,6 @@
 This tool leverages Google OR-Tools CP-SAT to optimize theoretical Stanford program schedules for undergrad/master's students.
 
-This is the first relatively working demo! I'll keep adding features and making architectural changes for a bit, so instructions will come later. Here's the rundown: Run the python code through streamlit. Upload your unofficial transcript. Pick your programs (majors, minors, coterms) OR add a .txt file of your intended courses.
+This is the first relatively working demo! I'll keep adding features and making architectural changes for a bit, so instructions will come later. Here's the rundown: Run the python code through streamlit. Upload your unofficial transcript. Pick your programs (majors, minors, coterms) OR add a .txt file of your intended courses. Add any custom rules/patches with the LLM interface after setting your api key in the environment/.env.
 
 
 
