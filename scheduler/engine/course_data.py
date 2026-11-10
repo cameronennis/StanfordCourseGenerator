@@ -92,6 +92,75 @@ _PREREQ_COREQ_KEYWORD_RE = re.compile(r"\b(pre|co)requisites?\b", re.IGNORECASE)
 # prereq).
 _COURSE_CODE_RE = re.compile(r"\b([A-Za-z]{2,10}(?:&[A-Za-z])?)\s?(\d{1,3}[A-Za-z]{0,3})\b")
 
+# A real, confirmed bug this guards against: Stanford prerequisite text
+# routinely drops the subject prefix on a second/third course number once
+# it's already been said once -- "106B or 106X" (meaning CS106B or
+# CS106X, both implicitly CS since this IS a CS course's own
+# prerequisite). _COURSE_CODE_RE's tight digit-adjacency requirement,
+# applied blindly, then lets the connector word ITSELF look like a
+# subject prefix: "or 106X" matches as subject="OR", code="106X" --
+# confirmed directly against CS161's real prerequisite text ("106B or
+# 106X; 103 or 103B; 109 or STATS 116."), which extracted a bogus course
+# key "OR106X" this way. No real Stanford subject code is a common
+# English stopword, so excluding these from ever matching as a subject
+# prefix is safe, not a guess.
+_NOT_A_SUBJECT = frozenset({
+    "or", "and", "the", "a", "an", "in", "of", "for", "with", "see", "to",
+    "is", "are", "at", "on", "by", "as", "it", "if", "or&", "and&",
+})
+
+
+# A bare course number with NO subject prefix at all (e.g. the "106X" in
+# "106B or 106X") -- Stanford's own catalog convention for "same subject
+# as the one already named/implied in this sentence," most often a
+# course's own prerequisite referring to another course in its OWN
+# department without bothering to repeat the department code. Requires at
+# least 2 digits (bare single digits are far too common in ordinary prose
+# -- "one of 2 options" -- to treat as a course number) and is only ever
+# used as a FALLBACK (see _find_course_code_matches below) when nothing
+# else in the same clause matched at all, never to override or
+# reinterpret a clause that already found a real, subject-qualified code.
+_BARE_COURSE_NUM_RE = re.compile(r"\b(\d{2,3}[A-Za-z]{0,2})\b")
+
+
+def _find_course_code_matches(text: str, own_subject: str | None = None) -> list[tuple[str, str]]:
+    """_COURSE_CODE_RE.findall(), minus any match whose "subject" half is
+    actually a connector word (see _NOT_A_SUBJECT above) -- the one place
+    this filtering happens, so every caller below (extract_prereq_text,
+    extract_prereq_groups, high_confidence_prerequisite_groups,
+    high_confidence_recommended_courses) gets it automatically instead of
+    needing the same fix applied four separate times.
+
+    If `own_subject` is given, ALSO matches any bare number (no subject
+    letters at all) not already part of a real match, and assumes
+    `own_subject` for each one -- confirmed, real, high-value case:
+    CS161's actual prerequisite text is "106B or 106X; 103 or 103B; 109 or
+    STATS 116." -- after AND/semicolon-splitting into per-clause text (see
+    callers below): "106B or 106X" and "103 or 103B" contain NO subject
+    letters anywhere, so without this they'd extract nothing at all and
+    silently vanish (one level past the "OR106X" misattribution bug
+    _NOT_A_SUBJECT fixes); "109 or STATS 116" has ONE real match
+    (STATS116) but would ALSO lose "109" entirely if the fallback only
+    ran on a totally-empty clause -- confirmed as a real, not merely
+    theoretical, residual gap: a CS161 OR-clause of (CS109, STATS116)
+    silently shrinking to just (STATS116) would wrongly treat a student
+    who's done CS109 but not STATS116 as not having satisfied it. Spans
+    already covered by a real match are excluded from the bare-number
+    scan so e.g. "CS106B" is never ALSO counted as a bare "106B"."""
+    real_matches = [
+        m for m in _COURSE_CODE_RE.finditer(text or "")
+        if m.group(1).lower() not in _NOT_A_SUBJECT
+    ]
+    real = [(m.group(1), m.group(2)) for m in real_matches]
+    if not own_subject:
+        return real
+    covered = [m.span() for m in real_matches]
+    bare = [
+        (own_subject, m.group(1)) for m in _BARE_COURSE_NUM_RE.finditer(text or "")
+        if not any(s <= m.start() and m.end() <= e for s, e in covered)
+    ]
+    return real + bare
+
 
 def extract_prereq_text(description: str) -> tuple[str, tuple[str, ...], str, tuple[str, ...]]:
     """Best-effort extraction of prerequisite/corequisite info from a course
@@ -124,8 +193,8 @@ def extract_prereq_text(description: str) -> tuple[str, tuple[str, ...], str, tu
 
     prereq_text = " ".join(prereq_sentences)
     coreq_text = " ".join(coreq_sentences)
-    prereq_courses = tuple(sorted({f"{a}{b}".upper().replace(" ", "") for a, b in _COURSE_CODE_RE.findall(prereq_text)}))
-    coreq_courses = tuple(sorted({f"{a}{b}".upper().replace(" ", "") for a, b in _COURSE_CODE_RE.findall(coreq_text)}))
+    prereq_courses = tuple(sorted({f"{a}{b}".upper().replace(" ", "") for a, b in _find_course_code_matches(prereq_text)}))
+    coreq_courses = tuple(sorted({f"{a}{b}".upper().replace(" ", "") for a, b in _find_course_code_matches(coreq_text)}))
     return prereq_text, prereq_courses, coreq_text, coreq_courses
 
 
@@ -169,7 +238,18 @@ _PREREQ_HEDGE_RE = re.compile(
 # CS106X") be told apart from a genuine AND ("CS106B and CS103") -- the flat,
 # connector-blind tuple extract_prereq_text() returns can't distinguish
 # these on its own.
-_AND_CLAUSE_SPLIT_RE = re.compile(r"\band\b", re.IGNORECASE)
+#
+# ALSO splits on a bare semicolon -- confirmed, real, high-value case:
+# CS161's actual prerequisite text is "106B or 106X; 103 or 103B; 109 or
+# STATS 116." -- three independent AND'd clauses with NO literal "and"
+# anywhere in the sentence at all, using semicolons as the only clause
+# separator. Splitting on "and" alone left this as one giant 5-course
+# OR-group (treating "complete any ONE of these five" as sufficient for a
+# required core CS-BS course), instead of three separate two-way choices
+# all required together. A semicolon is never used any other way in this
+# corpus's prerequisite text (confirmed: it never appears mid-course-code
+# or mid-OR-list), so splitting on it has no real downside.
+_AND_CLAUSE_SPLIT_RE = re.compile(r"\band\b|;", re.IGNORECASE)
 
 
 def extract_prereq_groups(text: str) -> tuple[tuple[str, ...], ...]:
@@ -189,7 +269,7 @@ def extract_prereq_groups(text: str) -> tuple[tuple[str, ...], ...]:
     """
     groups: list[tuple[str, ...]] = []
     for clause in _AND_CLAUSE_SPLIT_RE.split(text or ""):
-        codes = tuple(sorted({f"{a}{b}".upper().replace(" ", "") for a, b in _COURSE_CODE_RE.findall(clause)}))
+        codes = tuple(sorted({f"{a}{b}".upper().replace(" ", "") for a, b in _find_course_code_matches(clause)}))
         if codes:
             groups.append(codes)
     return tuple(groups)
@@ -231,7 +311,10 @@ def high_confidence_prerequisite_groups(course: "Course") -> tuple[tuple[str, ..
     for clause in _AND_CLAUSE_SPLIT_RE.split(course.prerequisites_text or ""):
         if _PREREQ_HEDGE_RE.search(clause):
             continue
-        codes = tuple(sorted({f"{a}{b}".upper().replace(" ", "") for a, b in _COURSE_CODE_RE.findall(clause)}))
+        codes = tuple(sorted({
+            f"{a}{b}".upper().replace(" ", "")
+            for a, b in _find_course_code_matches(clause, own_subject=course.subject)
+        }))
         filtered = tuple(c for c in codes if c != course.key)
         if filtered:
             cleaned.append(filtered)
@@ -258,7 +341,7 @@ def high_confidence_recommended_courses(course: "Course") -> tuple[str, ...]:
     for clause in _AND_CLAUSE_SPLIT_RE.split(course.prerequisites_text or ""):
         if not _PREREQ_HEDGE_RE.search(clause):
             continue
-        for a, b in _COURSE_CODE_RE.findall(clause):
+        for a, b in _find_course_code_matches(clause, own_subject=course.subject):
             code = f"{a}{b}".upper().replace(" ", "")
             if code != course.key:
                 recommended.add(code)
@@ -710,6 +793,24 @@ KNOWN_CLASS_YEAR_MIN: dict[str, int] = {
 }
 
 
+def _years_completed_by_qi(quarter_list: list[str], years_completed_at_horizon_start: int) -> list[int]:
+    """How many full academic years are completed AS OF each quarter_list
+    index -- shared by every class-year-aware helper below (originally
+    duplicated three separate times; factored out here once a third
+    caller needed the exact same computation). See
+    class_year_quarter_exclusions's own docstring for the full reasoning
+    on why an Autumn at index >= 1 is what increments this, and why
+    quarter_list[0] itself never counts as a fresh transition even if it's
+    an Autumn quarter."""
+    years_completed_by_qi: list[int] = []
+    running = years_completed_at_horizon_start
+    for qi, q in enumerate(quarter_list):
+        if qi >= 1 and _season(q) == "Autumn":
+            running += 1
+        years_completed_by_qi.append(running)
+    return years_completed_by_qi
+
+
 def class_year_quarter_exclusions(
     quarter_list: list[str],
     years_completed_at_horizon_start: int,
@@ -741,12 +842,7 @@ def class_year_quarter_exclusions(
     fewer years than the horizon already starts with gets no exclusions at
     all (nothing to exclude)."""
     restrictions = restrictions if restrictions is not None else KNOWN_CLASS_YEAR_MIN
-    years_completed_by_qi: list[int] = []
-    running = years_completed_at_horizon_start
-    for qi, q in enumerate(quarter_list):
-        if qi >= 1 and _season(q) == "Autumn":
-            running += 1
-        years_completed_by_qi.append(running)
+    years_completed_by_qi = _years_completed_by_qi(quarter_list, years_completed_at_horizon_start)
     exclusions: dict[str, set[int]] = {}
     for key, min_years in restrictions.items():
         excluded = {qi for qi, yrs in enumerate(years_completed_by_qi) if yrs < min_years}
@@ -775,13 +871,36 @@ def post_sophomore_quarter_indices(
     them is enforced, consistent with the user's own framing ("enforced
     into freshman/sophomore") rather than sophomore-only with a freshman
     exception."""
-    years_completed_by_qi: list[int] = []
-    running = years_completed_at_horizon_start
-    for qi, q in enumerate(quarter_list):
-        if qi >= 1 and _season(q) == "Autumn":
-            running += 1
-        years_completed_by_qi.append(running)
+    years_completed_by_qi = _years_completed_by_qi(quarter_list, years_completed_at_horizon_start)
     return {qi for qi, yrs in enumerate(years_completed_by_qi) if yrs >= 2}
+
+
+def exact_quarter_match_exclusions(
+    quarter_list: list[str],
+    years_completed_at_horizon_start: int,
+    target_class_year: int,
+    target_season: str,
+) -> set[int]:
+    """Every quarter index that ISN'T the one real (class year, season)
+    match in this horizon -- i.e. the complement set to hand to solver.py's
+    `course_quarter_exclusions` so a course has exactly one legal
+    placement left (or zero, if the horizon never actually reaches that
+    class year/season combination, which correctly surfaces as INFEASIBLE
+    rather than silently picking the nearest quarter instead).
+
+    Built for a real, confirmed NL-box bug: "enforce CHEM171 in sophomore
+    spring" got misparsed into a `terms_offered` CourseOverride restricting
+    CHEM171 to Spring -- which does nothing to pin WHICH Spring, since the
+    course was already Spring-only. See models.QuarterRestriction's own
+    docstring for the full story and why this needed a genuinely new
+    mechanism rather than reusing CourseOverride. `target_class_year`: 0 =
+    Freshman, 1 = Sophomore, 2 = Junior, 3 = Senior (same convention as
+    years_completed_at_horizon_start everywhere else in this module)."""
+    years_completed_by_qi = _years_completed_by_qi(quarter_list, years_completed_at_horizon_start)
+    return {
+        qi for qi, (q, yrs) in enumerate(zip(quarter_list, years_completed_by_qi))
+        if not (yrs == target_class_year and _season(q) == target_season)
+    }
 
 
 def add_placeholder_courses(

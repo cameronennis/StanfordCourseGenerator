@@ -22,7 +22,7 @@ import re
 from pathlib import Path
 
 from .bulletin_parser import ProgramRequirements, parse_program_text
-from .models import Course, RequirementRule, make_placeholder_course
+from .models import Course, RequirementRemoval, RequirementRule, RequirementSubstitution, make_placeholder_course
 
 SAMPLES_DIR = Path(__file__).parent.parent / "samples"
 
@@ -110,12 +110,86 @@ def build_program_from_sample(
     build_requirements()'s out_placeholders, then merge it into the course
     dict via course_data.add_placeholder_courses() before solving, or
     those placeholder keys won't actually be schedulable."""
+    # Hand-verified against the live 2026-27 bulletin (see
+    # manual_fix_verified.py) -- bypasses the generic parser for these codes.
+    if code == "CS-BS":
+        return cs_bs_verified_rules(include_subplans)
+    if code == "EE-BS":
+        return ee_bs_verified_rules()
+    if code == "PHYS-BS":
+        return phys_bs_verified_rules(include_subplans[0] if include_subplans else None)
     path = SAMPLES_DIR / f"{code}.txt"
     prog = parse_program_text(path.read_text(), code)
     if prog.warnings:
         for w in prog.warnings:
             print(f"  [warn] {code} {w.where}: {w.message}")
-    return rules_from_parsed_program(prog, include_subplans=include_subplans), prog.placeholder_courses
+    rules = rules_from_parsed_program(prog, include_subplans=include_subplans)
+    if code == "CS-BS":
+        rules = _fix_cs_bs_networking_concentration(rules)
+    return rules, prog.placeholder_courses
+
+
+def _fix_cs_bs_networking_concentration(rules: list[RequirementRule]) -> list[RequirementRule]:
+    """One-off correction confirmed directly against the LIVE bulletin
+    page (not just the cached sample -- fetched via Claude in Chrome):
+    the Computer Engineering Subplan's "Track C Requirement: Pick a
+    Concentration" has three named options (A/B/C), each really a
+    "Required Courses AND Required Elective Options" pair -- but only
+    option A's bulletin text explicitly says "Fulfill ALL of the
+    following requirements:" before that pair; option C ("Networking
+    Concentration") omits that phrase even though it has the exact same
+    2-leaf shape, jumping straight to "Required Courses" then its course
+    list. bulletin_parser.py has no way to know a missing wrapper phrase
+    was meant to be there (inferring one would risk misfiring on a
+    genuinely flat leaf elsewhere), so "Required Elective Options" (CS240/
+    CS240LX/CS241/CS244C/EE179) parses as a stray SIBLING of the whole
+    Track A/B/C sequence instead of nested inside option C -- confirmed via
+    a real build_requirements() run: it showed up one level too high,
+    outside "Track C Requirement" entirely, which would let a student
+    satisfy a Networking-flavored elective requirement without having
+    picked the Networking concentration (or any concentration) at all.
+
+    Finds that stray sibling by its unique course signature (EE179 doesn't
+    appear in any other CS-BS elective list) and moves it inside "C.
+    Networking Concentration", converting that leaf into the same
+    kind="all" wrapper shape option A already has. No-op (returns `rules`
+    unchanged) if the shape isn't found -- e.g. the bulletin page gets
+    fixed upstream to include the wrapper phrase itself, or a future
+    resample changes this subplan's structure -- so this never silently
+    "fixes" something that's already correct."""
+    import copy
+    rules = copy.deepcopy(rules)
+
+    def find(rule_list: list[RequirementRule], label: str) -> RequirementRule | None:
+        for r in rule_list:
+            if r.label == label:
+                return r
+            found = find(r.sub_rules, label)
+            if found is not None:
+                return found
+        return None
+
+    subplan = find(rules, "Computer Engineering Subplan")
+    if subplan is None:
+        return rules
+    stray = next(
+        (r for r in subplan.sub_rules if r.label == "Required Elective Options" and "EE179" in r.courses),
+        None,
+    )
+    track_c = find(subplan.sub_rules, "Track C Requirement: Pick a Concentration")
+    networking = find(track_c.sub_rules, "C. Networking Concentration") if track_c else None
+    if stray is None or networking is None or networking.sub_rules:
+        return rules  # shape doesn't match what this fix expects -- leave untouched
+    subplan.sub_rules.remove(stray)
+    required_courses_leaf = RequirementRule(
+        label="Required Courses", kind=networking.kind, courses=networking.courses,
+        n=networking.n, unit_min=networking.unit_min, source=networking.source,
+    )
+    networking.kind = "all"
+    networking.courses = []
+    networking.n = None
+    networking.sub_rules = [required_courses_leaf, stray]
+    return rules
 
 
 def build_cs_bs_core_requirements() -> list[RequirementRule]:
@@ -197,9 +271,19 @@ from .manual_fix_chem_bs import (
     chem_bs_biological_path_rules as _chem_bs_biological_path_rules,
 )
 
+from .manual_fix_verified import (
+    PHYS_BS_PATHWAYS as _PHYS_BS_PATHWAYS,
+    cs_bs_verified_rules,
+    ee_bs_verified_rules,
+    phys_bs_verified_rules,
+)
+
 _MANUAL_FIXES = {
     **_MANUAL_FIXES_A, **_MANUAL_FIXES_B, **_MANUAL_FIXES_C, **_MANUAL_FIXES_D,
     "CHEM-BS": _chem_bs_manual_rules,
+    # Supersedes manual_fix_batchB's EE-BS entry (hand-verified, Nov 2026).
+    "EE-BS": ee_bs_verified_rules,
+    "PHYS-BS": lambda: phys_bs_verified_rules(None),
 }
 
 _SPECIAL_PROGRAM_SHEET_BUILDERS = {
@@ -246,6 +330,11 @@ _SPECIAL_PROGRAM_SHEET_BUILDERS = {
     # student who already knows which path they're on skip that choice.
     "CHEM-BS (parsed, full, Traditional Chemistry Path)": _chem_bs_traditional_path_rules,
     "CHEM-BS (parsed, full, Biological Chemistry Path)": _chem_bs_biological_path_rules,
+    # One entry per PHYS-BS pathway (same convention as CHEM-BS's paths).
+    **{
+        f"PHYS-BS (parsed, full, {_p})": (lambda p=_p: phys_bs_verified_rules(p))
+        for _p in _PHYS_BS_PATHWAYS
+    },
 }
 # Codes already covered by a hand-written entry above (parsed from each
 # label's "{CODE} (...)" prefix) -- these don't also get a generic
@@ -411,8 +500,62 @@ def _pool_size(rule: RequirementRule) -> int:
     return size
 
 
+def _item_keys(item) -> set[str]:
+    if isinstance(item, tuple):
+        return {k for k in item if k != "__and__"}
+    return {item}
+
+
 def placeholderize_large_elective_pools(
-    rules: list[RequirementRule], threshold: int = _LARGE_ELECTIVE_POOL_THRESHOLD
+    rules: list[RequirementRule],
+    threshold: int = _LARGE_ELECTIVE_POOL_THRESHOLD,
+    credit_keys: list[str] | None = None,
+    claimed: set[str] | None = None,
+) -> tuple[list[RequirementRule], dict[str, Course]]:
+    """`credit_keys` (in priority order): real courses the student already
+    has or has explicitly listed (completed courses, their own course
+    list). A collapsed pool keeps any of these that belong to it as real
+    courses and only adds placeholders for the slots still open -- so a
+    listed CS229 fills a "3 Track Electives" pool's first slot instead of
+    being scheduled ON TOP of 3 generic slots. Each credited course fills at
+    most one collapsed pool; `claimed` (pass the same set across calls to
+    share that across sheets) records which keys are already used.
+    """
+    credit = list(credit_keys or [])
+    claimed = claimed if claimed is not None else set()
+    # A credited course that's needed by a pool that stays as real courses
+    # (an "all" list, or a small pool) is already counted THERE -- reserve it
+    # so it can't also fill a collapsed pool's slot (CS229 satisfying AI
+    # Track B Area I AND a Track C slot would double-count it). Only the
+    # first `need` credited members of each such pool are reserved; any
+    # extra ones stay free for a collapsed pool.
+    credit_set = set(credit)
+    reserved: set[str] = set()
+
+    def _reserve(rule: RequirementRule):
+        for sr in rule.sub_rules:
+            _reserve(sr)
+        collapses = rule.kind in ("at_least_n", "unit_min") and _pool_size(rule) > threshold
+        if collapses or not rule.courses:
+            return
+        if rule.kind == "all":
+            need = len(rule.courses)
+        elif rule.kind == "at_least_n":
+            need = rule.n or 1
+        else:
+            need = max(1, int((rule.unit_min or 4.0) // 4))
+        hits = [item for item in rule.courses if _item_keys(item) & credit_set]
+        for item in hits[:need]:
+            reserved.update(_item_keys(item) & credit_set)
+
+    for r in rules:
+        _reserve(r)
+    claimed |= reserved
+    return _placeholderize_large_elective_pools(rules, threshold, credit, claimed)
+
+
+def _placeholderize_large_elective_pools(
+    rules: list[RequirementRule], threshold: int, credit_keys: list[str], claimed: set[str]
 ) -> tuple[list[RequirementRule], dict[str, Course]]:
     """Real, user-reported complaint: an at_least_n/unit_min rule whose own
     pool is a genuinely LONG list of interchangeable real electives (e.g.
@@ -452,7 +595,18 @@ def placeholderize_large_elective_pools(
             count = max(1, count or 1)
             slug = re.sub(r"[^A-Z0-9]+", "_", rule.label.upper()).strip("_") or "ELECTIVE"
             new_courses: list = []
-            for i in range(count):
+            # Credited courses fill slots first (see the public wrapper's docstring).
+            for key in credit_keys:
+                if len(new_courses) >= count or key in claimed:
+                    continue
+                for item in rule.courses:
+                    keys = _item_keys(item)
+                    is_and = isinstance(item, tuple) and item and item[0] == "__and__"
+                    if (key in keys) and (not is_and or keys <= set(credit_keys) - claimed):
+                        new_courses.append(item if is_and else key)
+                        claimed.update(keys if is_and else {key})
+                        break
+            for i in range(len(new_courses), count):
                 key = f"PLACEHOLDER:{slug}_{i + 1}" if count > 1 else f"PLACEHOLDER:{slug}"
                 desc = f"{rule.label} (elective slot {i + 1} of {count})" if count > 1 else rule.label
                 placeholders[key] = make_placeholder_course(key, desc)
@@ -470,6 +624,141 @@ def placeholderize_large_elective_pools(
         )
 
     return [_rewrite(r) for r in rules], placeholders
+
+
+def apply_requirement_substitutions(
+    rules: list[RequirementRule], substitutions: list[RequirementSubstitution]
+) -> list[RequirementRule]:
+    """Patch in personal, this-session-only course substitutions (see
+    models.RequirementSubstitution's own docstring for the real user
+    report that prompted this: "let CHEM141 count in place of CHEM181" was
+    being rejected by the NL change box as an out-of-scope curriculum
+    change, when it's really the same kind of personal adjustment as a
+    prerequisite waiver -- just patching the requirement tree instead of
+    the Course dict).
+
+    Every bare occurrence of `required_key` as a plain list item anywhere
+    in the tree (any rule, any depth) becomes an OR-alternative tuple of
+    (required_key, substitute_key) -- either now satisfies that slot. An
+    occurrence that's already an OR-alternative tuple gets the substitute
+    appended (de-duplicated) rather than re-wrapped. Deliberately does NOT
+    touch an occurrence inside an AND-group tuple (`("__and__", ...)`,
+    e.g. "CHEM181 AND CHEM185 together") -- substituting one half of a
+    required PAIR for an unrelated course is a different, more ambiguous
+    claim than "this satisfies the same standalone slot," so that case is
+    left alone and printed as a warning instead of guessed at.
+
+    Returns a NEW list of NEW RequirementRule objects (never mutates the
+    input), same convention as placeholderize_large_elective_pools above.
+    A no-op (returns `rules` as-is) when `substitutions` is empty."""
+    if not substitutions:
+        return rules
+    by_required: dict[str, list[str]] = {}
+    for sub in substitutions:
+        by_required.setdefault(sub.required_key, []).append(sub.substitute_key)
+
+    def _patch_item(item: object) -> object:
+        if isinstance(item, str):
+            if item in by_required:
+                return (item, *by_required[item])
+            return item
+        if isinstance(item, tuple) and item and item[0] != "__and__":
+            # Plain OR-alternative tuple -- append any new substitutes for
+            # any of its existing members, de-duplicated.
+            extra = [s for member in item for s in by_required.get(member, []) if s not in item]
+            return item + tuple(dict.fromkeys(extra)) if extra else item
+        if isinstance(item, tuple) and item and item[0] == "__and__":
+            for member in item[1:]:
+                if member in by_required:
+                    print(
+                        f"  [warn] requirement substitution for {member!r} not applied -- it's "
+                        f"part of an AND-group {item!r}, which this mechanism deliberately skips"
+                    )
+        return item
+
+    def _rewrite(rule: RequirementRule) -> RequirementRule:
+        return RequirementRule(
+            label=rule.label, kind=rule.kind, courses=[_patch_item(c) for c in rule.courses],
+            n=rule.n, unit_min=rule.unit_min, sub_rules=[_rewrite(sr) for sr in rule.sub_rules],
+            source=rule.source, program_id=rule.program_id, sequential=rule.sequential,
+            full_year_sequence=rule.full_year_sequence, year_sequence_tail=rule.year_sequence_tail,
+        )
+
+    return [_rewrite(r) for r in rules]
+
+
+def _norm_label(s: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
+
+
+def apply_requirement_removals(
+    rules: list[RequirementRule], removals: list[RequirementRemoval]
+) -> tuple[list[RequirementRule], list[RequirementRemoval]]:
+    """Personal waivers from the section-4 rule box (see
+    models.RequirementRemoval). Returns (new rules, removals that matched
+    nothing in `rules`) -- the caller decides whether an unmatched removal
+    is worth flagging (it may simply belong to a different rule list, e.g.
+    university-wide rules are patched separately).
+
+    - course_key: drops every item of an "all" list that contains that
+      course (a bare key or an OR-slot it's an option in). at_least_n /
+      unit_min pools are untouched -- there it's just one option.
+    - rule_label: the matching rule (case/punctuation-insensitive exact
+      label match, any depth) becomes an empty, already-satisfied "all"
+      rule labeled "(waived) ..." -- kept in the tree so it's visible in
+      the rule listing, and so a waived option inside a pick-N still counts
+      as one of the N."""
+    if not removals:
+        return rules, []
+    keys = {r.course_key for r in removals if r.course_key}
+    labels = {_norm_label(r.rule_label): r for r in removals if r.rule_label}
+    hit: set[int] = set()
+
+    def _rewrite(rule: RequirementRule) -> RequirementRule:
+        lab = _norm_label(rule.label)
+        if lab in labels:
+            hit.add(id(labels[lab]))
+            return RequirementRule(
+                label=f"(waived by you) {rule.label}", kind="all", courses=[], source=rule.source,
+                program_id=rule.program_id,
+            )
+        courses = list(rule.courses)
+        if rule.kind == "all" and keys:
+            kept = []
+            for item in courses:
+                item_keys = {k for k in item if k != "__and__"} if isinstance(item, tuple) else {item}
+                matched = item_keys & keys
+                if matched:
+                    for rm in removals:
+                        if rm.course_key in matched:
+                            hit.add(id(rm))
+                    continue
+                kept.append(item)
+            courses = kept
+        return RequirementRule(
+            label=rule.label, kind=rule.kind, courses=courses, n=rule.n, unit_min=rule.unit_min,
+            sub_rules=[_rewrite(sr) for sr in rule.sub_rules], source=rule.source,
+            program_id=rule.program_id, sequential=rule.sequential,
+            full_year_sequence=rule.full_year_sequence, year_sequence_tail=rule.year_sequence_tail,
+        )
+
+    new_rules = [_rewrite(r) for r in rules]
+    return new_rules, [r for r in removals if id(r) not in hit]
+
+
+def all_rule_labels(rules: list[RequirementRule]) -> list[str]:
+    """Every rule label in the tree (depth-first, de-duplicated)."""
+    out: list[str] = []
+
+    def walk(r):
+        if r.label and r.label not in out:
+            out.append(r.label)
+        for sr in r.sub_rules:
+            walk(sr)
+
+    for r in rules:
+        walk(r)
+    return out
 
 
 def build_requirements_grouped(

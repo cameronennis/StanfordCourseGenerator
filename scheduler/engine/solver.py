@@ -185,7 +185,11 @@ def build_and_solve(
     assume_prereqs_satisfied_for: set[str] | frozenset[str] | None = None,
     course_quarter_exclusions: dict[str, set[int]] | None = None,
     soft_quarter_penalties: dict[str, set[int]] | None = None,
+    same_period_groups: list[tuple[list[str], str]] | None = None,
 ) -> ScheduleResult:
+    # same_period_groups: [(course_keys, "year" | "quarter"), ...] -- see
+    # section 3b below. None/[] is a no-op.
+    same_period_groups = same_period_groups or []
     # restricted_course_programs (see engine/multi_program.py, which builds
     # this): course_key -> the >=2 program_ids that are stacked in a mode
     # where double-counting is disallowed (double major / double degree)
@@ -299,6 +303,9 @@ def build_and_solve(
                 ensure_vars_for(maybe_key.upper().replace(" ", ""))
             for maybe_key in wr.args.get("courses", []) or []:
                 ensure_vars_for(maybe_key.upper().replace(" ", ""))
+        for _group_keys, _scope in same_period_groups:
+            for _k in _group_keys:
+                ensure_vars_for(_k)
 
         # 1b2. Hard per-course quarter exclusions (see
         # course_quarter_exclusions's own comment above) -- zero out the
@@ -1077,6 +1084,31 @@ def build_and_solve(
         # enforce_rule's recursion takes its original, unattributed path.
         for rule in requirement_rules:
             enforce_rule(rule, rule.program_id or None)
+
+        # 3b. "Same year" / "same quarter" groups (personal hard constraints
+        # from the section-4 rule box, see models.CourseGrouping). For every
+        # ordered pair (a, b) in a group and every period p: if a lands in p
+        # and b is scheduled at all, b lands in p too. Courses that never get
+        # scheduled (completed, or not required) aren't constrained.
+        for _group_keys, _scope in same_period_groups:
+            if _scope == "quarter":
+                _period_of = list(range(len(quarter_list)))
+            else:
+                _period_of = [q.split(" ")[0] for q in quarter_list]
+            _periods = list(dict.fromkeys(_period_of))
+            _live = [k for k in _group_keys if any((k, qi) in x for qi in range(len(quarter_list)))]
+            for _a in _live:
+                for _b in _live:
+                    if _a == _b:
+                        continue
+                    _sched_b = sum(x[(_b, qi)] for qi in range(len(quarter_list)) if (_b, qi) in x)
+                    for _p in _periods:
+                        _qis = [qi for qi, pp in enumerate(_period_of) if pp == _p]
+                        _a_in = [x[(_a, qi)] for qi in _qis if (_a, qi) in x]
+                        if not _a_in:
+                            continue
+                        _b_in = [x[(_b, qi)] for qi in _qis if (_b, qi) in x]
+                        model.Add(sum(_a_in) + _sched_b - 1 <= sum(_b_in))
 
         # 4. Unit cap per quarter -- soft, not hard. A real student can petition
         # for overload units, so a quarter that would otherwise need more than

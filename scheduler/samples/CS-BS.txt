@@ -70,91 +70,16 @@ Students may also use AP Physics ﻿﻿if approved by the School of Engineering.
 The Computational Biology Subplan requires a different set of Science courses. Please see the Computational Biology Subplan for details.
 AND
 Science Elective
-Complete at least 1 of the following Courses:
-BIO45 - Introduction to Laboratory Research in Cell and Molecular Biology
-BIO46 - Introduction to Research in Ecology and Evolutionary Biology
-BIO47 - Introduction to Research in Ecology and Evolutionary Biology
-BIO81 - Introduction to Ecology
-BIO82 - Genetics
-BIO83 - Biochemistry & Molecular Biology
-BIO84 - Physiology
-BIO85 - Evolution
-BIO86 - Cell Biology
-BIO150 - Human Behavioral Biology
-CEE70 - Environmental Science and Technology
-CHEM31A - Chemical Principles I
-CHEM31B - Chemical Principles II
-CHEM31E - Chemical Foundations and 21st Century Problems
-CHEM33 - Structure and Reactivity of Carbon-Based Molecules
-CHEM121 - Understanding the Natural and Unnatural World through Chemistry
-CHEM123 - Organic Polyfunctional Compounds
-EARTHSYS2 - Chemistry of the Earth and Planets
-EARTHSYS10 - Introduction to Earth Systems
-EARTHSYS11 - Introduction to Geology
-HUMBIO2A - Genetics, Molecular Biology and Evolution
-HUMBIO3A - Cell and Developmental Biology
-HUMBIO4A - The Human Organism
-PHYSICS21 - Mechanics and Fluids
-PHYSICS23 - Electricity, Magnetism, and Optics
-PHYSICS25 - Modern Physics
-PHYSICS41 - Mechanics
-OR
-PHYSICS41E - Mechanics, Concepts, Calculations, and Context
-PHYSICS43 - Electricity and Magnetism
-PHYSICS45 - Light and Heat
-PHYSICS61 - Mechanics and Special Relativity
-PHYSICS71 - Quantum and Thermal Physics
-PHYSICS81 - Electricity and Magnetism Using Special Relativity and Vector Calculus
-PSYCH30 - Introduction to Perception
-The Science Elective may be any course of three or more units from the list above or AP Chemistry Credit. The School of Engineering must approve AP Chemistry and AP Physics credits.
-Technology in Science (3-5 units)
-Complete at least 1 of the following Courses:
-AA252 - Techniques of Failure Analysis
-ARCHLGY151 - Ten Things: An Archaeology of Design
-OR
-CLASSICS151 - Ten Things: An Archaeology of Design
-BIOE131 - Ethics in Bioengineering
-BIOE177 - Inventing the Future
-OR
-DESIGN259 - Inventing the Future
-CEE102A - Legal / Ethical Principles in Design, Construction, Project Delivery
-CEE145E - Equitable Infrastructure Solutions
-CLASSICS168 - Engineering the Roman Empire
-COMM154 - The Politics of Algorithms
-COMM166 - Virtual People
-CS120 - Introduction to AI Safety
-OR
-STS10 - Introduction to AI Safety
-CS121 - Equity and Governance for Artificial Intelligence
-CS125 - Data: Algorithms, Tools, Policy, and Society
-CS139 - Human-Centered AI
-CS152 - Trust and Safety
-CS182 - Ethics, Public Policy, and Technological Change
-CS182W - Ethics, Public Policy, and Technological Change (WIM)
-CS222 - AI Agents and Simulations
-CS256 - Algorithmic Fairness
-CS278 - Social Computing
-CS329X - Human Centered NLP
-DATASCI154 - Data Science for Social Impact
-EARTHSYS125 - Shades of Green: Exploring and Expanding Environmental Justice in Practice
-ENGR145 - Technology Entrepreneurship
-ENGR148 - Principled Entrepreneurial Decisions
-OR
-ENGR248 - Principled Entrepreneurial Decisions
-ENERGY177A - Engineering and Sustainable Development: Toolkit
-AND
-ENERGY177B - Engineering and Sustainable Development: Implementation
-EPS194 - Technology, International Security, and Sustainability
-HUMBIO174 - Foundations of Bioethics
-MS&E179 - Entrepreneurship for Everyone
-MS&E193 - Technology and National Security
-NBIO101 - Social and Ethical Issues in the Neurosciences
-POLISCI114S - International Security in a Changing World
-PUBLPOL114 - Spies, Lies, and Algorithms: The History and Future of American Intelligence
-PUBLPOL134 - Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals
-STS1 - Introduction to Science, Technology & Society
-STS115 - The Ethics of Developing Life-Saving Technologies for Children
-STS200J - Technometabolism: Technology, Society, and the Anthropocene
+Students must complete at least one course of at least 3 units or more from the School of Engineering's approved Science course list for 2026-27. The list is available in the
+Science subsection
+within the Engineering-BS School Requirements.
+The course must be on the list the year that it is taken.
+AP Chemistry Credit may also be used to fulfill the Science elective requirement. The School of Engineering must approve AP Chemistry and AP Physics credits.
+Technology in Science
+Students must complete at least one course of at least 3 units or more from the School of Engineering's approved Technology in Society list for 2026-27. The list is available in the
+Technology in Society subsection
+within the Engineering-BS School Requirements.
+TiS course must be on the list the year that they are taken.
 Engineering Fundamentals (10 units minimum)
 Complete ALL of the following Courses:
 CS106B - Programming Abstractions
@@ -378,7 +303,7 @@ FEMGEN149 - Technology and Fascism: History of a Paradox
 FEMGEN243F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
 GEOPHYS128 - Modeling Earth
 GEOPHYS228 - Modeling Earth
-2134291
+HISTORY44 - Gendered Innovations in Science, Medicine, Engineering, and Environment
 HISTORY44Q - Gendered Innovations in Science, Medicine, Engineering, and Environment
 HISTORY244F - New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment
 INTLPOL245B - Governing Artificial Intelligence: Law, Policy, and Institutions
@@ -419,11 +344,10 @@ Cross-listed versions of these courses are also acceptable.
 Writing in the Major (WIM)
 Completion requirement
 Writing in the Major (WIM)
-CS 121, 181W or 182W will satisfy both the Writing in the Major (WiM) and Technology in Society (TiS) requirements.
+CS 121 or 182W will satisfy both the Writing in the Major (WiM) and Technology in Society (TiS) requirements.
 CS 191W, 194W, or 210B will satisfy both the Writing in the Major (WiM) and Capstone requirements.
 Complete at least 1 of the following Courses:
 CS121 - Equity and Governance for Artificial Intelligence
-CS181W - Computers, Ethics, and Public Policy (WIM)
 CS182W - Ethics, Public Policy, and Technological Change (WIM)
 CS191W - Writing Intensive Senior Research Project
 CS194W - Software Project (WIM)
@@ -638,7 +562,6 @@ DATASCI112 - Principles of Data Science
 AND
 Track D Requirement
 Complete at least 1 of the following Courses:
-BIOMEDIN273B - Deep Learning in Genomics and Biomedicine
 BMDS210 - Modeling Biomedical Systems
 BMDS214 - Representations and Algorithms for Computational Molecular Biology
 BMDS215 - Data Science for Medicine
@@ -646,6 +569,7 @@ BMDS217 - Translational Bioinformatics
 BMDS219 - Mathematical Models and Medical Decisions
 BMDS222 - Cloud Computing for Biology and Healthcare
 BMDS260 - Computational Methods for Biomedical Image Analysis and Interpretation
+CS273B - Deep Learning in Genomics and Biomedicine
 CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
 IMMUNOL207 - Essential Methods in Computational and Systems Immunology
 AND
@@ -671,7 +595,6 @@ APPPHYS294 - Cellular Biophysics
 BIO183 - Theoretical Population Genetics
 BIO187 - Mathematical Population Biology
 BIOC241 - Biological Macromolecules
-BIOMEDIN273B - Deep Learning in Genomics and Biomedicine
 BMDS210 - Modeling Biomedical Systems
 BMDS214 - Representations and Algorithms for Computational Molecular Biology
 BMDS215 - Data Science for Medicine
@@ -701,6 +624,7 @@ CS231N - Deep Learning for Computer Vision
 CS234 - Reinforcement Learning
 CS238 - Decision Making under Uncertainty
 CS248A - Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS273B - Deep Learning in Genomics and Biomedicine
 CS279 - Computational Biology: Structure and Organization of Biomolecules and Cells
 DATASCI112 - Principles of Data Science
 EE263 - Matrix Methods: Singular Value Decomposition
@@ -728,7 +652,6 @@ BIO84 - Physiology
 BIO85 - Evolution
 BIO86 - Cell Biology
 BIO85 - Evolution
-BIO112 - Human Physiology
 BIO214 - Advanced Cell Biology
 BIO230 - Cellular and Molecular Immunology: An Introductory Course
 BIOC241 - Biological Macromolecules

@@ -24,19 +24,23 @@ import streamlit as st
 from engine.course_data import (
     load_snapshot, apply_overrides, load_overrides,
     add_placeholder_courses, class_year_quarter_exclusions, DEFAULT_DEPARTMENTS,
-    post_sophomore_quarter_indices,
+    post_sophomore_quarter_indices, exact_quarter_match_exclusions,
 )
 from engine.models import CourseOverride, RequirementRule, WeightRule, all_referenced_course_keys, is_placeholder_key
 from engine.requirements import (
     PROGRAM_SHEET_BUILDERS, BROKEN_PROGRAMS, build_requirements_grouped,
     list_variant_labels_by_code, placeholderize_large_elective_pools,
+    apply_requirement_substitutions, apply_requirement_removals, all_rule_labels,
 )
 from engine.multi_program import (
     STACK_MODE_SECONDARY, STACK_MODE_DOUBLE_MAJOR, STACK_MODE_DOUBLE_DEGREE,
     build_restricted_course_programs, degree_type_of, is_undergrad_major_sheet,
     load_stack_modes, sheet_code, tag_program_id,
 )
-from engine.ap_credit import guess_ap_equivalencies, flatten_course_items
+from engine.ap_credit import (
+    guess_ap_equivalencies, flatten_course_items, EXAM_BOARDS, EXTERNAL_TEST_BY_ID, EXTERNAL_TEST_CHART,
+    EXTERNAL_TEST_CHART_URL, EXTERNAL_TEST_CHART_YEAR, EXTERNAL_TEST_GENERAL_RULES,
+)
 from engine.nl_change import parse_change_request
 from engine.solver import build_and_solve
 from engine.transcript import parse_transcript_pdf
@@ -48,6 +52,46 @@ st.title("Stanford theoretical course-schedule generator")
 st.caption(
     "V1: Start with Transcript or  Manual List, Adjust Parameters, and Generate Plans. LLM requirement adjustment in progress."
 )
+
+# Streamlit throws away a widget's value whenever a run ends without that
+# widget being drawn -- and every st.rerun() (adding a course, adding a
+# rule, removing something...) ends the run early, before the widgets below
+# it are drawn. Without this, adding a rule in section 4 silently reset
+# "Quarters to plan ahead", "Full years already completed", even the
+# program picked in 2a. `sticky()` keeps each value in its own
+# session-state copy and restores it before the widget is drawn.
+if "_sticky" not in st.session_state:
+    st.session_state._sticky = {}
+
+
+def sticky(widget_fn, label, *, key: str, default_arg: str | None = None, default=None, options=None, **kw):
+    """Draw `widget_fn(label, key=key, ...)` with its last value restored.
+    `default_arg`/`default`: the widget's own default parameter (e.g.
+    "value"/2025, "index"/0, "default"/[]) -- only passed on first draw.
+    `options`: passed through for choice widgets; a remembered value no
+    longer in the options is dropped."""
+    store = st.session_state._sticky
+    if options is not None:
+        kw["options"] = options
+    remembered = store.get(key, None)
+    if key in st.session_state:
+        # Widget state still alive (normal case, including a fresh user edit) -- leave it.
+        value = widget_fn(label, key=key, **kw)
+        store[key] = value
+        return value
+    ok = key in store and (
+        options is None
+        or (isinstance(remembered, list) and all(v in options for v in remembered))
+        or (not isinstance(remembered, list) and remembered in options)
+    )
+    if ok:
+        st.session_state[key] = remembered
+    elif default_arg is not None:
+        kw[default_arg] = default
+    value = widget_fn(label, key=key, **kw)
+    store[key] = value
+    return value
+
 
 SNAPSHOT_PATH = Path(__file__).parent / "data" / "courses_snapshot.json"
 OVERRIDES_PATH = Path(__file__).parent / "data" / "course_overrides.json"
@@ -61,7 +105,7 @@ def _load_base_courses(snapshot_path: str, overrides_path: str) -> dict:
     refresh_snapshot()/hand-edits course_overrides.json, which does need a
     restart to pick up, same as any other st.cache_resource). Streamlit
     reruns this ENTIRE script top-to-bottom on every single widget
-    interaction -- every checkbox, every "Remove" click in section 2d --
+    interaction -- every checkbox, every "Remove" click in section 2b --
     so without caching, parsing ~20MB of JSON into 15k+ Course objects and
     then deep-copying the whole thing to apply 24 overrides (see
     apply_overrides' docstring on why it deep-copies) reran on EVERY one of
@@ -107,7 +151,7 @@ if not SNAPSHOT_PATH.exists():
 # "drop this prerequisite, I have AP credit"). Those are personal to that
 # person's session, not a fact about the course that should change what
 # every other user of this app sees -- they live in st.session_state
-# instead (see "2b. Your session-only corrections" below) and are applied
+# instead (see "Your session-only corrections" (sidebar) below) and are applied
 # on top of, not written into, this shared file. The same separation
 # should hold for the natural-language override box mentioned in the
 # README's "Stubbed" section when it's built: an LLM turning a user's
@@ -130,6 +174,14 @@ st.sidebar.success(f"Course snapshot loaded: {len(courses)} courses across {len(
 # ---------------------------------------------------------------------------
 if "session_overrides" not in st.session_state:
     st.session_state.session_overrides = []
+if "requirement_substitutions" not in st.session_state:
+    st.session_state.requirement_substitutions = []
+if "quarter_restrictions" not in st.session_state:
+    st.session_state.quarter_restrictions = []
+if "requirement_removals" not in st.session_state:
+    st.session_state.requirement_removals = []
+if "course_groupings" not in st.session_state:
+    st.session_state.course_groupings = []
 
 # Only pay apply_overrides' deep-copy cost (see its docstring) when there's
 # actually something to apply -- the common case (no "drop this
@@ -153,7 +205,7 @@ def _parse_transcript_cached(file_bytes: bytes):
     """Cached on the uploaded file's own bytes -- Streamlit keeps a
     transcript attached to the file_uploader across reruns until it's
     replaced or cleared, so without this, every single unrelated widget
-    interaction (e.g. removing a manually-added course in section 2d) was
+    interaction (e.g. removing a manually-added course in section 2b) was
     re-running pdfplumber over the whole PDF again (~0.15s measured on a
     real transcript) for a result that hadn't changed. Keyed on the raw
     bytes rather than a filename/path, so re-uploading the exact same file
@@ -168,10 +220,114 @@ def _parse_transcript_cached(file_bytes: bytes):
         Path(tmp_path).unlink(missing_ok=True)
 
 
+
+
+def _normalize_code(raw: str) -> str:
+    return raw.strip().upper().replace(" ", "")
+
+
+def course_list_widget(state_key: str, label: str, empty_caption: str) -> list[str]:
+    """Type-a-code-and-Enter box + "Did you mean" suggestions + .txt upload
+    (one code per line) + removable list. Used by both 1b (courses you'll
+    have completed) and 2b (your own course list); each gets its own
+    session-state list via `state_key`. Returns the current list."""
+    gen_key = f"{state_key}__gen"
+    if state_key not in st.session_state:
+        st.session_state[state_key] = []
+    if gen_key not in st.session_state:
+        st.session_state[gen_key] = 0
+    _gen = st.session_state[gen_key]
+    _keys: list[str] = st.session_state[state_key]
+    _real_keys = None
+
+    def _real():
+        nonlocal _real_keys
+        if _real_keys is None:
+            _real_keys = [k for k in courses if not is_placeholder_key(k)]
+        return _real_keys
+
+    _code_input = st.text_input(
+        label,
+        key=f"{state_key}_code_{_gen}",
+        help="Case-insensitive, spaces ignored -- 'chem 131' and 'CHEM131' both work.",
+    )
+    if _code_input.strip():
+        _code = _normalize_code(_code_input)
+        if _code in courses and not is_placeholder_key(_code):
+            if _code not in _keys:
+                _keys.append(_code)
+            st.session_state[gen_key] += 1
+            st.rerun()
+        else:
+            st.error(f"{_code!r} isn't a course in the current snapshot -- check the code and try again.")
+            # difflib "did you mean" -- ~15-20ms against the full snapshot, only on this not-found path.
+            _suggestions = difflib.get_close_matches(_code, _real(), n=5, cutoff=0.6)
+            if _suggestions:
+                st.caption("Did you mean:")
+                for _col, _sugg in zip(st.columns(len(_suggestions)), _suggestions):
+                    with _col:
+                        if st.button(_sugg, key=f"{state_key}_suggest_{_gen}_{_sugg}", help=courses[_sugg].title):
+                            if _sugg not in _keys:
+                                _keys.append(_sugg)
+                            st.session_state[gen_key] += 1
+                            st.rerun()
+
+    _uploaded_list = st.file_uploader(
+        "Or upload a .txt file (one course code per line)",
+        type=["txt"],
+        key=f"{state_key}_upload_{_gen}",
+        help="Same normalization as the box above. Blank lines are skipped; codes that aren't "
+             "in the current snapshot are reported below, not silently dropped.",
+    )
+    if _uploaded_list is not None:
+        _added, _not_found = [], []
+        for _raw_line in _uploaded_list.getvalue().decode("utf-8", errors="replace").splitlines():
+            _line_code = _normalize_code(_raw_line)
+            if not _line_code:
+                continue
+            if _line_code in courses and not is_placeholder_key(_line_code):
+                if _line_code not in _keys:
+                    _keys.append(_line_code)
+                    _added.append(_line_code)
+            else:
+                _not_found.append(_line_code)
+        if _added:
+            st.success(f"Added {len(_added)} course(s) from the file: {', '.join(_added)}")
+        if _not_found:
+            st.error(
+                f"{len(_not_found)} line(s) weren't found in the current snapshot -- check for "
+                f"typos: {', '.join(_not_found)}"
+            )
+            for _bad in _not_found:
+                _suggestions = difflib.get_close_matches(_bad, _real(), n=3, cutoff=0.6)
+                if _suggestions:
+                    st.caption(f"Did you mean, for {_bad!r}: {', '.join(_suggestions)}")
+        if not _added and not _not_found:
+            st.caption("That file didn't have any non-blank lines to read.")
+        if _added and not _not_found:
+            # Clean run -- reset the uploader. Left attached otherwise so the
+            # messages above stay visible.
+            st.session_state[gen_key] += 1
+            st.rerun()
+
+    if _keys:
+        for _i, _key in enumerate(list(_keys)):
+            _c = courses.get(_key)
+            _cols = st.columns([6, 1])
+            _cols[0].write(f"**{_key}** -- {_c.title if _c else '(not in current snapshot)'}")
+            if _cols[1].button("Remove", key=f"{state_key}_remove_{_i}"):
+                _keys.pop(_i)
+                st.rerun()
+    else:
+        st.caption(empty_caption)
+    return list(_keys)
 # ---------------------------------------------------------------------------
-# 2. Transcript upload
+# 1) Your starting point -- 1a (transcript) and 1b (manual credit entry) are
+# merged as SETS, so a course or exam that shows up in both counts once.
 # ---------------------------------------------------------------------------
-st.header("1. Your starting point")
+st.header("1) Your starting point")
+st.caption("Everything from 1a and 1b is combined -- a course that appears in both is only counted once.")
+st.subheader("1a. Upload transcript (optional)")
 uploaded = st.file_uploader("Upload your unofficial Stanford transcript (PDF)", type=["pdf"])
 
 completed_rows = []
@@ -198,9 +354,10 @@ if uploaded is not None:
 
     _in_progress_rows = [c for c in completed_rows if c.in_progress]
     if _in_progress_rows:
-        treat_in_progress_as_done = st.checkbox(
+        treat_in_progress_as_done = sticky(
+            st.checkbox,
             f"Treat your {len(_in_progress_rows)} in-progress course(s) as already completed",
-            value=True,
+            key="treat_in_progress", default_arg="value", default=True,
             help="On by default: in-progress courses count as 'spoken for' and satisfy any "
                  "requirement that references them. Turn this off if that term is just a "
                  "preliminary/preemptive registration before add/drop or before the term has "
@@ -254,7 +411,7 @@ if uploaded is not None:
                     _label = f"{a.title} -> {_row.exam_label}: satisfies {', '.join(_keys)}"
                     if _row.note:
                         _label += f"  ({_row.note})"
-                    if st.checkbox(_label, value=True, key=f"ap_auto_{_i}"):
+                    if sticky(st.checkbox, _label, key=f"ap_auto_{_i}", default_arg="value", default=True):
                         ap_substituted_keys.update(_keys)
                 elif len(_matches) > 1:
                     st.caption(
@@ -262,8 +419,9 @@ if uploaded is not None:
                         "the transcript's units alone can't tell which score applies:"
                     )
                     _options = ["Not sure / none of these"] + [c.exam_label for c in _matches]
-                    _choice = st.radio(
-                        "Which is yours?", _options, key=f"ap_choice_{_i}", label_visibility="collapsed"
+                    _choice = sticky(
+                        st.radio, "Which is yours?", options=_options, key=f"ap_choice_{_i}",
+                        label_visibility="collapsed",
                     )
                     if _choice != "Not sure / none of these":
                         _row = next(c for c in _matches if c.exam_label == _choice)
@@ -276,10 +434,10 @@ if uploaded is not None:
                         "(Language/Latin credit isn't auto-mapped -- see engine/ap_credit.py). "
                         "Enter it manually below if it substitutes for something in your plan."
                     )
-                _manual = st.text_input(
+                _manual = sticky(
+                    st.text_input,
                     f"Additional/override course code(s) for {a.title}",
-                    value="",
-                    key=f"ap_manual_{_i}",
+                    key=f"ap_manual_{_i}", default_arg="value", default="",
                     help="Comma-separated. Use this if the built-in chart got it wrong for your "
                          "case, or for an exam it doesn't cover at all.",
                 )
@@ -288,15 +446,96 @@ if uploaded is not None:
                     if _code:
                         ap_substituted_keys.add(_code)
 else:
-    st.info("No transcript uploaded yet -- you can still explore the tool with zero completed courses.")
-
-completed_keys = {
-    c.key for c in completed_rows if not c.in_progress or treat_in_progress_as_done
-}
-completed_keys |= ap_substituted_keys
+    st.info("No transcript uploaded -- use 1b below, or plan from zero completed courses.")
 
 # ---------------------------------------------------------------------------
-# 3. Program sheets -- two-step picker: pick a program by CODE, then pick
+# 1b. Manual course credit entry -- (1) courses that will already be done
+# by the first planned quarter, (2) external test credit picked straight
+# from Stanford's equivalency chart (engine/ap_credit.py's
+# EXTERNAL_TEST_CHART, every exam board on that page).
+# ---------------------------------------------------------------------------
+st.subheader("1b. Manual course credit entry (optional)")
+st.markdown("**Courses you'll have completed by the first planned quarter**")
+st.caption(
+    "Anything not on (or not yet on) your transcript -- e.g. this quarter's courses before grades "
+    "post, or your whole history if you skipped the upload."
+)
+manual_completed_keys = course_list_widget(
+    "manual_completed_keys",
+    "Enter a completed course code and press Enter (e.g. \"math51\")",
+    "No manually entered completed courses.",
+)
+
+st.markdown("**External test credit (AP, IB, A-Levels, ...)**")
+st.caption(
+    f"Matches Stanford's [External Test Credit Equivalency Charts]({EXTERNAL_TEST_CHART_URL}) "
+    f"(effective for students matriculating {EXTERNAL_TEST_CHART_YEAR}; your own admit year's "
+    f"bulletin governs, so double-check if you matriculated earlier). {EXTERNAL_TEST_GENERAL_RULES}"
+)
+if "test_credit_ids" not in st.session_state:
+    st.session_state.test_credit_ids = []
+_tc_cols = st.columns([2, 3, 3, 1])
+with _tc_cols[0]:
+    _tc_board = st.selectbox(
+        "Exam", options=list(EXAM_BOARDS), key="tc_board",
+        format_func=lambda b: f"{b} -- {EXAM_BOARDS[b]}",
+    )
+_tc_board_rows = [r for r in EXTERNAL_TEST_CHART if r.board == _tc_board]
+with _tc_cols[1]:
+    _tc_subject = st.selectbox(
+        "Subject", options=list(dict.fromkeys(r.subject for r in _tc_board_rows)), key=f"tc_subject_{_tc_board}",
+    )
+_tc_subject_rows = [r for r in _tc_board_rows if r.subject == _tc_subject]
+with _tc_cols[2]:
+    _tc_row_id = st.selectbox(
+        "Score", options=[r.row_id for r in _tc_subject_rows], key=f"tc_score_{_tc_board}_{_tc_subject}",
+        format_func=lambda rid: (lambda r: f"{r.score}  ({r.units:g}u -> {r.courses_text})")(EXTERNAL_TEST_BY_ID[rid]),
+    )
+with _tc_cols[3]:
+    st.write("")
+    st.write("")
+    if st.button("Add", key="tc_add"):
+        if _tc_row_id not in st.session_state.test_credit_ids:
+            st.session_state.test_credit_ids.append(_tc_row_id)
+        st.rerun()
+
+test_credit_rows = [EXTERNAL_TEST_BY_ID[i] for i in st.session_state.test_credit_ids if i in EXTERNAL_TEST_BY_ID]
+for _i, _r in enumerate(test_credit_rows):
+    _cols = st.columns([6, 1])
+    _cols[0].write(f"**{_r.board} {_r.subject}**, score {_r.score} -- {_r.units:g} units; satisfies {_r.courses_text}"
+                   + (f"  \n_{_r.note}_" if _r.note else ""))
+    if _cols[1].button("Remove", key=f"tc_remove_{_i}"):
+        st.session_state.test_credit_ids.pop(_i)
+        st.rerun()
+# The chart's own one-exam-per-subject rule (language and physics excepted).
+_tc_sections = [r.section for r in test_credit_rows if r.section not in ("Language", "Physics")]
+for _sec in sorted({s for s in _tc_sections if _tc_sections.count(s) > 1}):
+    st.warning(
+        f"More than one {_sec} exam entered -- Stanford only awards units for one exam per subject "
+        "(the highest-satisfying one). All of them are counted below; remove the ones that won't post."
+    )
+test_credit_keys: set[str] = set()
+for _r in test_credit_rows:
+    test_credit_keys |= flatten_course_items(_r.satisfies)
+test_credit_fulfills_language = [r for r in test_credit_rows if r.fulfills_language]
+
+transcript_keys = {
+    c.key for c in completed_rows if not c.in_progress or treat_in_progress_as_done
+} | ap_substituted_keys
+completed_keys = transcript_keys | set(manual_completed_keys) | test_credit_keys
+# Units for the informational graduation-unit check: manual courses not
+# already on the transcript, plus test credit whose courses the transcript
+# doesn't already cover (so the same AP exam isn't counted from both places).
+_transcript_row_keys = {c.key for c in completed_rows}
+manual_completed_units = sum(
+    courses[k].units_typical for k in set(manual_completed_keys) - _transcript_row_keys if k in courses
+)
+manual_test_units = sum(
+    r.units for r in test_credit_rows
+    if not (flatten_course_items(r.satisfies) and flatten_course_items(r.satisfies) <= transcript_keys)
+)
+# ---------------------------------------------------------------------------
+# 2a) Program sheets -- two-step picker: pick a program by CODE, then pick
 # which specific subplan/path/version of it applies to you. Deliberately no
 # default selection anywhere in here (see list_variant_labels_by_code()'s
 # docstring in engine/requirements.py for why a silent default -- the old
@@ -305,16 +544,17 @@ completed_keys |= ap_substituted_keys
 # user's generated schedule quietly used that stub instead of the real
 # CS-BS requirements).
 # ---------------------------------------------------------------------------
-st.header("2. Requirements to plan for")
+st.header("2a) Requirements to plan for (optional)")
 _variants_by_code = list_variant_labels_by_code()
 _selectable_codes = sorted(
     code for code, variants in _variants_by_code.items()
     if any(full_name not in BROKEN_PROGRAMS for full_name in variants.values())
 )
-selected_codes = st.multiselect(
+selected_codes = sticky(
+    st.multiselect,
     "Which program(s) are you working toward?",
     options=_selectable_codes,
-    default=[],
+    key="selected_codes", default_arg="default", default=[],
     help="Pick by code (e.g. 'CS-BS', 'CHEM-BS'). You'll choose the specific subplan/path/"
          "version for each one right below -- nothing is pre-selected, since guessing the "
          "wrong one silently understates the real major.",
@@ -326,11 +566,11 @@ for _code in selected_codes:
     _working = {label: full for label, full in _variants.items() if full not in BROKEN_PROGRAMS}
     _broken = {label: full for label, full in _variants.items() if full in BROKEN_PROGRAMS}
     _placeholder = "-- Select a version/subplan --"
-    _choice = st.selectbox(
+    _choice = sticky(
+        st.selectbox,
         f"{_code}: which version/subplan?",
         options=[_placeholder] + sorted(_working.keys()),
-        index=0,
-        key=f"variant_choice_{_code}",
+        key=f"variant_choice_{_code}", default_arg="index", default=0,
     )
     if _choice != _placeholder:
         selected_sheets.append(_working[_choice])
@@ -353,7 +593,7 @@ if placeholder_courses:
     )
 
 # ---------------------------------------------------------------------------
-# 2c. Stacking two undergrad majors (secondary major / double major / double
+# 2a (cont.) Stacking two undergrad majors (secondary major / double major / double
 # degree) -- see engine/multi_program.py's module docstring for exactly what
 # this does and doesn't cover (undergrad -BS/-BA pairs only; a major +
 # unrelated minor, or any -MS/-MA combination, is unaffected and keeps
@@ -368,7 +608,7 @@ graduation_unit_target = 180  # overwritten below if 2 majors are stacked in dou
 restricted_course_programs: dict[str, list[str]] = {}
 
 if len(_selected_majors) == 2:
-    st.header("2c. Combining your two majors")
+    st.subheader("Combining your two majors")
     _stack_modes_info = load_stack_modes()
     _name_a, _name_b = _selected_majors
     _degree_types = {degree_type_of(_name_a), degree_type_of(_name_b)}
@@ -389,11 +629,12 @@ if len(_selected_majors) == 2:
             f"\"Double degree\" isn't offered below: it requires exactly one BA + one BS, "
             f"and your two selected majors are {_a_type} + {_b_type}."
         )
-    stack_mode = st.selectbox(
+    stack_mode = sticky(
+        st.selectbox,
         "How do these two majors combine?",
         options=_available_modes,
         format_func=lambda m: _stack_modes_info[m]["label"],
-        index=0,
+        key="stack_mode", default_arg="index", default=0,
         help="Only the double-counting rule and the graduation unit total (180 vs. "
              "225) affect the schedule below -- diploma count/listing has no "
              "scheduling consequence and isn't modeled.",
@@ -429,26 +670,68 @@ if len(_selected_majors) == 2:
                 "double-counting restriction has nothing to actually restrict here."
             )
 
+# ---------------------------------------------------------------------------
+# 2b) Your own course list (optional) -- courses you want sequenced, on top
+# of (or instead of) 2a. Hard-required (kind="all"). A listed course that
+# also belongs to a 2a requirement counts toward it once -- it's never
+# scheduled twice, and a collapsed elective pool uses it as one of its
+# slots instead of adding a generic placeholder on top (see
+# placeholderize_large_elective_pools' credit_keys).
+# ---------------------------------------------------------------------------
+st.header("2b) Your own course list (optional)")
+st.caption(
+    "Courses you want in the plan, on top of (or instead of) 2a. Every course here is required. "
+    "If one also counts toward a 2a requirement, it fills that requirement instead of being added twice. "
+    "2c's university-wide requirements still \"fill in\" around this list unless you turn them off."
+)
+manual_course_keys = course_list_widget(
+    "manual_course_keys",
+    "Enter a course code and press Enter (e.g. \"chem131\")",
+    "No courses added yet -- type a code above or upload a .txt file.",
+)
+use_manual_courses = bool(manual_course_keys)
+
+# Build the program-sheet rule list now that 1 (completed) and 2b (listed)
+# are both known. Order matters:
+#  1. personal requirement substitutions from section 4 (before pools are
+#     collapsed, so a substitution inside a big elective pool still lands);
+#  2. collapse big elective pools, letting completed + listed courses fill
+#     slots first (each course fills at most one pool -- shared across both
+#     majors only when double-counting is restricted);
+#  3. append the 2b list itself.
+_subs = st.session_state.get("requirement_substitutions") or []
+_removals = st.session_state.get("requirement_removals") or []
+# A removal counts as "used" if it matched in ANY rule list (sheets, 2b list, university-wide).
+_removals_matched: set[int] = set()
+
+
+def _apply_removals(rule_list):
+    new, unmatched = apply_requirement_removals(rule_list, _removals)
+    _unmatched_ids = {id(r) for r in unmatched}
+    _removals_matched.update(id(r) for r in _removals if id(r) not in _unmatched_ids)
+    return new
+
+_credit_order = sorted(completed_keys) + [k for k in manual_course_keys if k not in completed_keys]
+_shared_claims: set[str] = set()
 requirement_rules: list = []
-# Any requirement whose own real course pool is a genuinely LONG list of
-# interchangeable electives (e.g. CS-BS's ~100-course General/Track
-# Electives pools) gets rewritten into a generic placeholder here, same
-# reasoning as WAYS/COLLEGE/Writing/Language's own placeholders below --
-# see placeholderize_large_elective_pools's docstring. Real, user-reported
-# complaint this fixes: the solver was committing to one arbitrary
-# specific real course (e.g. PSYCH204A) out of dozens of equally-valid
-# alternatives for a slot like this, which reads as a firm pick rather
-# than the open choice it actually is. A small pool (e.g. CS-BS's 3-option
-# Capstone/WiM choice) is left with its real, named courses -- see this
-# function's own docstring for the size cutoff.
 for _name in selected_sheets:
+    _sheet_rules = _apply_removals(apply_requirement_substitutions(_grouped_rules.get(_name, []), _subs))
     _sheet_rules, _sheet_elective_placeholders = placeholderize_large_elective_pools(
-        _grouped_rules.get(_name, [])
+        _sheet_rules,
+        credit_keys=_credit_order,
+        claimed=_shared_claims if restricted_course_programs else set(),
     )
     if _sheet_elective_placeholders:
         courses = add_placeholder_courses(courses, _sheet_elective_placeholders)
         placeholder_courses.update(_sheet_elective_placeholders)
     requirement_rules.extend(_sheet_rules)
+if manual_course_keys:
+    requirement_rules.extend(_apply_removals(apply_requirement_substitutions([RequirementRule(
+        label=f"Your own course list -- {len(manual_course_keys)} course(s), all required",
+        kind="all",
+        courses=manual_course_keys,
+        source="Manually added by you (not derived from any program sheet or university requirement)",
+    )], _subs)))
 
 def _flat_course_keys(item) -> set[str]:
     if isinstance(item, tuple) and item and item[0] == "__and__":
@@ -521,171 +804,14 @@ with st.expander(f"Requirement rules being applied ({len(requirement_rules)})"):
             st.text(line)
 
 # ---------------------------------------------------------------------------
-# 2d. Your own course list (optional) -- for someone who already knows
-# exactly which courses satisfy their requirements and just wants this
-# app's CP-SAT sequencing (prerequisites, corequisites, time conflicts,
-# unit caps, weight preferences), not its program-sheet requirement
-# parsing. Can be used with NO program sheet selected above (a fully
-# custom plan) or layered on top of one or more selected sheets (an
-# ADDITIONAL hard-required set, on top of whatever they already require)
-# -- both are supported in the same session; which one you get is purely a
-# function of whether you also picked anything in section 2 above.
-#
-# Deliberately hard-required (kind="all"), same as any other requirement
-# in this app -- if a course you list here can't actually fit (a
-# prerequisite that can't land in time, a real time conflict, etc.), the
-# solve reports INFEASIBLE with a reason, same as any other hard
-# requirement, rather than silently dropping something you specifically
-# asked for.
-#
-# "2b. University-wide requirements" below stays fully available while
-# this is active -- it's not mutually exclusive with a custom list. Leave
-# it OFF for a fully self-contained plan where you're personally vouching
-# that your list already covers everything, or leave it ON to have the
-# solver "fill in" whatever WAYS/COLLEGE/Writing/Language courses your own
-# list doesn't already happen to satisfy, same as it would on top of any
-# program sheet.
-# ---------------------------------------------------------------------------
-st.header("2d. Your own course list (optional)")
-use_manual_courses = st.checkbox(
-    "Add specific courses yourself, on top of (or instead of) the above",
-    value=False,
-    help="Turn this on if you already know exactly which courses satisfy your "
-         "requirements and just want them sequenced -- skip program sheets "
-         "entirely for a fully custom plan, or select some in section 2 above "
-         "AND add more here. Every course you add here is hard-required, same "
-         "as a real degree requirement.",
-)
-if use_manual_courses:
-    st.caption(
-        "\"2b. University-wide requirements\" below still applies if you leave it "
-        "checked -- it'll \"fill in\" with additional courses for whatever WAYS/"
-        "COLLEGE/Writing/Language requirements your own list doesn't already cover. "
-        "Uncheck it there if your list is meant to be fully self-contained."
-    )
-    if "manual_course_keys" not in st.session_state:
-        st.session_state.manual_course_keys = []
-    if "manual_course_gen" not in st.session_state:
-        st.session_state.manual_course_gen = 0
-
-    _mgen = st.session_state.manual_course_gen
-    _code_input = st.text_input(
-        "Enter the exact course code and press Enter (e.g. \"chem131\")",
-        key=f"manual_course_code_{_mgen}",
-        help="Case-insensitive, spaces ignored -- 'chem 131' and 'CHEM131' both work. "
-             "This is a single request, not the two-step search-then-pick before: type "
-             "the code you already know and hit Enter.",
-    )
-    if _code_input.strip():
-        _code = _code_input.strip().upper().replace(" ", "")
-        if _code in courses and not is_placeholder_key(_code):
-            if _code not in st.session_state.manual_course_keys:
-                st.session_state.manual_course_keys.append(_code)
-            st.session_state.manual_course_gen += 1
-            st.rerun()
-        else:
-            st.error(f"{_code!r} isn't a course in the current snapshot -- check the code and try again.")
-            # "Did you mean" suggestions for a likely typo -- difflib is
-            # stdlib (no new dependency) and, benchmarked directly against
-            # the real ~15,000-course snapshot, resolves in ~15-20ms per
-            # lookup (e.g. "CHEM31C" -> CHEM31S/E/B/A), imperceptible for a
-            # one-shot action that only runs on this rare not-found path
-            # (never per-keystroke) -- confirmed fast enough to be worth
-            # keeping rather than skipped as "clunky/laggy."  cutoff=0.6
-            # means nothing shows at all for a query too dissimilar from
-            # any real code to be a plausible typo, rather than forcing a
-            # bad guess.
-            _real_keys = [k for k in courses if not is_placeholder_key(k)]
-            _suggestions = difflib.get_close_matches(_code, _real_keys, n=5, cutoff=0.6)
-            if _suggestions:
-                st.caption("Did you mean:")
-                _cols = st.columns(len(_suggestions))
-                for _col, _sugg in zip(_cols, _suggestions):
-                    with _col:
-                        if st.button(_sugg, key=f"manual_course_suggest_{_mgen}_{_sugg}", help=courses[_sugg].title):
-                            if _sugg not in st.session_state.manual_course_keys:
-                                st.session_state.manual_course_keys.append(_sugg)
-                            st.session_state.manual_course_gen += 1
-                            st.rerun()
-
-    st.markdown("**Or upload a list:** a `.txt` file with one course code per line.")
-    _uploaded_course_list = st.file_uploader(
-        "Upload a .txt file",
-        type=["txt"],
-        key=f"manual_course_upload_{_mgen}",
-        help="One course code per line -- case-insensitive, spaces ignored, "
-             "same normalization as the box above (e.g. 'chem 131' and "
-             "'CHEM131' both work). Blank lines are skipped. Lines that "
-             "aren't a real course code in the current snapshot are "
-             "reported below, not silently dropped.",
-    )
-    if _uploaded_course_list is not None:
-        _file_text = _uploaded_course_list.getvalue().decode("utf-8", errors="replace")
-        _file_added: list[str] = []
-        _file_not_found: list[str] = []
-        for _raw_line in _file_text.splitlines():
-            _line_code = _raw_line.strip().upper().replace(" ", "")
-            if not _line_code:
-                continue  # skip blank lines
-            if _line_code in courses and not is_placeholder_key(_line_code):
-                if _line_code not in st.session_state.manual_course_keys:
-                    st.session_state.manual_course_keys.append(_line_code)
-                    _file_added.append(_line_code)
-            else:
-                _file_not_found.append(_line_code)
-        if _file_added:
-            st.success(f"Added {len(_file_added)} course(s) from the file: {', '.join(_file_added)}")
-        if _file_not_found:
-            st.error(
-                f"{len(_file_not_found)} line(s) from the file weren't found in the "
-                f"current snapshot -- check for typos: {', '.join(_file_not_found)}"
-            )
-            _real_keys = [k for k in courses if not is_placeholder_key(k)]
-            for _bad in _file_not_found:
-                _suggestions = difflib.get_close_matches(_bad, _real_keys, n=3, cutoff=0.6)
-                if _suggestions:
-                    st.caption(f"Did you mean, for {_bad!r}: {', '.join(_suggestions)}")
-        if not _file_added and not _file_not_found:
-            st.caption("That file didn't have any non-blank lines to read.")
-        if _file_added and not _file_not_found:
-            # Clean run (everything in the file resolved) -- bump the
-            # generation counter so the uploader resets for a fresh upload
-            # next time, same reset pattern as the single-code text box
-            # above. Left attached (no rerun) whenever there's anything to
-            # review, so the success/error/suggestion messages above stay
-            # visible instead of vanishing the instant they'd be useful.
-            st.session_state.manual_course_gen += 1
-            st.rerun()
-
-    manual_course_keys: list[str] = list(st.session_state.manual_course_keys)
-    if manual_course_keys:
-        st.subheader(f"Your course list ({len(manual_course_keys)})")
-        for _i, _key in enumerate(manual_course_keys):
-            _c = courses.get(_key)
-            _title = _c.title if _c else "(not in current snapshot)"
-            _cols = st.columns([6, 1])
-            _cols[0].write(f"**{_key}** -- {_title}")
-            if _cols[1].button("Remove", key=f"manual_course_remove_{_i}"):
-                st.session_state.manual_course_keys.pop(_i)
-                st.rerun()
-        requirement_rules.append(RequirementRule(
-            label=f"Your own course list -- {len(manual_course_keys)} course(s), all required",
-            kind="all",
-            courses=manual_course_keys,
-            source="Manually added by you (not derived from any program sheet or university requirement)",
-        ))
-    else:
-        st.caption("No courses added yet -- type a code above or upload a .txt file.")
-
-# ---------------------------------------------------------------------------
-# 3b. University-wide requirements (WAYS, COLLEGE, Writing, Language) -- see
+# 2c) University-wide requirements (WAYS, COLLEGE, Writing, Language) -- see
 # engine/university_requirements.py's module docstring for exactly what's
 # covered and what's deliberately left out (units/GPA/residency/pass-fail,
 # double-major/coterm interactions). Applies ON TOP of whatever program
 # sheet(s) were selected above, same rule-list contract.
 # ---------------------------------------------------------------------------
-st.header("2b. University-wide requirements")
-# Freely toggleable regardless of "2d. Your own course list" -- the two
+st.header("2c) University-wide requirements")
+# Freely toggleable regardless of "2b) Your own course list" -- the two
 # are additive, not mutually exclusive. With a manual list active, leaving
 # this checked means the solver "fills in" whatever WAYS/COLLEGE/Writing/
 # Language courses your own list doesn't already happen to satisfy (a
@@ -693,21 +819,22 @@ st.header("2b. University-wide requirements")
 # same double-counting-aware credit as anywhere else in this app); leaving
 # it unchecked means your list is treated as fully self-contained and
 # university requirements aren't checked at all. Previously this was
-# force-disabled whenever "2d" was active, on the assumption that a custom
+# force-disabled whenever the custom list was active, on the assumption that a custom
 # list meant taking on full responsibility for every requirement yourself
 # -- changed after user feedback that a custom list is often built to
 # cover major-specific requirements only, with university-wide ones still
 # meant to be auto-filled same as usual.
-include_university_reqs = st.checkbox(
+include_university_reqs = sticky(
+    st.checkbox,
     "Include Stanford's university-wide requirements (WAYS, COLLEGE, Writing, Language)",
-    value=True,
+    key="include_university_reqs", default_arg="value", default=True,
     help=(
-        "On top of whatever program sheet(s) and/or your own course list (section 2d) "
+        "On top of whatever program sheet(s) and/or your own course list (section 2b) "
         "you're using. Units/GPA/residency/pass-fail aren't modeled as solver "
         "constraints -- see the informational 180-unit check after generating a "
         "schedule instead."
         + (
-            " With \"2d. Your own course list\" active, this \"fills in\" extra "
+            " With \"2b) Your own course list\" active, this \"fills in\" extra "
             "courses for whatever WAYS/COLLEGE/Writing/Language requirements your "
             "list doesn't already cover, rather than requiring your list to cover "
             "everything itself."
@@ -719,24 +846,36 @@ university_rules: list = []
 if include_university_reqs:
     ucol1, ucol2 = st.columns(2)
     with ucol1:
-        admit_fall_year = st.number_input(
+        admit_fall_year = sticky(
+            st.number_input,
             "Admit year (fall you started/will start)",
-            min_value=2020, max_value=2035, value=2026,
+            min_value=2020, max_value=2035, key="admit_fall_year", default_arg="value", default=2025,
             help="Selects the 2-quarter (through 2026-2027) vs. 3-quarter (Fall 2027+, "
                  "best-guess) COLLEGE policy.",
         )
     with ucol2:
-        language_quarters_needed = st.number_input(
-            "Quarters of language requirement still needed",
-            min_value=0, max_value=6, value=0,
-            help="Not tied to real course data -- depends on your placement test/AP "
-                 "credit, which this tool has no data source for. Enter how many "
-                 "quarters you still owe; it's modeled as a generic placeholder "
-                 "course repeated that many times. Replace with your real language "
-                 "course(s) before trusting the schedule.",
-        )
+        if test_credit_fulfills_language:
+            # The equivalency chart says these exams fulfill the university
+            # language requirement outright (1b's test credit entry).
+            language_quarters_needed = 0
+            st.success(
+                "Language requirement fulfilled by your test credit ("
+                + ", ".join(f"{r.board} {r.subject} {r.score}" for r in test_credit_fulfills_language)
+                + ")."
+            )
+        else:
+            language_quarters_needed = sticky(
+                st.number_input,
+                "Quarters of language requirement still needed",
+                min_value=0, max_value=6, key="language_quarters_needed", default_arg="value", default=0,
+                help="Not tied to real course data -- depends on your placement test, which "
+                     "this tool has no data source for (a qualifying language exam entered in "
+                     "1b fulfills it automatically). Enter how many quarters you still owe; "
+                     "it's modeled as a generic placeholder course repeated that many times. "
+                     "Replace with your real language course(s) before trusting the schedule.",
+            )
     # Every course already required by a program sheet or your own manual
-    # list (section 2d), so WAYS/COLLEGE/Writing can credit one of THOSE
+    # list (section 2b), so WAYS/COLLEGE/Writing can credit one of THOSE
     # too, not just courses already on your transcript -- a real bug
     # otherwise: a manually-added CHEM131 (real WAYS tags AQR + SMA) was
     # still forcing 11 separate, generic WAYS placeholder quarters on top,
@@ -751,6 +890,7 @@ if include_university_reqs:
         completed_keys=completed_keys,
         other_required_keys=_other_required_keys,
     )
+    university_rules = _apply_removals(university_rules)
     if university_placeholders:
         courses = add_placeholder_courses(courses, university_placeholders)
         placeholder_courses.update(university_placeholders)
@@ -809,7 +949,7 @@ if placeholder_courses:
 # starting table -- an empty weight table is a completely valid choice
 # (the solver just satisfies requirements with no scheduling preference).
 # ---------------------------------------------------------------------------
-st.header("3. Weight table (tweak these)")
+st.header("3) Weight table (optional)")
 st.caption(
     "Optional: nudge the solver's preferences among otherwise-equally-valid schedules. "
     "Add as many or as few as you want -- weight magnitudes well above 1 are recommended, "
@@ -912,7 +1052,7 @@ weight_rules: list[WeightRule] = [
 ]
 
 # ---------------------------------------------------------------------------
-# 3b. Small changes (natural language) -- the "natural-language override
+# 4) Add rules (natural language) -- the "natural-language override
 # box" the README's "Stubbed" section flagged as a natural next step. Each
 # request is parsed IMMEDIATELY (so the log below fills in right away),
 # but parsing alone never re-solves anything -- it only appends to
@@ -922,7 +1062,7 @@ weight_rules: list[WeightRule] = [
 # triggers a solve, so any number of requests can queue up here first,
 # exactly like editing the weight table above doesn't auto-generate either.
 # ---------------------------------------------------------------------------
-st.header("3b. Small changes (describe them in plain English)")
+st.header("4) Add rules (describe them in plain English)")
 st.caption(
     "Examples: \"CS107 is also offered in Spring\", \"waive the CHEM101 prerequisite for "
     "me, I have AP credit\", \"I'd rather have morning classes\". Each request is parsed "
@@ -937,13 +1077,16 @@ if "nl_change_gen" not in st.session_state:
     st.session_state.nl_change_gen = 0
 
 _nl_gen = st.session_state.nl_change_gen
-_nl_sentence = st.text_input("Describe a change", key=f"nl_change_input_{_nl_gen}")
-if st.button("Add change", key=f"nl_change_btn_{_nl_gen}"):
+_nl_sentence = st.text_input("Describe a rule", key=f"nl_change_input_{_nl_gen}")
+if st.button("Add rule", key=f"nl_change_btn_{_nl_gen}"):
     if not _nl_sentence.strip():
         st.warning("Type something first.")
     else:
         with st.spinner("Interpreting..."):
-            _result = parse_change_request(_nl_sentence, known_course_keys=set(courses.keys()), courses=courses)
+            _result = parse_change_request(
+                _nl_sentence, known_course_keys=set(courses.keys()), courses=courses,
+                rule_labels=all_rule_labels(requirement_rules),
+            )
         st.session_state.nl_change_log.append({
             "sentence": _nl_sentence,
             "change_type": _result.change_type,
@@ -957,34 +1100,62 @@ if st.button("Add change", key=f"nl_change_btn_{_nl_gen}"):
             st.session_state.weight_rows.append(
                 {"type": wr.type, "args": wr.args, "weight": wr.weight, "label": wr.label}
             )
+        elif _result.change_type == "requirement_substitution" and _result.requirement_substitution is not None:
+            st.session_state.requirement_substitutions.append(_result.requirement_substitution)
+        elif _result.change_type == "quarter_restriction" and _result.quarter_restriction is not None:
+            st.session_state.quarter_restrictions.append(_result.quarter_restriction)
+        elif _result.change_type == "requirement_removal" and _result.requirement_removal is not None:
+            st.session_state.requirement_removals.append(_result.requirement_removal)
+        elif _result.change_type == "course_grouping" and _result.course_grouping is not None:
+            st.session_state.course_groupings.append(_result.course_grouping)
         st.session_state.nl_change_gen += 1
         st.rerun()
 
+for _rm in _removals:
+    if id(_rm) not in _removals_matched:
+        st.warning(
+            f"Waiver for {_rm.course_key or repr(_rm.rule_label)} doesn't match anything required in your "
+            "current plan (2a/2b/2c), so it has no effect right now. A course is only waived where it's "
+            "required outright -- not where it's one option in an elective list."
+        )
+
 if st.session_state.nl_change_log:
-    st.subheader("Change log")
+    st.subheader("Rules added")
     for _entry in reversed(st.session_state.nl_change_log):
         if _entry["change_type"] == "course_override":
             st.success(f"**\"{_entry['sentence']}\"** -- {_entry['summary']} (course correction, this session only)")
         elif _entry["change_type"] == "weight_rule":
             st.success(f"**\"{_entry['sentence']}\"** -- {_entry['summary']} (added as a weight rule above)")
+        elif _entry["change_type"] == "requirement_substitution":
+            st.success(f"**\"{_entry['sentence']}\"** -- {_entry['summary']} (requirement substitution, this session only)")
+        elif _entry["change_type"] == "quarter_restriction":
+            st.success(f"**\"{_entry['sentence']}\"** -- {_entry['summary']} (hard quarter restriction, this session only)")
+        elif _entry["change_type"] == "requirement_removal":
+            st.success(f"**\"{_entry['sentence']}\"** -- {_entry['summary']} (requirement waived, this session only)")
+        elif _entry["change_type"] == "course_grouping":
+            st.success(f"**\"{_entry['sentence']}\"** -- {_entry['summary']} (hard same-period rule, this session only)")
         else:
             st.warning(f"**\"{_entry['sentence']}\"** -- not applied: {_entry['error'] or 'unrecognized request'}")
 
 # ---------------------------------------------------------------------------
-# 5. Planning horizon + generate
+# 5) Planning horizon + generate
 # ---------------------------------------------------------------------------
-st.header("4. Generate")
+st.header("5) Generate")
 col1, col2, col3, col4 = st.columns(4)
 with col1:
-    start_year = st.text_input("Starting catalog year (next quarter to plan)", value="2026-2027")
+    start_year = sticky(st.text_input, "Starting catalog year (next quarter to plan)", key="start_year",
+                        default_arg="value", default="2026-2027")
 with col2:
-    num_quarters = st.number_input("Quarters to plan ahead", min_value=1, max_value=16, value=8)
+    num_quarters = sticky(st.number_input, "Quarters to plan ahead", min_value=1, max_value=16,
+                          key="num_quarters", default_arg="value", default=8)
 with col3:
-    unit_cap = st.number_input("Max units per quarter", min_value=1, max_value=30, value=18)
+    unit_cap = sticky(st.number_input, "Max units per quarter", min_value=1, max_value=30,
+                      key="unit_cap", default_arg="value", default=18)
 with col4:
-    years_completed_at_start = st.number_input(
+    years_completed_at_start = sticky(
+        st.number_input,
         "Full years already completed",
-        min_value=0, max_value=6, value=0,
+        min_value=0, max_value=6, key="years_completed_at_start", default_arg="value", default=0,
         help="How many full academic years you've already finished as of the quarter "
              "above -- 0 if you're starting fresh as a freshman, 1 if this plan starts "
              "sophomore year, etc. Only affects a small, hand-curated list of courses "
@@ -1016,12 +1187,26 @@ def build_quarter_list(start_year: str, start_season: str, n: int) -> list[str]:
     return quarters
 
 
-start_season = st.selectbox("Starting season", SEASON_ROTATION, index=1)
+start_season = sticky(st.selectbox, "Starting season", options=list(SEASON_ROTATION), key="start_season",
+                      default_arg="index", default=1)
 quarter_list = build_quarter_list(start_year, start_season, int(num_quarters))
 st.caption("Planning horizon: " + ", ".join(quarter_list))
 
+def _settings_fingerprint() -> str:
+    """Everything that feeds the solver, hashed -- used to tell whether the
+    schedule on screen is still current."""
+    import hashlib
+    blob = repr((
+        requirement_rules, weight_rules, sorted(completed_keys), list(quarter_list), float(unit_cap),
+        int(years_completed_at_start), st.session_state.session_overrides,
+        st.session_state.quarter_restrictions, sorted(restricted_course_programs.items()),
+        st.session_state.course_groupings,
+    ))
+    return hashlib.md5(blob.encode()).hexdigest()
+
+
 if st.button("Generate schedule", type="primary"):
-    # Manually-added courses (section 2d) skip their OWN prerequisite
+    # Manually-added courses (section 2b) skip their OWN prerequisite
     # enforcement -- someone typing in "the entire CHEM-BS" already has a
     # specific set of quarters in mind for it, often on top of years
     # already completed (e.g. "I've finished freshman year, just plan the
@@ -1030,8 +1215,8 @@ if st.button("Generate schedule", type="primary"):
     # Only skips prereqs FOR these courses themselves -- one of them can
     # still be enforced as someone else's prerequisite as normal. Read from
     # session_state directly (not the local `manual_course_keys` variable
-    # from section 2d, which only exists in that branch's scope) so this is
-    # correct whether or not "2d" is the active section on this run.
+    # from section 2b, which only exists in that branch's scope) so this is
+    # correct whether or not 2b has anything in it on this run.
     _manual_keys_for_prereq_skip = (
         set(st.session_state.get("manual_course_keys", [])) if use_manual_courses else set()
     )
@@ -1052,6 +1237,22 @@ if st.button("Generate schedule", type="primary"):
     _class_year_exclusions["PLACEHOLDER:WR2"] = post_sophomore_quarter_indices(
         quarter_list, years_completed_at_horizon_start=int(years_completed_at_start)
     )
+    # Personal, this-session-only HARD quarter pins from the NL change box
+    # (e.g. "enforce CHEM171 in sophomore spring, no compromises") -- see
+    # models.QuarterRestriction's own docstring for the real bug this
+    # fixes (the NL box previously had no way to express an absolute
+    # class-year+season target at all, and silently misused terms_offered
+    # instead, which can't pin a specific year). Each restriction excludes
+    # every quarter except its one real target -- if the horizon never
+    # actually reaches that class year/season, this correctly surfaces as
+    # INFEASIBLE rather than quietly picking the closest quarter instead.
+    for _qr in st.session_state.quarter_restrictions:
+        _class_year_exclusions[_qr.course_key] = exact_quarter_match_exclusions(
+            quarter_list,
+            years_completed_at_horizon_start=int(years_completed_at_start),
+            target_class_year=_qr.class_year,
+            target_season=_qr.season,
+        )
     with st.spinner("Solving..."):
         result = build_and_solve(
             courses=courses,
@@ -1064,6 +1265,39 @@ if st.button("Generate schedule", type="primary"):
             restricted_course_programs=restricted_course_programs,
             assume_prereqs_satisfied_for=_manual_keys_for_prereq_skip,
             course_quarter_exclusions=_class_year_exclusions,
+            same_period_groups=[(g.course_keys, g.scope) for g in st.session_state.course_groupings],
+        )
+
+    st.session_state.last_schedule = {
+        "result": result,
+        "fingerprint": _settings_fingerprint(),
+        "quarter_list": list(quarter_list),
+        "courses": courses,
+        "graduation_unit_target": graduation_unit_target,
+        "completed_rows": list(completed_rows),
+        "ap_credits": list(ap_credits),
+        "treat_in_progress_as_done": treat_in_progress_as_done,
+        "extra_completed_units": manual_completed_units + manual_test_units,
+    }
+
+# The latest schedule is kept in session state and re-drawn on every rerun,
+# so adding a rule in section 4 (or anything else that reruns the page)
+# doesn't wipe it. If settings changed since it was made, say so instead of
+# silently showing a stale plan as if it were current.
+_last = st.session_state.get("last_schedule")
+if _last is not None:
+    result = _last["result"]
+    quarter_list = _last["quarter_list"]
+    courses = _last["courses"]
+    graduation_unit_target = _last["graduation_unit_target"]
+    completed_rows = _last["completed_rows"]
+    ap_credits = _last["ap_credits"]
+    treat_in_progress_as_done = _last["treat_in_progress_as_done"]
+    _extra_completed_units = _last["extra_completed_units"]
+    if _last["fingerprint"] != _settings_fingerprint():
+        st.info(
+            "Your settings or rules changed since this schedule was generated -- it's the previous "
+            "result. Click \"Generate schedule\" to apply the changes."
         )
 
     if result.status not in ("OPTIMAL", "FEASIBLE"):
@@ -1213,6 +1447,7 @@ if st.button("Generate schedule", type="primary"):
         completed_units = (
             sum(c.units_attempted for c in _finished_rows)
             + sum(a.units for a in ap_credits)
+            + _extra_completed_units  # 1b: manual completed courses + test credit, de-duplicated
         )
         scheduled_units = sum(
             courses[key].units_typical for key, _q in _scheduled_occurrences() if key in courses
@@ -1220,7 +1455,7 @@ if st.button("Generate schedule", type="primary"):
         _counted_in_progress_units = in_progress_units if treat_in_progress_as_done else 0.0
         total_units = completed_units + _counted_in_progress_units + scheduled_units
         _breakdown = (
-            f"{completed_units:.0f} earned/AP"
+            f"{completed_units:.0f} earned/test credit"
             + (f" + {_counted_in_progress_units:.0f} in progress" if _counted_in_progress_units else "")
             + f" + {scheduled_units:.0f} scheduled"
         )

@@ -74,6 +74,25 @@ from .models import RequirementRule, PLACEHOLDER_PREFIX
 # skipped wherever it's found (see _parse_course_slots and
 # parse_one_item), with a warning so it's never silent.
 _BARE_ID_RE = re.compile(r"^\d{5,8}$")
+# Same root artifact as the bare numeric id above, different visible shape:
+# some inline course-reference links in the raw bulletin page render with
+# the literal anchor text "course" (singular) rather than the real course
+# code, so the cached text ends up with "course" sitting alone on its own
+# line wherever that link was. Confirmed in TWO real, unrelated majors'
+# cached samples -- not a one-off: CHEM-BS's "Lab Course Requirement" note
+# ("Students entering the program above / course / must take the short
+# course / course / Chemical Laboratory and Safety Skills...", see
+# manual_fix_chem_bs.py) and CS-BS's Capstone section's trailing note
+# ("Independent study projects ( / course / Senior Project or / course /
+# Writing Intensive Senior Project) require faculty sponsorship...").
+# Without this, the SAME real bug _BARE_ID_RE already fixed for numeric
+# ids recurs here: "Independent study projects (" reads as a short,
+# punctuation-free line (see _looks_like_a_label), so the trailing-prose
+# swallow in _parse_leaf stops right before it instead of past it, and the
+# rest of that sentence becomes a brand new phantom top-level rule with no
+# real course list. Treated identically to a bare numeric id everywhere
+# else in this module (skipped, never a label, never a course-slot entry).
+_BARE_COURSE_WORD_RE = re.compile(r"^courses?$", re.IGNORECASE)
 
 COURSE_LINE_RE = re.compile(r"^([A-Z][A-Z&]{1,9}\d[A-Z0-9]*)\s*-\s*(.+)$")
 OR_ALT_RE = re.compile(r"^OR\s+([A-Z][A-Z&]{1,9}\d[A-Z0-9]*)\s*-\s*(.+)$")
@@ -205,11 +224,27 @@ def _looks_like_a_label(line: str) -> bool:
         return True  # e.g. "Electives (choose two ... per area):" -- always a label/lead-in
     if line.endswith((".", "!", "?")):
         return False  # sentence-final punctuation -- prose
+    if line.endswith("("):
+        # An open parenthesis with nothing after it is mid-sentence prose
+        # whose parenthetical got split across cached lines (usually by a
+        # collapsed inline course-reference link -- see
+        # _BARE_COURSE_WORD_RE's own comment for the matching artifact
+        # that follows one of these), never a real section label -- no
+        # real bulletin label is written to trail off on an open paren.
+        # Confirmed genuinely common, not a one-off: this exact shape
+        # shows up in 20+ real cached majors' samples (AFRAM-BA, BIO-BS,
+        # CS-BS, CS-MS, COMMU-MA, ...), always as a sentence fragment.
+        # Without this, _parse_leaf's trailing-prose swallow loop stops
+        # one line too early, and the rest of the sentence becomes a
+        # brand new phantom top-level rule with no real course list --
+        # confirmed directly for CS-BS's Capstone section ("Independent
+        # study projects (").
+        return False
     return len(line) <= 70
 
 
 def _classify(line: str) -> str:
-    if _BARE_ID_RE.match(line):
+    if _BARE_ID_RE.match(line) or _BARE_COURSE_WORD_RE.match(line):
         return "unresolved_id"
     if WRAPPER_ALL_RE.match(line):
         return "wrapper_all"
@@ -403,7 +438,31 @@ class _Parser:
     def _parse_wrapped_list(self, combine: str) -> list[RequirementRule]:
         """Parse named sub-items joined by AND (if combine=='all') or OR
         (if combine=='at_least_n'), stopping when the expected connector
-        no longer appears."""
+        no longer appears.
+
+        A MISMATCHED connector (e.g. this list expects OR but the next
+        bare line is AND) stops the list WITHOUT consuming that line --
+        confirmed, real bug fixed here: this used to warn and then consume
+        it anyway, treating the next named block as one more alternative
+        of THIS (inner) list. Real case this broke: CS-BS's Computational
+        Biology Subplan nests "Biology or Humbio Sequence" (an inner
+        "Fulfill ANY" choice between two named alternatives, expecting OR)
+        inside the subplan's outer "Fulfill ALL" sequence (Mathematics AND
+        Biology-or-Humbio AND Engineering Fundamentals AND Depth,
+        expecting AND). The bare "AND" that actually continues the OUTER
+        sequence was getting consumed by the INNER list's OR-loop instead,
+        which then tried to parse "Engineering Fundamentals" as a third
+        OR-alternative to "Biology Sequence"/"Humbio Sequence" -- silently
+        corrupting both: the inner choice gained a bogus third option, and
+        the outer sequence lost "Engineering Fundamentals" entirely. Same
+        root cause confirmed in CS-BS's Computer Engineering Subplan
+        ("Required Elective Options" OR "B. Robotics and Mechatronics
+        Concentration", inverse direction) and Information Subplan (Area
+        IV's trailing AND). Leaving the mismatched connector unconsumed
+        means it's still sitting at self.pos for whichever OUTER
+        _parse_wrapped_list call actually expects it -- the normal
+        recursive-descent "let the right level consume it" behavior,
+        restored here instead of guessed around."""
         sub_rules = []
         expect_connector = "AND" if combine == "all" else "OR"
         while True:
@@ -414,7 +473,11 @@ class _Parser:
             if self.peek() is not None and CONNECTOR_RE.match(self.peek()):
                 conn = self.peek()
                 if conn != expect_connector:
-                    self.warn(f"expected {expect_connector} connector, saw {conn} after {item.label!r}")
+                    self.warn(
+                        f"expected {expect_connector} connector, saw {conn} after "
+                        f"{item.label!r} -- treating as the end of this list, not consuming it"
+                    )
+                    break
                 self.advance()
                 continue
             break

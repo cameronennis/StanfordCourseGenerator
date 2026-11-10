@@ -141,6 +141,101 @@ class CourseOverride:
 
 
 @dataclass
+class RequirementSubstitution:
+    """A personal, this-session-only fact: `substitute_key` should count
+    anywhere `required_key` is required, as an additional OR-alternative
+    for that exact slot -- e.g. "let CHEM141 count in place of CHEM181,
+    it's planned in next year's version of the chemistry major."
+
+    Deliberately NOT routed through the NL box's "program-level curriculum
+    change, beyond scope" bucket, which is where a real user report showed
+    this kind of request getting rejected -- confirmed this is actually
+    the SAME shape as a prerequisite waiver (CourseOverride's
+    prerequisite_courses field already lets a student say "waive this for
+    me personally"), just applied to a degree requirement's course list
+    instead of a prerequisite list. Still a personal, session-only
+    adjustment the student is choosing for themselves, not an edit to the
+    shared program-sheet data -- parallel to CourseOverride in every way
+    except WHICH tree it patches (the requirement_rules tree app.py builds
+    for this solve, not the Course dict), so it couldn't reuse
+    CourseOverride's `field`/`value` shape directly. Applied by
+    engine.requirements.apply_requirement_substitutions() right before
+    solving: every occurrence of `required_key` as a bare list item
+    anywhere in the requirement tree gets replaced with an OR-alternative
+    tuple of (required_key, substitute_key), so either one now satisfies
+    that slot -- the same alternatives-at-one-slot shape RequirementRule
+    already uses everywhere (e.g. "CS107 OR CS107E")."""
+    required_key: str
+    substitute_key: str
+    note: str = ""
+
+
+@dataclass
+class QuarterRestriction:
+    """A personal, this-session-only HARD constraint pinning one specific
+    course to one specific (class year, season) target -- e.g. "CHEM171
+    must land in Sophomore Spring, no compromises."
+
+    Deliberately NOT a CourseOverride: a CourseOverride mutates a fact
+    about the COURSE itself (e.g. its real terms_offered), which is
+    useless here -- a real, confirmed user-reported bug was the NL box
+    mapping "enforce X in sophomore spring" onto terms_offered, which only
+    restricts which SEASONS a course could ever run in, with no concept of
+    an absolute class year at all. A course already offered every Spring
+    can still land in ANY Spring (freshman, junior, senior...) under a
+    terms_offered restriction -- it does nothing to pin the specific year.
+    Also deliberately NOT a WeightRule: this is a hard "no compromises"
+    fact the student stated directly, not a nice-to-have preference the
+    solver can trade off against other objective terms.
+
+    `class_year` is 0=Freshman, 1=Sophomore, 2=Junior, 3=Senior -- the same
+    convention as years_completed_at_horizon_start/years_completed_by_qi
+    everywhere else in this codebase (course_data.py's
+    class_year_quarter_exclusions, post_sophomore_quarter_indices, ...).
+    `season` is one of QUARTER_NAMES. Resolved into a real hard
+    course_quarter_exclusions entry at solve time (see app.py and
+    course_data.exact_quarter_match_exclusions) -- excluding every quarter
+    that ISN'T the one real (class_year, season) match in the horizon, so
+    CP-SAT has exactly one legal placement left for this course, same
+    "real fact, not a preference" treatment as KNOWN_CLASS_YEAR_MIN."""
+    course_key: str
+    class_year: int
+    season: str
+    note: str = ""
+
+
+@dataclass
+class RequirementRemoval:
+    """A personal, this-session-only waiver: the student says a requirement
+    doesn't apply to them (e.g. "remove the CS221 requirement"). The tool
+    trusts them -- they know their own exceptions/petitions.
+
+    Exactly one of:
+      - `course_key`: every REQUIRED slot for that course (an item of an
+        "all" list, including an OR-slot it's one option of) is dropped.
+        Pools where it's merely one elective option are left alone --
+        waiving a requirement isn't the same as banning a course.
+      - `rule_label`: the whole requirement with that label (any depth) is
+        marked satisfied.
+    Applied by requirements.apply_requirement_removals()."""
+    course_key: str = ""
+    rule_label: str = ""
+    note: str = ""
+
+
+@dataclass
+class CourseGrouping:
+    """A personal hard constraint that 2+ courses land in the same academic
+    year (scope="year") or the same quarter (scope="quarter") -- e.g.
+    "CHINLANG2 and CHINLANG3 must be in the same year". Only constrains
+    courses that actually get scheduled; enforced in solver.py via its
+    `same_period_groups` parameter."""
+    course_keys: list[str] = field(default_factory=list)
+    scope: str = "year"
+    note: str = ""
+
+
+@dataclass
 class RequirementRule:
     """One node in a (possibly nested) degree-requirement tree.
 
