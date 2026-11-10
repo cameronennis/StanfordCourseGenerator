@@ -12,14 +12,15 @@ against a weighted preference table, starting from an uploaded transcript.
 ## Setup
 
 - `pip install -r requirements.txt`
-- Optional: set `ANTHROPIC_API_KEY` in the environment (only needed for the
-  natural-language change box; everything else works without it)
+- Optional: set `ANTHROPIC_API_KEY` in the environment via `export ANTHROPIC_API_KEY=your-key-here`
+  or create a .env in the project root, `Stanford Course Generator/`, and enter `ANTHROPIC_API_KEY=your-key-here`
+  (only needed for the natural-language change box; everything else works without it)
 
 ## Run
 
-- `streamlit run app.py`
+- `streamlit run app.py` in `scheduler/`
 - Opens a local page (usually `localhost:8501`): upload transcript, pick
-  program sheets, edit the weight table, generate
+  program sheets, edit the weight table, make natural language edits, generate
 
 ## Refreshing course data
 
